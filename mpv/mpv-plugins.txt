@@ -1,0 +1,10 @@
+https://github.com/TheAMM/mpv_thumbnail_script
+https://github.com/jonniek/mpv-playlistmanager
+https://raw.githubusercontent.com/vayan/autosub-mpv/master/autosub.lua
+# Youtube
+https://github.com/Samillion/mpv-ytdlautoformat
+https://github.com/cvzi/mpv-youtube-download
+https://github.com/jgreco/mpv-youtube-quality
+https://github.com/cvzi/mpv-youtube-upnext
+https://github.com/4e6/mpv-reload/
+https://github.com/po5/mpv_sponsorblock

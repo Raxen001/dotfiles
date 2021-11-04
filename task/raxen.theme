@@ -1,0 +1,117 @@
+
+################################################################################
+#
+# Copyright 2006 - 2021, Paul Beckingham, Federico Hernandez.
+#
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+#
+# The above copyright notice and this permission notice shall be included
+# in all copies or substantial portions of the Software.
+#
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+# OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+# THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+#
+# https://www.opensource.org/licenses/mit-license.php
+#
+###############################################################################
+
+# Colors used are based on the Solarized palette created by Ethan Schoonover
+# <http://ethanschoonover.com/solarized>
+#
+# This theme was designed to work with a terminal application that is using a
+# Solarized "Dark" color theme, otherwise colors will look odd. Solarized
+# includes themes for iTerm2, OSX Terminal.app, and Xresources. Others are also
+# available, i.e.:
+#
+#   Gnome Terminal <https://github.com/sigurdga/gnome-terminal-colors-solarized>
+#
+# Colors 0 through 15 in this theme are based on the 16 color positions defined
+# in the Xresources file distributed with the Solarized color palette.  Some
+# of the colors used are "named" in order to use the bold feature.  The color
+# "name" is based on the color's original name as the terminal understands it.
+#
+# Taskwarrior solarized-dark-256 theme created by Stefan A. Keel.
+
+rule.precedence.color=deleted,completed,active,keyword.,tag.,project.,overdue,scheduled,due.today,due,blocked,blocking,recurring,tagged,uda.
+
+# vim: set ft=cfg
+# General decoration
+color.label             =   color1 on color0
+color.label.sort        =   color2 on color0 
+color.alternate         =   color3 on color0
+color.header            =   color4 on color0 
+color.footnote          =   color5 on color0 
+color.warning           =   color6 on color0 
+color.error             =   color7 on color0 
+color.debug             =   color8 on color0 
+
+# Task state
+color.completed         =   color9 on color0
+color.deleted           =   color10 on color0
+color.active            =   color11 on color0
+color.recurring         =   color12 on color0
+color.scheduled         =   color13 on color0
+color.until             =   color14 on color0
+color.blocked           =   color15 on color0
+color.blocking          =   color0 on color15
+
+# Project
+color.project.none      =   color0 on color14
+
+# Priority
+color.uda.priority.H    =   color0 on color13
+color.uda.priority.M    =   color0 on color12
+color.uda.priority.L    =   color0 on color11
+
+# Tags
+color.tag.next          =   color0 on color10
+color.tag.none          =   color0 on color9
+color.tagged            =   color0 on color8
+
+# Due
+color.due               =   color0 on color7
+color.due.today         =   color0 on color6
+color.overdue           =   color0 on color5
+
+# Report: burndown
+color.burndown.done     =   color0 on color4
+color.burndown.pending  =   color0 on color3
+color.burndown.started  =   color0 on color2
+
+# Report: history
+color.history.add       =   color0 on color1
+color.history.delete    =   color1 on color0
+color.history.done      =   color2 on color0
+
+# Report: summary
+color.summary.background=   color3 on color0
+color.summary.bar       =   color4 on color0
+
+# Command: calendar
+color.calendar.due      =   color5 on color0
+color.calendar.due.today=   color6 on color0
+color.calendar.holiday  =   color7 on color0
+color.calendar.overdue  =   color8 on color0
+color.calendar.today    =   color9 on color0
+color.calendar.weekend  =   color10 on color0
+color.calendar.weeknumber=  color11 on color0
+
+# Command: sync
+color.sync.added        =   color12 on color0
+color.sync.changed      =   color13 on color0
+color.sync.rejected     =   color14 on color0
+
+# Command: undo
+color.undo.after        =   color15 on color0
+color.undo.before       =   color0 on color1
+

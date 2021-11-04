@@ -1,0 +1,1161 @@
+cp -r \[Pajeet\]\ Holyland holyland
+cd holyland
+ls
+unzip *
+la
+unzip Holyland\ -\ Volume_*
+ls
+unzip Holyland\ -\ Volume_01.cbz
+ls
+for i in *;\
+do\
+unzip "$i"\
+done
+ls
+n
+pulsemixer
+alsamixer
+sou
+cd dwm-6.2
+vi config.def.h
+ins
+vi config.def.h
+ins
+vi config.def.h
+ins
+vi config.def.h
+ins
+vi config.def.h
+ins
+vi config.def.h
+ins
+vi config.def.h
+ins
+vi dwm.c
+vi config.def.h
+rg numlock
+ls
+vi config.def.h
+ins
+vi config.def.h
+ins
+vi config.def.h
+ins
+vi config.def.h
+ins
+vi config.def.h
+ins
+vi config.def.h
+vi config.def.h
+ins
+sou
+cd dwm-6.2
+vi dwm.c
+vi dwm.c
+rg numlock
+vi config.def.h
+ins
+vi config.def.h
+ins
+xev
+xev
+sou
+cd dwm-6.2
+vi config.def.h
+ins
+vi config.def.h
+ins
+vi config.def.h
+ins
+sou
+cd dwm-6.2
+vi dwm.c
+sou
+cd dwm-6.2/w
+cd dwm-6.2
+ins
+vi config.def.h
+ins
+vi config.def.h
+ins
+\:q
+sou
+cd dwm-6.2
+vi config.def.h
+vi dwm.c
+ls
+rg KP
+ls
+vi dwm.c
+cd /usr/include
+ls
+rg KP
+rg KP _4
+rg "KP_*"
+rg "KP_4"
+vi X11/keysymdef.h
+sou
+cd dwm-6.2
+ins
+cd .config/mpv
+ls
+cd script-opts
+ls
+cd ..
+ls
+cd scripts
+ls
+vi sponsorblock.lua
+paru -Suy --noconfirm
+sudo protonvpn c
+sudo protonvpn d
+prime-run yuzu
+prime-run yuzu
+n
+sxiv -rb Vol.*
+paru -Ss preload
+cd /etc/
+sudoedit hosts
+sudoedit resolv.conf
+nvtop
+paru -Suy --noconfirm
+pacman -Ss iins
+pacman -Ss iinsa
+pacman -Ss iina
+paru -Ss iina
+paru -Ss iina
+sou
+dot
+cd nvim
+vi init.vim
+cp norc.vim ~/.config/nvim/
+ls
+cd .config/nvim
+vi startify.vim
+vi telescope.vim
+vi which-keys.vim
+ls
+vi norc.vim
+dot
+cd nvim
+vi init.vim
+cd .config/nvim
+ls
+vi configs.vim
+vi init.vim
+vi
+vi init.vim
+vim
+vim configs.vim
+vi init.vim
+vi configs.vim
+vi init.vim
+novim   init.vim
+vi
+ls
+vi init.vim
+vi configs.vim
+vi init.vim
+vi configs.vim
+ls
+vi init.vim
+vi
+vi init.vim
+vi
+vi
+ls
+vi init.vim
+ls
+vi
+nvim init.vim
+vi configs.vim
+vi
+vi configs.vim
+nvim
+ls
+vi configs.vim
+vi
+exit
+vi
+iv
+vi
+vi
+vi
+i
+vi
+vi
+ls
+cd .config/nvim
+vi init.vim
+vi
+vi
+vi
+vi
+vi
+vi
+cd .config/nvim
+vi configs.vim
+vi nvim-cmp.lua
+vi init.vim
+nvim
+vi init.vim
+vi
+vi nvim-cmp.lua
+vi init.vim
+vi
+nvim init.vim
+vi nvim-cmp.lua
+vi
+vi
+vi nvim-cmp.lua
+vi
+vi
+vi nvim-cmp.lua
+vi
+cd Code/C
+ls
+cd Learning/array
+ls
+nvim main.c
+vi main.c
+cd Code/Rust
+ls
+cd Learning/guess_game
+ls
+vi src/main.rs
+n
+cd
+ls
+cd .config/nvim
+ls
+vi nvim-cmp.lua
+cd Code/C/Learning/
+cd array
+ls
+vi main.c
+n
+n
+cd .config/nvim
+ls
+vi init.vim
+rm a.py
+vi
+vi nvim-cmp.lua
+vi init.vim
+vi
+vi configs.vim
+n
+vi startup.html
+cd .config/nvim
+ls
+vi a.py
+vi nvim-cmp.lua
+vi
+ls
+cd .config/nvim
+ls
+vi  nvim-cmp.lua
+vi nvim-cmp.lua
+vi
+cd
+vi a.html
+n
+cd
+cd .config/nvim
+ls
+ls
+vi nvim-cmp.lua
+nvim nvim-cmp.lua
+cd .config/nvim
+ls
+vi init.vim
+vi init.vim
+vi
+vi
+vi
+n
+vi startup.html
+vi a.c
+vi startup.html
+vi
+vi
+exit
+vi
+ong
+ls
+cd reddit_downloader
+ls
+vi reddit.py
+vi reddit.py
+c
+cd
+cd .config/nvim
+ls
+vi nvim-cmp.lua
+vi
+n
+cd 
+n
+nvim
+n
+cd
+cd .config
+ls
+cd nvim
+ls
+ls
+vi configs.vim
+vi
+cd .config/nvim
+vi configs.vim
+vi
+nvim
+st
+cd .config/nvim
+ls
+vi configs.vim
+nvim nvim-cmp.lua
+nvim
+nvim
+cd .config/nvi
+cd .config/nvim
+ls
+vi nvim-cmp.lua
+cd .config/nvim
+ls
+vi configs.vim
+vi nvim-cmp.lua -
+vi nvim-cmp.lua 
+ong
+vi reddit_downloader
+cd .config/nvim
+vi configs.vim
+exit
+paru -Suy --noconfirm
+systemd-analyze
+la
+rm .ICEauthority .rnd .pki .wget-hsts -rf
+xprop
+killall firefox
+killall firefox
+xprop
+killall firefox
+firefox
+paru -Suy --noconfirm
+killall slstatus
+killall alacritty
+sudo protonvpn c
+sudo protonvpn d
+sudo protonvpn d
+sudo protonvpn c
+sudo protonvpn d
+mplayer
+sudo pacman -S flac
+sudo pacman -S mplayer
+mplayer
+n
+paru -Runs mplayer
+paru -Run mplayer
+paru -Qqd
+paru -Qqdt
+notify-send asdf
+dunstctl
+dunstctl --help
+dunstctl xev
+xev
+sou
+cd dwm-6.2
+vi config.def.h
+ins
+notify-send asdf
+dunst
+killall dunst
+dunst
+dunst
+vainfo
+paru -Ss amd top
+htop
+pacman -Ss phantom
+pacman -Ss kvantum
+pacman -Ss kvantum
+pacman -Ss theme engine
+la
+nvim
+nvim
+sou
+cd st-0.8.4
+vi config.def.h
+ins
+ls
+nvim
+sou
+cd st-0.8.4
+vi config.def.h
+ins
+nvim
+ls
+nvim
+cd .config/nvim
+ls
+vi configs.vim
+sudo pacman -Ss look
+sudo pacman -S look
+paru -Ss look
+paru -S look
+cd .config/nvim
+ls
+vi nvim-cmp.lua
+vi
+n
+vi startup.html
+exit
+sudo   protonvpn 
+sudo protonvpn c
+sudo protonvpn d
+nvi
+vi
+cd .config/mpv
+vi input.conf d
+cd .config/nvim/plugged/cmp-nvim-lsp
+ls
+cd lua
+ls
+cd cmp_nvim_lsp
+ls
+vi source.lua
+rg keyword_length
+rg keyword
+ls
+vi source.lua
+n
+rg keyword_length\\
+
+rg keyword_length
+cd plugged/nvim-cmp/lua/cmp/config/
+vi default.lua
+sou
+cd dwm-6.2
+vi config.def.h
+ins
+nvtop
+nvidia-smi
+n
+n
+ytd
+cd .config/nnn/plugins
+ls
+vi fzopen
+vi fzopen
+man sk
+sk
+pacman -Ss sk
+sudo pacman -S sk
+sou
+cd nnn
+ls
+vi Makefile
+ins
+sudo make clean install
+vi Makefile
+sudo make clean install
+cd .config/nnn/plugins
+vi fzopen
+cd /tmp
+git clone "https://github.com/jarun/nnn/tree/master/plugins"
+git clone "https://github.com/jarun/nnn/"
+cd nnn
+ls
+vi Makefile
+sudo make clean install
+cd ../src
+ls
+cd src
+vi nnn.c.rej nnn.c -p
+cd ..
+sudo make clean install
+n
+cd /tmp
+rm -rf nnn
+sou
+cd nnn
+sudo make clean install
+sou
+cd nnn
+vi Makefile
+ins
+sudo make clean install
+nnn -f
+nnn -F
+nnn -F 1
+nnn -F 1
+cd .config/nnn/plugins
+vi nuke
+man nohup
+nn
+nnn
+cd .config/nnn/plugins
+vi nuke
+ls
+vi fzopen
+nnn
+cd .config/nnn/
+vi fzop
+cd plugins
+vi fzopen
+paru -S sk
+fd
+cd .config/nvim
+ls
+vi nvim-cmp.lua
+vi
+dot
+ls
+rm -rf nvim
+mv ~/.config/nvim .
+dot
+cd nvim
+ls
+vi nvim-cmp.lua
+nvim
+cd .config/
+ls
+ls
+mkdir nvim
+âƒ½±  git clone https://github.com/Shadorain/shadovim ~/.config/nvim\
+âƒ½±  cd ~/.config/nvim/\
+âƒ½±  chmod +x ./setup\
+âƒ½±  ./setup\
+
+git clone https://github.com/Shadorain/shadovim ~/.config/nvim\
+
+cd nvim
+chmod +x ./setup
+./setup
+ls
+nvim
+ls
+cd Code/Python/Ongoing/reddit_downloader
+nvim reddit.py reddit.py
+nvim reddit.py
+man find
+tldr find
+cd .config/nvim
+ls
+cd plugged/cmp-nvim-lsp
+ls
+n
+cd ~/.config/nvim
+ls
+find . -iname -f f cmp_calc
+find . -iname -F f cmp_calc
+find . -iname -d f cmp_calc
+find . -iname -type f cmp_calc
+find . -type f -iname cmp_calc
+find . -type f -iname cmp
+find . -type f -iname .
+find . -type f -iname *
+find . -type f -iname "*"
+find . -type f -iname "cal"
+rg cmp_calc
+nvim
+cd .config/nvim/
+vi configs.vim
+vi nvim-cmp.lua
+vi
+cd .local/share
+ls
+cd nvim
+ls
+cd site
+ls
+cd autoload
+ls
+cd ..
+ls
+cd pack
+ls
+cd ..
+cmatrix
+neofetch
+neofetch
+neofetch
+cd .config
+rm -rf nvim
+ln -s ~/.local/configs/dotfiles/nvim .
+cd nv
+cd nvim
+ls
+vi nvim-cmp.lua
+nvim
+vi
+cd .config/nvim
+vi nvim-cmp.lua
+ls
+vi nvim-cmp.lua
+cd
+cd .local
+ls
+cd share/nvim
+ls
+n
+cd .config/nvim
+vi configs.vim
+vi nvim-cmp.lua
+vi
+cd .config/nvim
+ls
+vi n
+vi nvim-cmp.lua
+nvim
+cd .config/nvim
+vi   init.vim
+la
+nvim
+vi
+vi
+n
+vi reddit.py
+n
+vi
+cd .config/nvim
+vi nvim-cmp.lua
+vi nvim-cmp.lua
+vi
+novim
+cd .config/nvim
+vi init.vim
+vi
+vi init.vim
+vi
+vi nvim-cmp.lua
+vnim
+nvim
+cd .local/share
+ls
+cd nvim
+l
+ls
+n
+rm -rf .vim
+cd .local/share
+ls
+rm -rf lunarvim
+cd nvim
+ls
+ls
+lvim
+ls
+cd ..
+rm -rf nvim
+nvim
+nvim
+paru -Ss vim plug
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \\
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim\
+
+vi
+vi
+sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \\
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'\
+
+vi
+vi
+vi
+vi
+vi
+vi
+vi
+cd
+cd .config/nvim
+ls
+vi nvim-cmp.lua
+vi
+vi
+ls
+vi configs.vim
+nviim
+vi
+vi nvim-cmp.lua
+ls
+vi init.vim
+vi
+exit
+vi
+cd .config/nvim
+vi nvim-cmp.lua
+ vi init.vim
+vi
+vi init.vim
+vi init.vim
+novim init.vim
+vi
+vi
+cd .local/share/nvim
+ls
+cd site
+ls
+n
+vi site
+cd
+cd .config/nvim
+vi nvim-cmp.lua
+vi
+vi plugged
+ls
+cd plugged
+ls
+rm -rf *
+cd ..
+vi 
+vi
+vi 
+paru -Suy --noconfirm
+paru -Runs neovim
+sudo pacman -S neovim
+nvim
+cd .config/nvim
+ls
+vi nvim-cmp.lua
+vi
+cd .local/configs/dotfiles/nvim
+ls
+vi init.vim
+novim -u norc.vim
+cd .config
+ls
+rm nvim
+mkdir nvim
+cd nvim
+ls
+la
+ls
+vi init.vim
+vi
+vi
+vi
+ls
+vi init.vim
+vi
+vi 
+vi init.vim
+vi
+ls
+vi  init.vim 
+rm -rf plugged
+vi
+vi a.py
+vi init.vim
+vi a.py
+la
+cd ..
+rm -rf nvim
+cd
+lvim
+pacman -Ss neovim plug
+pacman -Ss vim plug
+pacman -Ss pyright
+sudo pacman -S pyright
+cd .local
+ls
+cd share
+ls
+rm -rf nvim
+cd 
+cd .config
+nvim
+sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \\
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'\
+
+nvim
+cd nvim
+l
+mkdir nvim
+cd nvim
+vi init.vim
+vi
+dot
+cd nvim
+ls
+vi configs.vim
+cd .config/nvim
+ls
+vi init.vim
+dot
+cd nvim
+ls
+vi nvim-cmp.lua
+not
+cd pe
+cd NOTES
+ls
+cd ..
+ls
+cd Task
+ls
+cd ..
+ls
+ls
+cd linux
+ls
+cd ..
+ls
+cd UwU
+ls
+vi shows
+vi hot
+vi books
+vi crush
+la
+n
+mv WoW WoW.txt
+pass reddit/Raxengamer001 | qr
+pass raxen001@tutamail.com/discord
+pass raxen001@tutamail.com/discord | qr
+pass email/raxen001@tutamail.com | qr 
+pass email/raxen001@tutamail.com
+pass raxen001@tutamail.com/discord
+pass email/raxen001@tutamail.com
+pass email/raxen001@tutamail.com | qr
+not
+ls
+cd board
+ls
+vi project_ideas.md
+vi TO-WATCH.md
+vi ongoing
+vi life_goals
+n
+not
+ls
+cd UwU
+ls
+vi games
+vi childhood_games.md
+systemd-analyze
+paru -Si mpd
+paru -
+paru -Si lutris
+pass email/zumrikushi@gmail.com | qr
+pass email/zumrikushi@gmail.com | qrencode -t UTF8
+pass email/zumrikushi@gmail.com | qrencode -t UTF8
+pass email/raxengamer001@gmail.com | qrencode -t UTF8
+pass email/raxengamer001@gmail.com | qrencode -t UTF8
+pass email/raxengamer001@gmail.com 
+pass email/raxengamer001@gmail.com | qrencode -t UTF8
+pass email/raxen001@tutamail.com | qrencode -t UTF8
+pass email/zumrikushi@gmail.com | qr
+pass email/raxengamer001@gmail.com | qr
+pass email/raxen001@tutamail.com | qr
+pass email/raxen001@tutamail.com | qr
+newsboat -x rss.xml
+man newsboat
+newsboat -e rss.xml
+man newsboat
+newsboat --ee rss.xml
+newsboat -e rss.opml
+newsboat -e
+newsboat -e > rss.opml
+cat rss.opml
+gpg --export-secret-keys -a keyid > my_private_key.asc
+gpg --export -a keyid > my_public_key.asc
+ls
+cat my_p
+cat my_private_key.asc
+cat my_public_key.asc
+ls
+rm my_private_key.asc my_public_key.asc
+ls
+rm newpipe-subscriptions-2021-10-23.json rss.opml
+gpg --export -a zumrikushi@gmail.com > MY_PUblic_key.asc
+ls
+cat MY_PUblic_key.asc
+gpg --export-secret-keys -a zumrikushi@gmail.com > my_private_key.asc
+ls
+paru -Suy --noconfirm
+la
+vi .vim-bookmarks
+rm .vim-bookmarks
+rm .wget-hsts .pki/ .mplayer -rf
+ls
+la
+nvim
+cd .config/nvim
+ls
+vi init.vim
+cd .config
+ls
+rm -rf nvim
+ln -s ~/.local/configs/dotfiles/nvim .
+nvim
+cd
+cd .config/nvim
+ls
+vi init.vim
+vim
+vi
+cd .local/share/nvim
+ls
+la
+ping google.com
+nmtui
+nmtui
+vi feeder-export-2021-10-24T15_48_51.610
+rm feeder-export-2021-10-24T15_48_51.610
+vi feeder-export-2021-10-24T15_49_52.924
+exit
+alsamixer
+scr
+ls
+./paru-database.sh
+paru -Qqm
+man newsboat
+paru -Suy --noconfirm
+paru -Suy
+paru -Runs libzim 
+paru -Suy
+paru -Suy --overwrite="*"
+paru -Suy
+sudo pacman -S libzim6
+paru -Suy
+paru -Runs kiwix-desktop kiwix-lib
+paru -Suy --noconfirm
+mpv "https://youtu.be/KqqaByFt9Cg"
+pacman -Ss edge
+paru -Ss edge browser
+paru -Ss unityx
+paru -Ss komiku
+paru -Ss komikku
+paru -Ss manga reader
+bootctl status
+man newsboat
+youtube-dl --extactors-description
+man youtube-dl
+man yt-dlp
+paru -Ss floatplane
+cd Downloads
+ls
+chmod +x float-linux
+./float-linux
+la
+rm float-linux
+n
+paru -Ss unraid
+paru -Ss raid
+vi
+cd .config/nvim
+ls
+vi nvim-cmp.lua
+vi
+vi nvim-cmp.lua
+vi
+vi nvim-cmp.lua 
+vi nvim-cmp.lua
+vi
+ls
+nvim nvim-cmp.lua
+man newsboat
+pacman -Ss manga
+paru -Ss manga
+paru -Si mangodl
+paru -S mangodl --noconfirm
+cd Downloads
+ls
+mangodl 
+mangodl -S clover
+mangodl -S Clover (Tetsuhiro Hirakawa)
+mangodl -S "Clover (Tetsuhiro Hirakawa)"
+mangodl
+mangodl -nD "Clover (Tetsuhiro Hirakawa)"
+mangodl -n -D "Clover (Tetsuhiro Hirakawa)"
+paru -Runs mangodl
+paru -Si manga 
+paru -Ss manga 
+paru -Si mangatux-git
+paru -Si tachidesk
+paru -Ss tachidesk
+paru -S tachidesk-jui --noconfirm
+tachidesk-jui
+paru -Si tachidesk
+paru -Ss manga
+paru -Runs tachidesk-jui
+paru -S tachidesk
+paru -S tachidesk --noconfirm
+tachidesk-jui
+tachidesk
+tachidesk-electron
+paru -Runs tachidesk
+paru -Si qmanga-git
+man newsboat
+paru -Ss manga reader
+paru -S qmanga-git --noconfirm
+paru -S qmanga-git --noconfirm
+qmanga
+paru -Runs qmanga-git
+paru -Ss manga online
+paru -S komikku
+paru -S komikku --noconfirm
+paru -S komikku --noconfirm --overwrite="*"
+paru -Runs komikku
+pacman -Ss bdfr
+paru -Ss bdfr
+paru -Ss clementine
+cd .config
+n
+nvim
+paru -Ss my anime
+paru -Ss anilist
+sudo protonvpn c
+calcurse
+lad
+man
+man man
+cd .config/alacritty
+ls
+vi example.yml
+man 
+man ctrl+s
+man s
+la
+cat config.json
+rm config.json
+vi alacritty.recording
+man alacritty
+alacritty --ref-test
+man alacritty
+alacritty --ref-test
+la
+rm alacritty.recording config.json
+rm -rf .ffbinaries-cache .java .pki .skiko
+cat size.json
+rm size.json grid.json
+la
+lasdf
+la
+alacritty --ref-test
+la
+la
+rm alacritty.recording config.json grid.json size.json
+not
+la
+cd linux
+ls
+la
+alsamixer
+pulsemixer
+cd .mozilla/firefox/3nut2ra5.default-release/
+ls
+rm prefs.js
+rm prefs.js
+vi
+vi
+cd .config/nvim
+ls
+vi nvim-cmp.lua
+vi
+vi nvim-cmp.lua
+vi
+vi nvim-cmp.lua
+vi
+nvim
+cd .config/nvim
+ls
+vi nvim-cmp.lua
+n
+nvim
+vi
+cd .config/nvim
+ls
+vi nvim-cmp.lua
+vi
+vi nvim-cmp.lua
+sl
+ls
+vi configs.vim
+vi
+ls
+vi configs.vim
+vi nvim-cmp.lua
+scr
+vi animation_wallpaper.sh
+vi animation_wallpaper.sh
+la
+vi
+xinput -lsit
+xinput list
+cd .config/nvim
+ls
+vi nvim-cmp.lua
+vi init.vim
+vi
+vi
+scr
+vi animation_wallpaper.sh
+vi
+cd
+cd .config/nvim
+vi nvim-cmp.lua
+vi
+cd .config/nvim
+ls
+vi nvim-cmp.lua
+vi nvim-cmp.lua
+vi
+vi
+ran
+ytd
+paru -Suy --noconfirm
+uname -r
+paru -Siuy
+paru -Suy
+paru -Ss ungoogled
+pacman -Ss comic
+xdg-mime default org.pwmt.zathura.desktop application/pdf
+sudo pacman -Ss zathura
+pacman -Ss vaapi
+pacman -Ss vdapi
+cd /tmp
+ls
+rm -rf my_mpv_thumbnails
+nvtop
+cd /tmp
+rm -rf my_mpv_thumbnails
+nvtop
+nvidia-smi
+htop
+htop
+sudo pacman -S vdpauinfo
+vdpa
+vdpauinfo
+sudo pacman -Ss gstreamer
+cd /tmp
+rm -rf my_mpv_thumbnails
+nvidia-smi
+nvtop
+htop
+pacman -Ss nvidia
+pacman -Ss pannel
+paru -Ss latte
+paru -Ss latte pannel
+paru -Ss latte panel
+paru -Ss latte pa
+paru -Ss latte dock
+pacman -Ss dock
+paru -Ss valva
+paru -Ss apnnel
+paru -Ss pannel
+lspci | grep VGA
+cd .config/mpv
+vi mpv
+vi mpv.conf
+dot
+ls
+n
+ncdu
+sou
+la
+cd ..
+ls
+cd personal
+ls
+cd ..
+ls

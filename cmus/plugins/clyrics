@@ -1,0 +1,438 @@
+#!/usr/bin/perl
+
+# Author : Daniel "Trizen" Șuteu
+# License: GPLv3
+# Created: 12 February 2013
+# Updated: 02 September 2019
+# Wesbite: http://github.com/trizen/clyrics
+
+# An extensible lyrics fetcher, with daemon support for cmus and mocp.
+
+# Contributors:
+#   https://github.com/genomorro - Edgar Uriel Domínguez Espinoza
+#   https://github.com/natezb    - Nate Bogdanowicz
+
+# clyrics works by making a query on Google with the name of a given song,
+# which can also include the artist name. The search is restricted only to
+# the websites specified in the plugin files. A user, familiar with regular
+# expressions and a little bit of Perl, can add more plugins for various other
+# lyrics websites, using the general structure found in the provided plugins.
+
+# We are planning on switching to DuckDuckGo in the future.
+
+use utf8;
+use 5.010;
+use strict;
+use warnings;
+
+binmode(STDOUT, ':utf8');
+
+use WWW::Mechanize qw();
+use Encode qw(decode_utf8);
+use File::Basename qw(dirname basename);
+use HTML::Entities qw(decode_entities);
+use File::Spec::Functions qw(catdir rel2abs);
+use Getopt::Std qw(getopts);
+use Time::HiRes qw(sleep);
+
+# Name and version
+my $name    = 'clyrics';
+my $version = '0.12';
+
+# Debug mode
+my $DEBUG = 0;
+
+# Sleep duration
+my $SLEEP_SECONDS = 1;
+
+# .config directory
+my $xdg_config_home = $ENV{XDG_CONFIG_HOME}
+  || catdir($ENV{HOME} || $ENV{LOGDIR} || (getpwuid($<))[7] || `echo -n ~`, '.config');
+
+# Plugins directory
+my $plugins_dir = catdir($xdg_config_home, $name);
+
+# Check the '/usr/share/' directory
+if (not -d $plugins_dir and -e "/usr/share/$name") {
+    $plugins_dir = "/usr/share/$name";
+}
+
+my %opt;
+if ($#ARGV != -1 and chr ord $ARGV[0] eq '-') {
+    getopts('hvds:P:mcpk', \%opt);
+}
+
+# Help
+if (exists $opt{h}) {
+    output_usage();
+    exit 0;
+}
+
+# Version
+if (exists $opt{v}) {
+    output_version();
+    exit 0;
+}
+
+# Debug mode
+if (exists $opt{d}) {
+    $DEBUG = 1;
+}
+
+# Sleep duration (in seconds)
+if (exists $opt{s}) {
+    if (defined $opt{s}) {
+        if ($opt{s} > 0) {
+            $SLEEP_SECONDS = $opt{s};
+        }
+        else {
+            die "error: invalid value `$opt{s}' for option '-s'. (requires a positive integer)\n";
+        }
+    }
+    else {
+        die "error: option '-s' requires an argument!\n";
+    }
+}
+
+# Plugins directory
+if (exists $opt{P}) {
+    if (defined $opt{P}) {
+        $plugins_dir = rel2abs($opt{P});
+    }
+    else {
+        die "error: option '-P' requires an argument!\n";
+    }
+}
+
+# When the plugins directory does not exists
+if (not -d $plugins_dir) {
+    my $dirname = rel2abs(dirname(rel2abs($0)));
+    if (-d (my $dir = catdir($dirname, 'plugins'))) {
+        $plugins_dir = $dir;
+    }
+}
+
+# Finally, die:
+if (not -d $plugins_dir) {
+    die <<"ERR";
+** Directory `$plugins_dir' does not exists!
+
+In order to run `$name', please create the required directory and copy the plugin files inside it.
+
+To load the plugins from other directory, use the following '-P' option.
+
+    Example:
+        $0 -P /home/user/my_plugins
+ERR
+}
+
+# Load the plugins
+my @plugins;
+foreach my $plugin_file (glob("$plugins_dir/*.pl")) {
+    load_plugin($plugin_file, \@plugins);
+}
+
+@plugins || die "error: can't find any valid plugin in dir: $plugins_dir\n";
+
+# mocp daemon
+if (exists $opt{m}) {
+    mocp_daemon();
+}
+
+# cmus daemon
+elsif (exists $opt{c}) {
+    cmus_daemon();
+}
+
+elsif (exists $opt{p}) {
+    playerctl_daemon();
+}
+
+# song name from arguments
+else {
+    my $song_name = join(' ', @ARGV);
+    if (length($song_name)) {
+        my $lyrics = get_lyrics($song_name);
+        if (defined $lyrics) {
+            say $lyrics;
+        }
+    }
+    else {
+        output_usage();
+        exit 1;
+    }
+}
+
+sub output_usage {
+    print <<"USAGE";
+usage: $0 [options] [song name]
+
+options:
+        -m         : start as a daemon for moc player
+        -c         : start as a daemon for cmus player
+        -p         : start as a daemon for playerctl media controller
+        -k         : do not quit if player is not playing any song
+        -s <int>   : sleep duration between lyrics updates (default: $SLEEP_SECONDS)
+        -P <dir>   : plugin directory (default: $plugins_dir)
+
+        -d         : activate the debug mode
+        -v         : print version and exit
+        -h         : print this message and exit
+
+example:
+        $0 -m -s 1             # stars the mocp daemon
+        $0 eminem not afraid   # prints the lyrics of "Eminem - Not Afraid"
+USAGE
+}
+
+sub output_version {
+    print "$name $version\n";
+}
+
+sub clear_title {
+    my ($title) = @_;
+    $title = join(' ', split(' ', $title));
+    $title =~ s{\s*-\s*(\d+\s+)?}{ };
+    $title =~ s{^\d+(?>\.\s*|\s+)}{};
+    $title =~ s~(?:([<(\[{]).*?(??{$1 eq "(" ? '\)' : quotemeta(chr(ord($1) + 2)) })\s*)+$~~;
+    $title =~ s{^VA }{};
+    return $title;
+}
+
+sub not_playing {
+    my ($msg) = @_;
+
+    if (exists $opt{k}) {    # do not quit when `-k` was specified
+        return 1;
+    }
+
+    die $msg;
+}
+
+sub output_lyrics {
+    my ($title) = @_;
+
+    system('reset -Q') == 0 or print "\e[H\e[J\e[H";
+    print STDERR "** Title: <$title>\n" if $DEBUG;
+
+    my $lyrics = get_lyrics($title);
+
+    if (defined($lyrics)) {
+        say $lyrics;
+    }
+    else {
+        print STDERR "** Can't find lyrics for song <$title>\n";
+    }
+}
+
+sub daemon_loop {
+    my ($callback) = @_;
+
+    my $old_title = '';
+
+    {
+        my $title = $callback->();
+
+        $title = clear_title($title);
+        $title =~ /\S/ or do { sleep $SLEEP_SECONDS; redo };
+
+        if ($old_title ne $title) {
+            output_lyrics($title);
+        }
+
+        $old_title = $title;
+        sleep $SLEEP_SECONDS;
+        redo;
+    }
+}
+
+# MOC Player daemon
+sub mocp_daemon {
+
+    daemon_loop(
+        sub {
+            my $info = `mocp --info &>/dev/stdout`;
+            $? and die "[!] moc player is not installed!\n";
+
+            if ($info =~ /^FATAL_ERROR: The server is not running!/m) {
+                not_playing("[!] moc is not playing any song...\n");
+            }
+
+            my @song = ($info =~ /^Artist:\h+(.+)/m, $info =~ /^SongTitle:\h+(.+)/m);
+            my ($title) = join(" ", @song);
+
+            if (not $title =~ /\S/) {
+                if ($info =~ /^File:\h+(.+)/m) {
+                    my $basename = basename($1);
+                    $basename =~ s/\.\w+\z//;
+                    $title = $basename;
+                }
+            }
+
+            $title;
+        }
+    );
+}
+
+# cmus daemon
+sub cmus_daemon {
+
+    daemon_loop(
+        sub {
+            my $info = `cmus-remote -Q &>/dev/stdout`;
+            $? and die "[!] cmus player is not installed!\n";
+
+            my @title;
+            if ($info =~ /^tag artist (.+)/m) {
+                push @title, $1;
+            }
+            if ($info =~ /^tag title (.+)/m) {
+                push @title, $1;
+            }
+            else {
+                @title = ();
+                if ($info =~ /^file (.+)/m) {
+                    my $basename = basename($1);
+                    $basename =~ s{\.\w+\z}{};
+                    push @title, $basename;
+                }
+            }
+
+            @title || not_playing("[!] cmus is not playing any song...\n");
+
+            join(' ', @title);
+        }
+    );
+}
+
+# playerctl daemon
+sub playerctl_daemon {
+
+    daemon_loop(
+        sub {
+            my $info = `playerctl metadata --format '{{artist}}\n{{title}}\n{{status}}' &>/dev/stdout`;
+            $? and die "[!] playerctl is not installed!\n";
+
+            my ($artist, $title, $status) = split /\n/, $info;
+
+            if ($status ne "Playing") {
+                not_playing("[!] primary playerctl player is not playing any song...\n");
+            }
+
+            "$artist $title";
+        }
+    );
+}
+
+# Get the lyrics of a song
+sub get_lyrics {
+    my ($song_name) = @_;
+
+    $song_name = decode_utf8($song_name);
+    $song_name =~ tr/-/ /;
+    $song_name = join(' ', split(' ', $song_name));
+
+    my $mech = WWW::Mechanize->new(
+                                   show_progress => $DEBUG,
+                                   autocheck     => 0,
+                                   agent         => 'Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 '
+                                     . '(KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53',
+                                  );
+
+    state $sites = decode_utf8(join(' OR ', map { "site:$_->{site}" } @plugins));
+
+    $mech->get('https://www.google.com/');
+    $mech->submit_form(
+                       form_number => 1,
+                       fields      => {
+                                  ie => 'UTF-8',
+                                  q  => lc($song_name) . ' ' . $sites,
+                                 },
+                      );
+
+    # Fake the user-agent to a desktop browser
+    $mech->agent('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36');
+
+    foreach my $plugin (@plugins) {
+        if (defined(my $link = $mech->find_link(url_regex => qr/:\/\/(?:www\.)?\Q$plugin->{site}\E\b/i))) {
+            my $req  = $mech->get($link->url());
+            my $text = $plugin->{code}(scalar $req->decoded_content);
+
+            # Print any error encountered while decoding the HTML content
+            warn $@ if ($DEBUG and $@);
+
+            if (defined($text) and length($text) > 360) {
+                $text =~ s/^(?:\h*\R)+\h*//;    # remove leading newlines and spaces
+                return unpack 'A*', decode_entities($text);
+            }
+            else {
+                $mech->back();
+            }
+        }
+    }
+
+    return;
+}
+
+# Load a plugin and store it inside an array
+sub load_plugin {
+    my ($file, $array) = @_;
+
+    my $struct = do($file) || do {
+        warn "Can't load plugin `$file': ", ($! || $@);
+        return;
+    };
+
+    if (ref($struct) ne 'HASH') {
+        warn "Invalid plugin `$file': does not end with a HASH ref!\n";
+        return;
+    }
+
+    # This field is deprecated and will be removed in a future release.
+    if (exists($struct->{url_regex})) {
+        my $str = "$struct->{url_regex}";
+
+        if ($str =~ /^\(.*?:(?:\\b)?(.*?)(?:\\b)?\)\z/) {
+            my $site = $1;
+            $site =~ s/\\(.)/$1/g;
+            $struct->{site} = $site;
+        }
+        else {
+            warn <<"EOT";
+The <<url_regex>> field has been deprecated and will be removed in a future version of clyrics.
+
+Use the <<site>> field instead, as:
+
+    site => 'example.net',
+
+You're seeing this warning because the compatibility code failed to recover the original site,
+therefore the plugin `$file' will be ignored...
+EOT
+
+            return;
+        }
+    }
+
+    if (not exists($struct->{site})) {
+        warn "Invalid plugin `$file': the <<site>> field is not defined!\n";
+        return;
+    }
+
+    if (ref($struct->{site}) ne '' or !length($struct->{site}) or $struct->{site} !~ /\w\.\w/) {
+        warn "Invalid plugin `$file': invalid value for the <<site>> field!\n";
+        return;
+    }
+
+    if (not exists($struct->{code})) {
+        warn "Invalid plugin `$file': the <<code>> field is not defined!\n";
+        return;
+    }
+
+    if (ref($struct->{code}) ne 'CODE') {
+        warn "Invalid plugin `$file': the value for <<code>> must be an anonymous subroutine!\n";
+        return;
+    }
+
+    push @{$array}, $struct;
+    return 1;
+}

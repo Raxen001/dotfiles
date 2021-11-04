@@ -1,0 +1,656 @@
+add Music
+clear
+add Music/
+filter against
+filter eminem
+add .
+add 
+add
+add Music/Artists/
+shell 
+l
+live-filter 32
+live-filter 
+live-filter taylor
+add M
+set softvol_state=100 100
+set softvol=true
+save
+set color_win_cur_sel_fg=4
+set color_win_cur_sel_fg=yello4
+set color_win_cur_sel_fg=3
+set color_win_cur_sel_fg=orange
+set color_win_title_fg=yellow
+set color_win_title_bg=default
+set color_win_sel_fg=green
+set color_win_sel_bg=default
+set color_win_inactive_sel_fg=white
+set color_win_inactive_sel_bg=default
+colorscheme raxen-trans
+colorscheme raxen
+colorscheme gruvbox
+colorscheme gruvbox-alt
+colorscheme green-mono-88
+colorscheme gray-88
+colorscheme dracula
+colorscheme default
+colorscheme gruvbox-warm
+colorscheme zenburn
+colorscheme solarized-light
+colorscheme solarized-dark
+colorscheme night
+colorscheme jellybeans
+colorscheme green
+colorscheme cyan
+colorscheme amazon
+colorscheme xterm-white
+colorscheme 
+add Music/Playlist/
+set start_view=0
+set start_view=library
+set start_view=
+bind common S shuffle
+bind common <key> shuffle
+bind common s shuffle
+bind common <key> shuffles
+clea
+set pl_sort=true
+set softvol=false
+wq
+set format_statusline= %{status} %{?show_playback_position?%{position} %{?duration?/ %{duration} }?%{?duration?%{duration} }}- %{total} %{?bpm>0?at %{bpm} BPM }%{?volume>=0?vol: %{?lvolume!=rvolume?%{lvolume},%{rvolume} ?%{volume} }}%{?stream?buf: %{buffer} }%{?show_current_bitrate & bitrate>=0? %{bitrate} kbps }%=%{?repeat_current?repeat current?%{?play_library?%{playlist_mode} from %{?play_sorted?sorted }library?playlist}} | %1{continue}%1{follow}%1{repeat}%1{shuffle} 
+set color_win_inactive_sel_bg=12
+set color_win_inactive_sel_bg=11
+set color_win_inactive_sel_bg=9
+set color_win_inactive_sel_bg=3
+set color_win_inactive_cur_sel_bg=9
+set color_statusline_attr=1
+set color_separator=7
+set color_separator=1
+set buffer_seconds=30
+set buffer_seconds=60
+set color_win_attr=default
+set color_trackwin_album_bg=red
+set color_trackwin_album_bg=blue
+colorscheme nord-gruv
+colorscheme gems
+colorscheme screenshot
+set status_display_program=/
+set altformat_playlist=%F %= %d
+set altformat_playlist=%02F %= %d
+set altformat_playlist=%-02F %= %d
+set altformat_playlist=%-20F %= %d
+set altformat_playlist=%20F %= %d
+set altformat_playlist=%2F %= %d
+set altformat_playlist=%1F %= %d
+set altformat_playlist=%-10F %= %d
+set altformat_playlist=%-F %= %d
+set altformat_playlist=%-4F %= %d
+set altformat_playlist=%-03F %= %d
+set altformat_playlist=%10F %= %d
+set altformat_playlist=%F %! %d
+set altformat_playlist=%F %!= %d
+set altformat_playlist=%!%F %= %d
+set altformat_playlist=%F %= %d%!
+set altformat_playlist=%F %= %!%d
+set altformat_playlist="%F %= !%d"
+set altformat_playlist=%F%{} %= %d
+set altformat_playlist=%F%{?*} %= %d
+set altformat_playlist=%F%{?-*} %= %d
+set altformat_playlist="%F{?-*} %= %d"
+set altformat_playlist=%F{?-*} %= %d
+set altformat_playlist=%F{} %= %d
+set altformat_playlist=%F
+set altformat_playlist=%f%= %6{rg_track_gain} dB  %8{rg_track_peak}
+set altformat_playlist= %F %= %d
+set altformat_playlist= %F{*} %= %d
+fset 
+fset webm=filename="*.webm"
+set altformat_playlist= %f %= %d
+set altformat_playlist= %c %= %d
+set altformat_playlist= %a %= %d
+set altformat_playlist= %{filename} %= %d
+set altformat_trackwin= %F %= %d
+set altformat_trackwin= %{filename} %= %d
+set color_win_title_bg=4
+set color_win_title_bg=3
+set color_win_title_bg=2
+set color_win_title_bg=13
+set color_win_title_bg=12
+set color_win_title_bg=11
+set color_win_title_bg=
+set color_win_title_bg=10
+set color_win_title_bg=9
+set tree_width_percent=35
+set tree_width_percent=10
+set tree_width_percent=40
+set skip_track_info=0
+set skip_track_info=flase
+set skip_track_info=true
+set mouse=true
+set mpris=true
+set output_plugin=pulse
+set output_plugin=pipewire
+set output_plugin=alsa
+set color_win_inactive_sel_bg=15
+set color_win_inactive_cur_sel_bg=14
+set color_win_title_bg=5
+set color_win_title_fg=0
+set color_win_title_bg=lightye
+set color_win_sel_bg=2
+set color_win_sel_fg=0
+set color_win_sel_fg=6
+set color_win_sel_bg=3
+set color_win_inactive_sel_fg=0
+set color_win_inactive_sel_bg=1
+set color_win_inactive_cur_sel_fg=0
+set color_win_fg=7
+set color_win_fg=8
+set color_win_fg=1
+set color_win_cur_sel_fg=8
+set color_win_dir=11
+set color_win_fg=0
+set color_win_dir=14
+set color_win_cur_sel_fg=0
+set color_win_cur_sel_bg=11
+set color_win_cur=11
+set color_win_bg=0
+set color_trackwin_album_fg=0
+set color_trackwin_album_bg=1
+set color_titleline_bg=3
+set color_titleline_fg=0
+set color_titleline_bg=5
+set color_titleline_bg=4
+set color_titleline_bg=1
+set color_statusline_bg=12
+set color_statusline_bg=9
+set color_statusline_bg=yellow
+set color_statusline_bg=3
+set color_statusline_bg=2
+set color_statusline_bg=1
+set color_statusline_fg=0
+set color_statusline_attr=default
+set color_cmdline_fg=gray
+set color_cmdline_fg=7
+set color_cmdline_fg=yellow
+set color_cmdline_fg=3
+set color_cmdline_bg=blac
+set color_cmdline_fg=darkgray
+set color_info=72
+set color_cmdline_fg=8
+set color_cmdline_fg=1
+set color_cmdline_bg=0
+set color_cmdline_fg=black
+set color_cmdline_fg=0
+set color_cmdline_bg=3
+set color_cmdline_bg=default
+youtube sadf
+youtube
+source .config/cmus/color
+set altformat_title='Cmus'
+help
+help r
+help R
+help filter
+filter True
+filter true
+filter 1
+filter what
+filter 
+set mouse=False
+set mosue=true
+set mouse=on
+update-cache -f
+set color_win_bg=black
+col
+set color_win_bg=8
+set color_win_bg=1
+set color_win_bg=401
+set color_win_bg=40
+set color_win_bg=39
+set color_win_bg=38
+set color_win_bg=37
+set color_win_bg=36
+set color_win_bg=35
+set color_win_bg=34
+set color_win_bg=33
+set color_win_bg=32
+set color_win_bg=31
+set color_win_bg=30
+set color_win_bg=29
+set color_win_bg=28
+set color_win_bg=27
+set color_win_bg=26
+set color_win_bg=25
+set color_win_bg=24
+set color_win_bg=23
+set color_win_bg=22
+set color_win_bg=21
+set color_win_bg=20
+set color_win_bg=19
+set color_win_bg=18
+set color_win_bg=17
+set color_win_bg=16
+set color_win_bg=15
+set color_win_bg=14
+set color_win_bg=13
+set color_win_bg=12
+set color_win_bg=11
+set color_win_bg=10
+set color_win_bg=brown
+set color_win_bg=darkgray
+set status_display_program=/home/raxen/.config/cmus/plugins/cmus_notify.sh
+set status_display_program=pluginviewer
+!tmux
+set color_win_sel_bg=240
+set color_win_sel_bg=255
+set color_win_sel_bg=259
+set color_win_sel_bg=1
+set color_win_sel_bg=gray
+set color_win_sel_bg=darkgray
+set color_win_cur_sel_bg=darkgray
+set color_win_cur_sel_bg=lightgray
+set color_win_cur_sel_bg=gray
+set color_win_cur_sel_bg=black
+set color_win_cur_sel_fg=green
+set color_win_cur_sel_bg=red
+set color_win_bg=gray
+set color_win_cur=6
+set color_win_cur=orange
+set color_win_cur=oragne
+set color_win_cur=yellow
+set color_win_cur=1
+set status_display_program=true
+set skip_track_info=false
+set skip_track_info=ture
+set color_win_title_fg=green
+set color_win_title_fg=cyan
+set color_win_title_fg=lightcyan
+set color_win_title_bg=darkgray
+set color_win_title_bg=darkdray
+set color_win_sel_bg=black
+set color_win_sel_bg=8
+set color_win_sel_fg=yellow
+set color_win_sel_bg=7
+set color_win_sel_bg=15
+set color_win_sel_bg=yellow
+set color_win_cur_sel_fg=lightyellow
+set color_win_inactive_cur_sel_bg=black
+set color_win_inactive_cur_sel_attr
+set color_win_inactive_cur_sel_fg=11
+set color_win_inactive_sel_fg=3
+set color_win_inactive_sel_attr=white
+set color_win_cur_sel_fg=white
+set color_win_cur_sel_bg=240
+set color_win_inactive_sel_bg=239
+set color_win_inactive_sel_bg=red
+set color_win_inactive_sel_bg=240
+set color_win_inactive_cur_sel_fg=238
+set color_win_inactive_cur_sel_bg=102
+set color_win_inactive_cur_sel_fg=94
+live-fi
+set color_win_inactive_cur_sel_fg=red
+set color_win_inactive_cur_sel_attr=red
+set color_win_fg=white
+set color_win_dir=white
+set color_win_cur_sel_fg=237
+set color_win_cur_sel_bg=237
+set color_win_cur_sel_bg=58
+set color_win_cur=230
+set color_win_cur=red
+set color_win_bg=60
+set color_trackwin_album_fg=white
+set color_trackwin_album_bg=60
+set color_trackwin_album_bg=
+set color_trackwin_album_attr=bold
+set color_trackwin_album_attr=italic
+set color_titleline_bg=240
+set color_titleline_bg=242
+set color_titleline_bg=249
+set color_titleline_bg=252
+set color_titleline_bg=253
+set color_titleline_bg=254
+set color_titleline_bg=255
+set color_titleline_bg=19
+set color_titleline_bg=98
+set color_titleline_fg=b
+set color_titleline_fg=balck
+set color_titleline_fg=white
+set color_titleline_bg=95
+set color_titleline_bg=60
+set color_titleline_bg=58
+set color_titleline_bg=gray
+set color_titleline_bg=wihte
+set color_titleline_bg=black
+set color_titleline_attr=defau
+set color_statusline_fg=white
+set color_statusline_bg=8
+set color_statusline_bg=7
+set color_statusline_bg=blue
+set color_separator=16
+set color_separator=
+set color_separator=black
+set color_separator=blue
+set color_separator=red
+set color_info=whit
+set color_info=white
+set color_error=red
+set color_cmdline_fg=white
+set color_cmdline_fg=9
+set color_cmdline_bg=236
+set color_cmdline_bg=19
+set color_cmdline_bg=13
+set color_cmdline_bg=18
+set color_cmdline_bg=blue
+set color_cmdline_bg=red
+set color_cmdline_bg=black
+set color_win_cur_sel_fg=1
+set color_win_cur_sel_bg=lightblue
+set color_win_cur=3
+set color_win_cur=2
+set color_win_bg=2
+set color_win_bg=9
+set color_win_bg=lighgrey
+set color_win_bg=lightgray
+set color_win_bg=lightre8
+set color_win_bg=7
+set color_win_bg=6
+set color_win_bg=5
+set color_win_bg=4
+set color_win_bg=3
+set color_win_bg=blue
+set color_win_
+set color_win_bg=default
+co
+set color_trackwin_album_bg=black
+set color_cmdline_attr=black
+set color_win_title_bg=200
+set color_win_title_bg=gray
+set color_win_title_bg=grey
+set color_win_title_bg=blue
+set color_win_title_bg=black
+set color_win_title_bg=210
+set color_win_cur=232
+set color_win_cur=blue
+set color_cmdline_fg=103
+set color_cmdline_fg=99
+set color_cmdline_fg=236
+set color_cmdline_fg=214
+set color_cmdline_fg=213
+set color_cmdline_fg=212
+set color_cmdline_fg=211
+set color_cmdline_fg=210
+set color_cmdline_fg=219
+set color_cmdline_fg=209
+set color_cmdline_fg=208
+set color_cmdline_fg=206
+set color_cmdline_fg=205
+set color_cmdline_fg=204
+set color_cmdline_fg=203
+set color_cmdline_fg=202
+set color_cmdline_fg=201
+set color_cmdline_fg=200
+set color_cmdline_fg=255
+set color_cmdline_fg=2220
+set color_cmdline_fg=230
+set color_cmdline_fg=232
+set color_cmdline_fg=237
+set color_cmdline_fg237
+set color_cmdline_fg=33
+set color_cmdline_fg=22
+set color_cmdline_fg=201\
+set color_cmdline_fg=101
+set color_cmdline_fg=100
+set color_cmdline_fg=10
+set color_cmdline_fg=magenta
+set color_cmdline_fg=blue
+set color_cmdline_fg=1o
+set color_cmdline_fg=11
+set color_cmdline_fg=23
+set color_cmdline_bg=235
+bind -f common ^R toggle repeat_current
+pl-create r
+pl-expor
+delete
+clc
+clear Random
+set color_win_bg=255
+set color_win_bg=200
+set color_win_bg=100
+refresh
+set status_display_program=false
+set display_artist_sort_name=false
+set status_display_program=/home/raxen/.config/cmus/cmus-cover-art/observe.sh
+pl-create GAME_OST
+add ../Evermore/
+add *
+q
+live-filter K
+bind -f common C toggle continue
+set mouse=false
+set start_view=2
+set start_view=3
+view 6
+view tree
+view 1
+set start_view=list
+set start_view
+set show_hidden
+pl-create Bad Ass Songs!
+pl-create Riverdale
+pl-create Lofi hip hop
+pl-create 
+pl-create Random
+pl-create  Unique
+d
+clear U
+add code/
+set altformat_playlist= %F = %d
+refresh 
+rename agrophobic
+set altformat_trackwin= %F = %d
+set altformat_title=%F
+set altformat_playlist= %F%= %d
+set altformat_playlist= %f%= %d
+set altformat_trackwin= %f= %d
+set altformat_trackwin= %f= %D
+set altformat_playlist= %f%= %F
+set altformat_trackwin= %f= %F
+set tr
+set altformat_trackwin= %f
+set altformat_trackwin= %f%= 
+set format_current=%a - %l -%3n. %t%= %y 
+set format_current= %a - %l -%3n. %t%= %y 
+set format_current= %l -%3n. %t%= %y 
+1
+fset mp4=filename="*.mp4"
+fset mkv=filename="*.mkv"
+fset mkv=filename=
+fset mp3=filename="*.mp3"
+f
+echo $%a
+echo $a
+printf %a
+echo %a
+%a
+set set_term_title=true
+set set_term_title=false
+set show_hidden=false
+set show_current_bitrate=true
+pl-create Unique
+pl-add Unique
+fset classical=genre="Classical"
+bind -f common l win-next
+bind -f browser backspace browser-up
+pl-create unlike
+bind -f common l win-activate
+bind -f browser h browser-up
+bind -f browser backspace br
+add ~/Music/
+set color_win_fg=default
+set color_win_cur_sel_attr=white
+set color_win_cur_attr=white
+set color_win_cur_attr=1
+set color_win_bg=white
+set color_win_cur=black
+set color_win_cur=
+set color_win_cur_attr=red
+set color_win_bg=green
+set color_win_attr=red
+set color_win_inactive_sel_bg=144
+set color_win_dir=red
+set color_win_cur_sel_fg=black
+set color_win_cur_sel_bg=27
+set color_titleline_bg=233
+set color_titleline_bg=123
+set color_titleline_bg=1234
+set color_titleline_bg=13
+set color_titleline_bg=122
+set color_titleline_bg=100
+set color_titleline_bg=200
+set color_titleline_bg=250
+set color_titleline_bg=155
+set color_titleline_fg=255
+set color_titleline_fg=black255
+set color_titleline_bg=33
+set color_statusline_fg=255
+set color_statusline_fg=250
+set color_statusline_fg=245
+set color_statusline_fg=240
+set color_statusline_fg=204
+set color_statusline_fg=203
+set color_statusline_fg=202
+set color_statusline_fg=201
+set color_statusline_fg=200
+set color_statusline_fg=190
+set color_statusline_fg=180
+set color_statusline_fg=170
+set color_statusline_fg=160
+set color_statusline_fg=150
+set color_statusline_fg=140
+set color_statusline_fg=100
+set color_statusline_fg=001
+set color_statusline_fg=123
+set color_statusline_fg=12
+set color_statusline_fg=red
+set color_statusline_fg=black
+set color_statusline_fg=1
+set color_statusline_fg=244
+set color_statusline_fg=134
+set color_statusline_bg=33
+set color_statusline_bg=gray33
+set color_win_cur_sel_attr=red
+set color_win_inactive_cur_sel_fg=cyan
+&
+set color_win_inactive_cur_sel_bg=22
+set color_win_inactive_cur_sel_fg=magenta
+set color_win_inactive_cur_sel_fg=150
+set color_win_inactive_cur_sel_bg=
+set color_win_cur_sel_bg=132
+set color_win_cur_sel_fg=red
+set color_win_cur_sel_bg=33
+set color_win_cur_sel_bg=cyan33
+set color_win_sel_bg=27
+set color_win_sel_bg=40
+set color_win_sel_bg=39
+set color_win_sel_bg=37
+set color_win_sel_bg=g27
+set color_win_sel_bg=green
+set color_win_sel_bg=greem
+set color_win_cur=green
+set color_win_title_bg=33
+set color_win_title_bg=34
+set color_win_title_bg=30
+set color_win_title_bg=29
+set color_win_title_bg=28
+set color_win_title_bg=27
+set color_win_title_bg=26
+set color_win_title_bg=25
+set color_win_title_bg=24
+set color_win_title_bg=23
+set color_win_title_bg=22
+set color_win_title_bg=21
+set color_win_title_bg=20
+set color_win_title_bg=19
+set color_win_title_bg=18
+set color_win_title_bg=17
+set color_win_title_bg=16
+set color_win_title_bg=1
+set color_win_title_bg=140
+set color_win_title_bg=149
+set color_win_title_bg=139
+set color_win_title_bg=1367
+set color_win_title_bg=136
+set color_win_title_bg=135
+set color_win_title_bg=133
+set color_win_title_bg=130
+set color_win_title_bg=129
+set color_win_title_bg=128
+set color_win_title_bg=127
+set color_win_title_bg=126
+set color_win_title_bg=125
+set color_win_title_bg=124
+set color_win_title_bg=123
+set color_win_title_bg=121
+set color_win_title_bg=120
+set color_win_title_bg=134
+set color_win_title_bg=100
+set color_win_title_bg=250
+set color_win_cur=greem
+set color_titleline_fg=black
+set color_titleline_bg=256
+set color_titleline_bg=246
+set color_titleline_bg=green
+set color_titleline_fg=red
+set color_titleline_bg=magenta
+set color_win_title_black
+set color_win_title_bg=lightcyan
+set color_win_title_bg=cyan
+set color_win_title_bg=cyab
+set color_win_title_bg=lightgreen
+set color_win_title_bg=green
+set color_win_title_bg=lightblue
+set color_win_title_bg=lightred
+set color_win_title_bg=lightmagenta
+set color_win_title_bg=white
+set color_win_title_bg=yello
+set color_win_sel_bg=red
+set color_win_dir=lightblue
+set color_win_dir=cyan
+set color_win_cur_sel_bg=cyan
+set color_win_cur_sel_bg=green
+set color_info=lightyel
+set color_separator=bluered
+set color_titleline_attr=red
+set color_titleline_bg=red
+set color_titleline_bg=bluedark
+set color_titleline_bg=blue
+set color_titleline_bg=lightblue
+set color_titleline_bg=whiteblue
+set color_titleline_bg=white
+set color_titleline_bg=y#ffffff
+set color_titleline_bg=#231424
+set color_titleline_bg=yellow
+set color_titleline_bg=grey
+set color_titleline_bg=balck
+set color_titleline_bg=darkblue
+set color_titleline_bg=cyan
+pl-export Raxen
+pl-export 
+svae
+pl-create tribute
+pl-create lofi
+pl-create bad_ass_songs
+pl-create random
+pl-create Raxen
+pl-create
+pl-import ~/Music/Raxengamer.pls
+pl-import ~/Music/Raxengaer.pls
+add -Q
+add playlist
+new
+add -Q ~/Music/Riverdale_music/ 
+add -Q ~/Music/Riverdale_music/ Riverdale
+add ~/Music/Riverdale_music/ Riverdale
+bind -f browser f browser-up
+playlist
+add ~/Music/Riverdale_music/

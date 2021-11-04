@@ -1,0 +1,137 @@
+# https://github.com/meribold/dotfiles/blob/4c158fe58ee772171f4dbf42b64564b8f93ba3b1/home/config/newsboat/config
+# TODO: I don't think opening an article should mark it as read automatically.  See
+# <https://github.com/akrennmair/newsbeuter/issues/200>.
+
+browser "nohup $FIREFOX --new-tab %u &>/dev/null &"
+datetime-format "%F"  # ISO 8601
+refresh-on-startup yes
+reload-threads 42
+auto-reload yes
+reload-time 30
+prepopulate-query-feeds yes
+show-keymap-hint no
+show-read-articles no
+show-read-feeds no
+swap-title-and-hints yes  # Like Mutt.
+# Also download ignored articles, just don't display them.  See
+# <fle:///usr/share/doc/newsboat/newsboat.html#_killfiles>.
+ignore-mode "display"
+
+feedlist-format " %t%>   %U "
+# We put feed titles (%T) before article titles (%t) because of Newsboat [issue #139][]
+# (also see [issue #572][] of Newsbeuter).  When a feed title contains characters that
+# would break the alignment, we can work around it by renaming the feed.  I don't think we
+# could fix alignment issues caused by problematic article titles if we were to put those
+# first.  XXX: this format string is built around the assumption of running Newsboat in a
+# terminal with width 140.  Dates (%D) take 10 characters.  1 + 10 + 2 + 126 + 1 = 140.
+articlelist-format " %D  %?T?%-20T  ?%> %?T?%-104t&%-126t? "
+# [issue #139]: https://github.com/newsboat/newsboat/issues/139
+# [issue #572]: https://github.com/akrennmair/newsbeuter/issues/572
+
+# Don't ever include "newsboat" or a version number in the title bar and tweak some title
+# formats in other ways.
+feedlist-title-format ""
+articlelist-title-format "%T (%u unread, %t total)"
+searchresult-title-format "Search result (%u unread, %t total)"
+filebrowser-title-format "%?O?Open File&Save File? - %f"
+help-title-format "Help"
+selecttag-title-format "Select Tag"
+selectfilter-title-format "Select Filter"
+itemview-title-format "%T"
+urlview-title-format "URLs"
+dialogs-title-format "Dialogs"
+
+# Disable the thermonuclear key (`mark-all-feeds-read`).  I don't want to use it by
+# accident.  TODO: what about `A`?
+unbind-key C
+# This sounds dangerous too (`delete-all-articles`).
+unbind-key ^D
+# TODO: what about D (`delete-article`)?  At least it should probably be bound to `#`,
+# since that's what I'm using in Mutt.
+
+# Pretty idiosyncratic keybindings because of muscle memory.
+bind-key ; cmdline
+bind-key SPACE next-unread
+bind-key j down
+bind-key k up
+bind-key ^N next-unread
+bind-key ^P prev-unread
+bind-key ^N next-unread-feed articlelist
+bind-key ^P prev-unread-feed articlelist
+bind-key J next-feed articlelist
+bind-key K prev-feed articlelist
+bind-key ] next feedlist
+bind-key [ prev feedlist
+bind-key ] next-feed articlelist
+bind-key [ prev-feed articlelist
+bind-key g home
+bind-key G end
+# FIXME: only the last two lines of the next four have an effect.
+bind-key ^U pageup
+bind-key ^D pagedown
+bind-key u pageup
+bind-key d pagedown
+
+# Swap `reload` and `reload-all` because the latter is more useful.
+bind-key r reload-all
+bind-key R reload
+
+# Prevent accidentally quitting Newsboat: unbind "q" and then restore its function
+# everywhere but in the feedlist.  We can still quit with `:quit`.  Make "h" work just
+# like "q" and also unbind "Q" (hard-quit).
+unbind-key q
+unbind-key Q
+unbind-key h
+bind-key q quit filebrowser
+bind-key q quit help
+bind-key q quit articlelist
+bind-key q quit article
+bind-key q quit tagselection
+bind-key q quit filterselection
+bind-key q quit urlview
+bind-key q quit dialogs
+bind-key h quit filebrowser
+bind-key h quit help
+bind-key h quit articlelist
+bind-key h quit article
+bind-key h quit tagselection
+bind-key h quit filterselection
+bind-key h quit urlview
+bind-key h quit dialogs
+
+# Switch these two compared to the defaults.
+bind-key o open-in-browser-and-mark-read
+bind-key O open-in-browser
+# Open the latest article of a feed in Firefox and mark it as read with o.  This is pretty
+# neat.  Hitting o again opens the next one, and so on.
+max-browser-tabs 1
+bind-key o open-all-unread-in-browser-and-mark-read feedlist
+bind-key O open-all-unread-in-browser feedlist
+
+bind-key l open
+bind-key s toggle-show-read-feeds
+
+# Open the URL associated with the current article with mpv(1).  See [1] and [2].  XXX: I
+# hope Newsboat sanitizes `%u`.
+macro o set browser ~/.config/newsboat/mpv.sh ; open-in-browser ; set browser $BROWSER
+macro O set browser ~/.config/newsboat/mpv.sh ; open-in-browser-and-mark-read ; set browser $BROWSER
+# [1]: https://wiki.archlinux.org/index.php/Newsbeuter#Pass_article_URL_to_external_command.
+# [2]: file:///usr/share/doc/newsboat/newsboat.html#_macro_support
+
+color background        white    black
+color listnormal        color244 black
+color listfocus         default  red
+color listnormal_unread white    default
+color listfocus_unread  default  red
+color info              black    yellow
+color article           white    black
+
+# Only show Angry Video Game Nerd videos from the Cinemassacre YouTube channel.
+ignore-article "https://www.youtube.com/feeds/videos.xml?channel_id=UC0M0rxSz3IF0CsSour1iWmw" "title !~ \"AVGN|[Aa]ngry [Vv]ideo [Gg]ame [Nn]erd\""
+
+# There are a lot of filetypes Vim ships configuration files for.  I tried `cfg`,
+# `config`, `ini, `rc`, and `conf`.  The last seems to give the best results for this
+# file.
+
+# vim: tw=90 sts=-1 sw=3 et ft=conf
+
