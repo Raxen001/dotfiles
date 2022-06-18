@@ -78,7 +78,7 @@ macro m set browser  "mpv --no-terminal %u &"; open-in-browser-and-mark-read; se
 # notification
 notify-always yes
 notify-program ~/.config/newsboat/notify.sh
-notify-format "%d NEW  \n%n UNRREAD  \n%f UNREAD_FEED  "
+notify-format "%d NEW 🆕\n%n UNRREAD 📰\n%f UNREAD_FEED 📕"
 
 # Colors
 color background          color9     default 

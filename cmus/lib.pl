@@ -140,7 +140,6 @@
 /home/raxen/Music/Artists/Eminem/Recovery/Cold Wind Blows-c4Yz9o5UtN8.mkv
 /home/raxen/Music/Artists/Eminem/Recovery/Eminem - Love The Way You Lie ft. Rihanna-uelHwf8o7_U.mkv
 /home/raxen/Music/Artists/Eminem/Recovery/Eminem - No Love (Explicit Version) ft. Lil Wayne-KV2ssT8lzj8.mkv
-/home/raxen/Music/Artists/Eminem/Recovery/Eminem - Not Afraid (Official Video)-j5-yKhDd64s.mp4
 /home/raxen/Music/Artists/Eminem/Recovery/Eminem - Space Bound (Official Video)-JByDbPn6A1o.mkv
 /home/raxen/Music/Artists/Eminem/Recovery/Going Through Changes-T6T_94qjp5g.webm
 /home/raxen/Music/Artists/Eminem/Recovery/On Fire-hmqSuMX5fyM.mkv
@@ -151,24 +150,24 @@
 /home/raxen/Music/Artists/Eminem/Recovery/Won't Back Down-hOFkhNijQeY.webm
 /home/raxen/Music/Artists/Eminem/Recovery/W.T.P.-qwB3JZoaOIk.mkv
 /home/raxen/Music/Artists/Eminem/Recovery/You’re Never Over-lKum7GDQxOY.webm
-/home/raxen/Music/Artists/Eminem/Relapse/Bagpipes From Baghdad-U9G3bK923JY.mkv
-/home/raxen/Music/Artists/Eminem/Relapse/Crack A Bottle-7L6qSHJrcl8.mkv
-/home/raxen/Music/Artists/Eminem/Relapse/Deja Vu-NxkSEJ6Mv3M.mkv
-/home/raxen/Music/Artists/Eminem/Relapse/Dr. West (Skit)-94JmRMOH83k.mkv
-/home/raxen/Music/Artists/Eminem/Relapse/Eminem - 3 a.m. (Official Video)-hAuo8IOFNuE.mkv
-/home/raxen/Music/Artists/Eminem/Relapse/Eminem - Beautiful (Official Music Video)-lgT1AidzRWM.mp4
-/home/raxen/Music/Artists/Eminem/Relapse/Eminem - We Made You (Official Video)-RSdKmX2BH7o.mkv
-/home/raxen/Music/Artists/Eminem/Relapse/Hello-k9STycYUCfs.webm
-/home/raxen/Music/Artists/Eminem/Relapse/Medicine Ball-RzQRxV2XqFU.mkv
-/home/raxen/Music/Artists/Eminem/Relapse/Mr. Mathers (Skit)-QZXYeFzyznk.webm
-/home/raxen/Music/Artists/Eminem/Relapse/Must Be The Ganja-4X8cASMXjNY.mkv
-/home/raxen/Music/Artists/Eminem/Relapse/My Mom-TqEP8tHk5lw.webm
-/home/raxen/Music/Artists/Eminem/Relapse/Old Time's Sake-2zb-_JC7Ir0.mkv
-/home/raxen/Music/Artists/Eminem/Relapse/Paul (Skit)-EaiE3gnUzDs.mkv
-/home/raxen/Music/Artists/Eminem/Relapse/Same Song & Dance-r_PR4JjktC0.mkv
-/home/raxen/Music/Artists/Eminem/Relapse/Stay Wide Awake-xasrVl8IC48.webm
-/home/raxen/Music/Artists/Eminem/Relapse/Tonya (Skit)-zjiDHWm7NTE.mkv
-/home/raxen/Music/Artists/Eminem/Relapse/Underground-ktSFpHUd524.webm
+/home/raxen/Music/Artists/Eminem/Relapse1/Bagpipes From Baghdad-U9G3bK923JY.mkv
+/home/raxen/Music/Artists/Eminem/Relapse1/Crack A Bottle-7L6qSHJrcl8.mkv
+/home/raxen/Music/Artists/Eminem/Relapse1/Deja Vu-NxkSEJ6Mv3M.mkv
+/home/raxen/Music/Artists/Eminem/Relapse1/Dr. West (Skit)-94JmRMOH83k.mkv
+/home/raxen/Music/Artists/Eminem/Relapse1/Eminem - 3 a.m. (Official Video)-hAuo8IOFNuE.mkv
+/home/raxen/Music/Artists/Eminem/Relapse1/Eminem - Beautiful (Official Music Video)-lgT1AidzRWM.mp4
+/home/raxen/Music/Artists/Eminem/Relapse1/Eminem - We Made You (Official Video)-RSdKmX2BH7o.mkv
+/home/raxen/Music/Artists/Eminem/Relapse1/Hello-k9STycYUCfs.webm
+/home/raxen/Music/Artists/Eminem/Relapse1/Medicine Ball-RzQRxV2XqFU.mkv
+/home/raxen/Music/Artists/Eminem/Relapse1/Mr. Mathers (Skit)-QZXYeFzyznk.webm
+/home/raxen/Music/Artists/Eminem/Relapse1/Must Be The Ganja-4X8cASMXjNY.mkv
+/home/raxen/Music/Artists/Eminem/Relapse1/My Mom-TqEP8tHk5lw.webm
+/home/raxen/Music/Artists/Eminem/Relapse1/Old Time's Sake-2zb-_JC7Ir0.mkv
+/home/raxen/Music/Artists/Eminem/Relapse1/Paul (Skit)-EaiE3gnUzDs.mkv
+/home/raxen/Music/Artists/Eminem/Relapse1/Same Song & Dance-r_PR4JjktC0.mkv
+/home/raxen/Music/Artists/Eminem/Relapse1/Stay Wide Awake-xasrVl8IC48.webm
+/home/raxen/Music/Artists/Eminem/Relapse1/Tonya (Skit)-zjiDHWm7NTE.mkv
+/home/raxen/Music/Artists/Eminem/Relapse1/Underground-ktSFpHUd524.webm
 /home/raxen/Music/Artists/Eminem/Revival/Arose-635PLB6sHf8.webm
 /home/raxen/Music/Artists/Eminem/Revival/Bad Husband-73Sfh_qGsDo.mkv
 /home/raxen/Music/Artists/Eminem/Revival/Believe-JrIoKNaM-8w.mkv
@@ -231,7 +230,6 @@
 /home/raxen/Music/Artists/Halie_Steinfield/Half_Written_Story/Hailee Steinfeld – Your Name Hurts (Lyric Video)-sWK2rceLBQ0.mkv
 /home/raxen/Music/Artists/Halie_Steinfield/I_Love_You/Hailee Steinfeld - I Love You's (Official Lyric Video)-hokXX3_vaMk.webm
 /home/raxen/Music/Artists/Heathers/Beautiful - Heathers - The Musical +LYRICS-zAmmc7VFiZY.webm
-/home/raxen/Music/Artists/Heathers/Big Fun - Heathers - The Musical +LYRICS-2Q1p89oUQUM.mp4
 /home/raxen/Music/Artists/Heathers/Blue - Heathers - The Musical +LYRICS-QzqUTJ7U3xs.mkv
 /home/raxen/Music/Artists/Heathers/Candy Store - Heathers - The Musical +LYRICS-BQOoTX1Nxx8.mkv
 /home/raxen/Music/Artists/Heathers/Dead Girl Walking - Heathers - The Musical +LYRICS-3EyDyxGZn_Y.webm
@@ -241,7 +239,6 @@
 /home/raxen/Music/Artists/Heathers/I Am Damaged - Heathers - The Musical +LYRICS-nlVxhg-HVCk.mkv
 /home/raxen/Music/Artists/Heathers/Kindergarten Boyfriend - Heathers - The Musical +LYRICS-P9MwGckEZd4.webm
 /home/raxen/Music/Artists/Heathers/Lifeboat - Heathers - The Musical +LYRICS-cO_bnOUmX6s.webm
-/home/raxen/Music/Artists/Heathers/Meant to Be Yours - Heathers - The Musical +LYRICS-hD7x_7tUFNI.mp4
 /home/raxen/Music/Artists/Heathers/Me Inside of Me - Heathers - The Musical +LYRICS-esJKM00L9Ss.mkv
 /home/raxen/Music/Artists/Heathers/My Dead Gay Son - Heathers - The Musical +LYRICS-2k8DwNoAYQY.mkv
 /home/raxen/Music/Artists/Heathers/Our Love Is God - Heathers - The Musical +LYRICS-P3dGcN_mJ50.mkv
@@ -272,81 +269,7 @@
 /home/raxen/Music/Artists/NF/Mansion/NF - Turn The Music Up (Lyric Video)-V2c8zx2G4bs.mkv
 /home/raxen/Music/Artists/NF/Mansion/NF - Wait-X-J2k77qf1k.webm
 /home/raxen/Music/Artists/NF/Mansion/NF - Wake Up-foj3lB7vtDo.webm
-/home/raxen/Music/Artists/NF/Perception/NF - 10 Feet Down (Audio) ft. Ruelle-My5lL0_sURw.mkv
-/home/raxen/Music/Artists/NF/Perception/NF - 3 A.M. (Audio)-Z2VLOkCSoX8.webm
-/home/raxen/Music/Artists/NF/Perception/NF - Destiny (Audio)-qls3OGpOfwY.webm
-/home/raxen/Music/Artists/NF/Perception/NF - Dreams (Audio)-Akrq-TO9EvU.webm
-/home/raxen/Music/Artists/NF/Perception/NF - Green Lights-ocnuOcwHNaM.mkv
-/home/raxen/Music/Artists/NF/Perception/NF - If You Want Love-LfxY1sg5_rw.webm
-/home/raxen/Music/Artists/NF/Perception/NF - Intro III (Audio)-gdLLRj1Ge7g.webm
-/home/raxen/Music/Artists/NF/Perception/NF - Know (Audio)-LrXvRtlb9XU.webm
-/home/raxen/Music/Artists/NF/Perception/NF - Let You Down-fbHbTBP_u7U.mkv
-/home/raxen/Music/Artists/NF/Perception/NF - Lie (Audio)-B1dmRjyN0CQ.webm
-/home/raxen/Music/Artists/NF/Perception/NF - My Life (Audio)-fUYHqrgJAt0.webm
-/home/raxen/Music/Artists/NF/Perception/NF - One Hundred (Audio)-qKDqqYs3XFQ.webm
-/home/raxen/Music/Artists/NF/Perception/NF - Outcast-J7MYJ8Kxhwc.mkv
-/home/raxen/Music/Artists/NF/Perception/NF - Outro-DvAhj9z1bVc.mkv
-/home/raxen/Music/Artists/NF/Perception/NF - Remember This (Audio)-SNhOgS3BHjw.webm
-/home/raxen/Music/Artists/NF/Perception/NF - You're Special (Audio)-d51lAHNbeAM.webm
-/home/raxen/Music/Artists/NF/Therapy_Session/Breathe-xJtV7bOBAQo.webm
-/home/raxen/Music/Artists/NF/Therapy_Session/NF - All I Do (Audio)-gNG2dh8rveY.webm
-/home/raxen/Music/Artists/NF/Therapy_Session/NF - Got You On My Mind (Audio)-VvBmuyosTx0.mkv
-/home/raxen/Music/Artists/NF/Therapy_Session/NF - Grindin' ft. Marty-zhqvxdx8kIM.mkv
-/home/raxen/Music/Artists/NF/Therapy_Session/NF - How Could You Leave Us-wOzQMCyPc8o.webm
-/home/raxen/Music/Artists/NF/Therapy_Session/NF - I Can Feel It (Audio)-fVT5OQawxz4.webm
-/home/raxen/Music/Artists/NF/Therapy_Session/NF - I Just Wanna Know-UDGJGSc_iLE.mkv
-/home/raxen/Music/Artists/NF/Therapy_Session/NF - Intro 2-zzcOPNpKvRY.mkv
-/home/raxen/Music/Artists/NF/Therapy_Session/NF - Lost In The Moment (Audio) ft. Andreas Moss-jMgE61PjKKw.mkv
-/home/raxen/Music/Artists/NF/Therapy_Session/NF - Oh Lord (Audio)-H0NOxf4uaZI.mkv
-/home/raxen/Music/Artists/NF/Therapy_Session/NF - Real-Po5zT1krKOc.webm
-/home/raxen/Music/Artists/NF/Therapy_Session/NF - Statement (Audio)-kPxuKexX0eU.webm
-/home/raxen/Music/Artists/NF/Therapy_Session/NF - Therapy Session-KgMzxQW2raE.mkv
-/home/raxen/Music/Artists/NF/Therapy_Session/NF - Wish You Wouldn't (Audio)-Xo0HFPrbFV8.webm
-/home/raxen/Music/Artists/NF/The_Search/NF - Change (Audio)-j__VYXZ-5Cw.webm
-/home/raxen/Music/Artists/NF/The_Search/NF - Hate Myself (Audio)-1f6F7tGDcQw.mkv
-/home/raxen/Music/Artists/NF/The_Search/NF - I Miss The Days (Audio)-fy9YETB068M.mkv
-/home/raxen/Music/Artists/NF/The_Search/NF - Leave Me Alone-XGGWhOUYObc.mkv
-/home/raxen/Music/Artists/NF/The_Search/NF - Let Me Go (Audio)-6WcxRWufzus.webm
-/home/raxen/Music/Artists/NF/The_Search/NF - Like This (Audio)-EQHy_rwRwKA.mkv
-/home/raxen/Music/Artists/NF/The_Search/NF - My Stress (Audio)-1O1tj2phCQY.webm
-/home/raxen/Music/Artists/NF/The_Search/NF - Nate (Audio)-LmHmawgCAHg.mkv
-/home/raxen/Music/Artists/NF/The_Search/NF - No Excuses (Audio)-4k3YY0bMXU4.mkv
-/home/raxen/Music/Artists/NF/The_Search/NF - Options (Audio)-eMKCzDcvjfc.mkv
-/home/raxen/Music/Artists/NF/The_Search/NF - Returns (Audio)-TkiDouBnDrU.webm
-/home/raxen/Music/Artists/NF/The_Search/NF, Sasha Sloan - Only (Audio)-KzWP7APhsO4.mkv
-/home/raxen/Music/Artists/NF/The_Search/NF - The Search-fnlJw9H0xAM.webm
-/home/raxen/Music/Artists/NF/The_Search/NF - Thinking (Audio)-aC_iMZKVSsE.webm
-/home/raxen/Music/Artists/NF/The_Search/NF - Time-E1ZVSFfCk9g.mkv
-/home/raxen/Music/Artists/NF/The_Search/NF - Trauma (Audio)-akhttJU-0mc.webm
-/home/raxen/Music/Artists/NF/The_Search/NF - When I Grow Up-lxRwEPvL-mQ.mkv
-/home/raxen/Music/Artists/NF/The_Search/NF - WHY-zuJV-DAv_wE.webm
 /home/raxen/Music/Artists/NF/Time/NF - Time-E1ZVSFfCk9g.mkv
-/home/raxen/Music/Artists/Taylor_Swift/mp3/'Ashes' by Claire Guerreso (feat.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Bohnes - Raging On A Sunday.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/devil town v2 - cavetown _ lyrics-SBcK.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Eminem - The Ringer.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/gnash - i hate u, i love u (Lyrics) (ft.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Hans Zimmer - Hoist The Colours - Pirates of the Caribbean - At World's End.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Hayd - Suffocate (lyric).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Hozier - Take Me To Church (Official Video).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/HUDSUN - SHUTDOWN (lyrics)-apL1Rdn.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Imagine Dragons - Bad Liar.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Jake Scott & Josie Dunne - 'CWJBHN' (Lyric Video)-zz8lKer83Ac.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Joyner Lucas - Snitch (Evolution)-74HaJcmgUBw.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/LET ME LOVE YOU - Justin Bieber - ATC, Alex Goot, & KHS Cover.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Mic Torrance - Call It Quits (Audio).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Molly Kate Kestner - Prom Queen [Official Video].mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/NF - LOST ft. Hopsin-fxrkhf17fU0.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Ollie - Stuck.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Selena Gomez, A Rocky - Good For You.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Somewhere I Belong [Official Music Video] - Linkin Park.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/The End - Diane Birch (LYRICS).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Thousand Foot Krutch - Courtesy Call (Official Audio)-ocpDEOXABWg.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Unions - You Better Run (Official Audio)-s1D5NTilqH4.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Weathers - Always Tired (Audio stream).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/WinWel - You Make My Day (feat.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/YTcracker - #Antisec (With Lyrics) _ cc0de-xDyBIpqZcNI.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/ZAYN, Sia - Dusk Till Dawn - Radio Edit.mp3
 /home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/A Perfectly Good Heart-vv85ZAvrVDU.webm
 /home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/A Place in this World-pYFqLzFoHo0.webm
 /home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Cold As You-SoXPvCcFibo.webm
@@ -381,8 +304,12 @@
 /home/raxen/Music/Music-Videos/Akon - Smack That (Official Music Video) ft. Eminem-bKDdT_nyP54.mkv
 /home/raxen/Music/Music-Videos/AMV/[AMV] Charlotte - Impossible-TYwyjigWQOg.mp4
 /home/raxen/Music/Music-Videos/AMV/[ AMV ] Charlotte - Sociopath.-Nd2BecL7abc.mp4
+/home/raxen/Music/Music-Videos/AMV/AMV「Cry Baby」Tokyo Revengers-VXmXxp8g_3U.mp4
+/home/raxen/Music/Music-Videos/AMV/AMV - Saitama - Unbreakable [ONE PUNCH MAN]-yxPo2PVc4IQ.mkv
+/home/raxen/Music/Music-Videos/AMV/(AOT) Eren Jaeger _ Enemy of Humanity-p0FpdIRSMYU.mp4
 /home/raxen/Music/Music-Videos/AMV/Assassin's Creed Bloodline Rap by JT Music-zaKRbSRV75s.mkv
 /home/raxen/Music/Music-Videos/AMV/ASSASSIN'S CREED RAPS REMIXED by JT Music-m9k6XbYS69w.mkv
+/home/raxen/Music/Music-Videos/AMV/Baji's Death「AMV」- Loving You Is a Losing Game-_ePkhnDd6wM.mp4
 /home/raxen/Music/Music-Videos/AMV/Boku no Hero Academia「AMV」- Born For This-s4vAOYI4QoI.mp4
 /home/raxen/Music/Music-Videos/AMV/Call_Me_By_Your_Name_Solo_Leveling_MMV_AMV.mp4
 /home/raxen/Music/Music-Videos/AMV/Charlotte Amv Hero-JrAbQnPcBtM.mp4
@@ -396,25 +323,46 @@
 /home/raxen/Music/Music-Videos/AMV/fake it - jujutsu kaisen amv _ 100+ subs!-orjCRZSbTLA.mkv
 /home/raxen/Music/Music-Videos/AMV/God Mode - AMV -「Anime MV」-agcNbKVDtQ0.mkv
 /home/raxen/Music/Music-Videos/AMV/Highschool DXD [AMV] Monster-I0vaSE9Pc1I.mp4
+/home/raxen/Music/Music-Videos/AMV/HOLYLAND_MMV_G_O_A_W_A_Y_-.webm
 /home/raxen/Music/Music-Videos/AMV/Jujutsu Kaisen AMV - Blood _ Water-k-2fCUX89RY.mp4
 /home/raxen/Music/Music-Videos/AMV/Jujutsu Kaisen [ AMV ] - Play With Fire-VD-1bnLbqyw.mkv
+/home/raxen/Music/Music-Videos/AMV/KEISUKE BAJI AMV [CRIMINAL] Tokyo Revengers 4K _ THANK YOU BAJI-l4vLE6cUlwI.webm
+/home/raxen/Music/Music-Videos/AMV/Keisuke Baji - On My Own AMV-GA6173_Ix90.mp4
 /home/raxen/Music/Music-Videos/AMV/Midoriya Izuku [AMV] My Demons-7uLaFE9_paU.mp4
+/home/raxen/Music/Music-Videos/AMV/My Industry Baby AMV-3n31t1eplgy71.mp4
 /home/raxen/Music/Music-Videos/AMV/notions - fuck this scene-dBw2obPaCpE.mkv
 /home/raxen/Music/Music-Videos/AMV/One_Punch_Man_-_AMV_-_See_Me_Fall.mp4
+/home/raxen/Music/Music-Videos/AMV/One Punch Man (Saitama Tribute) - A True Hero-mEyhvrUC1Jc.mkv
 /home/raxen/Music/Music-Videos/AMV/Red Riot Tribute 《AMV》 - Unstoppable-58hF8opzN2A.mp4
 /home/raxen/Music/Music-Videos/AMV/Solo Leveling MMV「AMV」Fearless-OakZzYpe2wo.mkv
+/home/raxen/Music/Music-Videos/AMV/Solo Leveling Rap by DizzyEight the GOAT [bwxxb8w9q8s71].mp4
+/home/raxen/Music/Music-Videos/AMV/Takemichi Hanagaki - Tokyo Revengers「AMV」-  Impossible-8gbXJejTijI.mp4
 /home/raxen/Music/Music-Videos/AMV/Team Fortress 2 Rap by JT Music - 'Meet the Crew'-HgVQ9PFuE1o.mkv
 /home/raxen/Music/Music-Videos/AMV/Team Fortress 2 Rap by JT Music - 'Meet the Crew'-HgVQ9PFuE1o.webm
 /home/raxen/Music/Music-Videos/AMV/Tokyo Ghoul AMV - Run-rVed44_uz8s.mp4
 /home/raxen/Music/Music-Videos/AMV/Tokyo Ghoul - Unravel [Lyrics] 2019-H2oWviWV9r4.mkv
+/home/raxen/Music/Music-Videos/AMV/Tokyo Revengers「AMV」Animal I Have Become-sPFRs1a9h4M.mp4
+/home/raxen/Music/Music-Videos/AMV/Tokyo Revengers AMV - Animals-Qgo6fcpfS58.mkv
 /home/raxen/Music/Music-Videos/AMV/Tokyo revengers [AMV] – Beggin-CkG0a5_OyN4.mkv
+/home/raxen/Music/Music-Videos/AMV/Tokyo Revengers「AMV」Careless  ᴴᴰ-R-By15nVaVg.mkv
+/home/raxen/Music/Music-Videos/AMV/Tokyo Revengers「AMV」- High Hopesᴴᴰ-OvoDArq5oOI.mkv
+/home/raxen/Music/Music-Videos/AMV/Tokyo Revengers「AMV」Imagine Dragons  Enemy-O2JhBUJojDM.mkv
+/home/raxen/Music/Music-Videos/AMV/Tokyo Revengers「AMV」- In The End-8mj_fts3LBM.mp4
+/home/raxen/Music/Music-Videos/AMV/Tokyo Revengers _ AMV _ Mask off-PuorP3K8hXA.mkv
 /home/raxen/Music/Music-Videos/AMV/Tokyo Revengers「AMV」- Monster ᴴᴰ-KoescpD5CO8.mp4
+/home/raxen/Music/Music-Videos/AMV/Tokyo Revengers「AMV」- Natural-Sv0nfdkgvZM.mkv
+/home/raxen/Music/Music-Videos/AMV/tokyo revengers amv _ savages -CgFX6uRfKnM.mp4
+/home/raxen/Music/Music-Videos/AMV/Tokyo revengers - Baji tribute「AMV」- Impossible-MvPXJjmmAuM.mp4
 /home/raxen/Music/Music-Videos/AMV/Tokyo Revengers  ▪︎  Gang War「AMV」- Courtesy Call ᴴᴰ-OqHzBMVPqYY.mp4
+/home/raxen/Music/Music-Videos/AMV/Tokyo Revengers Opening (Full) -Cry Baby- Lyrics-6u5GK11Yt7Q.mp4
+/home/raxen/Music/Music-Videos/AMV/Tokyo Revengers  ▪︎  Toman Vs. Valhalla「AMV」Eminem Venom ᴴᴰ-Y1vDUZxbCo8.mkv
 /home/raxen/Music/Music-Videos/AMV/TRACER VS SCOUT Rap Battle by JT Music (Animated Version)-ROVVZKD9bNc.mkv
 /home/raxen/Music/Music-Videos/AMV/Triage_X_AMV_Anxiety.mkv
 /home/raxen/Music/Music-Videos/AMV/Video Game Legends Rap, Vol. 1 - 'Heroes' by JT Music-gm1fbl_mn1w.mkv
 /home/raxen/Music/Music-Videos/AMV/Video Game Legends Rap, Vol. 2 - 'Villains' by JT Music-lt0_Im15aM8.mkv
 /home/raxen/Music/Music-Videos/AMV/Whatever happens, happens... _ Verzache-yDETVPFdbT4.mkv
+/home/raxen/Music/Music-Videos/AMV/you're gonna carry that weight-rDZKTrhLRdU.mkv
+/home/raxen/Music/Music-Videos/AMV/【ニノミヤユイ】「Dark seeks light」Music Video（Full Size ）※TVアニメ『世界最高の暗殺者、異世界貴族に転生する』オープニング主題歌-CL8ihD3rPC4.mkv
 /home/raxen/Music/Music-Videos/Ariana Grande - 7 rings (Official Video)-QYh6mYIJG2Y.mkv
 /home/raxen/Music/Music-Videos/Ariana Grande, Miley Cyrus, Lana Del Rey - Don’t Call Me Angel (Charlie’s Angels)-leopt__ATR0.mkv
 /home/raxen/Music/Music-Videos/AronChupa - I'm an Albatraoz _ OFFICIAL VIDEO-Bznxx12Ptl0.mkv
@@ -683,6 +631,7 @@
 /home/raxen/Music/Playlist/Badass-songs/Devil, Devil - MILCK (LYRICS).mkv
 /home/raxen/Music/Playlist/Badass-songs/Devil Town.mkv
 /home/raxen/Music/Playlist/Badass-songs/devil town v2 - cavetown _ lyrics-SBcK.mkv
+/home/raxen/Music/Playlist/Badass-songs/Dirty_Hands_Gone_Mad_-_Kendra_Dantes_LYRICS.webm
 /home/raxen/Music/Playlist/Badass-songs/Dirty World - Dirty Dollar Bill (LYRICS).mp4
 /home/raxen/Music/Playlist/Badass-songs/Dreweybear - Lost & Found (feat. Meggie York).mkv
 /home/raxen/Music/Playlist/Badass-songs/Echo - Ready for War - Autumn Kings (LYRICS).webm
@@ -936,17 +885,244 @@
 /home/raxen/Music/Playlist/Lofi_hip_hop/kokoro - I miss you.mkv
 /home/raxen/Music/Playlist/Lofi_hip_hop/kokoro - january.mkv
 /home/raxen/Music/Playlist/Lofi_hip_hop/kudasai - midnight-QCvi.mkv
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/11 Oatmello - Beach.wav
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/22Rains - Whats My Name [318647021].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/24 [409079814].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Addicted To You (w_ Tomcbumpz) [560335071].mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Kupla - Afloat.mkv
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/A Late Night Stop [317116060].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/all nighter [680224526].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/alone by your side [348835191].mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Kupla - Alone in the World.mkv
 /home/raxen/Music/Playlist/Lofi_hip_hop/Kupla - Always Miss You.mkv
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Apart [361771604].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Apple Tree (Prod. Tesk) [344436326].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/A R R I V A L [980756707].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Artist Mix -_79 by Kupla 🎧 chillhop _ lofi hip hop mix [603875163].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Ashorttimelater  - Funhouse [318647029].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/ASPECT RATIO [334432439].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/autumn scenes (full tape) [700327564].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/B A C K   I N   I T [1031390839].mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Kupla - Barely Awake.webm
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/between us [339042362].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/blnkspc_  - snow flakes [776983411].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/B L U R R E D [bump] [844754887].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/B R I G H T [879672682].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/B-Side x Flitz&Suppe - Seeking [573136416].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/cair. [507091626].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/campfire [ep] [355726241].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/CCR Exclusives - T a h m a s - Gnosis [313928954].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/cervino [313252216].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/C L A S S Y [955334380].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/C L E A R V I E W [710561647].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/ℂo∆ch​Mo​TΣl  -  Smoking with sun ra [318647033].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Complex Channel Collective Tapes Vol.3 - SIDE A + B [390993546].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Complex Channel Collective Tapes Vol.4 - SIDE A + B [612100371].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Connected Souls [304009795].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Coupons [645644115].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Crssspace  Ssup74 [318646987].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Cruise Control (Chillhop Essentials - Fall 2017) [346877497].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Daydreams [432395739].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/DILATED (Perhaps Some Other Time)PROD. HOLLOW SOL [329987737].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Dil Maddy - CMI [318647015].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/D I P [freebeat _ 89bpm] [860663461].wav
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/dippin' dots w _ goosetaf [560652849].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/DJ Buzz & Mono -Massive - Ocean Breeze [722138224].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/don't bring tomorrow [475178937].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/doogie [321431007].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/D R I F T A W A Y [652988618].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/dryhope - White Oak [full EP] [707748718].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/East Central (Prod. Vanilla) [344436341].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Ecros [559426767].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/empower [502685958].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Ephemeral Tape [443462703].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/every summer [w_ j'san] [325870138].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Ezekielus X Eduardo Rozeira - Brazilian Stereotype [359629013].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Fallen [514563921].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Fatb X Kupla - Copy Girl [656699909].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Fear and Loathing in Beats (12' Vinyl - Out now) [619933698].mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Kupla - Feathers-kMu.webm
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/fell in love in a dream [333010936].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Fiktív aka Courage X Kasbah - Fold [318646969].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/First Bumps. Beattape (on bandcamp) [331835122].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Flitz&Suppe - Mutiny ft Kupla [premiere] [540703068].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Floating Away With You [400037640].wav
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Flovry x Tender Spring - Ages Ago [719310289].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/flowers that bloom when shaken [514924002].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Foggy Nights w_ Kupla [537859134].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/frail [529374027].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Free Champagne [542463441].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Generous [568417230].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Gloomy Textures [472729632].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/G L O W [1025097745].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/God Would Be Missing Me (Vinyl available via Link) [683885423].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/grnsh (out on spotify) [492775605].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/haven (sanctuary vinyl out now) [357267917].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Herring Franky - Dip16 [318647003].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/H I D E [856141366].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/H I T M E U P [946647250].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/H OM E B O Y [742928152].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/How We Feel w_ Hazy Year [700076986].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/i don't love the way you treat me (read desc.) [338251618].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Ikigai Tape [566276352].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/ikno [309078171].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/I'll just stay home today... [nostalgic mix] [340310556].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Imaginary [full album] [580918227].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/imperfections [ep] [506049624].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/ｉｎｈａｌｅ [322867539].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Inhale_Exhale_Disappear Ep (now on Spotify and Bandcamp) [389139459].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/in.the.forest.we.are.wizards [ep] [313266925].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/invention_ - fauxlii (12' Vinyl - Out now) [671373308].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/invention_ - islndrm (12' Vinyl - Out now) [898225984].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Invention  - Tｘｃｔｘｃｘｌ [318647024].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/I will wait for you to come home [315356502].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/J A M M I N [868365061].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Jay Alpha - Stay Hopeful [318647007].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/J A Z Z Y S E A S [911652349].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Joe Corfield - When I'm With U [471664977].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Joe Nora & Karavelo ~ Favorite Color, Rain [Full Album] [662016935].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/j'san x kupla - memories fade [437426721].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/j'san x pandrezz - sketches EP [473100561].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Juan RIOS • Beats From Energeia (Full Beat Tape) [499896759].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/just checking in [347180541].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Karavelo ~ Expo Line [485935752].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Karavelo ~ Snitchfoot [485935833].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Kashmir - DDob x Mr.Käfer x Flitz&Suppe [636502551].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/khoa - cabin fever [866492107].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/KØBER - Closed Mind [456349638].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Kupla - Back In The Day [318646978].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Kupla - Coniferous [full EP] [670798445].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/KUPLA - Fluidity [315186536].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Kupla - I Promised To Take Care Of You [527309664].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Kupla - Kingdom in Blue [768373027].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Kupla - Life Forms [866652265].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/KUPLA - Lonli [277331585].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Kupla - Melody Mountain [1032017449].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/KUPLA - Monsters [277331617].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Kupla - Passenger [459639714].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Kupla x j'san - memories EP [499404657].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Kupla x j'san - memories fade (nymano remix) [495098931].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Kupla X j'san - My Love [499585530].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Kupla X j'san - Out Of Town [514548306].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Kupla X j'san - Raindrops [501363687].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Kupla X j'san - Silver Lining [517564839].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Kupla x less.people - lost in translation [722081002].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Kupla X less.people - the world was ours [512196726].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Kupla X Philanthrope - Allure [full Ep] [622591215].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Kupla X Philanthrope - Sendoff [623650791].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/L E A F [710187025].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/lemon boy (ft. chloe moriondo) [704511592].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/L E S S [FREE DL] [349756228].wav
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/less.people - One day it’s over [954950869].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/less.people - Online Mall Music [772304521].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Let You Go [610628970].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Lloyd Stacks - Cold_chlln'99 [318646974].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/loveless shadows [ep] [337858730].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Martin $ky - In Real Time (12' Vinyl - Out now) [832253107].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Max I Million & Nocatchphraze - Private Barrel Selection (12' Vinyl - Out now) [935916139].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Memento Mori. [278809854].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/misc.inc - I Never Felt Like This. [349236537].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Moods Vol. 1 [531419640].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/M O O N [896958004].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/more.love Ep [440163261].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Mujo - Magic Rhodes [318646995].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Mujura [513747432].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Ｎｉｇｈｔ Ｓｍｏｋｅ [349465755].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/ok2222 x kogane - lost [333154107].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/o k h o x wun two - Notturna [562333893].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/OldGold - Get Down [318646972].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/one day {vinyl pre-order link is description} [473474217].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/One For Pee Wee (Sephirot's Angran Mix) - The Dybbuk Quartet [353423735].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/O P P O S I T E [1115410735].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/OUSKA - GONZO [378002093].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/O̶xela - My Bro [318646957].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Pandrezz X L'indécis X j'san - Belleville EP [563826981].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/passport w_ hm surf [700642978].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Philanthrope & chromonicci. - Orion [781494772].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/plusma - albatros [461433537].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/plusma - beygl [346708393].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/PREMIERE  - Silo - Got Me Feeling So Right [Headroom Collective] [332872807].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Psalm Trees x Moose Dawa - No Lies [555910485].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Psalm Trees x Moose Dawa - Someone [623605404].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/P U M P [freebeat _ 90bpm] [898271596].wav
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/punpun - Difference [678534648].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Raccoon Beats vol.1 [lofi chillhop tape for charity] [564454908].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Rawleaf - 24 - 7 [318647019].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/R E L A X [freebeat _ 92bpm] [909119824].wav
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/remember that day when.. [317856462].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/R I S E & S H I N E [1126218805].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Rob Smyles - Hill [318646980].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/rock the beat (Prod. Ben Bada Boom) [491436333].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/R O O T S [689412556].mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Kupla - Rose Garden.mkv
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/RudeManners - steak & rice [309079925].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Rzuma - UncleW [318646999].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Saito & Lester, Nowhere - Glidin' Along (Side A) [392055882].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Saito & Lester, Nowhere - Groove Marauders [333781452].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Search For Tomorrow [642746472].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/S E N S E S [free dl on beat.science] [1126269724].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/she used to love to hear him play. [293732506].wav
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Sleepy Boy [Full Beattape] [638650872].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Slowly [700138480].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Slowya.roll - Rain Check (12' Vinyl - Out now) [627321690].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Slowya.roll - Unspoken [598784055].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/S L U M P [709636870].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Smokepsalms (w. Psalm_Trees) [563786958].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/snapshot [Full Album] [561997038].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/snow rose [full album] [367244936].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Sodium Ep (Out Now) [525708585].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/sodus [337268276].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/solitude (w_ tomcbumpz) [525343266].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/🚀 space mission [w_ donzi] [571209792].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/S P A C E S [1000819456].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Spare Me [477098304].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/S T A T E S [813318277].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Strand Dr. [504888153].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Sugi.wa - Romantic (12' Vinyl - Out now) [758345758].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Summer Vacation [671172899].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/S∆ve Her [ video below ] [286436209].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/S w_ Kupla [449114541].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/take me for my words. [339641056].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/thankful af type beat [360073889].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/that new song [347475761].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/The Closing [610621299].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/T H E F L A M E [959662981].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/The Garden - RudeManners x Gould [319282846].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/The good life (full EP) [661441601].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/The Past, The Present [693690064].mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Kupla - The Past, The Present.mkv
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/T H E R E M E D Y [467599839].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/T H E S E A [710985382].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/the woods 🌿  [ a relaxing lofi hiphop tape ] [345166921].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/the world forgetting, by the world forgot [311598029].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/T I L T [861840556].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/To Do´s [339311259].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Tons Of Yellow [348399546].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Toonorth - Comin Home [689024950].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Toonorth - Long Story Short (Out now) [718309777].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/touch of your lips [317561323].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Trials (Prod. Vanilla) [344436346].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/T W I L I G H T [832100542].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Tyes [401030880].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Tzapa - Next2u [318646964].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/U P O N C L O U D S [875041414].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Vhsceral - Boone [678561600].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Wanna Roll ('Summer Breeze' Compilation) [504874059].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/watchtower [EP] [493320816].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/W E E K L Y B U M P S _ SEASON 001 [571660167].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/W E E K L Y B U M P S _ SEASON 002 [905028457].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/W E E K L Y B U M P S _ SEASON 003 [1035908962].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/What You Love (Folk-Hop, Vol.1) [618960075].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/When I Look Back _ video below [477399720].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Wildflower Island (full ep) [648839975].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/W I N D E D [841712503].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Winter Vibes 🎧 chillhop _ jazzhop _ lofi hip hop mix [538705920].mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Kupla X j'san - Fireflies.mkv
 /home/raxen/Music/Playlist/Lofi_hip_hop/Kupla x j'san - Silver Lining.mkv
 /home/raxen/Music/Playlist/Lofi_hip_hop/Kupla x less.people - lost in translation.mkv
 /home/raxen/Music/Playlist/Lofi_hip_hop/Kupla x Philanthrope - Sendoff.mkv
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/Y E A R S A G O [1113118972].mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/コメット (Comet) [342740577].mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Leavv - Far Away.mkv
 /home/raxen/Music/Playlist/Lofi_hip_hop/leavv & misc.inc - Pictures.mkv
 /home/raxen/Music/Playlist/Lofi_hip_hop/L'Indécis - Like Someone in Love.mkv
@@ -1003,32 +1179,6 @@
 /home/raxen/Music/Playlist/Lofi_hip_hop/けｍ SURF - My Girl-SiUEh94.mkv
 /home/raxen/Music/Playlist/Lofi_hip_hop/けｍ SURF - skinny dip.webm
 /home/raxen/Music/Playlist/Lofi_hip_hop/けｍ SURF - Take Care.mkv
-/home/raxen/Music/Playlist/mp3/'Ashes' by Claire Guerreso (feat.mp3
-/home/raxen/Music/Playlist/mp3/Bohnes - Raging On A Sunday.mp3
-/home/raxen/Music/Playlist/mp3/devil town v2 - cavetown _ lyrics-SBcK.mp3
-/home/raxen/Music/Playlist/mp3/Eminem - The Ringer.mp3
-/home/raxen/Music/Playlist/mp3/gnash - i hate u, i love u (Lyrics) (ft.mp3
-/home/raxen/Music/Playlist/mp3/Hans Zimmer - Hoist The Colours - Pirates of the Caribbean - At World's End.mp3
-/home/raxen/Music/Playlist/mp3/Hayd - Suffocate (lyric).mp3
-/home/raxen/Music/Playlist/mp3/Hozier - Take Me To Church (Official Video).mp3
-/home/raxen/Music/Playlist/mp3/HUDSUN - SHUTDOWN (lyrics)-apL1Rdn.mp3
-/home/raxen/Music/Playlist/mp3/Imagine Dragons - Bad Liar.mp3
-/home/raxen/Music/Playlist/mp3/Jake Scott & Josie Dunne - 'CWJBHN' (Lyric Video)-zz8lKer83Ac.mp3
-/home/raxen/Music/Playlist/mp3/Joyner Lucas - Snitch (Evolution)-74HaJcmgUBw.mp3
-/home/raxen/Music/Playlist/mp3/LET ME LOVE YOU - Justin Bieber - ATC, Alex Goot, & KHS Cover.mp3
-/home/raxen/Music/Playlist/mp3/Mic Torrance - Call It Quits (Audio).mp3
-/home/raxen/Music/Playlist/mp3/Molly Kate Kestner - Prom Queen [Official Video].mp3
-/home/raxen/Music/Playlist/mp3/NF - LOST ft. Hopsin-fxrkhf17fU0.mp3
-/home/raxen/Music/Playlist/mp3/Ollie - Stuck.mp3
-/home/raxen/Music/Playlist/mp3/Selena Gomez, A Rocky - Good For You.mp3
-/home/raxen/Music/Playlist/mp3/Somewhere I Belong [Official Music Video] - Linkin Park.mp3
-/home/raxen/Music/Playlist/mp3/The End - Diane Birch (LYRICS).mp3
-/home/raxen/Music/Playlist/mp3/Thousand Foot Krutch - Courtesy Call (Official Audio)-ocpDEOXABWg.mp3
-/home/raxen/Music/Playlist/mp3/Unions - You Better Run (Official Audio)-s1D5NTilqH4.mp3
-/home/raxen/Music/Playlist/mp3/Weathers - Always Tired (Audio stream).mp3
-/home/raxen/Music/Playlist/mp3/WinWel - You Make My Day (feat.mp3
-/home/raxen/Music/Playlist/mp3/YTcracker - #Antisec (With Lyrics) _ cc0de-xDyBIpqZcNI.mp3
-/home/raxen/Music/Playlist/mp3/ZAYN, Sia - Dusk Till Dawn - Radio Edit.mp3
 /home/raxen/Music/Playlist/nightcore/Nightcore - Don't Hold Me (Dean Lewis) - (Lyrics)-9lmluV3LNeA.mkv
 /home/raxen/Music/Playlist/nightcore/Nightcore - Everyone Changes (Kodaline) - (Lyrics)-i_HqVK5wCcE.mkv
 /home/raxen/Music/Playlist/nightcore/Nightcore - Fake A Smile _ Alan Walker (Lyrics)-fuFxw4BKC7A.webm
@@ -1117,12 +1267,14 @@
 /home/raxen/Music/Playlist/Random/LET ME LOVE YOU - Justin Bieber - ATC, Alex Goot, & KHS Cover.webm
 /home/raxen/Music/Playlist/Random/Lewis_Capaldi_-_Before_You_Go_Lyrics.webm
 /home/raxen/Music/Playlist/Random/Lost_sky_fearless.mp3
+/home/raxen/Music/Playlist/Random/Manike Mage Hithe  මැණිකේ මගේ හිතේ  - Official Cover - Yohani & Satheeshan-PgCliOxl41o.webm
 /home/raxen/Music/Playlist/Random/Marshmello & Anne-Marie - FRIENDS (Music Video) _OFFICIAL FRIENDZONE ANTHEM-jzD_yyEcp0M.mp4
 /home/raxen/Music/Playlist/Random/Marshmello & Halsey - Be Kind (Official Music Video)-ePao0cTGG-o.mkv
 /home/raxen/Music/Playlist/Random/Mic Torrance - Call It Quits (Audio).webm
 /home/raxen/Music/Playlist/Random/Molly Kate Kestner - Prom Queen [Official Video].webm
 /home/raxen/Music/Playlist/Random/Nelly Furtado - Say It Right (Official Music Video)-6JnGBs88sL0.mkv
 /home/raxen/Music/Playlist/Random/Never Satisfied-2Ncu6f.webm
+/home/raxen/Music/Playlist/Random/Nina Simone - Don't Let Me Be Misunderstood-9ckv6-yhnIY.webm
 /home/raxen/Music/Playlist/Random/Ollie - Stuck.webm
 /home/raxen/Music/Playlist/Random/Passenger _ Let Her Go (Official Video).mkv
 /home/raxen/Music/Playlist/Random/Pat Benatar - Heartbreaker (Lyrics).mkv
@@ -1176,6 +1328,7 @@
 /home/raxen/Music/Playlist/Raxen_Gamer001/NF - CLOUDS.webm
 /home/raxen/Music/Playlist/Raxen_Gamer001/NF - LOST ft. Hopsin-fxrkhf17fU0.webm
 /home/raxen/Music/Playlist/Raxen_Gamer001/no body, no crime-Od.mkv
+/home/raxen/Music/Playlist/Raxen_Gamer001/Skylar Grey, Polo G, Mozzy, Eminem - Last One Standing (Lyric Video)-4haurn3S8z8.mkv
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - cowboy like me (Official Lyric Video).mkv
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - dorothea (Official Lyric Video).mkv
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - long story short (Official Lyric Video).mkv
@@ -1236,6 +1389,7 @@
 /home/raxen/Music/Tributes/Daredevil/Daredevil Tribute - Fallen Angel - Three Days Grace-t_a-Ao5sY-A.mkv
 /home/raxen/Music/Tributes/Five Feet Apart - Don't Give Up On Me-UjnDpcgJXvA.webm
 /home/raxen/Music/Tributes/Good_edit/'IT’S JUST A VIDEO GAME'-TRmU91YJFo4.webm
+/home/raxen/Music/Tributes/if you love someone, tell them _ multifandom [0IkX0qqZwCc].webm
 /home/raxen/Music/Tributes/John Wick Tribute _ SURVIVOR-Ij1778c7hUc.mkv
 /home/raxen/Music/Tributes/kingsman _ ain't going back-DwBM7QjOl7M.mp4
 /home/raxen/Music/Tributes/Logan/Logan - Suffering-4sOi5NDkVD8.mkv
@@ -1299,6 +1453,7 @@
 /home/raxen/Music/Tributes/Riverdale_tribute/jughead jones _ worst in me-qcWHdso2VMc.mkv
 /home/raxen/Music/Tributes/Riverdale_tribute/Jughead & Serpents - Born for This (Riverdale)-uBnXsie9CPY.mkv
 /home/raxen/Music/Tributes/Riverdale_tribute/Jughead_Sweet Pea _ Silence-UTAiEotxzgY.mkv
+/home/raxen/Music/Tributes/Riverdale_tribute/Jughead_Veronica_I_ve_seen_this_film_before.mkv
 /home/raxen/Music/Tributes/Riverdale_tribute/Jughead x Betty - Issues (Riverdale)-8z9FFemqZmo.webm
 /home/raxen/Music/Tributes/Riverdale_tribute/Jughead x Betty - Waves (Riverdale)-gP-qgOgAWvE.mkv
 /home/raxen/Music/Tributes/Riverdale_tribute/Lili Reinhart Shows Us the Last Thing on Her Phone _ Glamour-aDqgKsfE3LM.mkv
@@ -1324,6 +1479,7 @@
 /home/raxen/Music/Tributes/Riverdale_tribute/Riverdale Girls _ Toxic.-FaCOyk2En80.mkv
 /home/raxen/Music/Tributes/Riverdale_tribute/Riverdale _ Heathens (+1x10)-xbmgjRDhdvM.mkv
 /home/raxen/Music/Tributes/Riverdale_tribute/Riverdale - Lose You To Love Me-krhkhTzdB2M.webm
+/home/raxen/Music/Tributes/Riverdale_tribute/►riverdale; mad world [ZRQp-iUsL-I].webm
 /home/raxen/Music/Tributes/Riverdale_tribute/Riverdale _ Midnight Radio _ From - Hedwig and the Angry Inch Musical Episode (Official Video)-xLOCnRtwPAM.mkv
 /home/raxen/Music/Tributes/Riverdale_tribute/Riverdale _ Paralyzed-u4ACBfxBJJ0.mkv
 /home/raxen/Music/Tributes/Riverdale_tribute/Riverdale_play_with_fire.mp4
@@ -1345,11 +1501,13 @@
 /home/raxen/Music/Tributes/Sex_Education/Maeve & Otis - Another Love-XY5G2jyjvLA.mkv
 /home/raxen/Music/Tributes/Sex_Education/maeve&otis _ bad reputation.-M2v8Ohgdzbw.mp4
 /home/raxen/Music/Tributes/Sex_Education/Maeve & Otis _ ''It's always been you.'' (+S2)-ES6jDjKyg6k.mp4
+/home/raxen/Music/Tributes/Sex_Education/Maeve & Otis (S3) - Hold On I Still Want You-2lsGdwPRhR8.mp4
 /home/raxen/Music/Tributes/Sex_Education/Otis and Maeve - breathe [Sex Education season 3]-Rh9F4hjxHwo.mp4
 /home/raxen/Music/Tributes/Sex_Education/Otis and Maeve _ Lorde - Hard Feelings-Fd8gjkw-1Tk.mp4
 /home/raxen/Music/Tributes/Sex_Education/otis and maeve - you are the reason-iUwDLU0w1m4.webm
 /home/raxen/Music/Tributes/Sex_Education/Otis & Maeve _ Arcade [+S3]-3flJyhfAwys.mp4
 /home/raxen/Music/Tributes/Sex_Education/Otis & Maeve _ Hold on i still want you (+S2)-d6PGV4awGuk.mp4
+/home/raxen/Music/Tributes/Sex_Education/Otis & Maeve _ Let Her Go-PLB91dAoT9w.mkv
 /home/raxen/Music/Tributes/Sex_Education/Otis & Maeve _ The Night We Met [+S2]-GmmRxMWWGLg.webm
 /home/raxen/Music/Tributes/Sex_Education/Otis & Maeve - The Story So Far PART TWO _ Sex Education-BXKzkrxXE7c.mp4
 /home/raxen/Music/Tributes/Sex_Education/Otis & Maeve - We Could Have It All-BXWGtK2Ffno.mkv
@@ -1379,6 +1537,39 @@
 /home/raxen/Music/Weired/Meet the Scout-geNMz0J9TEQ.mkv
 /home/raxen/Music/Weired/Programmers anthem-vcz273os5jf61.mp4
 /home/raxen/Music/Weired/Trust me, i'm an engineer !-rp8hvyjZWHs.mkv
+/home/raxen/Music/Artists/Heathers/Big Fun - Heathers - The Musical +LYRICS-2Q1p89oUQUM.mp4
+/home/raxen/Music/Artists/Heathers/Meant to Be Yours - Heathers - The Musical +LYRICS-hD7x_7tUFNI.mp4
+/home/raxen/Music/Playlist/Game_OST/0ad-music/Ammon-Ra.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/An_old_Warhorse_goes_to_Pasture.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/Calm_Before_the_Storm.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/Celtica.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/Celtic_Pride.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/Dried_Tears.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/Elysian_Fields.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/First_Sighting.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/Forging_a_City-State.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/Harsh_Lands_Rugged_People.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/Harvest Festival.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/Helen Leaves Sparta.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/Highland_Mist.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/Honor_Bound.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/In_the_Shadow_of_Olympus.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/Juno_Protect_You.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/Karmic Confluence.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/Land_between_the_two_Seas.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/Mediterranean_Waves.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/Peaks_of_Atlas.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/Rise of Macedon.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/Sands_of_Time.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/Tavern_in_the_Mist.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/The_Hellespont.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/The_Road_Ahead.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/You_are_Victorious!.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/Cisalpine_Gaul.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/Eastern_Dreams.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/Elusive_Predator.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/Valley_of_the_Nile.mp3
+/home/raxen/Music/Playlist/Game_OST/0ad-music/Water's_Edge.mp3
 /home/raxen/Music/Artists/Heathers The Musical/Beautiful.mp3
 /home/raxen/Music/Artists/Heathers The Musical/Candy Store.mp3
 /home/raxen/Music/Artists/Heathers The Musical/Fight for Me.mp3
@@ -1399,50 +1590,30 @@
 /home/raxen/Music/Artists/Heathers The Musical/Dead Girl Walking (Reprise).mp3
 /home/raxen/Music/Artists/Heathers The Musical/I Am Damaged.mp3
 /home/raxen/Music/Artists/Heathers The Musical/Seventeen (Reprise).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/03 50 Cent feat. Eminem - Patiently Waiting.mp3
-/home/raxen/Music/Playlist/mp3/03 50 Cent feat. Eminem - Patiently Waiting.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/50 Cent, Eminem - Patiently Waiting.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/04 50 Cent - Many Men (Wish Death).mp3
-/home/raxen/Music/Playlist/mp3/04 50 Cent - Many Men (Wish Death).mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/50 Cent - Many Men (Wish Death).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/14 50 Cent feat. Lloyd Banks of G Unit & Eminem - Don't Push Me.mp3
-/home/raxen/Music/Playlist/mp3/14 50 Cent feat. Lloyd Banks of G Unit & Eminem - Don't Push Me.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/50 Cent, Lloyd Banks, Eminem - Don't Push Me.mp3
 /home/raxen/Music/Music-Videos/50 Cent - Many Men (Wish Death) (Dirty Version)-5D3crqpClPY.mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Teeth.mp3
-/home/raxen/Music/Playlist/mp3/01 Teeth.mp3
 /home/raxen/Music/Playlist/Random/5 Seconds of Summer - Teeth.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Bury Me Low.mp3
-/home/raxen/Music/Playlist/mp3/01 Bury Me Low.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/05 T.N.T..mp3
-/home/raxen/Music/Playlist/mp3/05 T.N.T..mp3
 /home/raxen/Music/Playlist/Random/ACDC - T.N.T..mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Highway to Hell.mp3
-/home/raxen/Music/Playlist/mp3/01 Highway to Hell.mp3
 /home/raxen/Music/Playlist/Random/ACDC - Highway to Hell.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Hello.mp3
-/home/raxen/Music/Playlist/mp3/01 Hello.mp3
 /home/raxen/Music/Playlist/Random/Adele - Hello.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/AG, Claire Wyndham - My Love Will Never Die.mp3
-/home/raxen/Music/Playlist/mp3/AG, Claire Wyndham - My Love Will Never Die.mp3
 /home/raxen/Music/Playlist/Random/AG, Claire Wyndham - My Love Will Never Die.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Gravity.mp3
-/home/raxen/Music/Playlist/mp3/01 Gravity.mp3
 /home/raxen/Music/Playlist/pop/Against The Current - Talk (Official Music Video)-AqQbZcKQCnE.mp4
 /home/raxen/Music/Playlist/pop/Against The Current - Another You (Another Way) (Official Music Video)-hXnbOA0G9Cc.mp4
 /home/raxen/Music/Playlist/pop/Against The Current - Fireproof (Official Music Video)-XOYA64szbmI.mp4
-/home/raxen/Music/Artists/Against_The_Current/Against the Current - In Our Bones (2016) [MP3~320Kbps]~[Hunter] [FRG]/Against the Current - In Our Bones (2016)/01. Running With The Wild Things.mp3
-/home/raxen/Music/Artists/Against_The_Current/Against the Current - In Our Bones (2016) [MP3~320Kbps]~[Hunter] [FRG]/Against the Current - In Our Bones (2016)/02. Forget Me Now.mp3
-/home/raxen/Music/Artists/Against_The_Current/Against the Current - In Our Bones (2016) [MP3~320Kbps]~[Hunter] [FRG]/Against the Current - In Our Bones (2016)/03. Chasing Ghosts.mp3
-/home/raxen/Music/Artists/Against_The_Current/Against the Current - In Our Bones (2016) [MP3~320Kbps]~[Hunter] [FRG]/Against the Current - In Our Bones (2016)/04. One More Weekend.mp3
-/home/raxen/Music/Artists/Against_The_Current/Against the Current - In Our Bones (2016) [MP3~320Kbps]~[Hunter] [FRG]/Against the Current - In Our Bones (2016)/05. In Our Bones.mp3
-/home/raxen/Music/Artists/Against_The_Current/Against the Current - In Our Bones (2016) [MP3~320Kbps]~[Hunter] [FRG]/Against the Current - In Our Bones (2016)/06. Young & Relentless.mp3
-/home/raxen/Music/Artists/Against_The_Current/Against the Current - In Our Bones (2016) [MP3~320Kbps]~[Hunter] [FRG]/Against the Current - In Our Bones (2016)/07. Runaway.mp3
-/home/raxen/Music/Artists/Against_The_Current/Against the Current - In Our Bones (2016) [MP3~320Kbps]~[Hunter] [FRG]/Against the Current - In Our Bones (2016)/08. Brighter.mp3
-/home/raxen/Music/Artists/Against_The_Current/Against the Current - In Our Bones (2016) [MP3~320Kbps]~[Hunter] [FRG]/Against the Current - In Our Bones (2016)/09. Wasteland.mp3
-/home/raxen/Music/Artists/Against_The_Current/Against the Current - In Our Bones (2016) [MP3~320Kbps]~[Hunter] [FRG]/Against the Current - In Our Bones (2016)/10. Blood Like Gasoline.mp3
-/home/raxen/Music/Artists/Against_The_Current/Against the Current - In Our Bones (2016) [MP3~320Kbps]~[Hunter] [FRG]/Against the Current - In Our Bones (2016)/11. Roses.mp3
-/home/raxen/Music/Artists/Against_The_Current/Against the Current - In Our Bones (2016) [MP3~320Kbps]~[Hunter] [FRG]/Against the Current - In Our Bones (2016)/12. Demons.mp3
+/home/raxen/Music/Artists/Against_The_Current/Against the Current - In Our Bones (2016) [MP3~320Kbps]~[Hunter] [FRG]/Against the Current - In Our Bones (2016)/01 Running With The Wild Things.mp3
+/home/raxen/Music/Artists/Against_The_Current/Against the Current - In Our Bones (2016) [MP3~320Kbps]~[Hunter] [FRG]/Against the Current - In Our Bones (2016)/02 Forget Me Now.mp3
+/home/raxen/Music/Artists/Against_The_Current/Against the Current - In Our Bones (2016) [MP3~320Kbps]~[Hunter] [FRG]/Against the Current - In Our Bones (2016)/03 Chasing Ghosts.mp3
+/home/raxen/Music/Artists/Against_The_Current/Against the Current - In Our Bones (2016) [MP3~320Kbps]~[Hunter] [FRG]/Against the Current - In Our Bones (2016)/04 One More Weekend.mp3
+/home/raxen/Music/Artists/Against_The_Current/Against the Current - In Our Bones (2016) [MP3~320Kbps]~[Hunter] [FRG]/Against the Current - In Our Bones (2016)/05 In Our Bones.mp3
+/home/raxen/Music/Artists/Against_The_Current/Against the Current - In Our Bones (2016) [MP3~320Kbps]~[Hunter] [FRG]/Against the Current - In Our Bones (2016)/06 Young & Relentless.mp3
+/home/raxen/Music/Artists/Against_The_Current/Against the Current - In Our Bones (2016) [MP3~320Kbps]~[Hunter] [FRG]/Against the Current - In Our Bones (2016)/07 Runaway.mp3
+/home/raxen/Music/Artists/Against_The_Current/Against the Current - In Our Bones (2016) [MP3~320Kbps]~[Hunter] [FRG]/Against the Current - In Our Bones (2016)/08 Brighter.mp3
+/home/raxen/Music/Artists/Against_The_Current/Against the Current - In Our Bones (2016) [MP3~320Kbps]~[Hunter] [FRG]/Against the Current - In Our Bones (2016)/09 Wasteland.mp3
+/home/raxen/Music/Artists/Against_The_Current/Against the Current - In Our Bones (2016) [MP3~320Kbps]~[Hunter] [FRG]/Against the Current - In Our Bones (2016)/10 Blood Like Gasoline.mp3
+/home/raxen/Music/Artists/Against_The_Current/Against the Current - In Our Bones (2016) [MP3~320Kbps]~[Hunter] [FRG]/Against the Current - In Our Bones (2016)/11 Roses.mp3
+/home/raxen/Music/Artists/Against_The_Current/Against the Current - In Our Bones (2016) [MP3~320Kbps]~[Hunter] [FRG]/Against the Current - In Our Bones (2016)/12 Demons.mp3
 /home/raxen/Music/Playlist/pop/Against The Current - Wasteland [OFFICIAL VIDEO]-Lm-rpaWkONI.mp4
 /home/raxen/Music/Artists/Against_The_Current/Against The Current - Past Lives (2018) [320]/01 Strangers Again.mp3
 /home/raxen/Music/Artists/Against_The_Current/Against The Current - Past Lives (2018) [320]/02 The Fuss.mp3
@@ -1455,109 +1626,98 @@
 /home/raxen/Music/Artists/Against_The_Current/Against The Current - Past Lives (2018) [320]/09 Friendly Reminder.mp3
 /home/raxen/Music/Artists/Against_The_Current/Against The Current - Past Lives (2018) [320]/10 Come Alive.mp3
 /home/raxen/Music/Artists/Against_The_Current/Against The Current - Past Lives (2018) [320]/11 Sweet Surrender.mp3
-/home/raxen/Music/Artists/Against_The_Current/Against The Current - fever (2021) Mp3 320kbps [PMEDIA] ⭐️/1. that won't save us.mp3
-/home/raxen/Music/Artists/Against_The_Current/Against The Current - fever (2021) Mp3 320kbps [PMEDIA] ⭐️/2. weapon.mp3
-/home/raxen/Music/Artists/Against_The_Current/Against The Current - fever (2021) Mp3 320kbps [PMEDIA] ⭐️/3. again&again.mp3
-/home/raxen/Music/Artists/Against_The_Current/Against The Current - fever (2021) Mp3 320kbps [PMEDIA] ⭐️/4. jump.mp3
-/home/raxen/Music/Artists/Against_The_Current/Against The Current - fever (2021) Mp3 320kbps [PMEDIA] ⭐️/5. shatter.mp3
-/home/raxen/Music/Artists/Against_The_Current/Against The Current - fever (2021) Mp3 320kbps [PMEDIA] ⭐️/6. burn it down.mp3
-/home/raxen/Music/Artists/Against_The_Current/Against The Current - fever (2021) Mp3 320kbps [PMEDIA] ⭐️/7. lullaby.mp3
+/home/raxen/Music/Artists/Against_The_Current/Against The Current - fever (2021) Mp3 320kbps [PMEDIA] ⭐️/01 that won't save us.mp3
+/home/raxen/Music/Artists/Against_The_Current/Against The Current - fever (2021) Mp3 320kbps [PMEDIA] ⭐️/02 weapon.mp3
+/home/raxen/Music/Artists/Against_The_Current/Against The Current - fever (2021) Mp3 320kbps [PMEDIA] ⭐️/03 again&again.mp3
+/home/raxen/Music/Artists/Against_The_Current/Against The Current - fever (2021) Mp3 320kbps [PMEDIA] ⭐️/04 jump.mp3
+/home/raxen/Music/Artists/Against_The_Current/Against The Current - fever (2021) Mp3 320kbps [PMEDIA] ⭐️/05 shatter.mp3
+/home/raxen/Music/Artists/Against_The_Current/Against The Current - fever (2021) Mp3 320kbps [PMEDIA] ⭐️/06 burn it down.mp3
+/home/raxen/Music/Artists/Against_The_Current/Against The Current - fever (2021) Mp3 320kbps [PMEDIA] ⭐️/07 lullaby.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Static Jaws.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/03 Akon feat. Eminem - Smack That.mp3
-/home/raxen/Music/Playlist/mp3/03 Akon feat. Eminem - Smack That.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Akon, Eminem - Smack That.mp3
-/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - Narrated For You (2018) Mp3 Album 320kbps Quality [PMEDIA]/1. If We Have Each Other.mp3
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - Narrated For You (2018) Mp3 Album 320kbps Quality [PMEDIA]/01 If We Have Each Other.mp3
 /home/raxen/Music/Playlist/pop/Alec Benjamin If We Have Each Other.mp3
-/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - Narrated For You (2018) Mp3 Album 320kbps Quality [PMEDIA]/2. Water Fountain.mp3
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - Narrated For You (2018) Mp3 Album 320kbps Quality [PMEDIA]/02 Water Fountain.mp3
 /home/raxen/Music/Playlist/pop/Alec Benjamin Water Fountain.mp3
-/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - Narrated For You (2018) Mp3 Album 320kbps Quality [PMEDIA]/3. Annabelle's Homework.mp3
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - Narrated For You (2018) Mp3 Album 320kbps Quality [PMEDIA]/03 Annabelle's Homework.mp3
 /home/raxen/Music/Playlist/pop/Alec Benjamin Annabelle's Homework.mp3
-/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - Narrated For You (2018) Mp3 Album 320kbps Quality [PMEDIA]/4. Let Me Down Slowly.mp3
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - Narrated For You (2018) Mp3 Album 320kbps Quality [PMEDIA]/04 Let Me Down Slowly.mp3
 /home/raxen/Music/Playlist/pop/Alec Benjamin Let Me Down Slowly.mp3
-/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - Narrated For You (2018) Mp3 Album 320kbps Quality [PMEDIA]/5. Swim.mp3
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - Narrated For You (2018) Mp3 Album 320kbps Quality [PMEDIA]/05 Swim.mp3
 /home/raxen/Music/Playlist/pop/Alec Benjamin Swim.mp3
-/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - Narrated For You (2018) Mp3 Album 320kbps Quality [PMEDIA]/6. Boy In The Bubble.mp3
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - Narrated For You (2018) Mp3 Album 320kbps Quality [PMEDIA]/06 Boy In The Bubble.mp3
 /home/raxen/Music/Playlist/pop/Alec Benjamin Boy In The Bubble.mp3
-/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - Narrated For You (2018) Mp3 Album 320kbps Quality [PMEDIA]/7. Steve.mp3
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - Narrated For You (2018) Mp3 Album 320kbps Quality [PMEDIA]/07 Steve.mp3
 /home/raxen/Music/Playlist/pop/Alec Benjamin Steve.mp3
-/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - Narrated For You (2018) Mp3 Album 320kbps Quality [PMEDIA]/8. Gotta Be A Reason.mp3
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - Narrated For You (2018) Mp3 Album 320kbps Quality [PMEDIA]/08 Gotta Be A Reason.mp3
 /home/raxen/Music/Playlist/pop/Alec Benjamin Gotta Be A Reason.mp3
-/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - Narrated For You (2018) Mp3 Album 320kbps Quality [PMEDIA]/9. Outrunning Karma.mp3
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - Narrated For You (2018) Mp3 Album 320kbps Quality [PMEDIA]/09 Outrunning Karma.mp3
 /home/raxen/Music/Playlist/pop/Alec Benjamin Outrunning Karma.mp3
-/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - Narrated For You (2018) Mp3 Album 320kbps Quality [PMEDIA]/10. If I Killed Someone For You.mp3
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - Narrated For You (2018) Mp3 Album 320kbps Quality [PMEDIA]/10 If I Killed Someone For You.mp3
 /home/raxen/Music/Playlist/pop/Alec Benjamin If I Killed Someone For You.mp3
-/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - Narrated For You (2018) Mp3 Album 320kbps Quality [PMEDIA]/11. Death Of A Hero.mp3
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - Narrated For You (2018) Mp3 Album 320kbps Quality [PMEDIA]/11 Death Of A Hero.mp3
 /home/raxen/Music/Playlist/pop/Alec Benjamin Death Of A Hero.mp3
-/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - Narrated For You (2018) Mp3 Album 320kbps Quality [PMEDIA]/12. 1994.mp3
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - Narrated For You (2018) Mp3 Album 320kbps Quality [PMEDIA]/12 1994.mp3
 /home/raxen/Music/Playlist/pop/Alec Benjamin 1994.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/09 Outrunning Karma.mp3
-/home/raxen/Music/Playlist/mp3/09 Outrunning Karma.mp3
-/home/raxen/Music/Artists/Alec_Benjamin/Narrated_For_You/Alec Benjamin - Annabelle's Homework [Official Lyric Video]-4BmvcfiW7nQ.mp4
-/home/raxen/Music/Artists/Alec_Benjamin/Narrated_For_You/Alec Benjamin - Swim [Official Lyric Video]-aKKQdn26QJc.mp4
-/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/01. Mind Is A Prison.mp3
+/home/raxen/Music/Artists/Alec_Benjamin/Narrated_For_You/03 Annabelle's Homework.mp4
+/home/raxen/Music/Artists/Alec_Benjamin/Narrated_For_You/05 Swim.mp4
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows (2020) Flac/01 - Mind Is A Prison.flac
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows (2020) Flac/02 - Demons.flac
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows (2020) Flac/03 - Oh My God.flac
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows (2020) Flac/04 - The Book of You & I.flac
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows (2020) Flac/05 - Match In The Rain.flac
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows (2020) Flac/06 - Jesus in LA.flac
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows (2020) Flac/07 - I'm Not A Cynic.flac
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows (2020) Flac/08 - Alamo.flac
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows (2020) Flac/09 - Must Have Been The Wind.flac
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows (2020) Flac/10 - Just Like You.flac
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/01 Mind Is A Prison.mp3
 /home/raxen/Music/Playlist/pop/Alec Benjamin Mind Is A Prison.mp3
-/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/02. Demons.mp3
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/02 Demons.mp3
 /home/raxen/Music/Playlist/pop/Alec Benjamin Demons.mp3
-/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/03. Oh My God.mp3
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/03 Oh My God.mp3
 /home/raxen/Music/Playlist/pop/Alec Benjamin Oh My God.mp3
-/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/04. The Book of You & I.mp3
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/04 The Book of You & I.mp3
 /home/raxen/Music/Playlist/pop/Alec Benjamin The Book of You & I.mp3
-/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/05. Match In The Rain.mp3
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/05 Match In The Rain.mp3
 /home/raxen/Music/Playlist/pop/Alec Benjamin Match In The Rain.mp3
-/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/06. Jesus In LA.mp3
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/06 Jesus In LA.mp3
 /home/raxen/Music/Playlist/pop/Alec Benjamin Jesus In LA.mp3
-/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/07. I'm Not A Cynic.mp3
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/07 I'm Not A Cynic.mp3
 /home/raxen/Music/Playlist/pop/Alec Benjamin I'm Not A Cynic.mp3
-/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/08. Alamo.mp3
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/08 Alamo.mp3
 /home/raxen/Music/Playlist/pop/Alec Benjamin Alamo.mp3
-/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/09. Must Have Been The Wind.mp3
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/09 Must Have Been The Wind.mp3
 /home/raxen/Music/Playlist/pop/Alec Benjamin Must Have Been The Wind.mp3
-/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/10. Just Like You.mp3
+/home/raxen/Music/Artists/Alec_Benjamin/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/Alec Benjamin - These Two Windows  Pop~ Album~(2020) [320]  kbps Beats⭐/10 Just Like You.mp3
 /home/raxen/Music/Playlist/pop/Alec Benjamin Just Like You.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Once in a Lifetime.mp3
-/home/raxen/Music/Playlist/mp3/01 Once in a Lifetime.mp3
-/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/01. Anais Mitchell - Wedding Song.flac
-/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/02. Anais Mitchell - Epic (Part One).flac
-/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/03. Anais Mitchell - Way Down Hadestown.flac
-/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/04. Anais Mitchell - Songbird (Intro).flac
-/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/05. Anais Mitchell - Hey, Little Songbird.flac
-/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/06. Anais Mitchell - Gone, I'm Gone.flac
-/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/07. Anais Mitchell - When The Chips Are Down.flac
-/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/08. Anais Mitchell - Wait For Me.flac
-/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/09. Anais Mitchell - Why We Build The Wall.flac
-/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/10. Anais Mitchell - Our Lady Of The Underground.flac
-/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/11. Anais Mitchell - Flowers (Eurydice's Song).flac
-/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/12. Anais Mitchell - Nothing Changes.flac
-/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/13. Anais Mitchell - If It's True.flac
-/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/14. Anais Mitchell - Papers (Hades Finds Out).flac
-/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/15. Anais Mitchell - How Long .flac
-/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/16. Anais Mitchell - Epic (Part Two).flac
-/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/17. Anais Mitchell - Lover's Desire.flac
-/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/18. Anais Mitchell - His Kiss, The Riot.flac
-/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/19. Anais Mitchell - Doubt Comes In.flac
-/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/20. Anais Mitchell - I Raise My Cup To Him.flac
-/home/raxen/Music/Artists/Taylor_Swift/mp3/09 Hadestown Original Broadway Company - Way Down Hadestown.mp3
-/home/raxen/Music/Playlist/mp3/09 Hadestown Original Broadway Company - Way Down Hadestown.mp3
+/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/Wedding Song.flac
+/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/Epic (Part One).flac
+/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/Way Down Hadestown.flac
+/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/Songbird (Intro).flac
+/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/Hey, Little Songbird.flac
+/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/Gone, I'm Gone.flac
+/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/When The Chips Are Down.flac
+/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/Wait For Me.flac
+/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/Why We Build The Wall.flac
+/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/Our Lady Of The Underground.flac
+/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/Flowers (Eurydice's Song).flac
+/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/Nothing Changes.flac
+/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/If It's True.flac
+/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/Papers (Hades Finds Out).flac
+/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/How Long.flac
+/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/Epic (Part Two).flac
+/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/Lover's Desire.flac
+/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/His Kiss, The Riot.flac
+/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/Doubt Comes In.flac
+/home/raxen/Music/Artists/HadesTown/Anais Mitchell...Hadestown(2010)[FLAC]/I Raise My Cup To Him.flac
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/01 Sleepless Nights.mp3
 /home/raxen/Music/Playlist/Random/Ariana Grande - 7 rings.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/10 7 rings (1).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/10 7 rings.mp3
-/home/raxen/Music/Playlist/mp3/10 7 rings (1).mp3
-/home/raxen/Music/Playlist/mp3/10 7 rings.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Ariana Grande - 7 rings.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Don't Call Me Angel (Charlie's Angels).mp3
-/home/raxen/Music/Playlist/mp3/01 Don't Call Me Angel (Charlie's Angels).mp3
 /home/raxen/Music/Playlist/Random/Ariana Grande - Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Turn It Up.mp3
-/home/raxen/Music/Playlist/mp3/01 Turn It Up.mp3
 /home/raxen/Music/Playlist/Random/Armin van Buuren - Turn It Up - Gian Varela Remix.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 I'm an Albatraoz.mp3
-/home/raxen/Music/Playlist/mp3/01 I'm an Albatraoz.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/AronChupa - I'm an Albatraoz.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/20 Sweet but Psycho (acoustic).mp3
-/home/raxen/Music/Playlist/mp3/20 Sweet but Psycho (acoustic).mp3
 /home/raxen/Music/Playlist/Random/Ava Max - Sweet but Psycho.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 PSYCHO.mp3
-/home/raxen/Music/Playlist/mp3/01 PSYCHO.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Frenemy.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Hang Out.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Chasing Cars.mp3
@@ -1570,858 +1730,721 @@
 /home/raxen/Music/Playlist/Lofi_hip_hop/Hundo P.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/More Than Just A Friend.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Down By The River.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Bad Meets Evil - Fast Lane.mp3
-/home/raxen/Music/Playlist/mp3/02 Bad Meets Evil - Fast Lane.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Bad Meets Evil - Fast Lane.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/07 Bad Meets Evil feat. Bruno Mars - Lighters.mp3
-/home/raxen/Music/Playlist/mp3/07 Bad Meets Evil feat. Bruno Mars - Lighters.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Bad Meets Evil, Bruno Mars - Lighters.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/01-bad_meets_evil-welcome_2_hell-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/02-bad_meets_evil-fast_lane-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/03-bad_meets_evil-the_reunion-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/04-bad_meets_evil-above_the_law-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/05-bad_meets_evil-i'm_on_everything_(feat_mike_epps)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/06-bad_meets_evil-a_kiss-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/07-bad_meets_evil-lighters_(feat_bruno_mars)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/08-bad_meets_evil-take_from_me-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/09-bad_meets_evil-loud_noises_(feat_slaughterhouse)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/10-bad_meets_evil-living_proof_(bonus)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/11-bad_meets_evil-echo_(bonus)-fum.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/Welcome 2 Hell.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/Fast Lane.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/The Reunion.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/Above The Law.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/I'm On Everything (feat Mike Epps).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/A Kiss.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/Lighters (feat Bruno Mars).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/Take From Me.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/Loud Noises (feat Slaughterhouse).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/Living Proof (Bonus).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bad_Meets_Evil-Hell_The_Sequel-EP-2011-FUM/Echo (Bonus).mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Vinyl Flower.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Cucumber.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Call For Spring.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/We need to eat kale.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Wine on a Wednesday.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Mine.mp3
-/home/raxen/Music/Playlist/mp3/01 Mine.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Bebe Rexha - I'm a Mess.mp3
-/home/raxen/Music/Playlist/mp3/02 Bebe Rexha - I'm a Mess.mp3
 /home/raxen/Music/Playlist/Random/Bebe Rexha - I'm A Mess [Official Music Video]-LdH7aFjDzjI.mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/03 Southern Gürl.mp3
-/home/raxen/Music/Playlist/mp3/03 Southern Gürl.mp3
 /home/raxen/Music/Playlist/Random/Ed Sheeran - Galway Girl [Official Music Video]-87gWaABqGYs.mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Billie Eilish - COPYCAT.mp3
-/home/raxen/Music/Playlist/mp3/01 Billie Eilish - COPYCAT.mp3
 /home/raxen/Music/Playlist/Random/Billie Eilish - bad guy.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 bad guy.mp3
-/home/raxen/Music/Playlist/mp3/02 bad guy.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/10 bury a friend.mp3
-/home/raxen/Music/Playlist/mp3/10 bury a friend.mp3
 /home/raxen/Music/Playlist/Random/Billie Eilish - bury a friend.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/06 Blackbear - Idfc.mp3
-/home/raxen/Music/Playlist/mp3/06 Blackbear - Idfc.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 hot girl bummer.mp3
-/home/raxen/Music/Playlist/mp3/01 hot girl bummer.mp3
 /home/raxen/Music/Playlist/Random/blackbear - hot girl bummer.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Kill This Love.mp3
-/home/raxen/Music/Playlist/mp3/01 Kill This Love (1).mp3
-/home/raxen/Music/Playlist/mp3/01 Kill This Love.mp3
 /home/raxen/Music/Playlist/Random/BLACKPINK - Kill This Love.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/BLACKPINK - Kill This Love.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Alpha.mp3
-/home/raxen/Music/Playlist/mp3/01 Alpha.mp3
 /home/raxen/Music/Playlist/Random/Little Destroyer - Alpha.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Britney Spears - Work Bitch.mp3
-/home/raxen/Music/Playlist/mp3/02 Britney Spears - Work Bitch.mp3
 /home/raxen/Music/Playlist/Random/Britney Spears - Work Bitch.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Sunset.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/04 Camila Cabello feat. Young Thug - Havana.mp3
-/home/raxen/Music/Playlist/mp3/04 Camila Cabello feat. Young Thug - Havana (1).mp3
-/home/raxen/Music/Playlist/mp3/04 Camila Cabello feat. Young Thug - Havana.mp3
 /home/raxen/Music/Playlist/Random/Camila Cabello - Havana (feat. Young Thug).mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Camila Cabello - Havana (feat. Young Thug).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Easy.mp3
-/home/raxen/Music/Playlist/mp3/01 Easy.mp3
 /home/raxen/Music/Playlist/Random/Camila Cabello - Easy.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/08 devil town.mp3
-/home/raxen/Music/Playlist/mp3/08 devil town.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bassmint_Productions-Steppin_On_To_The_Scene-EP-1990-FUM/03-chaos_kid-style-o-maniac-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bassmint_Productions-Steppin_On_To_The_Scene-EP-1990-FUM/05-chaos_kid-lord_have_mercy-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Soul_Intent-Still_In_The_Bassmint-EP-1992-FUM/02-chaos_kid-the_day_it_dawned-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Soul_Intent-Still_In_The_Bassmint-EP-1992-FUM/04-chaos_kid-conceptual_corrections-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bassmint_Productions-Steppin_On_To_The_Scene-EP-1990-FUM/04-chaos_kid_and_delirious_d.-enuff_is_enuff-fum.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/05 Charlie Puth feat. Selena Gomez - We Don't Talk Anymore.mp3
-/home/raxen/Music/Playlist/mp3/05 Charlie Puth feat. Selena Gomez - We Don't Talk Anymore.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bassmint_Productions-Steppin_On_To_The_Scene-EP-1990-FUM/Style-O-Maniac.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bassmint_Productions-Steppin_On_To_The_Scene-EP-1990-FUM/Lord Have Mercy.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Soul_Intent-Still_In_The_Bassmint-EP-1992-FUM/The Day It Dawned.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Soul_Intent-Still_In_The_Bassmint-EP-1992-FUM/Conceptual Corrections.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bassmint_Productions-Steppin_On_To_The_Scene-EP-1990-FUM/Enuff Is Enuff.mp3
 /home/raxen/Music/Playlist/Random/Charlie Puth - We Don't Talk Anymore (feat. Selena Gomez).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Charlie Puth - Attention.mp3
-/home/raxen/Music/Playlist/mp3/02 Charlie Puth - Attention.mp3
 /home/raxen/Music/Playlist/Random/Charlie Puth - Attention.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Hands Up.mp3
-/home/raxen/Music/Playlist/mp3/01 Hands Up.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Protector.mp3
-/home/raxen/Music/Playlist/mp3/02 Protector.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/07 walking in the rain to a café to write down private thoughts in public.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/04 City Girl - Always in Reverse.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/10 City Girl - Château Fountain.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/08 Shop Windows and Amber Reflections.mp3
 /home/raxen/Music/Playlist/Random/City Wolf - Hands Up.mp3
 /home/raxen/Music/Playlist/Random/City Wolf - Protector.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Rockabye.mp3
-/home/raxen/Music/Playlist/mp3/01 Rockabye.mp3
 /home/raxen/Music/Playlist/Random/Clean Bandit - Rockabye (feat. Sean Paul & Anne-Marie).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Symphony.mp3
-/home/raxen/Music/Playlist/mp3/01 Symphony.mp3
 /home/raxen/Music/Playlist/Random/Clean Bandit - Symphony (feat. Zara Larsson).mp3
-/home/raxen/Music/Artists/Conan_Gray/Conan Gray - Kid Krow (2020) MP3 (320 Kbps) [www.MusicalWorld.co]/01 - Comfort Crowd.mp3
-/home/raxen/Music/Artists/Conan_Gray/Conan Gray - Kid Krow (2020) MP3 (320 Kbps) [www.MusicalWorld.co]/02 - Wish You Were Sober.mp3
-/home/raxen/Music/Artists/Conan_Gray/Conan Gray - Kid Krow (2020) MP3 (320 Kbps) [www.MusicalWorld.co]/03 - Maniac.mp3
-/home/raxen/Music/Artists/Conan_Gray/Conan Gray - Kid Krow (2020) MP3 (320 Kbps) [www.MusicalWorld.co]/04 - (Online Love).mp3
-/home/raxen/Music/Artists/Conan_Gray/Conan Gray - Kid Krow (2020) MP3 (320 Kbps) [www.MusicalWorld.co]/05 - Checkmate.mp3
-/home/raxen/Music/Artists/Conan_Gray/Conan Gray - Kid Krow (2020) MP3 (320 Kbps) [www.MusicalWorld.co]/06 - The Cut That Always Bleeds.mp3
-/home/raxen/Music/Artists/Conan_Gray/Conan Gray - Kid Krow (2020) MP3 (320 Kbps) [www.MusicalWorld.co]/07 - Fight or Flight.mp3
-/home/raxen/Music/Artists/Conan_Gray/Conan Gray - Kid Krow (2020) MP3 (320 Kbps) [www.MusicalWorld.co]/08 - Affluenza.mp3
-/home/raxen/Music/Artists/Conan_Gray/Conan Gray - Kid Krow (2020) MP3 (320 Kbps) [www.MusicalWorld.co]/09 - (Can We Be Friends_).mp3
-/home/raxen/Music/Artists/Conan_Gray/Conan Gray - Kid Krow (2020) MP3 (320 Kbps) [www.MusicalWorld.co]/10 - Heather.mp3
-/home/raxen/Music/Artists/Conan_Gray/Conan Gray - Kid Krow (2020) MP3 (320 Kbps) [www.MusicalWorld.co]/11 - Little League.mp3
-/home/raxen/Music/Artists/Conan_Gray/Conan Gray - Kid Krow (2020) MP3 (320 Kbps) [www.MusicalWorld.co]/12 - The Story.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Never Satisfied.mp3
-/home/raxen/Music/Playlist/mp3/01 Never Satisfied.mp3
+/home/raxen/Music/Artists/Conan_Gray/Conan Gray - Kid Krow (2020) MP3 (320 Kbps) [www.MusicalWorld.co]/01 Comfort Crowd.mp3
+/home/raxen/Music/Artists/Conan_Gray/Conan Gray - Kid Krow (2020) MP3 (320 Kbps) [www.MusicalWorld.co]/02 Wish You Were Sober.mp3
+/home/raxen/Music/Artists/Conan_Gray/Conan Gray - Kid Krow (2020) MP3 (320 Kbps) [www.MusicalWorld.co]/03 Maniac.mp3
+/home/raxen/Music/Artists/Conan_Gray/Conan Gray - Kid Krow (2020) MP3 (320 Kbps) [www.MusicalWorld.co]/04 (Online Love).mp3
+/home/raxen/Music/Artists/Conan_Gray/Conan Gray - Kid Krow (2020) MP3 (320 Kbps) [www.MusicalWorld.co]/05 Checkmate.mp3
+/home/raxen/Music/Artists/Conan_Gray/Conan Gray - Kid Krow (2020) MP3 (320 Kbps) [www.MusicalWorld.co]/06 The Cut That Always Bleeds.mp3
+/home/raxen/Music/Artists/Conan_Gray/Conan Gray - Kid Krow (2020) MP3 (320 Kbps) [www.MusicalWorld.co]/07 Fight or Flight.mp3
+/home/raxen/Music/Artists/Conan_Gray/Conan Gray - Kid Krow (2020) MP3 (320 Kbps) [www.MusicalWorld.co]/08 Affluenza.mp3
+/home/raxen/Music/Artists/Conan_Gray/Conan Gray - Kid Krow (2020) MP3 (320 Kbps) [www.MusicalWorld.co]/09 (Can We Be Friends_).mp3
+/home/raxen/Music/Artists/Conan_Gray/Conan Gray - Kid Krow (2020) MP3 (320 Kbps) [www.MusicalWorld.co]/10 Heather.mp3
+/home/raxen/Music/Artists/Conan_Gray/Conan Gray - Kid Krow (2020) MP3 (320 Kbps) [www.MusicalWorld.co]/11 Little League.mp3
+/home/raxen/Music/Artists/Conan_Gray/Conan Gray - Kid Krow (2020) MP3 (320 Kbps) [www.MusicalWorld.co]/12 The Story.mp3
 /home/raxen/Music/Playlist/Badass-songs/🌧️ 𝘢𝘨𝘰𝘳𝘢𝘱𝘩𝘰𝘣𝘪𝘤 🌧️-ra.mp4
 /home/raxen/Music/Playlist/Unique/agoraphobic.mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/05 Trouble.mp3
-/home/raxen/Music/Playlist/mp3/05 Trouble.mp3
 /home/raxen/Music/Playlist/Random/CRMNL - Trouble.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/D12-The_Underground_EP-1997-FUM/01-d12-6_reasons-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/D12-The_Underground_EP-1997-FUM/02-d12-art_of_war-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/D12-The_Underground_EP-1997-FUM/03-d12-derelict_theme-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/D12-The_Underground_EP-1997-FUM/04-d12-chance_to_advance-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/D12-The_Underground_EP-1997-FUM/05-d12-activity_as_phuctivity-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/D12-The_Underground_EP-1997-FUM/06-d12-filthy-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/D12-The_Underground_EP-1997-FUM/07-d12-fuck_battlin-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/D12-The_Underground_EP-1997-FUM/08-d12-cock_and_squeeze-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/D12-The_Underground_EP-1997-FUM/09-d12-bring_our_boys-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/D12-The_Underground_EP-1997-FUM/10-d12-bad_news-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/D12-The_Underground_EP-1997-FUM/11-d12-take_the_whole_world_with_me-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/101-d12-another_public_service_announcement-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/102-d12-shit_can_happen-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/103-d12-pistol_pistol-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/104-d12-bizarre_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/105-d12-nasty_mind_(feat._dina_rae)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/106-d12-ain't_nuttin'_but_music_(feat._dr._dre)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/107-d12-american_psycho-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/108-d12-that's_how_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/109-d12-that's_how...-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/110-d12-purple_pills-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/111-d12-fight_music-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/112-d12-instigator-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/113-d12-pimp_like_me_(feat._dina_rae)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/114-d12-blow_my_buzz-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/115-d12-obie_trice_(skit)_(feat._obie_trice)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/116-d12-devils_night-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/117-d12-steve_berman_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/118-d12-revelation-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/119-d12-girls_(bonus_track)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/201-d12-these_drugs-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/202-d12-word_are_weapons-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/203-d12-shit_on_you-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/01-d12-git_up-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/02-d12-loyalty_(feat._obie_trice)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/03-d12-just_like_u-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/04-d12-i'll_be_damned-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/05-d12-dude_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/06-d12-my_band-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/07-d12-u_r_the_one-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/08-d12-6_in_the_morning-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/09-d12-how_come-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/10-d12-leave_dat_boy_alone-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/11-d12-get_my_gun-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/12-d12-bizarre_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/13-d12-bitch-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/14-d12-steve's_coffee_house_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/15-d12-d-12_world-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/16-d12-40_oz-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/17-d12-commercial_break-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/18-d12-american_psycho_ii_(feat._b-real)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/19-d12-bugz_97_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/20-d12-good_die_young-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/21-d12-keep_talkin_(bonus_track)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/22-d12-barbershop_(bonus_track)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/23-d12-slow_your_roll_(bonus_track)-fum.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/05 My Band.mp3
-/home/raxen/Music/Playlist/mp3/05 My Band.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/D12-The_Underground_EP-1997-FUM/6 Reasons.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/D12-The_Underground_EP-1997-FUM/Art Of War.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/D12-The_Underground_EP-1997-FUM/Derelict Theme.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/D12-The_Underground_EP-1997-FUM/Chance To Advance.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/D12-The_Underground_EP-1997-FUM/Activity As Phuctivity.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/D12-The_Underground_EP-1997-FUM/Filthy.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/D12-The_Underground_EP-1997-FUM/Fuck Battlin.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/D12-The_Underground_EP-1997-FUM/Cock And Squeeze.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/D12-The_Underground_EP-1997-FUM/Bring Our Boys.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/D12-The_Underground_EP-1997-FUM/Bad News.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/D12-The_Underground_EP-1997-FUM/Take The Whole World With Me.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/1-01 Another Public Service Announcement.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/1-02 Shit Can Happen.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/1-03 Pistol Pistol.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/1-04 Bizarre (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/1-05 Nasty Mind.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/1-06 Ain't Nuttin' but Music.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/1-07 American Psycho.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/1-08 That's How (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/1-09 That's How....mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/1-10 Purple Pills.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/Fight Music.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/Instigator.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/Pimp Like Me (feat. Dina Rae).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/Blow My Buzz.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/Obie Trice (skit) (feat. Obie Trice).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/Devils Night.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/Steve Berman (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/Revelation.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/Girls (Bonus Track).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/These Drugs.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/Word Are Weapons.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-Devils_Night-2CD-2001-FUM/Shit On You.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/Git Up.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/Loyalty (feat. Obie Trice).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/Just Like U.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/I'll Be Damned.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/Dude (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/My Band.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/U R The One.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/6 In The Morning.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/How Come.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/Leave Dat Boy Alone.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/Get My Gun.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/Bizarre (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/Bitch.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/Steve's Coffee House (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/D-12 World.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/40 Oz.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/Commercial Break.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/American Psycho II (feat. B-Real).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/Bugz 97 (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/Good Die Young.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/Keep Talkin (Bonus Track).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/Barbershop (Bonus Track).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/D12-D12_World-2004-FUM/Slow Your Roll (Bonus Track).mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/D12 - My Band.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Colleagues.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Space Oddity.mp3
-/home/raxen/Music/Playlist/mp3/01 Space Oddity.mp3
 /home/raxen/Music/Playlist/Random/David Bowie - Space Oddity - 2015 Remaster.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Sorry Not Sorry (Freedo remix).mp3
-/home/raxen/Music/Playlist/mp3/01 Sorry Not Sorry (Freedo remix).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Westerland (Official Music Video).mp3
-/home/raxen/Music/Playlist/mp3/Westerland (Official Music Video).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/11 DJ Snake feat. Selena Gomez, Ozuna & Cardi B - Taki Taki.mp3
-/home/raxen/Music/Playlist/mp3/11 DJ Snake feat. Selena Gomez, Ozuna & Cardi B - Taki Taki.mp3
 /home/raxen/Music/Playlist/Random/DJ Snake - Taki Taki (feat. Selena Gomez, Ozuna & Cardi B).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/08 DMX - X Gon' Give It to Ya.mp3
-/home/raxen/Music/Playlist/mp3/08 DMX - X Gon' Give It to Ya.mp3
 /home/raxen/Music/Playlist/Random/DMX - X Gon' Give It To Ya.mp3
 /home/raxen/Music/Playlist/5@ck/Dual Core - 0x0A Hack Commandments [FREE DL]-Sr8ILq1a_yw.mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Ed Sheeran feat. Khalid - Beautiful People.mp3
-/home/raxen/Music/Playlist/mp3/01 Ed Sheeran feat. Khalid - Beautiful People.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Ed Sheeran - Beautiful People (feat. Khalid).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/08 Ed Sheeran feat. Eminem & 50 Cent - Remember the Name.mp3
-/home/raxen/Music/Playlist/mp3/08 Ed Sheeran feat. Eminem & 50 Cent - Remember the Name.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Ed Sheeran - Remember The Name (feat. Eminem & 50 Cent).mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bassmint_Productions-Steppin_On_To_The_Scene-EP-1990-FUM/01-eminem-steppin'_on_to_the_scene-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bassmint_Productions-Steppin_On_To_The_Scene-EP-1990-FUM/02-eminem-fattest_skinny_kid_alive-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Soul_Intent-Still_In_The_Bassmint-EP-1992-FUM/01-eminem-unrealistically_graphic-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Soul_Intent-Still_In_The_Bassmint-EP-1992-FUM/03-eminem-one-handed_juggler-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Soul_Intent-Soul_Intent-EP-1995-FUM/01-eminem-fucking_backstabber_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Soul_Intent-Soul_Intent-EP-1995-FUM/02-eminem-fuckin'_backstabber_(feat._proof)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Soul_Intent-Soul_Intent-EP-1995-FUM/03-eminem-biterphobia_(feat._dj_buttafingaz)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Infinite-1996-FUM/01-eminem-infinite-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Infinite-1996-FUM/02-eminem-w.e.g.o._(interlude)_(feat._proof_and_dj_head)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Infinite-1996-FUM/03-eminem-it's_ok_(feat._eye-kyu)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Infinite-1996-FUM/04-eminem-313_(feat._eye-kyu)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Infinite-1996-FUM/05-eminem-tonite-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Infinite-1996-FUM/06-eminem-maxine_(feat._mr._porter_and_three)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Infinite-1996-FUM/07-eminem-open_mic_(feat._thyme)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Infinite-1996-FUM/08-eminem-never_2_far-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Infinite-1996-FUM/09-eminem-searchin_(feat._eye-kyu)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Infinite-1996-FUM/10-eminem-backstabber-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Infinite-1996-FUM/11-eminem-jealousy_woes_ii-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-The_Slim_Shady_EP-1998-FUM/01-eminem-intro_(slim_shady)_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-The_Slim_Shady_EP-1998-FUM/02-eminem-low_down,_dirty-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-The_Slim_Shady_EP-1998-FUM/03-eminem-if_i_had...-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-The_Slim_Shady_EP-1998-FUM/04-eminem-just_don't_give_a_fuck-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-The_Slim_Shady_EP-1998-FUM/05-eminem-mommy_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-The_Slim_Shady_EP-1998-FUM/06-eminem-just_the_two_of_us-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-The_Slim_Shady_EP-1998-FUM/07-eminem-no_one's_iller_(feat_swifty,_bizarre_and_fuzz)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-The_Slim_Shady_EP-1998-FUM/08-eminem-murder,_murder-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/101-eminem-public_service_announcement_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/102-eminem-my_name_is-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/103-eminem-guilty_conscience_(feat._dr._dre)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/104-eminem-brain_damage-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/105-eminem-paul_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/106-eminem-if_i_had-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/107-eminem-97_bonnie_and_clyde-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/108-eminem-bitch_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/109-eminem-role_model-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/110-eminem-lounge_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/111-eminem-my_fault-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/112-eminem-ken_kaniff_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/113-eminem-cum_on_everybody-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/114-eminem-rock_bottom-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/115-eminem-just_dont_give_a_fuck-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/116-eminem-soap_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/117-eminem-as_the_world_turns-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/118-eminem-im_shady-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/119-eminem-bad_meets_evil_(feat._royce_da_5'9)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/120-eminem-still_dont_give_a_fuck-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/201-eminem-hazardous_youth_(acapella)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/202-eminem-get_you_mad-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/203-eminem-greg_(acapella)-fum.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/14 Eminem - Rock Bottom.mp3
-/home/raxen/Music/Playlist/mp3/14 Eminem - Rock Bottom.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/01 The Ringer.mp3
+/home/raxen/Music/Artists/Eminem/Kamikaze-2018/01 The Ringer.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/02 Greatest.mp3
+/home/raxen/Music/Artists/Eminem/Kamikaze-2018/02 Greatest.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/03 Lucky You (feat. Joyner Lucas).mp3
+/home/raxen/Music/Artists/Eminem/Kamikaze-2018/03 Lucky You (feat. Joyner Lucas).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/04 Paul (Skit).mp3
+/home/raxen/Music/Artists/Eminem/Kamikaze-2018/04 Paul (Skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/05 Normal.mp3
+/home/raxen/Music/Artists/Eminem/Kamikaze-2018/05 Normal.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/06 Em Calls Paul (Skit).mp3
+/home/raxen/Music/Artists/Eminem/Kamikaze-2018/06 Em Calls Paul (Skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/07 Stepping Stone.mp3
+/home/raxen/Music/Artists/Eminem/Kamikaze-2018/07 Stepping Stone.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/08 Not Alike (feat. Royce da 5'9_).mp3
+/home/raxen/Music/Artists/Eminem/Kamikaze-2018/08 Not Alike (feat. Royce da 5'9_).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/09 Fall.mp3
+/home/raxen/Music/Artists/Eminem/Kamikaze-2018/09 Fall.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/10 Kamikaze.mp3
+/home/raxen/Music/Artists/Eminem/Kamikaze-2018/10 Kamikaze.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/11 Nice Guy (feat. Jessie Reyez).mp3
+/home/raxen/Music/Artists/Eminem/Kamikaze-2018/11 Nice Guy (feat. Jessie Reyez).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/12 Good Guy (feat. Jessie Reyez).mp3
+/home/raxen/Music/Artists/Eminem/Kamikaze-2018/12 Good Guy (feat. Jessie Reyez).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/13 Venom (Music From the Motion Picture).mp3
+/home/raxen/Music/Artists/Eminem/Kamikaze-2018/13 Venom (Music From the Motion Picture).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bassmint_Productions-Steppin_On_To_The_Scene-EP-1990-FUM/Steppin' On To The Scene.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Bassmint_Productions-Steppin_On_To_The_Scene-EP-1990-FUM/Fattest Skinny Kid Alive.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Soul_Intent-Still_In_The_Bassmint-EP-1992-FUM/Unrealistically Graphic.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Soul_Intent-Still_In_The_Bassmint-EP-1992-FUM/1-01 Eminem - Crackers 'n' Cheese.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Soul_Intent-Soul_Intent-EP-1995-FUM/Fucking Backstabber (Skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Soul_Intent-Soul_Intent-EP-1995-FUM/Fuckin' Backstabber (feat. Proof).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Soul_Intent-Soul_Intent-EP-1995-FUM/Biterphobia (feat. DJ Buttafingaz).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Infinite-1996-FUM/Infinite.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Infinite-1996-FUM/W.E.G.O. (Interlude) (feat. Proof & DJ Head).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Infinite-1996-FUM/It's OK (feat. Eye-Kyu).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Infinite-1996-FUM/313 (feat. Eye-Kyu).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Infinite-1996-FUM/Tonite.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Infinite-1996-FUM/Maxine (feat. Mr. Porter and Three).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Infinite-1996-FUM/Open Mic (feat. Thyme).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Infinite-1996-FUM/Never 2 Far.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Infinite-1996-FUM/Searchin (feat. Eye-Kyu).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Infinite-1996-FUM/Backstabber.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Infinite-1996-FUM/Jealousy Woes II.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-The_Slim_Shady_EP-1998-FUM/Intro (Slim Shady) (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-The_Slim_Shady_EP-1998-FUM/Low Down, Dirty.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-The_Slim_Shady_EP-1998-FUM/If I Had....mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-The_Slim_Shady_EP-1998-FUM/Just Don't Give A Fuck.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-The_Slim_Shady_EP-1998-FUM/Mommy (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-The_Slim_Shady_EP-1998-FUM/Just The Two Of Us.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-The_Slim_Shady_EP-1998-FUM/No One's Iller (feat Swifty, Bizarre & Fuzz).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-The_Slim_Shady_EP-1998-FUM/Murder, Murder.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/Public Service Announcement (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/My Name Is.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/Guilty Conscience (feat. Dr. Dre).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/Brain Damage.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/Paul (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/If I Had.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/97 Bonnie And Clyde.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/Bitch (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/Role Model.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/Lounge (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/My Fault.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/Ken Kaniff (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/Cum On Everybody.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/Rock Bottom.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/Just Dont Give A Fuck.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/Soap (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/As The World Turns.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/Im Shady.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/Bad Meets Evil (feat. Royce Da 5'9_).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/Still Dont Give A Fuck.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/Hazardous Youth (Acapella).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/Get You Mad.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Slim_Shady_LP-2CD-1999-FUM/Greg (Acapella).mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Rock Bottom.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/19 Eminem feat. Royce da 5'9_ - Bad Meets Evil.mp3
-/home/raxen/Music/Playlist/mp3/19 Eminem feat. Royce da 5'9_ - Bad Meets Evil.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem, Royce Da 5'9' - Bad Meets Evil.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/01-eminem-public_service_announcement_2000_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/02-eminem-kill_you-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/03-eminem-stan_(feat._dido)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/04-eminem-paul_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/05-eminem-who_knew-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/06-eminem-steve_berman_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/07-eminem-the_way_i_am-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/08-eminem-the_real_slim_shady-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/09-eminem-remember_me_(feat._rbx_and_sticky_fingaz)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/10-eminem-i'm_back-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/11-eminem-marshall_mathers-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/12-eminem-ken_kaniff_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/13-eminem-drug_ballad-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/14-eminem-amityville_(feat._bizarre)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/15-eminem-bitch_please_ii_(feat._dr._dre,_snoop_dogg,_xzibit_and_nate_dogg)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/16-eminem-kim-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/17-eminem-under_the_influence_(feat._d12)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/18-eminem-criminal-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/19-eminem-the_kids_(bonus_track)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/20-eminem-the_way_i_am_(remix)_(feat._marilyn_manson)_(bonus_track)-fum.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/07 Eminem - The Way I Am.mp3
-/home/raxen/Music/Playlist/mp3/07 Eminem - The Way I Am.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - The Way I Am.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/11 Eminem - Marshall Mathers.mp3
-/home/raxen/Music/Playlist/mp3/11 Eminem - Marshall Mathers.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Marshall Mathers.mp3
-/home/raxen/Music/Artists/Eminem/The_Eminem_show/Eminem - Superman (Clean Version)-8kYkciD9VjU.mp4
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/01-eminem-curtains_up_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/02-eminem-white_america-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/03-eminem-business-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/04-eminem-cleanin_out_my_closet-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/05-eminem-square_dance-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/06-eminem-the_kiss_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/07-eminem-soldier-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/08-eminem-say_goodbye_hollywood-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/09-eminem-drips_(feat._obie_trice)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/10-eminem-without_me-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/11-eminem-paul_rosenberg_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/12-eminem-sing_for_the_moment-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/13-eminem-superman_(feat._dina_rae)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/14-eminem-hailie's_song-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/15-eminem-steve_berman_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/16-eminem-when_the_music_stops_(feat._d12)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/17-eminem-say_what_you_say_(feat._dr._dre)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/18-eminem-'till_i_collapse_(feat._nate_dogg)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/19-eminem-my_dad's_gone_crazy_(feat._hailie_jade)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/20-eminem-curtains_close_(skit)-fum.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/10 Eminem - Without Me.mp3
-/home/raxen/Music/Playlist/mp3/10 Eminem - Without Me.mp3
+/home/raxen/Music/Artists/Eminem/The_Eminem_show/01 Eminem feat. Dina Rae - Superman (clean radio edit).mp4
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/Curtains Up (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/White America.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/Business.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/Cleanin Out My Closet.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/Square Dance.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/The Kiss (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/Soldier.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/Say Goodbye Hollywood.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/Drips (feat. Obie Trice).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/Without Me.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/Paul Rosenberg (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/Sing For The Moment.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/Superman (feat. Dina Rae).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/Hailie's Song.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/Steve Berman (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/When The Music Stops (feat. D12).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/Say What You Say (feat. Dr. Dre).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/'Till I Collapse (feat. Nate Dogg).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/My Dad's Gone Crazy (feat. Hailie Jade).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Eminem_Show-2002-FUM/Curtains Close (skit).mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Without Me.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/12 Eminem - Sing for the Moment.mp3
-/home/raxen/Music/Playlist/mp3/12 Eminem - Sing for the Moment.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Sing For The Moment.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/18 Eminem & Nate Dogg - 'Till I Collapse.mp3
-/home/raxen/Music/Playlist/mp3/18 Eminem & Nate Dogg - 'Till I Collapse.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem, Nate Dogg - 'Till I Collapse.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-8Mile_EP-(Bootleg)-2003-FUM/01-eminem-lose_yourself-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-8Mile_EP-(Bootleg)-2003-FUM/02-eminem-8_mile-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-8Mile_EP-(Bootleg)-2003-FUM/03-eminem-love_me_(feat._obie_trice_and_50_cent)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-8Mile_EP-(Bootleg)-2003-FUM/04-eminem-stimulate-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-8Mile_EP-(Bootleg)-2003-FUM/05-eminem-rabbit_run-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-8Mile_EP-(Bootleg)-2003-FUM/06-eminem-rap_game_(feat._d12_and_50_cent)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-8Mile_EP-(Bootleg)-2003-FUM/07-eminem-living_in_a_trailer_(feat._mekhi_phifer)_(bonus)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-8Mile_EP-(Bootleg)-2003-FUM/08-eminem-garage_solo_(bonus)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-8Mile_EP-(Bootleg)-2003-FUM/09-eminem-vs_xzibit_(bonus)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-8Mile_EP-(Bootleg)-2003-FUM/10-eminem-vs_lc_(bonus)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-8Mile_EP-(Bootleg)-2003-FUM/11-eminem-vs_lotto_(bonus)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-8Mile_EP-(Bootleg)-2003-FUM/12-eminem-vs_papa_doc_(bonus)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/101-eminem-curtains_up_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/102-eminem-evil_deeds-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/103-eminem-never_enough_(feat._50_cent_and_nate_dogg)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/104-eminem-yellow_brick_road-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/105-eminem-like_toy_soldiers-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/106-eminem-mosh-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/107-eminem-puke-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/108-eminem-my_1st_single-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/109-eminem-paul_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/110-eminem-rain_man-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/111-eminem-big_weenie-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/112-eminem-em_calls_paul_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/113-eminem-just_lose_it-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/114-eminem-ass_like_that-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/115-eminem-spend_some_time_(feat._obie_trice,_stat_quo_and_50_cent)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/116-eminem-mockingbird-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/117-eminem-crazy_in_love_(feat._ann_wilson)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/118-eminem-one_shot_2_shot_(feat._d12)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/119-eminem-final_thought_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/120-eminem-encore_(feat._dr._dre_and_50_cent)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/201-eminem-we_as_americans-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/202-eminem-love_you_more-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/203-eminem-ricky_ticky_toc-fum.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-05 Eminem - Like Toy Soldiers.mp3
-/home/raxen/Music/Playlist/mp3/1-05 Eminem - Like Toy Soldiers.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-8Mile_EP-(Bootleg)-2003-FUM/1-18 Eminem - I'm Cancerous.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/1-20 Eminem - Things Ain't the Same.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-8Mile_EP-(Bootleg)-2003-FUM/2-08 Eminem - Tim Westwood, Part 6.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-8Mile_EP-(Bootleg)-2003-FUM/2-16 Eminem - Freestyle.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/01 Eminem - Public Service Announcement 2000.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/02 Eminem - Kill You.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/03 Eminem featuring Dido - Stan.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/04 Eminem - Paul (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/05 Eminem - Who Knew.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/06 Eminem - Steve Berman.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/07 Eminem - The Way I Am.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/08 Eminem - The Real Slim Shady.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/09 Eminem featuring RBX and Sticky Fingaz - Remember Me_.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/10 Eminem - I'm Back.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/11 Eminem - Marshall Mathers.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/12 Eminem - Ken Kaniff (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/13 Eminem - Drug Ballad.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/14 Eminem featuring Bizarre from D-12 - Amityville.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/15 Eminem featuring Dr. Dre, Snoop Dogg, Xzibit and Nate Dogg - Bitch Please II.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/16 Eminem - Kim.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/17 Eminem featuring D-12 - Under the Influence.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/18 Eminem - Criminal.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/20 Eminem - The Way I Am (instrumental).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-The_Marshall_Mathers_LP-2000-FUM/22 Eminem - The Kids.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-8Mile_EP-(Bootleg)-2003-FUM/Lose Yourself.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-8Mile_EP-(Bootleg)-2003-FUM/8 Mile.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-8Mile_EP-(Bootleg)-2003-FUM/Love Me (feat. Obie Trice & 50 Cent).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-8Mile_EP-(Bootleg)-2003-FUM/Rabbit Run.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-8Mile_EP-(Bootleg)-2003-FUM/Rap Game (feat. D12 & 50 Cent).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-8Mile_EP-(Bootleg)-2003-FUM/Vs Xzibit (Bonus).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-8Mile_EP-(Bootleg)-2003-FUM/Vs LC (Bonus).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/2-03 Eminem - Quitter Hit 'Em Up (Everlast diss).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/Curtains Up (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/Evil Deeds.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/Never Enough (feat. 50 Cent & Nate Dogg).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/Yellow Brick Road.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/Like Toy Soldiers.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/Mosh.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/Puke.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/My 1st Single.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/Paul (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/Rain Man.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/Big Weenie.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/Em Calls Paul (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/Just Lose It.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/Ass Like That.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/Spend Some Time (feat. Obie Trice, Stat Quo & 50 Cent).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/Mockingbird.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/Crazy In Love (feat. Ann Wilson).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/One Shot 2 Shot (feat. D12).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/Final Thought (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/Encore (feat. Dr. Dre & 50 Cent).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/We As Americans.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/Love You More.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Encore-2CD-2004-FUM/Ricky Ticky Toc.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Like Toy Soldiers.mp3
-/home/raxen/Music/Artists/Eminem/Encore/Mosh (Extra Clean Version) by Eminem _ Eminem-4ne1RCnDRuc.mp4
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/101-eminem-intro-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/102-eminem-fack-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/103-eminem-the_way_i_am-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/104-eminem-my_name_is-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/105-eminem-stan_(feat._dido)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/106-eminem-lose_yourself-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/107-eminem-shake_that_(feat._nate_dogg)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/108-eminem-sing_for_the_moment-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/109-eminem-without_me-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/110-eminem-like_toy_soldiers-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/111-eminem-the_real_slim_shady-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/112-eminem-mockingbird-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/113-eminem-guilty_conscience_(feat._dr._dre)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/115-eminem-just_lose_it-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/116-eminem-when_i'm_gone-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/117-eminem-stan_[live]_(feat._elton_john)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/201-eminem-dead_wrong_(remix)_(feat._the_notorious_b.i.g)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/202-eminem-role_model-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/203-eminem-kill_you-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/204-eminem-shit_on_you_(feat._d12)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/205-eminem-criminal-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/206-eminem-renegade_(feat._jay-z)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/207-eminem-just_don't_give_a_fuck-fum.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-06 Eminem - Lose Yourself.mp3
-/home/raxen/Music/Playlist/mp3/1-06 Eminem - Lose Yourself.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/2-19 Eminem feat. Proof - Tim Westwood Pt. 6.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/2-21 Eminem feat. Proof - Tim Westwood Pt. 8.mp3
+/home/raxen/Music/Artists/Eminem/Encore/06 Eminem - Mosh.mp4
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/Intro.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/Fack.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/The Way I Am.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/My Name Is.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/Stan (feat. Dido).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/Lose Yourself.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/Shake That (feat. Nate Dogg).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/Sing For The Moment.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/Without Me.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/Like Toy Soldiers.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/The Real Slim Shady.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/Mockingbird.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/Guilty Conscience (feat. Dr. Dre).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/Just Lose It.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/When I'm Gone.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/Stan [live] (feat. Elton John).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/Dead Wrong (Remix) (feat. The Notorious B.I.G).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/Shit On You (feat. D12).mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Lose Yourself - From '8 Mile' Soundtrack.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-12 Eminem - Mockingbird.mp3
-/home/raxen/Music/Playlist/mp3/1-12 Eminem - Mockingbird.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Mockingbird.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-16 Eminem - When I'm Gone.mp3
-/home/raxen/Music/Playlist/mp3/1-16 Eminem - When I'm Gone.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - When I'm Gone.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/2-06 Eminem feat. Jay-Z - Renegade.mp3
-/home/raxen/Music/Playlist/mp3/2-06 Eminem feat. Jay-Z - Renegade.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/2-02 Eminem - Role Model.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/2-03 Eminem - Kill You.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/2-05 Eminem - Criminal.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/2-06 Eminem feat. Jay-Z - Renegade.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/JAY-Z, Eminem - Renegade.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-The_Re-Up_(Eminem_Edition)-2006-FUM/01-eminem-shady_narcotics-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-The_Re-Up_(Eminem_Edition)-2006-FUM/02-eminem-we're_back_(feat._obie_trice,_stat_quo,_bobby_creekwater_and_cashis)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-The_Re-Up_(Eminem_Edition)-2006-FUM/03-eminem-the_re-up_(feat._50_cent)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-The_Re-Up_(Eminem_Edition)-2006-FUM/04-eminem-you_don't_know_(feat._50_cent,_cashis_and_lloyd_banks)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-The_Re-Up_(Eminem_Edition)-2006-FUM/05-eminem-jimmy_crack_corn_(feat._50_cent)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-The_Re-Up_(Eminem_Edition)-2006-FUM/06-eminem-public_enemy_#1-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-The_Re-Up_(Eminem_Edition)-2006-FUM/07-eminem-no_apologies-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/21-eminem-my_darling_(bonus_track)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/22-eminem-careful_what_you_wish_for_(bonus_track)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/01-eminem-dr._west_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/02-eminem-3_a.m.-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/03-eminem-my_mom-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/04-eminem-insane-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/05-eminem-bagpipes_from_baghdad-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/06-eminem-hello-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/07-eminem-tonya_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/08-eminem-same_song_and_dance-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/09-eminem-we_made_you-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/10-eminem-medicine_ball-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/11-eminem-paul_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/12-eminem-stay_wide_awake-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/13-eminem-old_time's_sake_(feat._dr._dre)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/14-eminem-must_be_the_ganja-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/15-eminem-mr._mathers_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/16-eminem-deja_vu-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/17-eminem-beautiful-fum.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/17 Eminem - Beautiful.mp3
-/home/raxen/Music/Playlist/mp3/17 Eminem - Beautiful.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-Curtain_Call_The_Hits-2CD-2005-FUM/2-07 Eminem - Just Don't Give a Fuck.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-The_Re-Up_(Eminem_Edition)-2006-FUM/Shady Narcotics.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-The_Re-Up_(Eminem_Edition)-2006-FUM/We're Back (feat. Obie Trice, Stat Quo, Bobby Creekwater & Cashis).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-The_Re-Up_(Eminem_Edition)-2006-FUM/The Re-Up (feat. 50 Cent).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-The_Re-Up_(Eminem_Edition)-2006-FUM/You Don't Know (feat. 50 Cent, Cashis & Lloyd Banks).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-The_Re-Up_(Eminem_Edition)-2006-FUM/Jimmy Crack Corn (feat. 50 Cent).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-The_Re-Up_(Eminem_Edition)-2006-FUM/Public Enemy #1.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-The_Re-Up_(Eminem_Edition)-2006-FUM/No Apologies.mp3
+/home/raxen/Music/Artists/Eminem/Relapse/Dr. West (Skit).mp3
+/home/raxen/Music/Artists/Eminem/Relapse/3 A.M..mp3
+/home/raxen/Music/Artists/Eminem/Relapse/My Mom.mp3
+/home/raxen/Music/Artists/Eminem/Relapse/Insane.mp3
+/home/raxen/Music/Artists/Eminem/Relapse/Bagpipes From Baghdad.mp3
+/home/raxen/Music/Artists/Eminem/Relapse/Hello.mp3
+/home/raxen/Music/Artists/Eminem/Relapse/Tonya (Skit).mp3
+/home/raxen/Music/Artists/Eminem/Relapse/Same Song & Dance.mp3
+/home/raxen/Music/Artists/Eminem/Relapse/We Made You.mp3
+/home/raxen/Music/Artists/Eminem/Relapse/Medicine Ball.mp3
+/home/raxen/Music/Artists/Eminem/Relapse/Paul (Skit).mp3
+/home/raxen/Music/Artists/Eminem/Relapse/Stay Wide Awake.mp3
+/home/raxen/Music/Artists/Eminem/Relapse/Old Time's Sake (Ft. Dr. Dre).mp3
+/home/raxen/Music/Artists/Eminem/Relapse/Must Be The Ganja.mp3
+/home/raxen/Music/Artists/Eminem/Relapse/Mr. Mathers (Skit).mp3
+/home/raxen/Music/Artists/Eminem/Relapse/Deja Vu.mp3
+/home/raxen/Music/Artists/Eminem/Relapse/Beautiful.mp3
+/home/raxen/Music/Artists/Eminem/Relapse/Crack A Bottle (Ft. Dr. Dre & 50 Cent).mp3
+/home/raxen/Music/Artists/Eminem/Relapse/Steve Berman (Skit).mp3
+/home/raxen/Music/Artists/Eminem/Relapse/Underground.mp3
+/home/raxen/Music/Artists/Eminem/Relapse/My Darling.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/My Darling (Bonus Track).mp3
+/home/raxen/Music/Artists/Eminem/Relapse/Careful What You Wish For.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/Careful What You Wish For (Bonus Track).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/Dr. West (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/3 A.M..mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/My Mom.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/Insane.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/Bagpipes From Baghdad.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/Hello.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/Tonya (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/Same Song And Dance.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/We Made You.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/Medicine Ball.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/Paul (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/Stay Wide Awake.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/Old Time's Sake (feat. Dr. Dre).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/Must Be The Ganja.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/Mr. Mathers (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/Deja Vu.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/Beautiful.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Beautiful.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/18-eminem-crack_a_bottle_(feat._dr._dre_and_50_cent)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/19-eminem-steve_berman_(skit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/20-eminem-underground-fum.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/2-04 Eminem - Elevator.mp3
-/home/raxen/Music/Playlist/mp3/2-04 Eminem - Elevator.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/Crack A Bottle (feat. Dr. Dre & 50 Cent).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/Steve Berman (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Relapse-2009-FUM/Underground.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/1-13 Eminem feat. Dr. Dre - Old Time's Sake (1).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/1-13 Eminem feat. Dr. Dre - Old Time's Sake (2).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/1-13 Eminem feat. Dr. Dre - Old Time's Sake.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Elevator.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-Relapse_Refill-EP-2009-FUM/01-eminem-forever_(feat._drake,_kayne_west_and_lil'_wayne)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-Relapse_Refill-EP-2009-FUM/02-eminem-hell_breaks_loose_(feat._dr._dre)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-Relapse_Refill-EP-2009-FUM/03-eminem-buffalo_bill-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-Relapse_Refill-EP-2009-FUM/04-eminem-elavator-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-Relapse_Refill-EP-2009-FUM/05-eminem-taking_my_ball-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-Relapse_Refill-EP-2009-FUM/06-eminem-music_box-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-Relapse_Refill-EP-2009-FUM/07-eminem-drop_the_bomb_on_'em-fum.mp3
-/home/raxen/Music/Artists/Eminem/Relapse/Steve Berman (Skit)-R6JZTlOCO-I.mp4
-/home/raxen/Music/Artists/Eminem/Relapse/Insane-R6FOFFPatds.mp4
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/01-eminem-cold_wind_blows-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/02-eminem-talkin'_2_myself_(feat._kobe)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/03-eminem-on_fire-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/04-eminem-won't_back_down_(feat._pink)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/05-eminem-w.t.p.-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/06-eminem-going_through_changes-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/07-eminem-not_afraid-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/08-eminem-seduction-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/09-eminem-no_love_(feat._lil_wayne)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/10-eminem-space_bound-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/11-eminem-cinderella_man-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/12-eminem-25_to_life-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/13-eminem-so_bad-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/14-eminem-almost_famous-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/15-eminem-love_the_way_you_lie_(feat._rihanna)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/16-eminem-you're_never_over-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/17-eminem-untitled_(bonus_track)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/18-eminem-ridaz_(bonus_track)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/19-eminem-session_one_(feat._slaughterhouse)_(bonus_track)-fum.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-04 Eminem feat. P!nk - Won't Back Down.mp3
-/home/raxen/Music/Playlist/mp3/1-04 Eminem feat. P!nk - Won't Back Down.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-Relapse_Refill-EP-2009-FUM/Forever (feat. Drake, Kayne West & Lil' Wayne).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-Relapse_Refill-EP-2009-FUM/Hell Breaks Loose (feat. Dr. Dre).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-Relapse_Refill-EP-2009-FUM/Buffalo Bill.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-Relapse_Refill-EP-2009-FUM/Elavator.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-Relapse_Refill-EP-2009-FUM/Taking My Ball.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-Relapse_Refill-EP-2009-FUM/Music Box.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/EPs/Eminem-Relapse_Refill-EP-2009-FUM/Drop The Bomb On 'Em.mp3
+/home/raxen/Music/Artists/Eminem/Relapse1/19 Eminem - Steve Berman (skit).mp4
+/home/raxen/Music/Artists/Eminem/Relapse1/1-04 Eminem - Insane.mp4
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/01 Eminem - Cold Wind Blows.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/02 Eminem feat. Kobe - Talkin' 2 Myself.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/03 Eminem - On Fire.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/04 Eminem feat. P!nk - Won't Back Down.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem, P!nk - Won't Back Down.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-07 Eminem - Not Afraid.mp3
-/home/raxen/Music/Playlist/mp3/1-07 Eminem - Not Afraid.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/05 Eminem - W.T.P..mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/06 Eminem - Going Through Changes.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/07 Eminem - Not Afraid.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Not Afraid.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-09 Eminem - No Love.mp3
-/home/raxen/Music/Playlist/mp3/1-09 Eminem - No Love.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/08 Eminem - Seduction.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/09 Eminem feat. Lil Wayne - No Love.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem, Lil Wayne - No Love.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/11 Eminem - Cinderella Man.mp3
-/home/raxen/Music/Playlist/mp3/11 Eminem - Cinderella Man.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/10 Eminem - Space Bound.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/11 Eminem - Cinderella Man.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Cinderella Man.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/12 Eminem - 25 to Life.mp3
-/home/raxen/Music/Playlist/mp3/12 Eminem - 25 to Life.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/12 Eminem - 25 to Life.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - 25 To Life.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/2-06 Eminem feat Rihanna - Love the Way You Lie.mp3
-/home/raxen/Music/Playlist/mp3/2-06 Eminem feat Rihanna - Love the Way You Lie.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/13 Eminem - So Bad.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/14 Eminem - Almost Famous.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/15 Eminem feat. Rihanna - Love the Way You Lie.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/16 Eminem - You're Never Over.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/17 Eminem - [untitled].mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/18 Eminem - Ridaz.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Studio Albums/Eminem-Recovery-2010-FUM/19 Eminem feat. Slaughterhouse - Session One.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem, Rihanna - Love The Way You Lie.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/2-07 Eminem - You're Never Over.mp3
-/home/raxen/Music/Playlist/mp3/2-07 Eminem - You're Never Over.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - You’re Never Over.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/01-eminem-you_kicked_my_dog-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/02-eminem-rex-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/03-eminem-resturant-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/04-eminem-mimi-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/05-eminem-men_with_van-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/06-eminem-phat_beats-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/07-eminem-curtis-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/08-eminem-cock_fish-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/09-eminem-britney_spears-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/10-eminem-kurtis-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/11-eminem-970-slut-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/12-eminem-7_year_old_son-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/13-eminem-brenda-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/14-eminem-carry_out-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/01-eminem-drop_it_like_its_hot_(post_vibe_awards_freestyle)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/02-eminem-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/03-eminem-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/04-eminem-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/05-eminem-freestyle_(kay_slay)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/06-eminem-just_rhymin_with_proof_(feat._proof)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/07-eminem-let_these_muthafuckaz_know_freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/08-eminem-off_the_dome_show-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/09-eminem-shade_45_invasion-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/10-eminem-still_number_1_freestyle_(feat._krs_one)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/11-eminem-bet_cypher-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/12-eminem-respect_my_conglomerate_(westwood_09_part_1)_(feat._mr._porter)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/13-eminem-microphone_(westwood_09_part_2)_(feat._mr._porter)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/14-eminem-chonkyfire_(westwood_09_part_3)_(feat._mr._porter)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/15-eminem-weed_lacer_freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/16-eminem-wordplay_part_1-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/17-eminem-wordplay_part_2-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/18-eminem-dj_kool_kid_freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/19-eminem-shady_2.0_bet_cypher_(feat._slaughterhouse_and_yellawolf)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/20-eminem-westwood_freestyle_(feat._mr._poster_and_royce_da_5'9)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/01-eminem-foolish_pride-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/02-eminem-hammer_vs._vanilla_(feat._proof)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/03-eminem-the_doom_surrounds_with_gloom-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/04-eminem-mad_cold_blunts_is_in_the_house_(feat._chaos_kid_and_dj_butterfingerz)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/05-eminem-what_color_is_soul_[snippet]_(feat._chaos_kid_and_champtown)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/06-eminem-pooh_butt_day_(feat._chaos_kid)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/07-eminem-the_first_suckerin_rhyme_ever_(feat._chaos_kid)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/08-eminem-artificial_flavour_(feat._chaos_kid_and_proof)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/09-eminem-purple_pimp_saga_bellbottom_pants_(feat._chaos_kid)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/10-eminem-as_the_doom_surrounds_with_gloom_(feat._chaos_kid)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/11-eminem-94_shit_[snippet]-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/12-eminem-bassmint_tapes_sample_[snippet]-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/13-eminem-so_many_styles_[snippet]-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/14-eminem-wicked_shit_[snippet]-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/101-eminem-get_buzzed_(dj_butter_intro)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/103-eminem-4_verses-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/104-eminem-5_star_general_(feat._shabaam_shadeeg,_skam,_kwest_and_a.l.)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/105-eminem-911_(feat._b-real_and_ganxsta_ridd)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/106-eminem-airplanes_part_2_(feat._b.o.b)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/107-eminem-all_she_wrote_(solo)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/108-eminem-any_man-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/109-eminem-atlanta_on_fire_(feat._stat_quo)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/110-eminem-bad_guys_always_die_(feat._dr._dre)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/111-eminem-bad_influence-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/112-eminem-bad_meets_evil_(original)_(feat._royce_da_5'9)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/114-eminem-black_cotton_(feat._2pac_and_the_outlawz)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/115-eminem-bully-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/116-eminem-bump_heads_(feat._50_cent,_tony_yayo_and_lloyd_banks)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/117-eminem-bus_a_rhyme_(feat._missy_elliot)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/201-eminem-can_i_bitch-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/202-eminem-celebrity_(feat._lloyd_banks_and_akon)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/204-eminem-classic_shit_(feat._stat_quo)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/205-eminem-cum_on_everybody_(original)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/206-eminem-desperados_(feat._proof,_bugz_and_dreadnaughts)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/207-eminem-despicable-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/208-eminem-don't_approach_me_(feat._xzbit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/209-eminem-don't_push_me_(feat._50_cent_and_lloyd_banks)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/210-eminem-drama_setter_(feat._tony_yayo_and_obie_trice)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/211-eminem-drastic_measures_(feat._indigenous_tribe)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/212-eminem-drop_the_world_(feat._lil_wayne)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/214-eminem-dumpin_(feat._d12)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/216-eminem-flawless_victory_(feat._raw_collection)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/218-eminem-flyest_material_(feat._the_high_and_mighty)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/301-eminem-forgot_about_dre_(feat_eminem)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/302-eminem-fuck_off_(feat._kid_rock)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/304-eminem-gatman_and_robbin_(feat._50_cent)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/305-eminem-get_back_(feat._d12)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/306-eminem-ghost_stories_(aka_demon_inside)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/307-eminem-go_to_sleep_(feat._obie_trice_and_dmx)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/309-eminem-green_and_gold_(feat_anonymous)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/310-eminem-hail_mary_(feat._50_cent_and_busta_rhymes)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/311-eminem-hailies_revenge_(doe_rae_me)_(feat._obie_trice_and_d12)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/312-eminem-hands_on_you_(feat._obie_trice)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/313-eminem-hard_act_to_follow_(feat._outsidaz)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/314-eminem-hellbound_(feat._j-black_and_masta_ace)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/315-eminem-hip_hop_(feat._bizarre)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/316-eminem-hit_me_with_your_best_shot_(feat._d12)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/401-eminem-i_need_a_doctor_(feat._dr._dre)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/402-eminem-i_remember_(dedication_to_whitey_ford)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/403-eminem-if_i_get_locked_up_(feat._dr._dre)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/404-eminem-i'll_hurt_you_(feat._busta_rhymes)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/405-eminem-i'm_having_a_relapse-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/406-eminem-im_shady_(original)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/407-eminem-invasion_part_i_realest_label-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/408-eminem-invasion_part_ii_the_conspiracy-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/409-eminem-invasion_part_iii_armageddon-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/410-eminem-it_has_been_said_(feat._the_notorious_b.i.g,_obie_trice_and_p._diddy)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/411-eminem-just_lose_it_(remix)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/412-eminem-keeping_it_raw-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/413-eminem-kim_(original)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/414-eminem-king_hustle_(feat._50_cent)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/415-eminem-lady_(feat._obie_trice)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/416-eminem-lean_back_(remix)_(feat._fat_joe,_mase,_lil_john_and_pathos)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/417-eminem-light_speed-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/418-eminem-like_white_boys_(feat._asher_roth_and_yelawolf)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/419-eminem-love_the_way_you_lie_part_2_(feat._rihanna)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/420-eminem-macosa_(feat._outsidaz)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/421-eminem-monkey_see_monkey_do-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/501-eminem-my_ballz_(feat._d12)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/502-eminem-my_fault_(pizza_mix)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/503-eminem-my_name_(feat._xzibit_and_nate_dogg)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/504-eminem-my_name_is_(original)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/505-eminem-my_name_is_(radio_edit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/506-eminem-nail_in_the_coffin-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/507-eminem-no_more_to_say_(feat._trick_trick_and_proof)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/508-eminem-nuttin'_to_do_(feat._royce_da_5'9)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/509-eminem-off_the_wall_(feat._redman)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/510-eminem-off_to_tijuana_(feat._hush_and_d12)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/511-eminem-oil_can_harry_(feat._proof)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/512-eminem-one_day_at_a_time_(feat._2pac_and_the_outlawz)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/513-eminem-our_house-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/514-eminem-outro_(feat._d-12_and_obie_trice)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/515-eminem-patiently_waiting_(feat._50_cent)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/516-eminem-peep_show_(feat._50_cent)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/517-eminem-pick_it_up_(live)_(feat._proof)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/601-eminem-pimplikeness_(feat._d12)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/602-eminem-pistol_poppin_(feat._cashis)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/604-eminem-quitter_(feat._kon_artis)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/605-eminem-renegade_(original)_(feat._royce_da_5'9)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/606-eminem-renewing_da_staff-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/607-eminem-richard_(feat._obie_trice)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/608-eminem-rock_city_(feat._royce_da_5'9)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/609-eminem-romans_revenge_(feat._nicki_minaj)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/610-eminem-rush_ya_clique_(feat._outsidaz)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/611-eminem-scary_movies_(feat._royce_da_5'9)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/612-eminem-serious_(feat._promatic_and_swifty)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/613-eminem-she's_the_one_(feat._royce_da_5'9)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/614-eminem-shit_hits_the_fan_(feat._obie_trice_and_dr._dre)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/615-eminem-smack_that_(feat._akon)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/616-eminem-soldier_like_me_(return_of_the_soulja)_(feat._2pac)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/617-eminem-stir_crazy_(feat._the_madd_rapper)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/618-eminem-syllables_(feat._jay-z,_dr._dre_and_50_cent)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/701-eminem-talk_to_me_(feat._young_jeezy_and_freddie_gibbs)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/702-eminem-the_anthem_(feat._rza,_tech_n9ne,_pharoahe_monch,_kool_g_rap,_jayo_felony,_chino_xl_and_krs_one)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/704-eminem-the_last_hit_(feat._the_high_and_mighty)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/705-eminem-the_sauce-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/706-eminem-the_warning-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/707-eminem-the_watcher-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/708-eminem-there_they_go_(feat._obie_trice)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/710-eminem-threesixfive_(feat._skam)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/711-eminem-throw_it_up_(feat._gangsta_boo_and_yellawolf)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/712-eminem-till_hell_freezes_over-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/713-eminem-touchdown_(feat._t.i.)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/714-eminem-trife_thieves_(feat._bizarre_and_fuzz_scoota)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/715-eminem-turn_me_loose_(feat._fred_durst)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/716-eminem-tylenol_island-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/717-eminem-wanksta-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/718-eminem-warriors_part_2_(feat._lloyd_banks,_50_cent_and_nate_dogg)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/719-eminem-watch_deez_(feat._thirstin_howl_iii)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/801-eminem-we_aint_(feat._the_game)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/802-eminem-we_all_die_one_day_(feat._50_cent,_lloyd_banks_and_obie_trice)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/803-eminem-we_came_to_party_(feat._young_zee)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/804-eminem-we_shine_(original)_(ft._da_ruckus)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/806-eminem-welcome_to_d-block_(feat._jadakiss,_sheek_and_styles_p)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/807-eminem-welcome_to_detroit_city_(feat._trick_trick)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/808-eminem-what_if_he_were_white_(feat._sticky_fingaz)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/809-eminem-what_the_beat_(feat._dj_clue,_royce_da_5'9_and_method_man)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/810-eminem-what's_the_difference_(feat._xzibit)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/811-eminem-when_to_stand_up_(feat._parl_yams)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/812-eminem-where_i'm_at_(feat._lloyd_banks)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/813-eminem-whether_or_not_(feat._d12)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/814-eminem-whether_or_not_(feat._d12)_(remix)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/815-eminem-who_want_it_(feat._trick_trick)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/102-eminem-2.0_boys_(feat._slaughterhouse_and_yelawolf)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/113-eminem-ballin'_uncontrollably-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/203-eminem-chemical_warfare-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/213-eminem-dudey_(feat._obie_trice)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/215-eminem-emulate_(feat._obie_trice)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/217-eminem-fly_away-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/303-eminem-g.o.a.t-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/308-eminem-going_crazy_(feat._d12)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/317-eminem-i_get_money-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/603-eminem-psycho_(feat._50_cent)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/703-eminem-the_apple-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/709-eminem-things_get_worse_(feat._b.o.b)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/805-eminem-wee_wee-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/816-eminem-writer's_block_(feat._royce_da_5'9)-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/817-eminem-it's_been_real_(outro)-fum.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/05 Eminem - Survival.mp3
-/home/raxen/Music/Playlist/mp3/05 Eminem - Survival.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/16 Eminem feat. Obie Trice & DMX - Go to Sleep.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/26 Eminem feat. Royce da 5'9_ - Rock City.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/27 Eminem feat. 2Pac & Outlawz - One Day at a Time.mp3
+/home/raxen/Music/Artists/Eminem/Recovery/20 Eminem - Not Afraid.mp4
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/You Kicked My Dog.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/Rex.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/Resturant.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/Mimi.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/Men With Van.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/Phat Beats.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/Curtis.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/Cock Fish.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/Britney Spears.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/Kurtis.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/970-Slut.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/7 Year Old Son.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/Brenda.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Crank_Calls-(Bootleg)-2012-FUM/Carry Out.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/Drop It Like Its Hot (Post Vibe Awards Freestyle).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/Freestyle.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/Freestyle (1).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/Freestyle (2).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/Freestyle (Kay Slay).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/Just Rhymin With Proof (feat. Proof).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/Let These Muthafuckaz Know Freestyle.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/Off The Dome Show.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/Shade 45 Invasion.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/Still Number 1 Freestyle (feat. KRS One).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/BET Cypher.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/Respect My Conglomerate (Westwood 09 Part 1) (feat. Mr. Porter).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/Microphone (Westwood 09 Part 2) (feat. Mr. Porter).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/Chonkyfire (Westwood 09 Part 3) (feat. Mr. Porter).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/Weed Lacer Freestyle.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/Wordplay Part 1.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/Wordplay Part 2.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/DJ Kool Kid Freestyle.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/Shady 2.0 BET Cypher (feat. Slaughterhouse & Yellawolf).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Freestyles-(Bootleg)-2012-FUM/Westwood Freestyle (feat. Mr. Poster & Royce Da 5'9_).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/1-03 Eminem - Hellbound.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/2-02 Eminem - Desperados.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/2-03 Eminem - Off the Wall.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/2-04 Eminem - If I Get Locked Up Tonight.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/2-12 Eminem - Green and Gold.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/2-13 Eminem - Renegades (original).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/Foolish Pride.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/Hammer Vs. Vanilla (feat. Proof).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/The Doom Surrounds with Gloom.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/Mad Cold Blunts Is In The House (feat. Chaos Kid & DJ Butterfingerz).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/What Color Is Soul [Snippet] (feat. Chaos Kid & Champtown).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/Pooh Butt Day (feat. Chaos Kid).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/The First Suckerin Rhyme Ever (feat. Chaos Kid).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/Artificial Flavour (feat. Chaos Kid & Proof).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/Purple Pimp Saga Bellbottom Pants (feat. Chaos Kid).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/As The Doom Surrounds With Gloom (feat. Chaos Kid).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/94 Shit [Snippet].mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/Bassmint Tapes Sample [Snippet].mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/So Many Styles [Snippet].mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-The_Bassment_Files-2012-FUM/Wicked Shit [Snippet].mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Get Buzzed (DJ Butter Intro).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/4 Verses.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/5 Star General (feat. Shabaam Shadeeg, Skam, Kwest & A.L.).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/911 (feat. B-Real & Ganxsta Ridd).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Airplanes Part 2 (feat. B.O.B).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/All She Wrote (Solo).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Any Man.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Bad Influence.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Bad Meets Evil (Original) (feat. Royce Da 5'9_).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Black Cotton (feat. 2Pac & The Outlawz).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Bully.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Bump Heads (feat. 50 Cent, Tony Yayo & Lloyd Banks).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Bus A Rhyme (feat. Missy Elliot).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Can I Bitch.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Celebrity (feat. Lloyd Banks & Akon).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Classic Shit (feat. Stat Quo).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Cum On Everybody (Original).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Despicable.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Don't Approach Me (feat. Xzbit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Don't Push Me (feat. 50 Cent & Lloyd Banks).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Drama Setter (feat. Tony Yayo & Obie Trice).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Drastic Measures (feat. Indigenous Tribe).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Drop the World (feat. Lil Wayne).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Dumpin (feat. D12).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Flawless Victory (feat. Raw Collection).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Flyest Material (feat. The High And Mighty).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Forgot About Dre (feat Eminem).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Fuck Off (feat. Kid Rock).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Gatman and Robbin (feat. 50 Cent).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Get Back (feat. D12).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Ghost Stories (aka Demon Inside).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Hail Mary (feat. 50 Cent & Busta Rhymes).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Hailies Revenge (Doe Rae Me) (feat. Obie Trice & D12).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Hands On You (feat. Obie Trice).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Hard Act To Follow (feat. Outsidaz).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Hip Hop (feat. Bizarre).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Hit Me With Your Best Shot (feat. D12).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/I Need A Doctor (feat. Dr. Dre).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/I Remember (Dedication to Whitey Ford).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/I'll Hurt You (feat. Busta Rhymes).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/I'm Having A Relapse.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Im Shady (Original).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Invasion Part I_ Realest Label.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Invasion Part II_ The Conspiracy.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Invasion Part III_ Armageddon.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/It Has Been Said (feat. The Notorious B.I.G, Obie Trice & P. Diddy).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Just Lose It (Remix).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Keeping It Raw.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Kim (Original).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/King Hustle (feat. 50 Cent).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Lady (feat. Obie Trice).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Lean Back (Remix) (feat. Fat Joe, Mase, Lil John & Pathos).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Light Speed.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Like White Boys (feat. Asher Roth & Yelawolf).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Love The Way You Lie Part 2 (feat. Rihanna).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Macosa (feat. Outsidaz).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Monkey See Monkey Do.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/My Ballz (feat. D12).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/My Fault (Pizza Mix).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/My Name (feat. Xzibit & Nate Dogg).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/My Name Is (Original).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/My Name Is (Radio Edit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Nail In The Coffin.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/No More to Say (feat. Trick Trick and Proof).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Nuttin' To Do (feat. Royce Da 5'9_).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Off To Tijuana (feat. Hush & D12).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Oil Can Harry (feat. Proof).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Our House.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Outro (feat. D-12 & Obie Trice).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Patiently Waiting (feat. 50 Cent).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Peep Show (feat. 50 Cent).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Pimplikeness (feat. D12).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Pistol Poppin (feat. Cashis).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Renewing Da Staff.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Richard (feat. Obie Trice).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Romans Revenge (feat. Nicki Minaj).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Rush Ya Clique (feat. Outsidaz).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Scary Movies (feat. Royce Da 5'9_).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Serious (feat. Promatic & Swifty).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/She's The One (feat. Royce Da 5'9_).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Shit Hits The Fan (feat. Obie Trice & Dr. Dre).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Smack That (feat. Akon).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Soldier Like Me (Return Of The Soulja) (feat. 2Pac).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Stir Crazy (feat. The Madd Rapper).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Talk To Me (feat. Young Jeezy & Freddie Gibbs).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/The Anthem (feat. RZA, Tech N9ne, Pharoahe Monch, Kool G Rap, Jayo Felony, Chino XL & KRS One).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/The Last Hit (feat. The High And Mighty).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/The Sauce.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/The Warning.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/There They Go (feat. Obie Trice).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/ThreeSixFive (feat. Skam).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Throw It Up (feat. Gangsta Boo & Yellawolf).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Till Hell Freezes Over.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Touchdown (feat. T.I.).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Trife Thieves (feat. Bizarre & Fuzz Scoota).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Turn Me Loose (feat. Fred Durst).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Tylenol Island.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Wanksta.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Warriors Part 2 (feat. Lloyd Banks, 50 Cent & Nate Dogg).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Watch Deez (feat. Thirstin Howl III).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/We Aint (feat. The Game).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/We All Die One Day (feat. 50 Cent, Lloyd Banks & Obie Trice).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/We Came To Party (feat. Young Zee).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/We Shine (Original) (ft. Da Ruckus).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Welcome To D-Block (feat. Jadakiss, Sheek & Styles P).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Welcome To Detroit City (feat. Trick Trick).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/What If He Were White (feat. Sticky Fingaz).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/What the Beat (feat. DJ Clue, Royce Da 5'9_ & Method Man).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/What's The Difference (feat. Xzibit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/When To Stand Up (feat. Parl Yams).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Where I'm At (feat. Lloyd Banks).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Whether Or Not (feat. D12).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Who Want It (feat. Trick Trick).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/2.0 Boys (feat. Slaughterhouse & Yelawolf).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Ballin' Uncontrollably.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Chemical Warfare.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Dudey (feat. Obie Trice).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Emulate (feat. Obie Trice).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Fly Away.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/G.O.A.T.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Going Crazy (feat. D12).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/I Get Money.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Psycho (feat. 50 Cent).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/The Apple.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Things Get Worse (feat. B.O.B).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Wee Wee.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/Writer's Block (feat. Royce Da 5'9_).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/It's Been Real (Outro).mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Survival.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/06 Eminem - Legacy.mp3
-/home/raxen/Music/Playlist/mp3/06 Eminem - Legacy.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Legacy.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/09 Eminem - Rap God.mp3
-/home/raxen/Music/Playlist/mp3/09 Eminem - Rap God.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/06 Eminem feat. Sia - Guts Over Fear.mp3
-/home/raxen/Music/Playlist/mp3/06 Eminem feat. Sia - Guts Over Fear.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem, Sia - Guts Over Fear.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Eminem - Believe.mp3
-/home/raxen/Music/Playlist/mp3/02 Eminem - Believe.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Believe.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/13 Eminem feat. Kehlani - Nowhere Fast.mp3
-/home/raxen/Music/Playlist/mp3/13 Eminem feat. Kehlani - Nowhere Fast.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Nowhere Fast (feat. Kehlani).mp3
-/home/raxen/Music/Artists/Eminem/Revival/Remind Me (Intro)-WYfy-pWDP_Q.mp4
-/home/raxen/Music/Artists/Eminem/Revival/Eminem - Framed-PVbQrvlB_gw.mp4
-/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/01. The Ringer.mp3
-/home/raxen/Music/Artists/Eminem/Kamikaze-2018/01. The Ringer.mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/02. Greatest.mp3
-/home/raxen/Music/Artists/Eminem/Kamikaze-2018/02. Greatest.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Eminem - Greatest.mp3
-/home/raxen/Music/Playlist/mp3/02 Eminem - Greatest.mp3
+/home/raxen/Music/Artists/Eminem/Revival/06 Eminem - Remind Me (intro).mp4
+/home/raxen/Music/Artists/Eminem/Revival/12 Eminem - Framed.mp4
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Greatest.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/03 Eminem feat. Joyner Lucas - Lucky You.mp3
-/home/raxen/Music/Playlist/mp3/03 Eminem feat. Joyner Lucas - Lucky You.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Lucky You (feat. Joyner Lucas).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/03. Lucky You (feat. Joyner Lucas).mp3
-/home/raxen/Music/Artists/Eminem/Kamikaze-2018/03. Lucky You (feat. Joyner Lucas).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/04. Paul (Skit).mp3
-/home/raxen/Music/Artists/Eminem/Kamikaze-2018/04. Paul (Skit).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/05. Normal.mp3
-/home/raxen/Music/Artists/Eminem/Kamikaze-2018/05. Normal.mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/06. Em Calls Paul (Skit).mp3
-/home/raxen/Music/Artists/Eminem/Kamikaze-2018/06. Em Calls Paul (Skit).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/07. Stepping Stone.mp3
-/home/raxen/Music/Artists/Eminem/Kamikaze-2018/07. Stepping Stone.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/08 Eminem feat. Royce da 5'9_ - Not Alike.mp3
-/home/raxen/Music/Playlist/mp3/08 Eminem feat. Royce da 5'9_ - Not Alike.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem, Royce Da 5'9' - Not Alike (feat. Royce Da 5'9).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/08. Not Alike (feat. Royce da 5'9_).mp3
-/home/raxen/Music/Artists/Eminem/Kamikaze-2018/08. Not Alike (feat. Royce da 5'9_).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/09. Fall.mp3
-/home/raxen/Music/Artists/Eminem/Kamikaze-2018/09. Fall.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/09 Eminem - Kamikaze.mp3
-/home/raxen/Music/Playlist/mp3/09 Eminem - Kamikaze.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Kamikaze.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/10 Eminem - Fall.mp3
-/home/raxen/Music/Playlist/mp3/10 Eminem - Fall.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Fall.mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/10. Kamikaze.mp3
-/home/raxen/Music/Artists/Eminem/Kamikaze-2018/10. Kamikaze.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/11 Eminem feat. Jessie Reyez - Nice Guy.mp3
-/home/raxen/Music/Playlist/mp3/11 Eminem feat. Jessie Reyez - Nice Guy.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Nice Guy (with Jessie Reyez).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/11. Nice Guy (feat. Jessie Reyez).mp3
-/home/raxen/Music/Artists/Eminem/Kamikaze-2018/11. Nice Guy (feat. Jessie Reyez).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/12. Good Guy (feat. Jessie Reyez).mp3
-/home/raxen/Music/Artists/Eminem/Kamikaze-2018/12. Good Guy (feat. Jessie Reyez).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Kamikaze (2018) Mp3 (320kbps) [Hunter]/Eminem - Kamikaze (2018)/13. Venom (Music From the Motion Picture).mp3
-/home/raxen/Music/Artists/Eminem/Kamikaze-2018/13. Venom (Music From the Motion Picture).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/13 Eminem - Venom (music from the motion picture).mp3
-/home/raxen/Music/Playlist/mp3/13 Eminem - Venom (music from the motion picture).mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Venom - Music From The Motion Picture.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/2-06 Eminem - Guilty Conscience (Instrumental).mp3
-/home/raxen/Music/Playlist/mp3/2-06 Eminem - Guilty Conscience (Instrumental).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/24 Eminem - Bad Guys Always Die (from _Wild Wild West_ soundtrack).mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem, Dr. Dre - Guilty Conscience.mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/01. Premonition (Intro).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Eminem - Premonition (intro).mp3
-/home/raxen/Music/Playlist/mp3/01 Eminem - Premonition (intro).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/01 Premonition (Intro).mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Premonition - Intro.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Eminem ft. Young M.A - Unaccommodating.mp3
-/home/raxen/Music/Playlist/mp3/02 Eminem ft. Young M.A - Unaccommodating.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Unaccommodating (feat. Young M.A).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/02. Unaccommodating (feat. Young M.A).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/03. You Gon’ Learn (feat. Royce Da 5'9' and White Gold).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/04. Alfred (Interlude).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/05 Eminem feat. Ed Sheeran - Those Kinda Nights.mp3
-/home/raxen/Music/Playlist/mp3/05 Eminem feat. Ed Sheeran - Those Kinda Nights.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/02 Unaccommodating (feat. Young M.A).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/03 You Gon’ Learn (feat. Royce Da 5'9_ and White Gold).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/04 Alfred (Interlude).mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Those Kinda Nights (feat. Ed Sheeran).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/05. Those Kinda Nights (feat. Ed Sheeran).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/06. In Too Deep.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/07 Eminem feat. Juice WRLD - Godzilla.mp3
-/home/raxen/Music/Playlist/mp3/07 Eminem feat. Juice WRLD - Godzilla.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/05 Those Kinda Nights (feat. Ed Sheeran).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/06 In Too Deep.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Godzilla (feat. Juice WRLD).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/07. Godzilla (feat. Juice WRLD).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/08. Darkness.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/08 Eminem - Darkness.mp3
-/home/raxen/Music/Playlist/mp3/08 Eminem - Darkness.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/07 Godzilla (feat. Juice WRLD).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/08 Darkness.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Darkness.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/09 Eminem feat. Skylar Grey - Leaving Heaven.mp3
-/home/raxen/Music/Playlist/mp3/09 Eminem feat. Skylar Grey - Leaving Heaven.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Leaving Heaven (feat. Skylar Grey).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/09. Leaving Heaven (feat. Skylar Grey).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/10. Yah Yah (feat. Royce Da 5'9', Black Thought, Q-Tip, and dEnAuN).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/11. Stepdad (Intro).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/12. Stepdad.mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/13. Marsh.mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/14. Never Love Again.mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/15. Little Engine.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/15 Eminem - Little Engine.mp3
-/home/raxen/Music/Playlist/mp3/15 Eminem - Little Engine.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/09 Leaving Heaven (feat. Skylar Grey).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/10 Yah Yah (feat. Royce Da 5'9_, Black Thought, Q-Tip, and dEnAuN).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/11 Stepdad (Intro).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/12 Stepdad.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/13 Marsh.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/14 Never Love Again.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/15 Little Engine.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Little Engine.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/16 Eminem feat. Anderson .Paak - Lock It Up.mp3
-/home/raxen/Music/Playlist/mp3/16 Eminem feat. Anderson .Paak - Lock It Up.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Lock It Up (feat. Anderson .Paak).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/16. Lock It Up (feat. Anderson .Paak).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/17. Farewell.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/17 Eminem - Farewell.mp3
-/home/raxen/Music/Playlist/mp3/17 Eminem - Farewell.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/16 Lock It Up (feat. Anderson .Paak).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/17 Farewell.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Farewell.mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/18. No Regrets (feat. Don Toliver).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/19 Eminem ft. KXNG Crooked, Royce da 5'9_ & Joell Ortiz - I Will.mp3
-/home/raxen/Music/Playlist/mp3/19 Eminem ft. KXNG Crooked, Royce da 5'9_ & Joell Ortiz - I Will.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/18 No Regrets (feat. Don Toliver).mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - I Will (feat. KXNG Crooked, Royce Da 5'9' & Joell Ortiz).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/19. I Will (feat. Kxng Crooked, Royce Da 5'9', and Joell Ortiz).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/20. Alfred (Outro).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/01. Alfred (Intro).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/02. Black Magic.mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/03. Alfred’s Theme.mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/04. Tone Deaf.mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/05. Book of Rhymes (feat. Dj Premier).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/06. Favorite Bitch (feat. Ty Dolla $ign).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/07. Guns Blazing (feat. Dr. Dre & Sly Pyper).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/08. Gnat.mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/09. Higher.mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/10. These Demons (feat. Maj).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/11. Key (Skit).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/12. She Loves Me.mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/13. Killer.mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/14. Zeus (feat. White Gold).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/15. Thus Far (Interlude).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/16. Discombobulated.mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/01. Premonition (Intro).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/02. Unaccommodating (feat. Young M.A).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/03. You Gon’ Learn (feat. Royce da 5'9_ & White Gold).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/04. Alfred (Interlude).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/05. Those Kinda Nights (feat. Ed Sheeran).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/06. In Too Deep.mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/07. Godzilla (feat. Juice Wrld).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/08. Darkness.mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/09. Leaving Heaven (feat. Skylar Grey).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/10. Yah Yah (feat. Royce da 5'9_, Black Thought, Q-Tip & dEnAuN).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/11. Stepdad (Intro).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/12. Stepdad.mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/13. Marsh.mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/14. Never Love Again.mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/15. Little Engine.mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/16. Lock It Up (feat. Anderson .Paak).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/17. Farewell.mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/18. No Regrets (feat. Don Toliver).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/19. I Will (feat. Royce da 5'9_, Kxng Crooked & Joell Ortiz).mp3
-/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/20. Alfred (Outro).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-08 Eminem - Gnat.mp3
-/home/raxen/Music/Playlist/mp3/1-08 Eminem - Gnat.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/01-eminem_and_d12-intro-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/02-eminem_and_d12-london_takeover-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/03-eminem_and_d12-intro-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/04-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/05-eminem_and_d12-interview-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/06-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/07-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/08-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/09-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/10-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/11-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/12-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/13-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/14-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/15-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/16-eminem_and_d12-buggin_out-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/17-eminem_and_d12-interview-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/18-eminem_and_d12-interview-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/19-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/20-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/21-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/22-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/23-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/24-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/25-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/26-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/27-eminem_and_d12-speaks_on_jay-z-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/28-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/29-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/30-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/31-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/32-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/33-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/34-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/35-eminem_and_d12-obie_trice_intro-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/36-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/37-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/38-eminem_and_d12-interview-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/39-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/40-eminem_and_d12-freestyle-fum.mp3
-/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/41-eminem_and_d12-freestyle-fum.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/19 I Will (feat. Kxng Crooked, Royce Da 5'9_, and Joell Ortiz).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By (2020) [320KBPS]/20 Alfred (Outro).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/01 Premonition (Intro).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/02 Unaccommodating (feat. Young M.A).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/03 You Gon’ Learn (feat. Royce da 5'9_ & White Gold).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/04 Alfred (Interlude).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/05 Those Kinda Nights (feat. Ed Sheeran).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/06 In Too Deep.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/07 Godzilla (feat. Juice Wrld).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/08 Darkness.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/09 Leaving Heaven (feat. Skylar Grey).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/10 Yah Yah (feat. Royce da 5'9_, Black Thought, Q-Tip & dEnAuN).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/11 Stepdad (Intro).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/12 Stepdad.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/13 Marsh.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/14 Never Love Again.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/15 Little Engine.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/16 Lock It Up (feat. Anderson .Paak).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/17 Farewell.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/18 No Regrets (feat. Don Toliver).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/19 I Will (feat. Royce da 5'9_, Kxng Crooked & Joell Ortiz).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/20 Alfred (Outro).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/1-01 Eminem - Alfred (intro).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/1-02 Eminem feat. Skylar Grey - Black Magic.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/1-03 Eminem - Alfred's Theme.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/1-04 Eminem - Tone Deaf.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/1-05 Eminem feat. DJ Premier - Book of Rhymes.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/1-06 Eminem feat. Ty Dolla $ign - Favorite Bitch.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/1-07 Eminem feat. Dr. Dre & Sly Pyper - Guns Blazing.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/1-08 Eminem - Gnat.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/1-09 Eminem - Higher.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/1-10 Eminem feat. MAJ - These Demons.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/1-11 Eminem - Key (skit).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/1-12 Eminem - She Loves Me.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/1-13 Eminem - Killer.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/1-14 Eminem feat. White Gold - Zeus.mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/1-15 Eminem - Thus Far (interlude).mp3
+/home/raxen/Music/Artists/Eminem/Eminem - Music To Be Murdered By - Side B (Deluxe Edition) (2020) Mp3 320kbps [PMEDIA] ⭐️/1-16 Eminem - Discombobulated.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Intro.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/London Takeover.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Intro (1).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Interview.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (1).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (2).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (3).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (4).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (5).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (6).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (7).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (8).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Buggin Out.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Interview (1).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Interview (2).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (9).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (10).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (11).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (12).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (13).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (14).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (15).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (16).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Speaks On Jay-Z.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (17).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (18).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (19).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (20).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (21).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (22).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (23).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Obie Trice Intro.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (24).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (25).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Interview (3).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (26).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (27).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem_And_D-12-Lost_In_London-(Bootleg)-2006-FUM/Freestyle (28).mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Others/Eminem-Man_In_The_Mirror-(Bootleg)-8CD-2012-FUM/07 Eminem feat. Dr. Dre, Jay-Z, 50 Cent, Stat Quo & Ca$his - Syllables.mp3
 /home/raxen/Music/Music-Videos/Epic_Rap_Battles/Steve Jobs vs Bill Gates. Epic Rap Battles of History-njos57IJf-0.mp4
 /home/raxen/Music/Music-Videos/Epic_Rap_Battles/Michael Jordan vs Muhammad Ali. Epic Rap Battles of History-N_uOtAkEf6U.mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/09 Hate Me.mp3
-/home/raxen/Music/Playlist/mp3/09 Hate Me.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-02 Bring Me to Life (2nd version).mp3
-/home/raxen/Music/Playlist/mp3/1-02 Bring Me to Life (2nd version).mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/One Summer's Day.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Puzzle.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Remember Me.mp3
@@ -2433,14 +2456,8 @@
 /home/raxen/Music/Playlist/Lofi_hip_hop/Sorry.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Faces In The Dark.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/When We Used To.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Irresistible.mp3
-/home/raxen/Music/Playlist/mp3/01 Irresistible.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Fall Out Boy - Irresistible.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/03 Centuries.mp3
-/home/raxen/Music/Playlist/mp3/03 Centuries.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Fall Out Boy - Centuries.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/10 Immortals.mp3
-/home/raxen/Music/Playlist/mp3/10 Immortals.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Fall Out Boy - Immortals.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Breakeven.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/What if Ice Was Land.mp3
@@ -2455,8 +2472,7 @@
 /home/raxen/Music/Playlist/Lofi_hip_hop/Shape Of You.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Slow Dancing in the Dark.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/When We Were Young.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 I Lost a Friend.mp3
-/home/raxen/Music/Playlist/mp3/01 I Lost a Friend.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/06 Flitz&Suppe - Too Late.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Aliens.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Gelato Beach.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Kathy's Waltz.mp3
@@ -2473,136 +2489,81 @@
 /home/raxen/Music/Playlist/Lofi_hip_hop/Faded.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Hey There Delilah.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Never Gonna Give You Up.mp3
-/home/raxen/Music/Playlist/mp3/08 Achilles Come Down.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 bury me face down.mp3
-/home/raxen/Music/Playlist/mp3/01 bury me face down.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 blood __ water.mp3
-/home/raxen/Music/Playlist/mp3/01 blood __ water.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/01 a various day.mp3
 /home/raxen/Music/Tributes/Riverdale_tribute/Riverdale _ Blood in the Water-loexX_geThI.mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/05 overdose.mp3
-/home/raxen/Music/Playlist/mp3/05 overdose.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Shinobue.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Finesse.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/That damn mouse.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/08 Basket Case.mp3
-/home/raxen/Music/Playlist/mp3/08 Basket Case.mp3
 /home/raxen/Music/Playlist/Random/Green Day - Basket Case [Official Music Video].mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/2-06 Boulevard of Broken Dreams.mp3
-/home/raxen/Music/Playlist/mp3/2-06 Boulevard of Broken Dreams.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-13 Boulevard of Broken Dreams.mp3
-/home/raxen/Music/Playlist/mp3/1-13 Boulevard of Broken Dreams.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/03 Holiday _ Boulevard of Broken Dreams.mp3
-/home/raxen/Music/Playlist/mp3/03 Holiday _ Boulevard of Broken Dreams.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/8-02 Green Day - When I Come Around.mp3
-/home/raxen/Music/Playlist/mp3/8-02 Green Day - When I Come Around.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/12-02 Green Day - Good Riddance (Time of Your Life).mp3
-/home/raxen/Music/Playlist/mp3/12-02 Green Day - Good Riddance (Time of Your Life).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/21-02 Green Day - 21 Guns.mp3
-/home/raxen/Music/Playlist/mp3/21-02 Green Day - 21 Guns.mp3
 /home/raxen/Music/Playlist/Random/Green Day - When I Come Around [Official Music Video].mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 American Idiot.mp3
-/home/raxen/Music/Playlist/mp3/01 American Idiot.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/19 Wake Me Up When September Ends.mp3
-/home/raxen/Music/Playlist/mp3/19 Wake Me Up When September Ends.mp3
 /home/raxen/Music/Playlist/Random/Green Day - American Idiot [Official Music Video].mp4
 /home/raxen/Music/Playlist/Random/Green Day - Wake Me Up When September Ends [Official Music Video].mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Hailee Steinfeld - Love Myself.mp3
-/home/raxen/Music/Playlist/mp3/01 Hailee Steinfeld - Love Myself (1).mp3
-/home/raxen/Music/Playlist/mp3/01 Hailee Steinfeld - Love Myself.mp3
 /home/raxen/Music/Playlist/Random/Hailee Steinfeld - Love Myself.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Hailee Steinfeld - Love Myself.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/04 Hailee Steinfeld - Hell Nos and Headphones.mp3
-/home/raxen/Music/Playlist/mp3/04 Hailee Steinfeld - Hell Nos and Headphones.mp3
 /home/raxen/Music/Playlist/Random/Hailee Steinfeld - Hell Nos And Headphones.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Castle.mp3
-/home/raxen/Music/Playlist/mp3/01 Castle.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/13 Gasoline.mp3
-/home/raxen/Music/Playlist/mp3/13 Gasoline.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/01 DAYDREAM.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/02 BAYWATCH.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/03 BEACH VIBES.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/04 TESTAROSSA.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/05 BOULEVARD.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/06 SEASIDE LOVE.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/07 FLICKER.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/08 HALF MOON.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/09 LUNAR TIDE.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/10 DREAM FORECAST.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/11 BLADE.mp3
+/home/raxen/Music/Weired/lofi-Hallmark/Hallmark '87 - ＥＰＨＥＭＥＲＡＬ ＤＲＥＡＭＳ - 01 ＤＡＹＤＲＥＡＭ.mp3
+/home/raxen/Music/Weired/lofi-Hallmark/Hallmark '87 - ＥＰＨＥＭＥＲＡＬ ＤＲＥＡＭＳ - 02 ＢＡＹＷＡＴＣＨ.mp3
+/home/raxen/Music/Weired/lofi-Hallmark/Hallmark '87 - ＥＰＨＥＭＥＲＡＬ ＤＲＥＡＭＳ - 03 ＢＥＡＣＨ ＶＩＢＥＳ.mp3
+/home/raxen/Music/Weired/lofi-Hallmark/Hallmark '87 - ＥＰＨＥＭＥＲＡＬ ＤＲＥＡＭＳ - 04 ＴＥＳＴＡＲＯＳＳＡ.mp3
+/home/raxen/Music/Weired/lofi-Hallmark/Hallmark '87 - ＥＰＨＥＭＥＲＡＬ ＤＲＥＡＭＳ - 05 ＢＯＵＬＥＶＡＲＤ.mp3
+/home/raxen/Music/Weired/lofi-Hallmark/Hallmark '87 - ＥＰＨＥＭＥＲＡＬ ＤＲＥＡＭＳ - 06 ＳＥＡＳＩＤＥ ＬＯＶＥ.mp3
+/home/raxen/Music/Weired/lofi-Hallmark/Hallmark '87 - ＥＰＨＥＭＥＲＡＬ ＤＲＥＡＭＳ - 07 ＦＬＩＣＫＥＲ.mp3
+/home/raxen/Music/Weired/lofi-Hallmark/Hallmark '87 - ＥＰＨＥＭＥＲＡＬ ＤＲＥＡＭＳ - 08 ＨＡＬＦ ＭＯＯＮ.mp3
+/home/raxen/Music/Weired/lofi-Hallmark/Hallmark '87 - ＥＰＨＥＭＥＲＡＬ ＤＲＥＡＭＳ - 09 ＬＵＮＡＲ ＴＩＤＥ.mp3
+/home/raxen/Music/Weired/lofi-Hallmark/Hallmark '87 - ＥＰＨＥＭＥＲＡＬ ＤＲＥＡＭＳ - 10 ＤＲＥＡＭ ＦＯＲＥＣＡＳＴ.mp3
+/home/raxen/Music/Weired/lofi-Hallmark/Hallmark '87 - ＥＰＨＥＭＥＲＡＬ ＤＲＥＡＭＳ - 11 ＢＬＡＤＥ.mp3
 /home/raxen/Music/Playlist/Random/Halsey - Gasoline.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Nightmare.mp3
-/home/raxen/Music/Playlist/mp3/01 Nightmare.mp3
 /home/raxen/Music/Playlist/Random/Halsey - Nightmare.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Disks.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Never Count on Me.mp3
-/home/raxen/Music/Playlist/mp3/01 Never Count on Me.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Kaka Balachandar, Gana Ulagam Dharani & Arivu - Single Pasanga.mp3
-/home/raxen/Music/Playlist/mp3/02 Kaka Balachandar, Gana Ulagam Dharani & Arivu - Single Pasanga.mp3
 /home/raxen/Music/Playlist/Random/Hiphop Tamizha, Kaka Balachandar, Gana Ulagam Dharani, Arivu - Single Pasanga.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/07 Ice Cube - It Was a Good Day.mp3
-/home/raxen/Music/Playlist/mp3/07 Ice Cube - It Was a Good Day.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/01 in search of splintered memories.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/02 the boy and the rocketship.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/03 interplanetary detour.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/04 encounter with a mech patrol unit.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/05 broken robot.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/06 tinkering.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/07 land of petals.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Ice Cube - It Was A Good Day.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Good Cop, Bad Cop.mp3
-/home/raxen/Music/Playlist/mp3/02 Good Cop, Bad Cop.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Ice Cube - Good Cop Bad Cop.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Ice Cube - No Vaseline.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Ice Cube - No Vaseline.mp3
-/home/raxen/Music/Playlist/mp3/Ice Cube - No Vaseline.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/04 Imagine Dragons - Demons.mp3
-/home/raxen/Music/Playlist/mp3/04 Imagine Dragons - Demons.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Imagine Dragons - Demons.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/20 Imagine Dragons feat.Kendrick Lamar - Radioactive.mp3
-/home/raxen/Music/Playlist/mp3/20 Imagine Dragons feat.Kendrick Lamar - Radioactive.mp3
 /home/raxen/Music/Playlist/Random/Imagine Dragons, Kendrick Lamar - Radioactive.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Whatever It Takes.mp3
-/home/raxen/Music/Playlist/mp3/02 Whatever It Takes (1).mp3
-/home/raxen/Music/Playlist/mp3/02 Whatever It Takes.mp3
 /home/raxen/Music/Playlist/Random/Imagine Dragons - Whatever It Takes.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Imagine Dragons - Whatever It Takes.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/03 Believer.mp3
-/home/raxen/Music/Playlist/mp3/03 Believer (1).mp3
-/home/raxen/Music/Playlist/mp3/03 Believer.mp3
 /home/raxen/Music/Playlist/Random/Imagine Dragons - Believer.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Imagine Dragons - Believer.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/09 Thunder.mp3
-/home/raxen/Music/Playlist/mp3/09 Thunder.mp3
 /home/raxen/Music/Playlist/Random/Imagine Dragons - Thunder.mp3
 /home/raxen/Music/Playlist/Random/Imagine Dragons - Natural.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Imagine Dragons - Natural.mp3
-/home/raxen/Music/Playlist/mp3/01 Imagine Dragons - Natural.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/05 Imagine Dragons - Bad Liar.mp3
-/home/raxen/Music/Playlist/mp3/05 Imagine Dragons - Bad Liar.mp3
 /home/raxen/Music/Playlist/Random/Imagine Dragons - Bad Liar.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Replay.mp3
-/home/raxen/Music/Playlist/mp3/01 Replay.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/09 Running Shoes.mp3
 /home/raxen/Music/Playlist/Random/Iyaz - Replay.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/03 Jon Bellion - All Time Low.mp3
-/home/raxen/Music/Playlist/mp3/03 Jon Bellion - All Time Low.mp3
 /home/raxen/Music/Playlist/Random/Jon Bellion - All Time Low.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/07 Jon Bellion - Woke the F_ck Up.mp3
-/home/raxen/Music/Playlist/mp3/07 Jon Bellion - Woke the F_ck Up.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Jon Bellion - Woke The Fck Up.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 ADHD.mp3
-/home/raxen/Music/Playlist/mp3/01 ADHD.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Joyner Lucas - ADHD.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Revenge.mp3
-/home/raxen/Music/Playlist/mp3/01 Revenge.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Joyner Lucas - Revenge.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 ISIS.mp3
-/home/raxen/Music/Playlist/mp3/01 ISIS.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Joyner Lucas, Logic - Isis.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/18 Katy Perry - Roar (instrumental).mp3
-/home/raxen/Music/Playlist/mp3/18 Katy Perry - Roar (instrumental).mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/04 her eyes.mp3
 /home/raxen/Music/Playlist/Random/Katy Perry - Roar.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/01 A Story About Time.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/02 I Don't Love You Anymore.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/06 Your Smile2.mp3
 /home/raxen/Music/Tributes/Riverdale_tribute/Jughead Jones _ Gangsta-hLNwpWGj9v8.mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Kesha - TiK ToK.mp3
-/home/raxen/Music/Playlist/mp3/Kesha - TiK ToK.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Kesha - TiK ToK.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Kesha - Take It Off.mp3
-/home/raxen/Music/Playlist/mp3/Kesha - Take It Off.mp3
 /home/raxen/Music/Playlist/Random/Kesha - Take It Off.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Play Dirty.mp3
-/home/raxen/Music/Playlist/mp3/01 Play Dirty.mp3
 /home/raxen/Music/Playlist/Random/Kevin McAllister, [SEBELL] - Play Dirty.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Lost and Found (feat Lucas).mp3
-/home/raxen/Music/Playlist/mp3/Lost and Found (feat Lucas).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/09 Rock and Roll All Nite.mp3
-/home/raxen/Music/Playlist/mp3/09 Rock and Roll All Nite.mp3
 /home/raxen/Music/Playlist/Random/KISS - Rock And Roll All Nite.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Klergy, Valerie Broussard - Start a War.mp3
-/home/raxen/Music/Playlist/mp3/Klergy, Valerie Broussard - Start a War.mp3
 /home/raxen/Music/Playlist/Random/Klergy, Valerie Broussard - Start a War.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Sometimes.mp3
-/home/raxen/Music/Playlist/mp3/02 Sometimes.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Bromance.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/I'm Yours.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Oblivion.mp3
@@ -2624,215 +2585,215 @@
 /home/raxen/Music/Playlist/Lofi_hip_hop/New Horizons.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Megalovania.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Whataya Want From Me.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Shape of You.mp3
-/home/raxen/Music/Playlist/mp3/01 Shape of You.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/01 Aubergine.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/02 Seasons.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/03 Feathers.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/04 Aurora.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/05 Coffee Beans.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/06 Never Forget.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/01 emerald.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/05 storyofus....mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/06 lightyears.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/07 eternal.summer.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/01 Cardamom.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/02 You're Beautiful.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/03 Apila.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/04 Sorcery.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/05 Petal.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/06 Mocha.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/07 Dreamer.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/08 Alone in the World.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/09 Plantation.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/10 Metamorphosis.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/01 New Beginnings.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/02 Hold My Hand.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/03 Thoughts.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/04 Can You See the Rhino in the Clouds.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/05 Mercadia.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/06 Trip to the Mountains.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/07 Nowhere Else.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/08 Evening Tide.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/09 Saudade.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/01 Tiger.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/03 Coastal Town.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/03 Afloat.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/05 Friendly Creatures.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/06 Barely Awake.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/08 Rose Garden.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/12 Always Miss You.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/02 Valentine.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/08 Kingdom in Blue.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/01 Eons.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/02 Heroes.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/03 A Waltz for My Best Friend.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/04 Magic.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/06 Those Were the Days.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/07 Mycelium.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/08 Weightless.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/09 Microscopic.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/10 Distant Lands.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/11 Natural Ways.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/12 Purple Vision.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/13 Twilight.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/14 Sylvan.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/15 Last Walk.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/16 Safe Haven.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/04 leavv - Within.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/01 ∆.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/03 Finally.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/07 We used to talk all the time.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/15 Inokashira park.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/01 TheGrinch!.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/08 Look what you've done.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/01 she comes first.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/02 braids.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/03 nightcaps.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/04 reflections on a frozen pond.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/05 most beautiful.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/06 faceless woman.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/07 I think we're all addicted.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/08 bodega backrub.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/09 pale criminal.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/10 origami money.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/11 how does it feel (d'angelo reprise).mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/12 dippin' skinny.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/13 aural sex.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/14 pm.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/15 go back the way you came.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/01 After hours.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/01 Otherside of the Game.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/01 So beautiful.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eddie Summer - Shape of You.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Lil Nas X - Old Town Road.mp3
-/home/raxen/Music/Playlist/mp3/02 Lil Nas X - Old Town Road.mp3
 /home/raxen/Music/Playlist/Random/Lil Nas X - Old Town Road.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-05 What I've Done.mp3
-/home/raxen/Music/Playlist/mp3/1-05 What I've Done.mp3
 /home/raxen/Music/Playlist/Random/What I've Done [Official Music Video] - Linkin Park.mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-07 Numb.mp3
-/home/raxen/Music/Playlist/mp3/1-07 Numb.mp3
 /home/raxen/Music/Playlist/Random/Numb [Official Music Video] - Linkin Park.mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/06 Castle of Glass.mp3
-/home/raxen/Music/Playlist/mp3/06 Castle of Glass.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/5-08 Linkin Park - In the End.mp3
-/home/raxen/Music/Playlist/mp3/5-08 Linkin Park - In the End.mp3
 /home/raxen/Music/Playlist/Random/In The End [Official HD Music Video] - Linkin Park.mp4
 /home/raxen/Music/Playlist/Random/Green Day - Holiday [Official Music Video].mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/16 Mama Said Knock You Out (video).mp3
-/home/raxen/Music/Playlist/mp3/16 Mama Said Knock You Out (video).mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/LL Cool J - Mama Said Knock You Out.mp3
 /home/raxen/Music/Music-Videos/LL Cool J - Mama Said Knock You Out (Official Video)-vimZj8HW0Kg.mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Logic feat. Eminem - Homicide.mp3
-/home/raxen/Music/Playlist/mp3/02 Logic feat. Eminem - Homicide.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Logic - Homicide (feat. Eminem).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/13 Logic - Keanu Reeves.mp3
-/home/raxen/Music/Playlist/mp3/13 Logic - Keanu Reeves.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Logic - Keanu Reeves.mp3
 /home/raxen/Music/Playlist/Riverdale/LVCRFT, Sabrina Spellman - Straight To Hell (from Netflix's 'Chilling Adventures of Sabrina').mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 7 Years.mp3
-/home/raxen/Music/Playlist/mp3/01 7 Years.mp3
 /home/raxen/Music/Playlist/Random/Lukas Graham - 7 Years.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/07 Machine Gun Kelly - FLOOR 13.mp3
-/home/raxen/Music/Playlist/mp3/07 Machine Gun Kelly - FLOOR 13.mp3
 /home/raxen/Music/Playlist/Random/Machine Gun Kelly - FLOOR 13.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Thrift Shop.mp3
-/home/raxen/Music/Playlist/mp3/01 Thrift Shop.mp3
 /home/raxen/Music/Playlist/Random/Macklemore, Ryan Lewis - Thrift Shop (feat. Wanz).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Rude.mp3
-/home/raxen/Music/Playlist/mp3/01 Rude.mp3
 /home/raxen/Music/Playlist/Random/MAGIC! - Rude.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/04 Mark Ronson feat. Bruno Mars - Uptown Funk.mp3
-/home/raxen/Music/Playlist/mp3/04 Mark Ronson feat. Bruno Mars - Uptown Funk.mp3
 /home/raxen/Music/Playlist/Random/Mark Ronson - Uptown Funk (feat. Bruno Mars).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Maroon 5 feat. Wiz Khalifa - Payphone.mp3
-/home/raxen/Music/Playlist/mp3/02 Maroon 5 feat. Wiz Khalifa - Payphone.mp3
 /home/raxen/Music/Playlist/Random/Maroon 5, Wiz Khalifa - Payphone.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/05 Maroon 5 - Sugar.mp3
-/home/raxen/Music/Playlist/mp3/05 Maroon 5 - Sugar.mp3
 /home/raxen/Music/Playlist/Random/Maroon 5 - Sugar.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Maroon 5 - Animals.mp3
-/home/raxen/Music/Playlist/mp3/02 Maroon 5 - Animals.mp3
 /home/raxen/Music/Playlist/Random/Maroon 5 - Animals.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Memories.mp3
-/home/raxen/Music/Playlist/mp3/01 Memories.mp3
 /home/raxen/Music/Playlist/Random/Maroon 5 - Memories.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Be Kind.mp3
-/home/raxen/Music/Playlist/mp3/01 Be Kind.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Matt Beilis - Call Me Fighter.mp3
-/home/raxen/Music/Playlist/mp3/Matt Beilis - Call Me Fighter.mp3
 /home/raxen/Music/Playlist/Random/Matt Beilis - Call Me Fighter.mp3
 /home/raxen/Music/Playlist/Badass-songs/The Legend Begins - Mawr + Silverberg (LYRICS).mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Mel Senese - Hell No!.mp3
-/home/raxen/Music/Playlist/mp3/Mel Senese - Hell No!.mp3
 /home/raxen/Music/Playlist/Random/Mel Senese - Hell No!.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/2-02 Michael Jackson - Beat It.mp3
-/home/raxen/Music/Playlist/mp3/2-02 Michael Jackson - Beat It.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/4-09 Michael Jackson - Smooth Criminal.mp3
-/home/raxen/Music/Playlist/mp3/4-09 Michael Jackson - Smooth Criminal.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Michael John Hall - Ground Control To Major Tom.mp3
-/home/raxen/Music/Playlist/mp3/Michael John Hall - Ground Control To Major Tom.mp3
 /home/raxen/Music/Playlist/Random/Michael John Hall - Ground Control To Major Tom.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/02 mommy × Philanthrope - soupeddd!.mp3
 /home/raxen/Music/Playlist/pop/My Chemical Romance - Teenagers [Official Music Video]-k6EQAOmJrbw.mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Rumors.mp3
-/home/raxen/Music/Playlist/mp3/01 Rumors.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/NEFFEX - Rumors.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Fight Back.mp3
-/home/raxen/Music/Playlist/mp3/01 Fight Back.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/NEFFEX - Fight Back.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Nightmare (1).mp3
-/home/raxen/Music/Playlist/mp3/01 Nightmare (1).mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/NEFFEX - Nightmare.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Destiny.mp3
-/home/raxen/Music/Playlist/mp3/01 Destiny.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/NEFFEX - Destiny.mp3
-/home/raxen/Music/Artists/NF/NF - Mansion (2015) [MP3~320Kbps]~[Hunter] [FRG]/NF - Mansion (2015)/01 Intro.mp3
-/home/raxen/Music/Artists/NF/NF - Mansion (2015) [MP3~320Kbps]~[Hunter] [FRG]/NF - Mansion (2015)/02 Mansion (Feat. Fleurie).mp3
-/home/raxen/Music/Artists/NF/NF - Mansion (2015) [MP3~320Kbps]~[Hunter] [FRG]/NF - Mansion (2015)/03 All I Have.mp3
-/home/raxen/Music/Artists/NF/NF - Mansion (2015) [MP3~320Kbps]~[Hunter] [FRG]/NF - Mansion (2015)/04 Wait.mp3
-/home/raxen/Music/Artists/NF/NF - Mansion (2015) [MP3~320Kbps]~[Hunter] [FRG]/NF - Mansion (2015)/05 Wake Up.mp3
-/home/raxen/Music/Artists/NF/NF - Mansion (2015) [MP3~320Kbps]~[Hunter] [FRG]/NF - Mansion (2015)/06 Face It.mp3
-/home/raxen/Music/Artists/NF/NF - Mansion (2015) [MP3~320Kbps]~[Hunter] [FRG]/NF - Mansion (2015)/07 Motivated.mp3
-/home/raxen/Music/Artists/NF/NF - Mansion (2015) [MP3~320Kbps]~[Hunter] [FRG]/NF - Mansion (2015)/08 Notepad.mp3
-/home/raxen/Music/Artists/NF/NF - Mansion (2015) [MP3~320Kbps]~[Hunter] [FRG]/NF - Mansion (2015)/09 Turn The Music Up.mp3
-/home/raxen/Music/Artists/NF/NF - Mansion (2015) [MP3~320Kbps]~[Hunter] [FRG]/NF - Mansion (2015)/10 Paralyzed.mp3
-/home/raxen/Music/Artists/NF/NF - Mansion (2015) [MP3~320Kbps]~[Hunter] [FRG]/NF - Mansion (2015)/11 I'll Keep On (Feat. Jeremiah Carlson).mp3
-/home/raxen/Music/Artists/NF/NF - Mansion (2015) [MP3~320Kbps]~[Hunter] [FRG]/NF - Mansion (2015)/12 Can You Hold Me (Feat. Britt Nicole).mp3
-/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/01. Intro 2.mp3
-/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/02. Therapy Session.mp3
-/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/03. I Just Wanna Know.mp3
-/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/04. How Could You Leave Us.mp3
-/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/05. Breathe.mp3
-/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/06. Real.mp3
-/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/07. Oh Lord.mp3
-/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/08. I Can Feel It.mp3
-/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/09. Got You On My Mind.mp3
-/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/10. Grindin' (feat. Marty).mp3
-/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/11. Wish You Wouldn't.mp3
-/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/12. Statement.mp3
-/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/13. All I Do.mp3
-/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/14. Lost in the Moment (feat. Jonathan Thulin).mp3
-/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/1 - Intro III.mp3
-/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/2 - Outcast.mp3
-/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/4 - Green Lights.mp3
-/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/5 - Dreams.mp3
-/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/6 - Let You Down.mp3
-/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/7 - Destiny.mp3
-/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/8 - My Life.mp3
-/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/9 - You're Special.mp3
-/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/10 - If You Want Love.mp3
-/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/11 - Remember This.mp3
-/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/12 - Know.mp3
-/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/13 - Lie.mp3
-/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/14 - 3 A.M..mp3
-/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/15 - One Hundred.mp3
-/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/16 - Outro.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/06 NF - Let You Down.mp3
-/home/raxen/Music/Playlist/mp3/06 NF - Let You Down.mp3
+/home/raxen/Music/Artists/NF/NF - Mansion (2015) [MP3~320Kbps]~[Hunter] [FRG]/NF - Mansion (2015)/Intro.mp3
+/home/raxen/Music/Artists/NF/NF - Mansion (2015) [MP3~320Kbps]~[Hunter] [FRG]/NF - Mansion (2015)/Mansion (Feat. Fleurie).mp3
+/home/raxen/Music/Artists/NF/NF - Mansion (2015) [MP3~320Kbps]~[Hunter] [FRG]/NF - Mansion (2015)/All I Have.mp3
+/home/raxen/Music/Artists/NF/NF - Mansion (2015) [MP3~320Kbps]~[Hunter] [FRG]/NF - Mansion (2015)/Wait.mp3
+/home/raxen/Music/Artists/NF/NF - Mansion (2015) [MP3~320Kbps]~[Hunter] [FRG]/NF - Mansion (2015)/Wake Up.mp3
+/home/raxen/Music/Artists/NF/NF - Mansion (2015) [MP3~320Kbps]~[Hunter] [FRG]/NF - Mansion (2015)/Face It.mp3
+/home/raxen/Music/Artists/NF/NF - Mansion (2015) [MP3~320Kbps]~[Hunter] [FRG]/NF - Mansion (2015)/Motivated.mp3
+/home/raxen/Music/Artists/NF/NF - Mansion (2015) [MP3~320Kbps]~[Hunter] [FRG]/NF - Mansion (2015)/Notepad.mp3
+/home/raxen/Music/Artists/NF/NF - Mansion (2015) [MP3~320Kbps]~[Hunter] [FRG]/NF - Mansion (2015)/Turn The Music Up.mp3
+/home/raxen/Music/Artists/NF/NF - Mansion (2015) [MP3~320Kbps]~[Hunter] [FRG]/NF - Mansion (2015)/Paralyzed.mp3
+/home/raxen/Music/Artists/NF/NF - Mansion (2015) [MP3~320Kbps]~[Hunter] [FRG]/NF - Mansion (2015)/I'll Keep On (Feat. Jeremiah Carlson).mp3
+/home/raxen/Music/Artists/NF/NF - Mansion (2015) [MP3~320Kbps]~[Hunter] [FRG]/NF - Mansion (2015)/Can You Hold Me (Feat. Britt Nicole).mp3
+/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/01 Intro 2.mp3
+/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/02 Therapy Session.mp3
+/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/03 I Just Wanna Know.mp3
+/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/04 How Could You Leave Us.mp3
+/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/05 Breathe.mp3
+/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/06 Real.mp3
+/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/07 Oh Lord.mp3
+/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/08 I Can Feel It.mp3
+/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/09 Got You On My Mind.mp3
+/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/10 Grindin' (feat. Marty).mp3
+/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/11 Wish You Wouldn't.mp3
+/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/12 Statement.mp3
+/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/13 All I Do.mp3
+/home/raxen/Music/Artists/NF/NF - Therapy Session (2016)~[MP3~320kbps]~[Hunter] [FRG]/NF - Therapy Session/14 Lost in the Moment (feat. Jonathan Thulin).mp3
+/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/Intro III.mp3
+/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/Outcast.mp3
+/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/Green Lights.mp3
+/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/Dreams.mp3
+/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/Let You Down.mp3
+/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/Destiny.mp3
+/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/My Life.mp3
+/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/You're Special.mp3
+/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/If You Want Love.mp3
+/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/Remember This.mp3
+/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/Know.mp3
+/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/Lie.mp3
+/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/3 A.M..mp3
+/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/One Hundred.mp3
+/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/Outro.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/NF - Let You Down.mp3
-/home/raxen/Music/Playlist/mp3/01 WHY.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/NF - WHY.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 PAID MY DUES.mp3
-/home/raxen/Music/Playlist/mp3/01 PAID MY DUES.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/NF - PAID MY DUES.mp3
-/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/1. The Search.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 NF - The Search.mp3
-/home/raxen/Music/Playlist/mp3/01 NF - The Search.mp3
+/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/01 The Search.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/NF - The Search.mp3
-/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/2. Leave Me Alone.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 NF - Leave Me Alone.mp3
-/home/raxen/Music/Playlist/mp3/02 NF - Leave Me Alone.mp3
+/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/02 Leave Me Alone.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/NF - Leave Me Alone.mp3
-/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/3. Change.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/03 NF - Change.mp3
-/home/raxen/Music/Playlist/mp3/03 NF - Change.mp3
+/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/03 Change.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/NF - Change.mp3
-/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/4. My Stress.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/04 NF - My Stress.mp3
-/home/raxen/Music/Playlist/mp3/04 NF - My Stress.mp3
+/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/04 My Stress.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/NF - My Stress.mp3
-/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/5. Nate.mp3
-/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/6. Time (Extended).mp3
-/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/7. Returns.mp3
-/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/8. When I Grow Up.mp3
-/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/9. Only.mp3
-/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/10. Let Me Go.mp3
-/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/11. -Interlude-.mp3
-/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/12. Hate Myself.mp3
-/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/13. I Miss The Days.mp3
-/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/14. No Excuses.mp3
-/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/15. Like This.mp3
-/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/16. Options.mp3
-/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/17. WHY.mp3
-/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/18. Thinking.mp3
-/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/19. Trauma.mp3
-/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/20. Time.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Time (edit).mp3
-/home/raxen/Music/Playlist/mp3/01 Time (edit).mp3
+/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/05 Nate.mp3
+/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/06 Time (Extended).mp3
+/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/07 Returns.mp3
+/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/08 When I Grow Up.mp3
+/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/09 Only.mp3
+/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/10 Let Me Go.mp3
+/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/11 -Interlude-.mp3
+/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/12 Hate Myself.mp3
+/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/13 I Miss The Days.mp3
+/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/14 No Excuses.mp3
+/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/15 Like This.mp3
+/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/16 Options.mp3
+/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/17 WHY.mp3
+/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/18 Thinking.mp3
+/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/19 Trauma.mp3
+/home/raxen/Music/Artists/NF/NF - The Search (2019) Mp3 (320 kbps) [Hunter]/NF - The Search (2019)/20 Time.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/NF - Time - Edit.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 When I Grow Up.mp3
-/home/raxen/Music/Playlist/mp3/01 When I Grow Up.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/NF - When I Grow Up.mp3
-/home/raxen/Music/Artists/NF/The_Search/_Interlude--ebr4NrZb1Y0.mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 NF - CLOUDS.mp3
-/home/raxen/Music/Playlist/mp3/01 NF - CLOUDS.mp3
-/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/3 - 10 Feet Down.mp3
+/home/raxen/Music/Artists/NF/NF - Perception (2017) (Mp3 320kbps) [Hunter]/NF - Perception (2017) [MZ Music]/10 Feet Down.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Martial Artsists.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Smells Like Teen Spirit (edit).mp3
-/home/raxen/Music/Playlist/mp3/01 Smells Like Teen Spirit (edit).mp3
 /home/raxen/Music/Playlist/Heavy_Metal/Nirvana - Smells Like Teen Spirit (Official Music Video).mp4
 /home/raxen/Music/Playlist/Random/Nirvana - Smells Like Teen Spirit (Official Music Video).mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 _ _ _ _ tha Police (Fill in the Blanks).mp3
-/home/raxen/Music/Playlist/mp3/02 _ _ _ _ tha Police (Fill in the Blanks).mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/N.W.A. - Fuck Tha Police.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/05 Up All Night.mp3
-/home/raxen/Music/Playlist/mp3/05 Up All Night.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/01 Indelible.mp3
 /home/raxen/Music/Playlist/Random/One Direction - Up All Night.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Best Song Ever.mp3
-/home/raxen/Music/Playlist/mp3/01 Best Song Ever.mp3
 /home/raxen/Music/Playlist/Random/One Direction - Best Song Ever.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/03 Perfect.mp3
-/home/raxen/Music/Playlist/mp3/03 Perfect.mp3
 /home/raxen/Music/Playlist/Random/One Direction - Perfect.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/03 Secrets.mp3
-/home/raxen/Music/Playlist/mp3/03 Secrets.mp3
 /home/raxen/Music/Playlist/Random/OneRepublic - Secrets.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Counting Stars.mp3
-/home/raxen/Music/Playlist/mp3/01 Counting Stars.mp3
 /home/raxen/Music/Playlist/Random/OneRepublic - Counting Stars.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Rescue Me (acoustic).mp3
-/home/raxen/Music/Playlist/mp3/01 Rescue Me (acoustic).mp3
 /home/raxen/Music/Playlist/Random/OneRepublic - Rescue Me.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/03 Green Leaves.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Yellow.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Paper Birds.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Tree House.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Watermelon Sugar.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Memories.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Fireflies.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/01 Fly Like Birds.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/2-05 I'm a Minimalist.mp3
 /home/raxen/Music/Playlist/pop/Against The Current - Running With The Wild Things (Official Music Video)-bcvuYNhfj-c.mp4
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/02 Philanthrope feat. drwn. - Blue.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/03 Philanthrope feat. tusken. - Clockwork.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/04 Philanthrope - FLKE.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/05 Philanthrope - Frameworks, Pt.1.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/13 Philanthrope - Rematch.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/03 Philanthrope feat. sugi.wa - Cutting in Reverse.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/13 Philanthrope feat. Kupla - Silence.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/08 Winter In America.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/16 Amore Com Dolore.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Ain't No Sunshine.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Take on Me.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Life Under Water.mp3
@@ -2841,74 +2802,36 @@
 /home/raxen/Music/Playlist/Lofi_hip_hop/Ocarina Of Time.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Tinted Windows.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Homemade Dessert.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/12 Post Malone feat. Quavo - Congratulations.mp3
-/home/raxen/Music/Playlist/mp3/12 Post Malone feat. Quavo - Congratulations.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/02 Poldoore feat. Kupla & Frayhm - Forevermore.mp3
 /home/raxen/Music/Playlist/Random/Post Malone, Quavo - Congratulations.mp3
 /home/raxen/Music/Playlist/Jazz/ProleteR - April showers-29029274.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/04 Queen - Another One Bites the Dust.mp3
-/home/raxen/Music/Playlist/mp3/04 Queen - Another One Bites the Dust.mp3
 /home/raxen/Music/Playlist/Random/Queen - Another One Bites the Dust (Official Video)-rY0WxgSXdEE.mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/11 Queen - We Will Rock You (movie mix).mp3
-/home/raxen/Music/Playlist/mp3/11 Queen - We Will Rock You (movie mix).mp3
 /home/raxen/Music/Playlist/Random/Queen - We Will Rock You - Movie Mix.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/3-04 Otherside.mp3
-/home/raxen/Music/Playlist/mp3/3-04 Otherside.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/06 Never Gonna Give You Up (7_ instrumental mix).mp3
-/home/raxen/Music/Playlist/mp3/06 Never Gonna Give You Up (7_ instrumental mix).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/05 Ashleigh Murray, Asha Bromfield, Hayley Law & Madelaine Petsch - Candy Girl (Sugar Sugar).mp3
-/home/raxen/Music/Playlist/mp3/05 Ashleigh Murray, Asha Bromfield, Hayley Law & Madelaine Petsch - Candy Girl (Sugar Sugar).mp3
 /home/raxen/Music/Playlist/Random/Riverdale Cast - Candy Girl (Sugar Sugar) _ Riverdale 1x02 Music [HD].mp4
 /home/raxen/Music/Playlist/Riverdale/Riverdale Cast, KJ Apa - Mad World (feat. K.J. Apa, Camila Mendes & Lili Reinhart).mp3
 /home/raxen/Music/Playlist/Riverdale/Riverdale Cast - Daddy Lessons (feat. Camila Mendes).mp3
 /home/raxen/Music/Playlist/Riverdale/Riverdale Cast - Beautiful (feat. Casey Cott, Madelaine Petsch, Camila Mendes, Ashleigh Murray, KJ Apa, Lili Reinhart, Cole Sprouse, Charles Melton, Jordan Connor, Drew Ray Tanner, Zoé de Grand'Maison & Bernadette Beck).mp3
 /home/raxen/Music/Playlist/Riverdale/Riverdale Cast - Dream Warriors (feat. KJ Apa, Ashleigh Murray, Camila Mendes & Lili Reinhart).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Riverdale Cast - Random Number Generation (feat.mp3
-/home/raxen/Music/Playlist/mp3/Riverdale Cast - Random Number Generation (feat. KJ Apa, Lili Reinhart, Camila Mendes, Madelaine Petsch, Casey Cott, Charles Melton, Vanessa Morgan, Drew Ray Tanner & Jordan Connor).mp3
-/home/raxen/Music/Playlist/mp3/Riverdale Cast - Random Number Generation (feat.mp3
 /home/raxen/Music/Playlist/Random/Riverdale Cast - Random Number Generation (feat. KJ Apa, Lili Reinhart, Camila Mendes, Madelaine Petsch, Casey Cott, Charles Melton, Vanessa Morgan, Drew Ray Tanner & Jordan Connor).mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Riverdale Cast - Random Number Generation (feat. KJ Apa, Lili Reinhart, Camila Mendes, Madelaine Petsch, Casey Cott, Charles Melton, Vanessa Morgan, Drew Ray Tanner & Jordan Connor).mp3
 /home/raxen/Music/Playlist/Riverdale/Riverdale Cast - Random Number Generation (feat. KJ Apa, Lili Reinhart, Camila Mendes, Madelaine Petsch, Casey Cott, Charles Melton, Vanessa Morgan, Drew Ray Tanner & Jordan Connor).mp3
 /home/raxen/Music/Playlist/Riverdale/Riverdale Cast - Sugar Daddy (feat. Madelaine Petsch & Vanessa Morgan).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Riverdale Cast - Exquisite Corpse (feat.mp3
-/home/raxen/Music/Playlist/mp3/Riverdale Cast - Exquisite Corpse (feat. KJ Apa, Lili Reinhart, Camila Mendes & Cole Sprouse).mp3
-/home/raxen/Music/Playlist/mp3/Riverdale Cast - Exquisite Corpse (feat.mp3
 /home/raxen/Music/Playlist/Random/Riverdale Cast - Exquisite Corpse (feat. KJ Apa, Lili Reinhart, Camila Mendes & Cole Sprouse).mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Riverdale Cast - Exquisite Corpse (feat. KJ Apa, Lili Reinhart, Camila Mendes & Cole Sprouse).mp3
 /home/raxen/Music/Playlist/Riverdale/Riverdale Cast - Exquisite Corpse (feat. KJ Apa, Lili Reinhart, Camila Mendes & Cole Sprouse).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Riverdale Cast - The Origin of Love (feat.mp3
-/home/raxen/Music/Playlist/mp3/Riverdale Cast - The Origin of Love (feat.mp3
 /home/raxen/Music/Playlist/Random/Riverdale Cast - The Origin of Love (feat. KJ Apa, Lili Reinhart, Camila Mendes & Cole Sprouse).mp3
 /home/raxen/Music/Playlist/Riverdale/Riverdale Cast - The Origin of Love (feat. KJ Apa, Lili Reinhart, Camila Mendes & Cole Sprouse).mp3
 /home/raxen/Music/Playlist/Riverdale/Riverdale_daddy_lesson.MP3
 /home/raxen/Music/Playlist/Riverdale/Riverdale_mad_world.MP3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 It's Tricky.mp3
-/home/raxen/Music/Playlist/mp3/02 It's Tricky.mp3
 /home/raxen/Music/Playlist/Random/Run–D.M.C. - It's Tricky.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/03 Thumbs.mp3
-/home/raxen/Music/Playlist/mp3/03 Thumbs.mp3
 /home/raxen/Music/Playlist/Random/Sabrina Carpenter - Thumbs.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 WHY.mp3
-/home/raxen/Music/Playlist/mp3/01 Why.mp3
 /home/raxen/Music/Playlist/Random/Sabrina Carpenter - Why.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/08 Sabrina Carpenter - Diamonds Are Forever.mp3
-/home/raxen/Music/Playlist/mp3/08 Sabrina Carpenter - Diamonds Are Forever.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Writing's on the Wall (instrumental).mp3
-/home/raxen/Music/Playlist/mp3/02 Writing's on the Wall (instrumental).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Fire on Fire.mp3
-/home/raxen/Music/Playlist/mp3/01 Fire on Fire.mp3
 /home/raxen/Music/Playlist/Random/Sam Smith - Fire On Fire - From 'Watership Down'.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 How Do You Sleep_ (acoustic).mp3
-/home/raxen/Music/Playlist/mp3/01 How Do You Sleep_ (acoustic).mp3
 /home/raxen/Music/Playlist/Random/Sam Smith - How Do You Sleep.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Sam Tinnesz feat.Yacht Money - Play With Fire.mp3
-/home/raxen/Music/Playlist/mp3/02 Sam Tinnesz feat.Yacht Money - Play With Fire.mp3
 /home/raxen/Music/Playlist/Random/Sam Tinnesz - Play with Fire (feat. Yacht Money).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Chippin' In.mp3
-/home/raxen/Music/Playlist/mp3/01 Chippin' In.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/SAMURAI, Refused - Chippin' In.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/SanGan, Hiphop Tamizha - Weightu.mp3
-/home/raxen/Music/Playlist/mp3/SanGan, Hiphop Tamizha - Weightu.mp3
 /home/raxen/Music/Playlist/Random/SanGan, Hiphop Tamizha - Weightu.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/05 the great ocean road.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/I See Fire.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Il Vento D'oro.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Kodachi.mp3
@@ -2925,18 +2848,25 @@
 /home/raxen/Music/Playlist/Lofi_hip_hop/Unexpected Visitor.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Viva La Vida.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Let Her Go.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/03 Selena Gomez - Hands to Myself.mp3
-/home/raxen/Music/Playlist/mp3/03 Selena Gomez - Hands to Myself.mp3
 /home/raxen/Music/Playlist/Random/Selena Gomez - Hands To Myself.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/04 Selena Gomez - Same Old Love.mp3
-/home/raxen/Music/Playlist/mp3/04 Selena Gomez - Same Old Love.mp3
 /home/raxen/Music/Playlist/Random/Selena Gomez - Same Old Love.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Wolves.mp3
-/home/raxen/Music/Playlist/mp3/01 Wolves.mp3
 /home/raxen/Music/Playlist/Random/Selena Gomez, Marshmello - Wolves.mp3
+/home/raxen/Music/Artists/Shawn_Mendes/Shawn Mendes - Illuminate (2016)/Ruin.mp3
+/home/raxen/Music/Artists/Shawn_Mendes/Shawn Mendes - Illuminate (2016)/Mercy.mp3
+/home/raxen/Music/Artists/Shawn_Mendes/Shawn Mendes - Illuminate (2016)/Treat You Better.mp3
+/home/raxen/Music/Artists/Shawn_Mendes/Shawn Mendes - Illuminate (2016)/Three Empty Words.mp3
+/home/raxen/Music/Artists/Shawn_Mendes/Shawn Mendes - Illuminate (2016)/Don't Be A Fool.mp3
+/home/raxen/Music/Artists/Shawn_Mendes/Shawn Mendes - Illuminate (2016)/Like This.mp3
+/home/raxen/Music/Artists/Shawn_Mendes/Shawn Mendes - Illuminate (2016)/No Promises.mp3
+/home/raxen/Music/Artists/Shawn_Mendes/Shawn Mendes - Illuminate (2016)/Lights On.mp3
+/home/raxen/Music/Artists/Shawn_Mendes/Shawn Mendes - Illuminate (2016)/Honest.mp3
+/home/raxen/Music/Artists/Shawn_Mendes/Shawn Mendes - Illuminate (2016)/Patience.mp3
+/home/raxen/Music/Artists/Shawn_Mendes/Shawn Mendes - Illuminate (2016)/Bad Reputation.mp3
+/home/raxen/Music/Artists/Shawn_Mendes/Shawn Mendes - Illuminate (2016)/Understand.mp3
+/home/raxen/Music/Artists/Shawn_Mendes/Shawn Mendes - Illuminate (2016)/Hold On.mp3
+/home/raxen/Music/Artists/Shawn_Mendes/Shawn Mendes - Illuminate (2016)/Roses.mp3
+/home/raxen/Music/Artists/Shawn_Mendes/Shawn Mendes - Illuminate (2016)/Mercy (1).mp3
 /home/raxen/Music/Playlist/Random/Shawn Mendes, Camila Cabello - Señorita.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/06 Cheap Thrills.mp3
-/home/raxen/Music/Playlist/mp3/06 Cheap Thrills.mp3
 /home/raxen/Music/Playlist/Random/Sia - Cheap Thrills.mp3
 /home/raxen/Music/Tributes/Lucifer/Lucifer Tribute (Monster by Skillet)-rsYgilWklNQ.mp4
 /home/raxen/Music/Playlist/Badass-songs/Smash Into Pieces - All Eyes On You (Official Lyric Video)-tSQ6CyyPatM.mp4
@@ -2944,307 +2874,161 @@
 /home/raxen/Music/Playlist/Lofi_hip_hop/Sunflower.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Dancing in the Moonlight.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Sonya Belousova, Giona Ostinelli, Joey Batey - Toss A Coin To Your Witcher.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Sonya Belousova and Giona Ostinelli feat. Joey Batey - Toss a Coin to Your Witcher.mp3
-/home/raxen/Music/Playlist/mp3/02 Sonya Belousova and Giona Ostinelli feat. Joey Batey - Toss a Coin to Your Witcher.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Kakariko Village.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Higher Love.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Knight Rider.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Shuffle the Deck.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/10 Stephen - Sincerely.mp3
-/home/raxen/Music/Playlist/mp3/10 Stephen - Sincerely.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Without You - Lo-Fi Remix.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/22 Our Song.mp3
-/home/raxen/Music/Playlist/mp3/22 Our Song.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/01 With U.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - Our Song.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/06 Taylor Swift - You Belong With Me.mp3
-/home/raxen/Music/Playlist/mp3/06 Taylor Swift - You Belong With Me.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - You Belong With Me.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - The Story Of Us.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-09 Enchanted.mp3
-/home/raxen/Music/Playlist/mp3/1-09 Enchanted.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/1-01 Mine.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/1-02 Sparks Fly.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/1-03 Back to December.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/1-04 Speak Now.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/1-05 Dear John.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/1-06 Mean.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/1-07 The Story of Us.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/1-08 Never Grow Up.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/1-09 Enchanted.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - Enchanted.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/101-taylor_swift-mine.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/102-taylor_swift-sparks_fly.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/103-taylor_swift-back_to_december.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/104-taylor_swift-speak_now.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/105-taylor_swift-dear_john.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/106-taylor_swift-mean.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/107-taylor_swift-the_story_of_us.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/108-taylor_swift-never_grow_up.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/109-taylor_swift-enchanted.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/110-taylor_swift-better_than_revenge.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/111-taylor_swift-innocent.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/112-taylor_swift-haunted.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/113-taylor_swift-last_kiss.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/114-taylor_swift-long_live.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/201-taylor_swift-ours.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/202-taylor_swift-if_this_was_a_movie.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/203-taylor_swift-superman.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/204-taylor_swift-back_to_december_(acoustic).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/205-taylor_swift-haunted_(acoustic).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/206-taylor_swift-mine_(us_version).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/207-taylor_swift-back_to_december_(us_version).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/208-taylor_swift-the_story_of_us_(us_version).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-03 Back to December.mp3
-/home/raxen/Music/Playlist/mp3/1-03 Back to December.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/2-07 The Story of Us.mp3
-/home/raxen/Music/Playlist/mp3/2-07 The Story of Us.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Red-2012/01- Taylor Swift - State of Grace.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Red-2012/02 - Taylor Swift - Red.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Red-2012/03 - Taylor Swift - Treacherous.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Red-2012/04- Taylor Swift - I Knew You Were Trouble.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Red-2012/05- Taylor Swift - All Too Well.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Red-2012/06- Taylor Swift - 22.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Red-2012/07- Taylor Swift - I Almost Do.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Red-2012/08- Taylor Swift - We Are Never Ever Getting Back Together.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Red-2012/09- Taylor Swift - Stay, Stay, Stay.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Red-2012/10- Taylor Swift - The Last Time (Ft. Gary Lightbody of Snow Patrol).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Red-2012/11- Taylor Swift - Holy Ground.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Red-2012/12- Taylor Swift - Sad, Beautiful, Tragic.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Red-2012/13- Taylor Swift - Lucky One.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Red-2012/14- Taylor Swift - Everything Has Changed (Ft. Ed Sheeran).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Red-2012/15- Taylor Swift - Starlight.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Red-2012/16- Taylor Swift - Begin Again.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Red-2012/17- Taylor Swift - The Moment I Knew (Deluxe Edition).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Red-2012/19- Taylor Swift - Girl at Home (Deluxe Edition).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Red-2012/22 Taylor Swift  - Red (Original Demo Recording) (Deluxe Edition).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Red-2012/21- Taylor Swift  - State of Grace (Acoustic Version) (Deluxe Edition).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Red-2012/18- Taylor Swift - Come Back...Be Here  (Deluxe Edition).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Red-2012/20- Taylor Swift - Treacherous (Original Demo Recording) (Deluxe Edition).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/04 I Knew You Were Trouble.mp3
-/home/raxen/Music/Playlist/mp3/04 I Knew You Were Trouble.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/1-10 Better Than Revenge.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/1-11 Innocent.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/1-12 Haunted.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/1-13 Last Kiss.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/1-14 Long Live.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/2-01 Ours.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/2-02 If This Was a Movie.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/2-03 Superman.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/2-04 Back to December (acoustic).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/2-05 Haunted (acoustic).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/2-06 Mine (US version).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/2-07 Back to December (US version).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Speak-Now-2010/2-08 The Story of Us (US version).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Red/1-01 Taylor Swift - State of Grace.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Red/1-02 Taylor Swift - Red.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Red/1-03 Taylor Swift - Treacherous.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Red/1-04 Taylor Swift - I Knew You Were Trouble..mp3
+/home/raxen/Music/Artists/Taylor_Swift/Red/1-05 Taylor Swift - All Too Well.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Red/1-06 Taylor Swift - 22.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Red/1-07 Taylor Swift - I Almost Do.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Red/1-08 Taylor Swift - We Are Never Ever Getting Back Together.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Red/1-09 Taylor Swift - Stay Stay Stay.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Red/1-10 Taylor Swift featuring Gary Lightbody of Snow Patrol - The Last Time.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Red/1-11 Taylor Swift - Holy Ground.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Red/1-12 Taylor Swift - Sad Beautiful Tragic.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Red/1-13 Taylor Swift - The Lucky One.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Red/1-14 Taylor Swift featuring Ed Sheeran - Everything Has Changed.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Red/1-15 Taylor Swift - Starlight.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Red/1-16 Taylor Swift - Begin Again.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Red/2-01 Taylor Swift - The Moment I Knew.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Red/2-02 Taylor Swift - Come Back... Be Here.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Red/2-03 Taylor Swift - Girl at Home.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Red/2-04 Taylor Swift - Treacherous (original demo recording).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Red/2-05 Taylor Swift - Red (original demo recording).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Red/2-06 Taylor Swift - State of Grace (acoustic version).mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - I Knew You Were Trouble..mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/08 We Are Never Ever Getting Back Together.mp3
-/home/raxen/Music/Playlist/mp3/08 We Are Never Ever Getting Back Together.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - We Are Never Ever Getting Back Together.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Blank Space.mp3
-/home/raxen/Music/Playlist/mp3/02 Blank Space.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - Blank Space.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/03 Style.mp3
-/home/raxen/Music/Playlist/mp3/03 Style.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - Style.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/04 Out of the Woods.mp3
-/home/raxen/Music/Playlist/mp3/04 Out of the Woods.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - Out Of The Woods.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/06 Shake It Off.mp3
-/home/raxen/Music/Playlist/mp3/06 Shake It Off.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - Shake It Off.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/Taylor Swift - Reputation (2017)/1  ...Ready For It_.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/Taylor Swift - Reputation (2017)/2 End Game.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/Taylor Swift - Reputation (2017)/3 I Did Something Bad.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/Taylor Swift - Reputation (2017)/4 Don't Blame Me.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/Taylor Swift - Reputation (2017)/5 Delicate.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/Taylor Swift - Reputation (2017)/6 Look What You Made Me Do.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/Taylor Swift - Reputation (2017)/7 So It Goes.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/Taylor Swift - Reputation (2017)/8 Gorgeous.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/Taylor Swift - Reputation (2017)/9 Getaway Car.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/Taylor Swift - Reputation (2017)/10 King Of My Heart.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/Taylor Swift - Reputation (2017)/11 Dancing With Our Hands Tied.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/Taylor Swift - Reputation (2017)/13 This Is Why We Can't Have Nice Things.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/Taylor Swift - Reputation (2017)/12 Dress.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/Taylor Swift - Reputation (2017)/14 Call It What You Want.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/Taylor Swift - Reputation (2017)/15 New Year's Day.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Taylor Swift - ...Ready for It_.mp3
-/home/raxen/Music/Playlist/mp3/01 Taylor Swift - ...Ready for It_.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) Flac. DMT/T. Swift.1989 Deluxe-2014/01 Welcome To New York.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) Flac. DMT/T. Swift.1989 Deluxe-2014/02 Blank Space.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) Flac. DMT/T. Swift.1989 Deluxe-2014/03 Style.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) Flac. DMT/T. Swift.1989 Deluxe-2014/04 Out Of The Woods.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) Flac. DMT/T. Swift.1989 Deluxe-2014/05 All You Had To Do Was Stay.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) Flac. DMT/T. Swift.1989 Deluxe-2014/06 Shake It Off.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) Flac. DMT/T. Swift.1989 Deluxe-2014/07 I Wish You Would.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) Flac. DMT/T. Swift.1989 Deluxe-2014/08 Bad Blood.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) Flac. DMT/T. Swift.1989 Deluxe-2014/09 Wildest Dreams.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) Flac. DMT/T. Swift.1989 Deluxe-2014/10 How You Get The Girl.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) Flac. DMT/T. Swift.1989 Deluxe-2014/11 This Love.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) Flac. DMT/T. Swift.1989 Deluxe-2014/12 I Know Places.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) Flac. DMT/T. Swift.1989 Deluxe-2014/13 Clean.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) Flac. DMT/T. Swift.1989 Deluxe-2014/14 Wonderland.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) Flac. DMT/T. Swift.1989 Deluxe-2014/15 You Are In Love.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) Flac. DMT/T. Swift.1989 Deluxe-2014/16 New Romantics.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) Flac. DMT/T. Swift.1989 Deluxe-2014/17 I Know Places - Voice Memos.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) Flac. DMT/T. Swift.1989 Deluxe-2014/18 I Wish You Would - Voice Memos.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - 1989 (Deluxe Edition) (2014) Flac. DMT/T. Swift.1989 Deluxe-2014/19 Blank Space - Voice Memos.flac
+/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/01 Taylor Swift - ...Ready for It_.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - ...Ready For It.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Taylor Swift feat. Ed Sheeran & Future - End Game.mp3
-/home/raxen/Music/Playlist/mp3/02 Taylor Swift feat. Ed Sheeran & Future - End Game.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/02 Taylor Swift feat. Ed Sheeran and Future - End Game.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift, Ed Sheeran, Future - End Game.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/03 Taylor Swift - I Did Something Bad.mp3
-/home/raxen/Music/Playlist/mp3/03 Taylor Swift - I Did Something Bad.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/03 Taylor Swift - I Did Something Bad.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - I Did Something Bad.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/04 Taylor Swift - Don't Blame Me.mp3
-/home/raxen/Music/Playlist/mp3/04 Taylor Swift - Don't Blame Me.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/04 Taylor Swift - Don't Blame Me.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - Don’t Blame Me.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/05 Taylor Swift - Delicate.mp3
-/home/raxen/Music/Playlist/mp3/05 Taylor Swift - Delicate.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/05 Taylor Swift - Delicate.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - Delicate.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/08 Taylor Swift - Gorgeous.mp3
-/home/raxen/Music/Playlist/mp3/08 Taylor Swift - Gorgeous.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/06 Taylor Swift - Look What You Made Me Do.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/07 Taylor Swift - So It Goes....mp3
+/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/08 Taylor Swift - Gorgeous.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - Gorgeous.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/09 Taylor Swift - Getaway Car.mp3
-/home/raxen/Music/Playlist/mp3/09 Taylor Swift - Getaway Car.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/09 Taylor Swift - Getaway Car.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - Getaway Car.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/14 Taylor Swift - Call It What You Want.mp3
-/home/raxen/Music/Playlist/mp3/14 Taylor Swift - Call It What You Want.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/10 Taylor Swift - King of My Heart.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/11 Taylor Swift - Dancing With Our Hands Tied (1).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/11 Taylor Swift - Dancing With Our Hands Tied.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/12 Taylor Swift - Dress.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/14 Taylor Swift - Call It What You Want.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - Call It What You Want.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Taylor Swift - Wildest Dreams.mp3
-/home/raxen/Music/Playlist/mp3/02 Taylor Swift - Wildest Dreams.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Reputation-2017/15 Taylor Swift - New Year's Day.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - Wildest Dreams.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/06 Taylor Swift - Teardrops on My Guitar (radio single remix).mp3
-/home/raxen/Music/Playlist/mp3/06 Taylor Swift - Teardrops on My Guitar (radio single remix).mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - Teardrops On My Guitar - Radio Single Remix.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/08 Taylor Swift - 22.mp3
-/home/raxen/Music/Playlist/mp3/08 Taylor Swift - 22.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - 22.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/10 ZAYN _ Taylor Swift - I Don't Wanna Live Forever (Fifty Shades Darker).mp3
-/home/raxen/Music/Playlist/mp3/10 ZAYN _ Taylor Swift - I Don't Wanna Live Forever (Fifty Shades Darker).mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/ZAYN, Taylor Swift - I Don’t Wanna Live Forever (Fifty Shades Darker).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/06 Taylor Swift - Look What You Made Me Do (karaoke version).mp3
-/home/raxen/Music/Playlist/mp3/06 Taylor Swift - Look What You Made Me Do (karaoke version).mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - Look What You Made Me Do.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/Taylor Swift - Lover (2019)/01 - I Forgot That You Existed.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/Taylor Swift - Lover (2019)/02 - Cruel Summer.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/Taylor Swift - Lover (2019)/03 - Lover.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/Taylor Swift - Lover (2019)/04 - The Man.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/Taylor Swift - Lover (2019)/05 - The Archer.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/Taylor Swift - Lover (2019)/06 - I Think He Knows.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/Taylor Swift - Lover (2019)/07 - Miss Americana & The Heartbreak Prince.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/Taylor Swift - Lover (2019)/08 - Paper Rings.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/Taylor Swift - Lover (2019)/09 - Cornelia Street.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/Taylor Swift - Lover (2019)/10 - Death By A Thousand Cuts.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/Taylor Swift - Lover (2019)/11 - London Boy.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/Taylor Swift - Lover (2019)/12 - Soon You’ll Get Better (feat. Dixie Chicks).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/Taylor Swift - Lover (2019)/13 - False God.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/Taylor Swift - Lover (2019)/14 - You Need To Calm Down.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/Taylor Swift - Lover (2019)/15 - Afterglow.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/Taylor Swift - Lover (2019)/16 - ME! (feat. Brendon Urie of Panic! At The Disco).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/Taylor Swift - Lover (2019)/17 - It’s Nice To Have A Friend.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/Taylor Swift - Lover (2019)/18 - Daylight.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Taylor Swift - I Forgot That You Existed.mp3
-/home/raxen/Music/Playlist/mp3/01 Taylor Swift - I Forgot That You Existed.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Lover (2019) [24bit Hi-Res]/01. I Forgot That You Existed.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Lover (2019) [24bit Hi-Res]/02. Cruel Summer.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Lover (2019) [24bit Hi-Res]/03. Lover.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Lover (2019) [24bit Hi-Res]/04. The Man.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Lover (2019) [24bit Hi-Res]/05. The Archer.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Lover (2019) [24bit Hi-Res]/06. I Think He Knows.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Lover (2019) [24bit Hi-Res]/07. Miss Americana & The Heartbreak Prince.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Lover (2019) [24bit Hi-Res]/08. Paper Rings.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Lover (2019) [24bit Hi-Res]/09. Cornelia Street.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Lover (2019) [24bit Hi-Res]/10. Death By A Thousand Cuts.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Lover (2019) [24bit Hi-Res]/11. London Boy.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Lover (2019) [24bit Hi-Res]/12. Soon You’ll Get Better.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Lover (2019) [24bit Hi-Res]/13. False God.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Lover (2019) [24bit Hi-Res]/14. You Need To Calm Down.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Lover (2019) [24bit Hi-Res]/15. Afterglow.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Lover (2019) [24bit Hi-Res]/16. ME! (feat. Brendon Urie of Panic! At The Disco).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Lover (2019) [24bit Hi-Res]/17. It’s Nice To Have A Friend.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Lover (2019) [24bit Hi-Res]/18. Daylight.flac
+/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/01 Taylor Swift - I Forgot That You Existed.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - I Forgot That You Existed.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Lover.mp3
-/home/raxen/Music/Playlist/mp3/01 Lover.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - Lover.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Taylor Swift - Cruel Summer.mp3
-/home/raxen/Music/Playlist/mp3/02 Taylor Swift - Cruel Summer.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/02 Taylor Swift - Cruel Summer.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - Cruel Summer.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/04 Taylor Swift - The Man.mp3
-/home/raxen/Music/Playlist/mp3/04 Taylor Swift - The Man.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/03 Taylor Swift - Lover.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/04 Taylor Swift - The Man.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - The Man.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/05 Taylor Swift - The Archer.mp3
-/home/raxen/Music/Playlist/mp3/05 Taylor Swift - The Archer.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/05 Taylor Swift - The Archer.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - The Archer.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/06 Taylor Swift - I Think He Knows.mp3
-/home/raxen/Music/Playlist/mp3/06 Taylor Swift - I Think He Knows.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/06 Taylor Swift - I Think He Knows.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - I Think He Knows.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/07 Taylor Swift - Miss Americana & the Heartbreak Prince.mp3
-/home/raxen/Music/Playlist/mp3/07 Taylor Swift - Miss Americana & the Heartbreak Prince.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/07 Taylor Swift - Miss Americana & the Heartbreak Prince.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - Miss Americana & The Heartbreak Prince.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/08 Taylor Swift - Paper Rings.mp3
-/home/raxen/Music/Playlist/mp3/08 Taylor Swift - Paper Rings.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/08 Taylor Swift - Paper Rings.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - Paper Rings.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/09 Taylor Swift - Cornelia Street.mp3
-/home/raxen/Music/Playlist/mp3/09 Taylor Swift - Cornelia Street.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/09 Taylor Swift - Cornelia Street.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - Cornelia Street.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/10 Taylor Swift - Death by a Thousand Cuts.mp3
-/home/raxen/Music/Playlist/mp3/10 Taylor Swift - Death by a Thousand Cuts.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/10 Taylor Swift - Death by a Thousand Cuts.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - Death By A Thousand Cuts.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/11 Taylor Swift - London Boy.mp3
-/home/raxen/Music/Playlist/mp3/11 Taylor Swift - London Boy.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/11 Taylor Swift - London Boy.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - London Boy.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 You Need to Calm Down.mp3
-/home/raxen/Music/Playlist/mp3/01 You Need to Calm Down.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/12 Taylor Swift featuring Dixie Chicks - Soon You'll Get Better.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/13 Taylor Swift - False God.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/14 Taylor Swift - You Need to Calm Down.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/15 Taylor Swift - Afterglow.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/16 Taylor Swift featuring Brendon Urie of Panic! at the Disco - ME!.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/17 Taylor Swift - It's Nice to Have a Friend.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Lover-2019/18 Taylor Swift - Daylight.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - You Need To Calm Down.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Death by a Thousand Cuts (live from Paris).mp3
-/home/raxen/Music/Playlist/mp3/01 Death by a Thousand Cuts (live from Paris).mp3
-/home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - Death By A Thousand Cuts - Live From Paris.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Taylor Swift - willow.mp3
-/home/raxen/Music/Playlist/mp3/01 Taylor Swift - willow.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/04 Taylor Swift - 'tis the damn season.mp3
-/home/raxen/Music/Playlist/mp3/04 Taylor Swift - 'tis the damn season.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/06 Taylor Swift feat. HAIM - no body, no crime (1).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/06 Taylor Swift feat. HAIM - no body, no crime.mp3
-/home/raxen/Music/Playlist/mp3/06 Taylor Swift feat. HAIM - no body, no crime (1).mp3
-/home/raxen/Music/Playlist/mp3/06 Taylor Swift feat. HAIM - no body, no crime.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/08 Taylor Swift - dorothea (1).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/08 Taylor Swift - dorothea.mp3
-/home/raxen/Music/Playlist/mp3/08 Taylor Swift - dorothea (1).mp3
-/home/raxen/Music/Playlist/mp3/08 Taylor Swift - dorothea.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/09 Taylor Swift feat. The National - coney island.mp3
-/home/raxen/Music/Playlist/mp3/09 Taylor Swift feat. The National - coney island.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/12 Taylor Swift - long story short (1).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/12 Taylor Swift - long story short.mp3
-/home/raxen/Music/Playlist/mp3/12 Taylor Swift - long story short (1).mp3
-/home/raxen/Music/Playlist/mp3/12 Taylor Swift - long story short.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/13 Taylor Swift - marjorie.mp3
-/home/raxen/Music/Playlist/mp3/13 Taylor Swift - marjorie.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/14 Taylor Swift - closure.mp3
-/home/raxen/Music/Playlist/mp3/14 Taylor Swift - closure.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/15 Taylor Swift feat. Bon Iver - evermore.mp3
-/home/raxen/Music/Playlist/mp3/15 Taylor Swift feat. Bon Iver - evermore.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/01 the 1.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Taylor Swift - the 1.mp3
-/home/raxen/Music/Playlist/mp3/01 Taylor Swift - the 1.mp3
-/home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - the 1.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/02 cardigan.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Taylor Swift - cardigan.mp3
-/home/raxen/Music/Playlist/mp3/02 Taylor Swift - cardigan.mp3
-/home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - cardigan.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/03 the last great american dynasty.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/03 Taylor Swift - the last great american dynasty.mp3
-/home/raxen/Music/Playlist/mp3/03 Taylor Swift - the last great american dynasty.mp3
-/home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - the last great american dynasty.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/04 exile.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/04 Taylor Swift feat. Bon Iver - exile.mp3
-/home/raxen/Music/Playlist/mp3/04 Taylor Swift feat. Bon Iver - exile.mp3
-/home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - exile (feat. Bon Iver).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/05 my tears ricochet.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/06 mirrorball.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/07 seven.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/08 august.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/09 this is me trying.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/09 Taylor Swift - this is me trying.mp3
-/home/raxen/Music/Playlist/mp3/09 Taylor Swift - this is me trying.mp3
-/home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - this is me trying.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/10 illicit affairs.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/10 Taylor Swift - illicit affairs.mp3
-/home/raxen/Music/Playlist/mp3/10 Taylor Swift - illicit affairs.mp3
-/home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - illicit affairs.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/11 invisible string.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/12 mad woman.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/12 Taylor Swift - mad woman.mp3
-/home/raxen/Music/Playlist/mp3/12 Taylor Swift - mad woman.mp3
-/home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - mad woman.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/13 epiphany.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/14 betty.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/15 peace.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/16 hoax.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Only the Young (featured in Miss Americana).mp3
-/home/raxen/Music/Playlist/mp3/01 Only the Young (featured in Miss Americana).mp3
-/home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - Only The Young - Featured in Miss Americana.mp3
-/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/01. willow.flac
-/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/02. champagne problems.flac
-/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/03. gold rush.flac
-/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/04. ‘tis the damn season.flac
-/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/05. tolerate it.flac
-/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/06. no body, no crime (feat. HAIM).flac
-/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/07. happiness.flac
-/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/08. dorothea.flac
-/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/09. coney island (feat. The National).flac
-/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/10. ivy.flac
-/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/11. cowboy like me.flac
-/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/12. long story short.flac
-/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/13. marjorie.flac
-/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/14. closure.flac
-/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/15. evermore (feat. Bon Iver).flac
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/01. Fearless (Taylor’s Version).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/02. Fifteen (Taylor’s Version).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/03. Love Story (Taylor’s Version).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/04. Hey Stephen (Taylor’s Version).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/05. White Horse (Taylor’s Version).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/06. You Belong With Me (Taylor’s Version).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/07. Breathe (Taylor’s Version).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/08. Tell Me Why (Taylor’s Version).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/09. You’re Not Sorry (Taylor’s Version).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/10. The Way I Loved You (Taylor’s Version).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/11. Forever & Always (Taylor’s Version).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/12. The Best Day (Taylor’s Version).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/13. Change (Taylor’s Version).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/14. Jump Then Fall (Taylor’s Version).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/15. Untouchable (Taylor’s Version).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/16. Forever & Always (Piano Version) (Taylor’s Version).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/17. Come In With The Rain (Taylor’s Version).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/18. Superstar (Taylor’s Version).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/19. The Other Side Of The Door (Taylor’s Version).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/20. Today Was A Fairytale (Taylor’s Version).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/21. You All Over Me (Taylor’s Version) (From The Vault).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/22. Mr. Perfectly Fine (Taylor’s Version) (From The Vault).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/23. We Were Happy (Taylor’s Version) (From The Vault).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/24. That’s When (Taylor’s Version) (From The Vault).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/25. Don’t You (Taylor’s Version) (From The Vault).mp3
-/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/26. Bye Bye Baby (Taylor’s Version) (From The Vault).mp3
 /home/raxen/Music/Artists/Taylor_Swift/1989/01 Welcome to New York.mp3
 /home/raxen/Music/Artists/Taylor_Swift/1989/02 Blank Space.mp3
 /home/raxen/Music/Artists/Taylor_Swift/1989/03 Style.mp3
@@ -3259,16 +3043,165 @@
 /home/raxen/Music/Artists/Taylor_Swift/1989/12 I Know Places.mp3
 /home/raxen/Music/Artists/Taylor_Swift/1989/13 Clean.mp3
 /home/raxen/Music/Artists/Taylor_Swift/1989/14 Wonderland.mp3
-/home/raxen/Music/Artists/Taylor_Swift/1989/15 You R In Love.mp3
-/home/raxen/Music/Artists/Taylor_Swift/1989/16 New Romance.mp3
-/home/raxen/Music/Artists/Taylor_Swift/1989/17 I Know Places (Voice Memo).mp3
-/home/raxen/Music/Artists/Taylor_Swift/1989/18 I Wish You Would (Voice Memo).mp3
-/home/raxen/Music/Artists/Taylor_Swift/1989/19 Blank Space (Voice Memo).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 ME!.mp3
-/home/raxen/Music/Playlist/mp3/01 ME!.mp3
+/home/raxen/Music/Artists/Taylor_Swift/1989/15 You Are in Love.mp3
+/home/raxen/Music/Artists/Taylor_Swift/1989/16 New Romantics.mp3
+/home/raxen/Music/Artists/Taylor_Swift/1989/17 I Know Places (piano_vocal).mp3
+/home/raxen/Music/Artists/Taylor_Swift/1989/18 I Wish You Would (track_vocal).mp3
+/home/raxen/Music/Artists/Taylor_Swift/1989/19 Blank Space (guitar_vocal).mp3
+/home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - Death By A Thousand Cuts - Live From Paris.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - folklore (2020) [24 Bit Hi-Res] FLAC Album [PMEDIA] ⭐️/01 - the 1.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - folklore (2020) [24 Bit Hi-Res] FLAC Album [PMEDIA] ⭐️/02 - cardigan.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - folklore (2020) [24 Bit Hi-Res] FLAC Album [PMEDIA] ⭐️/03 - the last great american dynasty.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - folklore (2020) [24 Bit Hi-Res] FLAC Album [PMEDIA] ⭐️/04 - exile.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - folklore (2020) [24 Bit Hi-Res] FLAC Album [PMEDIA] ⭐️/05 - my tears ricochet.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - folklore (2020) [24 Bit Hi-Res] FLAC Album [PMEDIA] ⭐️/06 - mirrorball.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - folklore (2020) [24 Bit Hi-Res] FLAC Album [PMEDIA] ⭐️/07 - seven.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - folklore (2020) [24 Bit Hi-Res] FLAC Album [PMEDIA] ⭐️/08 - august.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - folklore (2020) [24 Bit Hi-Res] FLAC Album [PMEDIA] ⭐️/09 - this is me trying.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - folklore (2020) [24 Bit Hi-Res] FLAC Album [PMEDIA] ⭐️/10 - illicit affairs.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - folklore (2020) [24 Bit Hi-Res] FLAC Album [PMEDIA] ⭐️/11 - invisible string.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - folklore (2020) [24 Bit Hi-Res] FLAC Album [PMEDIA] ⭐️/12 - mad woman.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - folklore (2020) [24 Bit Hi-Res] FLAC Album [PMEDIA] ⭐️/13 - epiphany.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - folklore (2020) [24 Bit Hi-Res] FLAC Album [PMEDIA] ⭐️/14 - betty.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - folklore (2020) [24 Bit Hi-Res] FLAC Album [PMEDIA] ⭐️/15 - peace.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - folklore (2020) [24 Bit Hi-Res] FLAC Album [PMEDIA] ⭐️/16 - hoax.flac
+/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/01 Taylor Swift - the 1.mp3
+/home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - the 1.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/02 Taylor Swift - cardigan.mp3
+/home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - cardigan.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/03 Taylor Swift - the last great american dynasty.mp3
+/home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - the last great american dynasty.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/04 Taylor Swift feat. Bon Iver - exile.mp3
+/home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - exile (feat. Bon Iver).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/05 Taylor Swift - my tears ricochet.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/06 Taylor Swift - mirrorball.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/07 Taylor Swift - seven.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/08 Taylor Swift - august.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/09 Taylor Swift - this is me trying.mp3
+/home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - this is me trying.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/10 Taylor Swift - illicit affairs.mp3
+/home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - illicit affairs.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/11 Taylor Swift - invisible string.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/12 Taylor Swift - mad woman.mp3
+/home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - mad woman.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/13 Taylor Swift - epiphany.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/14 Taylor Swift - betty.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/15 Taylor Swift - peace.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Folklore-2020/16 Taylor Swift - hoax.mp3
+/home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - Only The Young - Featured in Miss Americana.mp3
+/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/01 Taylor Swift - willow.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - evermore (2020) FLAC Album [PMEDIA] ⭐️/01. willow.flac
+/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/02 Taylor Swift - champagne problems.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - evermore (2020) FLAC Album [PMEDIA] ⭐️/02. champagne problems.flac
+/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/03 Taylor Swift - gold rush.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - evermore (2020) FLAC Album [PMEDIA] ⭐️/03. gold rush.flac
+/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/04 Taylor Swift - 'tis the damn season.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - evermore (2020) FLAC Album [PMEDIA] ⭐️/04. ‘tis the damn season.flac
+/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/05 Taylor Swift - tolerate it.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - evermore (2020) FLAC Album [PMEDIA] ⭐️/05. tolerate it.flac
+/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/06 Taylor Swift feat. HAIM - no body, no crime.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - evermore (2020) FLAC Album [PMEDIA] ⭐️/06. no body, no crime (feat. HAIM).flac
+/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/07 Taylor Swift - happiness.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - evermore (2020) FLAC Album [PMEDIA] ⭐️/07. happiness.flac
+/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/08 Taylor Swift - dorothea.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - evermore (2020) FLAC Album [PMEDIA] ⭐️/08. dorothea.flac
+/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/09 Taylor Swift feat. The National - coney island.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - evermore (2020) FLAC Album [PMEDIA] ⭐️/09. coney island (feat. The National).flac
+/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/10 Taylor Swift - ivy.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - evermore (2020) FLAC Album [PMEDIA] ⭐️/10. ivy.flac
+/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/11 Taylor Swift - cowboy like me.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - evermore (2020) FLAC Album [PMEDIA] ⭐️/11. cowboy like me.flac
+/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/12 Taylor Swift - long story short.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - evermore (2020) FLAC Album [PMEDIA] ⭐️/12. long story short.flac
+/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/13 Taylor Swift - marjorie.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - evermore (2020) FLAC Album [PMEDIA] ⭐️/13. marjorie.flac
+/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/14 Taylor Swift - closure.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - evermore (2020) FLAC Album [PMEDIA] ⭐️/14. closure.flac
+/home/raxen/Music/Artists/Taylor_Swift/Evermore-2020/15 Taylor Swift feat. Bon Iver - evermore.flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - evermore (2020) FLAC Album [PMEDIA] ⭐️/15. evermore (feat. Bon Iver).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/01 Taylor Swift - Fearless (Taylor's version).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/01. Fearless (Taylor’s Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/02 Taylor Swift - Fifteen (Taylor's version).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/02. Fifteen (Taylor’s Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/03 Taylor Swift - Love Story (Taylor's version).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/03. Love Story (Taylor’s Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/04 Taylor Swift - Hey Stephen (Taylor's version).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/04. Hey Stephen (Taylor’s Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/05 Taylor Swift - White Horse (Taylor's version).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/05. White Horse (Taylor’s Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/06 Taylor Swift - You Belong With Me (Taylor's version).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/06. You Belong With Me (Taylor’s Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/07 Taylor Swift feat. Colbie Caillat - Breathe (Taylor's version).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/07. Breathe (Taylor’s Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/08 Taylor Swift - Tell Me Why (Taylor's version).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/08. Tell Me Why (Taylor’s Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/09 Taylor Swift - You're Not Sorry (Taylor's version).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/09. You’re Not Sorry (Taylor’s Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/10 Taylor Swift - The Way I Loved You (Taylor's version).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/10. The Way I Loved You (Taylor’s Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/11 Taylor Swift - Forever & Always (Taylor's version).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/11. Forever & Always (Taylor’s Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/12 Taylor Swift - The Best Day (Taylor's version).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/12. The Best Day (Taylor’s Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/13 Taylor Swift - Change (Taylor's version).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/13. Change (Taylor’s Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/14 Taylor Swift - Jump Then Fall (Taylor's version).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/14. Jump Then Fall (Taylor’s Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/15 Taylor Swift - Untouchable (Taylor's version).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/15. Untouchable (Taylor’s Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/16 Taylor Swift - Forever & Always (piano version) (Taylor's version).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/16. Forever & Always (Piano Version) (Taylor’s Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/17 Taylor Swift - Come In With the Rain (Taylor's version).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/17. Come In With The Rain (Taylor’s Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/18 Taylor Swift - Superstar (Taylor's version).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/18. Superstar (Taylor’s Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/19 Taylor Swift - The Other Side of the Door (Taylor's version).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/19. The Other Side Of The Door (Taylor’s Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/20 Taylor Swift - Today Was a Fairytale (Taylor's version).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/20. Today Was A Fairytale (Taylor’s Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/21 Taylor Swift feat. Maren Morris - You All Over Me (Taylor's version) (from The Vault).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/21. You All Over Me (Taylor’s Version) (From The Vault).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/22 Taylor Swift - Mr. Perfectly Fine (Taylor's version) (from The Vault).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/22. Mr. Perfectly Fine (Taylor’s Version) (From The Vault).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/23 Taylor Swift - We Were Happy (Taylor's version) (from The Vault).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/23. We Were Happy (Taylor’s Version) (From The Vault).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/24 Taylor Swift feat. Keith Urban - That's When (Taylor's version) (from The Vault).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/24. That’s When (Taylor’s Version) (From The Vault).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/25 Taylor Swift - Don't You (Taylor's version) (from The Vault).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/25. Don’t You (Taylor’s Version) (From The Vault).flac
+/home/raxen/Music/Artists/Taylor_Swift/Fearless-Taylor's-Version-2021/26 Taylor Swift - Bye Bye Baby (Taylor's version) (from The Vault).mp3
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Fearless (Taylor's Version) (2021) [24 Bit Hi-Res] FLAC [PMEDIA] ⭐️/26. Bye Bye Baby (Taylor’s Version) (From The Vault).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/01. State Of Grace (Taylor's Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/02. Red (Taylor's Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/03. Treacherous (Taylor's Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/04. I Knew You Were Trouble (Taylor's Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/05. All Too Well (Taylor's Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/06. 22 (Taylor's Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/07. I Almost Do (Taylor's Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/08. We Are Never Ever Getting Back Together (Taylor's Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/09. Stay Stay Stay (Taylor's Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/10. The Last Time (Taylor's Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/11. Holy Ground (Taylor's Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/12. Sad Beautiful Tragic (Taylor's Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/13. The Lucky One (Taylor's Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/14. Everything Has Changed (Taylor's Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/15. Starlight (Taylor's Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/16. Begin Again (Taylor's Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/17. The Moment I Knew (Taylor's Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/18. Come Back...Be Here (Taylor's Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/19. Girl At Home (Taylor's Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/20. State Of Grace (Acoustic Version) (Taylor's Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/21. Ronan (Taylor's Version).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/22. Better Man (Taylor's Version) (From The Vault).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/23. Nothing New (Taylor's Version) (From The Vault).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/24. Babe (Taylor's Version) (From The Vault).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/25. Message In A Bottle (Taylor's Version) (From The Vault).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/26. I Bet You Think About Me (Taylor's Version) (From The Vault).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/27. Forever Winter (Taylor's Version) (From The Vault).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/28. Run (Taylor's Version) (From The Vault).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/29. The Very First Night (Taylor's Version) (From The Vault).flac
+/home/raxen/Music/Artists/Taylor_Swift/Taylor_Swift/Taylor Swift - Red (Taylor's Version) (2021) [24Bit-96kHz] FLAC [PMEDIA] ⭐️/30. All Too Well (10 Minute Version) (Taylor's Version) (From The Vault).flac
 /home/raxen/Music/Playlist/Raxen_Gamer001/Taylor Swift - ME! (feat. Brendon Urie of Panic! At The Disco).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/15 Tech N9ne feat. Eminem & Krizz Kaliko - Speedom (WWC2).mp3
-/home/raxen/Music/Playlist/mp3/15 Tech N9ne feat. Eminem & Krizz Kaliko - Speedom (WWC2).mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Tech N9ne, Eminem, Krizz Kaliko - Speedom (Wwc2).mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Youth.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Get Lucky.mp3
@@ -3276,190 +3209,110 @@
 /home/raxen/Music/Playlist/Lofi_hip_hop/Lofi Type Beat.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Sorry(2).mp3
 /home/raxen/Music/Tributes/Annabeth Chase _ Angel With A Shotgun-3s38MIEYznM.mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 The Chainsmokers with ILLENIUM ft. Lennon Stella - Takeaway.mp3
-/home/raxen/Music/Playlist/mp3/01 The Chainsmokers with ILLENIUM ft. Lennon Stella - Takeaway.mp3
 /home/raxen/Music/Playlist/Random/The Chainsmokers, ILLENIUM - Takeaway (feat. Lennon Stella).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/05 The Chainsmokers ft. 5SOS - Who Do You Love.mp3
-/home/raxen/Music/Playlist/mp3/05 The Chainsmokers ft. 5SOS - Who Do You Love.mp3
 /home/raxen/Music/Playlist/Random/The Chainsmokers, 5 Seconds of Summer - Who Do You Love.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Closer.mp3
-/home/raxen/Music/Playlist/mp3/01 Closer.mp3
 /home/raxen/Music/Playlist/Random/The Chainsmokers, Halsey - Closer.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 It Just Works.mp3
-/home/raxen/Music/Playlist/mp3/01 It Just Works.mp3
 /home/raxen/Music/Playlist/Random/The Chalkeaters - It Just Works.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Lock Me Up (Quarantine Song).mp3
-/home/raxen/Music/Playlist/mp3/01 Lock Me Up (Quarantine Song).mp3
 /home/raxen/Music/Playlist/Random/The Chalkeaters - Lock Me Up (Quarantine Song) [feat. Idrise].mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Breathtaking.mp3
-/home/raxen/Music/Playlist/mp3/01 Breathtaking.mp3
 /home/raxen/Music/Playlist/Random/The Chalkeaters, Natalia Natchan - Breathtaking.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/2-14 Weigh, Hey & Up She Rises.mp3
-/home/raxen/Music/Playlist/mp3/2-14 Weigh, Hey & Up She Rises.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/03 Bones in the Ocean.mp3
-/home/raxen/Music/Playlist/mp3/03 Bones in the Ocean.mp3
 /home/raxen/Music/Playlist/Badass-songs/Watch Me - The Phantoms (LYRICS).mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/06 Unstoppable.mp3
-/home/raxen/Music/Playlist/mp3/06 Unstoppable.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/The Score - Unstoppable.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/08 Revolution.mp3
-/home/raxen/Music/Playlist/mp3/08 Revolution.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/The Score - Legend.mp3
-/home/raxen/Music/Playlist/mp3/The Score - Legend.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/The Score - Legend.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 The Score - Stronger.mp3
-/home/raxen/Music/Playlist/mp3/02 The Score - Stronger (1).mp3
-/home/raxen/Music/Playlist/mp3/02 The Score - Stronger.mp3
 /home/raxen/Music/Playlist/Random/The Score - Stronger.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/The Score - Stronger.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/06 The Score - Glory.mp3
-/home/raxen/Music/Playlist/mp3/06 The Score - Glory.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/The Score - Glory.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Stay.mp3
-/home/raxen/Music/Playlist/mp3/01 Stay.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/The Score - Stay.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/03 In My Bones.mp3
-/home/raxen/Music/Playlist/mp3/03 In My Bones.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 The Champion.mp3
-/home/raxen/Music/Playlist/mp3/01 The Champion.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/The Score - The Champion.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Glad You Came.mp3
-/home/raxen/Music/Playlist/mp3/01 Glad You Came.mp3
 /home/raxen/Music/Playlist/Random/The Wanted - Glad You Came.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 The Weeknd - Call Out My Name.mp3
-/home/raxen/Music/Playlist/mp3/01 The Weeknd - Call Out My Name.mp3
 /home/raxen/Music/Playlist/Random/The Weeknd - Call Out My Name.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/2-01 Seven Nation Army.mp3
-/home/raxen/Music/Playlist/mp3/2-01 Seven Nation Army.mp3
 /home/raxen/Music/Playlist/Random/The White Stripes - Seven Nation Army.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/11 Tim McGraw feat. Taylor Swift & Keith Urban - Highway Don't Care.mp3
-/home/raxen/Music/Playlist/mp3/11 Tim McGraw feat. Taylor Swift & Keith Urban - Highway Don't Care.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Tim McGraw, Taylor Swift, Keith Urban - Highway Don't Care.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Cable TV.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/07 Johnny Boy.mp3
-/home/raxen/Music/Playlist/mp3/07 Johnny Boy.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Twenty One Pilots - Johnny Boy.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/08 Oh, Ms. Believer.mp3
-/home/raxen/Music/Playlist/mp3/08 Oh, Ms. Believer.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Twenty One Pilots - Oh Ms Believer.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/Twenty One Pilots - Fall Away.mp3
-/home/raxen/Music/Playlist/mp3/Twenty One Pilots - Fall Away.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Twenty One Pilots - Fall Away.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-02 Stressed Out.mp3
-/home/raxen/Music/Playlist/mp3/1-02 Stressed Out.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Twenty One Pilots - Stressed Out.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-03 Ride.mp3
-/home/raxen/Music/Playlist/mp3/1-03 Ride.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Twenty One Pilots - Ride.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-06 Lane Boy.mp3
-/home/raxen/Music/Playlist/mp3/1-06 Lane Boy.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Twenty One Pilots - Lane Boy.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Heathens.mp3
-/home/raxen/Music/Playlist/mp3/01 Heathens.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Twenty One Pilots - Heathens.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/03 Morph.mp3
-/home/raxen/Music/Playlist/mp3/03 Morph.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Twenty One Pilots - Morph.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/03 Two Feet - I Feel Like I'm Drowning.mp3
-/home/raxen/Music/Playlist/mp3/03 Two Feet - I Feel Like I'm Drowning.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/2-07 The Archies - Sugar, Sugar.mp3
-/home/raxen/Music/Playlist/mp3/2-07 The Archies - Sugar, Sugar.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/06 Vanilla - Travels.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/12 Vanilla - Kalimba.mp3
 /home/raxen/Music/Playlist/Random/The Archies - Sugar, Sugar (Original 1969 Music Video).mp4
 /home/raxen/Music/Playlist/Riverdale/The Archies - Sugar, Sugar (Original 1969 Music Video).mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-03 blink-182 - All the Small Things.mp3
-/home/raxen/Music/Playlist/mp3/1-03 blink-182 - All the Small Things.mp3
 /home/raxen/Music/Playlist/Random/blink-182 - All The Small Things (Official Music Video).mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/07 Creed - One Last Breath.mp3
-/home/raxen/Music/Playlist/mp3/07 Creed - One Last Breath.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/05 Hoobastank - The Reason.mp3
-/home/raxen/Music/Playlist/mp3/05 Hoobastank - The Reason.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/2-04 Pat Benatar - HeartBreaker.mp3
-/home/raxen/Music/Playlist/mp3/2-04 Pat Benatar - HeartBreaker.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-02 Coldplay - The Scientist.mp3
-/home/raxen/Music/Playlist/mp3/1-02 Coldplay - The Scientist.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/94 Black Sabbath - War Pigs.mp3
-/home/raxen/Music/Playlist/mp3/94 Black Sabbath - War Pigs.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/04 Craig Toungate - Yo Ho, Ho! (And a Bottle of Rum).mp3
-/home/raxen/Music/Playlist/mp3/04 Craig Toungate - Yo Ho, Ho! (And a Bottle of Rum).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/17 Eminem - Public Enemy #1.mp3
-/home/raxen/Music/Playlist/mp3/17 Eminem - Public Enemy #1.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-8Mile_EP-(Bootleg)-2003-FUM/2-02 Eminem - Stimulate.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - Public Enemy #1.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/22 Eminem - No Apologies.mp3
-/home/raxen/Music/Playlist/mp3/22 Eminem - No Apologies.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem - No Apologies.mp3
+/home/raxen/Music/Artists/Eminem/Eminem/Compilation albums/Eminem-8Mile_EP-(Bootleg)-2003-FUM/2-25 Busta Flex - Freestyle.mp3
 /home/raxen/Music/Music-Videos/AMV/Death Note OP 1 [NC]-8QE9cmfxx4s.mp4
 /home/raxen/Music/Music-Videos/AMV/DEATH NOTE {OPENING 2}-d5HT8HoiAHg.mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-10 Passenger - Let Her Go.mp3
-/home/raxen/Music/Playlist/mp3/1-10 Passenger - Let Her Go.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-09 Ke$ha - Tik Tok.mp3
-/home/raxen/Music/Playlist/mp3/1-09 Ke$ha - Tik Tok.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-01 Daft Punk feat. Pharrell Williams - Get Lucky.mp3
-/home/raxen/Music/Playlist/mp3/1-01 Daft Punk feat. Pharrell Williams - Get Lucky.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-17 Ke$ha - Die Young.mp3
-/home/raxen/Music/Playlist/mp3/1-17 Ke$ha - Die Young.mp3
 /home/raxen/Music/Playlist/Game_OST/Watch Dogs 2 Soundtrack _ Dual Core - All The Things-2xZZJjRWlas.mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/2-05 David Guetta feat. Skylar Grey - Shot Me Down.mp3
-/home/raxen/Music/Playlist/mp3/2-05 David Guetta feat. Skylar Grey - Shot Me Down.mp3
 /home/raxen/Music/Playlist/Random/David Guetta - Shot Me Down ft. Skylar Grey (Lyric Video)-3x2ABSAMVno.mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Eminem feat. Gwen Stefani - Kings Never Die.mp3
-/home/raxen/Music/Playlist/mp3/02 Eminem feat. Gwen Stefani - Kings Never Die.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Eminem, Gwen Stefani - Kings Never Die.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-08 Maroon 5 - This Summer.mp3
-/home/raxen/Music/Playlist/mp3/1-08 Maroon 5 - This Summer.mp3
 /home/raxen/Music/Playlist/Random/Maroon 5 - This Summer.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/5-08 Selena Gomez feat. A$AP Rocky - Good for You.mp3
-/home/raxen/Music/Playlist/mp3/5-08 Selena Gomez feat. A$AP Rocky - Good for You.mp3
 /home/raxen/Music/Playlist/Random/Selena Gomez AAP Rocky - Good For You.mp4
 /home/raxen/Music/Playlist/Game_OST/Life-is-strange-obstacles.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/08 Ed Sheeran - Photograph.mp3
-/home/raxen/Music/Playlist/mp3/08 Ed Sheeran - Photograph.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Ed Sheeran - Photograph.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/11 Grace feat.G-Eazy - You Don't Own Me.mp3
-/home/raxen/Music/Playlist/mp3/11 Grace feat.G-Eazy - You Don't Own Me.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-03 Twenty One Pilots - Heathens.mp3
-/home/raxen/Music/Playlist/mp3/1-03 Twenty One Pilots - Heathens.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-05 Bruno Mars - 24K Magic.mp3
-/home/raxen/Music/Playlist/mp3/1-05 Bruno Mars - 24K Magic.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/06 The Weeknd feat. Daft Punk - Starboy.mp3
-/home/raxen/Music/Playlist/mp3/06 The Weeknd feat. Daft Punk - Starboy.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/1-01 saib. - West Lake.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/1-03 B-Side - Sky.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/1-04 Devaloop - Rooftop Terrace.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/1-05 L'Indécis - Le Sud.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/1-06 invention_ - vscrl.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/1-07 badsummer - floating.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/1-08 axian × j'san - Autumn Leaves.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/1-09 Flitz&Suppe - Level U.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/1-10 Mr. Käfer - Settle Down.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/1-11 Philanthrope × Kupla - Cycles.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/2-01 FloFilz - Lucie.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/2-02 Keem the Cipher - Come My Way.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/2-04 Stan Forebee - Our Dream.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/2-05 tusken. × Philanthrope - Mr.Toast.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/2-06 Aso - Soul Vibe.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/2-07 Robot Orchestra - GoldenBrown.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/2-08 sugi.wa - memories.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/2-09 OTESLA - east.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/2-10 Mono_Massive - space drift.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/04 Mono_Massive - Attila.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/01 Juan RIOS - perenne.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/02 nymano × saib. - night walk.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/03 Underbelly - Performative (instrumental).mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/04 Joey Pecoraro - Your Favorite Place.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/05 leavv - lacuna.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/06 Aso - Snug.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/07 arbour - sunrise.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/08 Kupla - Spacesuits.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/09 Philanthrope - Aspiration.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/10 idealism - latenite.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/11 Psalm__Trees - Prayer.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/12 Robot Orchestra - Keep Me Warm.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/13 Ian Ewing - 4_21pm.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/14 j'san - cozy winter.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/15 Birocratic - At Most.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/16 The BREED - Salmiakki.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/17 tusken. - winterrain.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/18 B-Side - Dignity.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/19 Flitz&Suppe - Sailing Above.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/20 invention_ - albedo.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/21 Brock Berrigan - Curtain Calls.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/19 Kupla - Jazz Cats.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/12 Kupla - Still Breathing.mp3
 /home/raxen/Music/Tributes/Riverdale_tribute/Betty & Jughead _ Hold On-ZDEY7qErwzk.mp4
 /home/raxen/Music/Tributes/Daredevil/Daredevil (Matt Murdock) - Way Down We Go-qnLIbbItG5o.mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/2-07 Maroon 5 feat. Cardi B - Girls Like You (Cardi B Version).mp3
-/home/raxen/Music/Playlist/mp3/2-07 Maroon 5 feat. Cardi B - Girls Like You (Cardi B Version).mp3
 /home/raxen/Music/Playlist/Random/Maroon 5 - Girls Like You (feat. Cardi B).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/15 5 Seconds of Summer - Youngblood.mp3
-/home/raxen/Music/Playlist/mp3/15 5 Seconds of Summer - Youngblood.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/1-11 Kupla - Ruska.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/34 Kupla X j'san - Fireflies.mp3
 /home/raxen/Music/Playlist/Random/5 Seconds of Summer - Youngblood.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/13 Allie X - Paper Love.mp3
-/home/raxen/Music/Playlist/mp3/13 Allie X - Paper Love.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/67 Christina Perri - A Thousand Years (1).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/67 Christina Perri - A Thousand Years.mp3
-/home/raxen/Music/Playlist/mp3/67 Christina Perri - A Thousand Years (1).mp3
-/home/raxen/Music/Playlist/mp3/67 Christina Perri - A Thousand Years.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/3-01 The Chainsmokers - Something Just Like This.mp3
-/home/raxen/Music/Playlist/mp3/3-01 The Chainsmokers - Something Just Like This.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/4-13 ZAYN - Dusk Till Dawn.mp3
-/home/raxen/Music/Playlist/mp3/4-13 ZAYN - Dusk Till Dawn.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 Blackway & Black Caviar - What's Up Danger.mp3
-/home/raxen/Music/Playlist/mp3/01 Blackway & Black Caviar - What's Up Danger.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/19 Kupla - Hallways.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/12 Flitz&Suppe × Gas-Lab - Slice of Life.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/16 Yasper & Philanthrope - Slopes.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/08 less.people - what will you do.mp3
 /home/raxen/Music/Playlist/Random/Blackway - What's Up Danger (with Black Caviar).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 Post Malone & Swae Lee - Sunflower (Spider-Man_ Into the Spider-Verse).mp3
-/home/raxen/Music/Playlist/mp3/02 Post Malone & Swae Lee - Sunflower (Spider-Man_ Into the Spider-Verse).mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/Post Malone, Swae Lee - Sunflower - Spider-Man - Into the Spider.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/1-05 Lady Gaga - Poker Face.mp3
-/home/raxen/Music/Playlist/mp3/1-05 Lady Gaga - Poker Face.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/2-04 Kupla - Owls of the Night.mp3
 /home/raxen/Music/Playlist/Random/Lady Gaga - Poker Face.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/3-07 Rag'n'Bone Man - Human.mp3
-/home/raxen/Music/Playlist/mp3/3-07 Rag'n'Bone Man - Human.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/94 Taylor Swift - Love Story.mp3
-/home/raxen/Music/Playlist/mp3/94 Taylor Swift - Love Story.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/06 PUBLIC - Make You Mine.mp3
-/home/raxen/Music/Playlist/mp3/06 PUBLIC - Make You Mine.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/19 Kupla - Soft to Touch.mp3
 /home/raxen/Music/Tributes/Riverdale_tribute/Riverdale - Someone you loved-d2Zd9Z6iJuc.mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/2-04 Imagine Dragons - Follow You.mp3
-/home/raxen/Music/Playlist/mp3/2-04 Imagine Dragons - Follow You.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/2-19 Sabrina Carpenter - Skin.mp3
-/home/raxen/Music/Playlist/mp3/2-19 Sabrina Carpenter - Skin.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Is he even awake .mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Chandelier.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/I Fall Apart.mp3
@@ -3476,15 +3329,9 @@
 /home/raxen/Music/Playlist/Lofi_hip_hop/Misty.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Wishing Well.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Woodland Critters.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/07 Vin Jay - Mumble Rapper Vs. Lyricist.mp3
-/home/raxen/Music/Playlist/mp3/07 Vin Jay - Mumble Rapper Vs. Lyricist (1).mp3
-/home/raxen/Music/Playlist/mp3/07 Vin Jay - Mumble Rapper Vs. Lyricist.mp3
 /home/raxen/Music/Playlist/Random/Vin Jay - Mumble Rapper vs. Lyricist.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/vin.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 C'est la vie (1).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 C'est la vie.mp3
-/home/raxen/Music/Playlist/mp3/01 C'est la vie (1).mp3
-/home/raxen/Music/Playlist/mp3/01 C'est la vie.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/02 Take My Hand.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Skechers.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Gurenge.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Starboy.mp3
@@ -3495,13 +3342,8 @@
 /home/raxen/Music/Playlist/Lofi_hip_hop/Take It Off.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Evil Morty.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Evil Morty(2).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 See You Again.mp3
-/home/raxen/Music/Playlist/mp3/01 See You Again.mp3
 /home/raxen/Music/Playlist/Random/Wiz Khalifa - See You Again (feat. Charlie Puth).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 yes & no.mp3
-/home/raxen/Music/Playlist/mp3/01 yes & no.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/05 Deeper Conversation.mp3
-/home/raxen/Music/Playlist/mp3/05 Deeper Conversation.mp3
+/home/raxen/Music/Playlist/Lofi_hip_hop/kupla/08 Whenever.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Home.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Only Love.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Places In the Mind.mp3
@@ -3517,22 +3359,5 @@
 /home/raxen/Music/Playlist/Lofi_hip_hop/Here Comes the Sun.mp3
 /home/raxen/Music/Playlist/Lofi_hip_hop/Moonlight Sonata.mp3
 /home/raxen/Music/Playlist/Random/ZAYN Sia - Dusk Till Dawn - Radio Edit.mp4
-/home/raxen/Music/Artists/Taylor_Swift/mp3/01 A Whole New World (end title).mp3
-/home/raxen/Music/Playlist/mp3/01 A Whole New World (end title) (1).mp3
-/home/raxen/Music/Playlist/mp3/01 A Whole New World (end title).mp3
 /home/raxen/Music/Playlist/Random/ZAYN, Zhavia Ward - A Whole New World (End Title) - From 'Aladdin'.mp3
 /home/raxen/Music/Playlist/Raxen_Gamer001/ZAYN, Zhavia Ward - A Whole New World (End Title) - From 'Aladdin'.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/02 テイラー・スウィフト - champagne problems.mp3
-/home/raxen/Music/Playlist/mp3/02 テイラー・スウィフト - champagne problems.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/03 テイラー・スウィフト - gold rush.mp3
-/home/raxen/Music/Playlist/mp3/03 テイラー・スウィフト - gold rush.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/05 テイラー・スウィフト - tolerate it.mp3
-/home/raxen/Music/Playlist/mp3/05 テイラー・スウィフト - tolerate it.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/07 テイラー・スウィフト - happiness.mp3
-/home/raxen/Music/Playlist/mp3/07 テイラー・スウィフト - happiness.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/10 テイラー・スウィフト - ivy.mp3
-/home/raxen/Music/Playlist/mp3/10 テイラー・スウィフト - ivy.mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/11 テイラー・スウィフト - cowboy like me (1).mp3
-/home/raxen/Music/Artists/Taylor_Swift/mp3/11 テイラー・スウィフト - cowboy like me.mp3
-/home/raxen/Music/Playlist/mp3/11 テイラー・スウィフト - cowboy like me (1).mp3
-/home/raxen/Music/Playlist/mp3/11 テイラー・スウィフト - cowboy like me.mp3

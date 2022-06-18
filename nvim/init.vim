@@ -6,7 +6,13 @@ call plug#begin()
     Plug 'hrsh7th/cmp-path'
     Plug 'hrsh7th/cmp-cmdline'
     Plug 'hrsh7th/nvim-cmp'
+    Plug 'hrsh7th/cmp-nvim-lua'
+    Plug 'hrsh7th/cmp-calc'
+    Plug 'hrsh7th/cmp-emoji'
+    Plug 'hrsh7th/cmp-omni'
     Plug 'williamboman/nvim-lsp-installer'
+    Plug 'onsails/lspkind-nvim' "Icons for lsp
+    Plug 'windwp/nvim-autopairs' " Auto Pairs
 " Track the engine.
 " Snippets are separated from the engine. Add this if you want them: Plug 'honza/vim-snippets'
 " For vsnip user.
@@ -20,17 +26,12 @@ call plug#begin()
     Plug 'nvim-lua/popup.nvim'
     Plug 'preservim/nerdtree' "NerdTRee
     Plug 'ryanoasis/vim-devicons' "Devicons
-    Plug 'onsails/lspkind-nvim' "Icons for lsp
     Plug 'sbdchd/neoformat' "neoformat formatter
-    Plug 'windwp/nvim-autopairs' " Auto Pairs
-
     Plug 'mhinz/vim-startify' " Start screen
     Plug 'folke/which-key.nvim' " shows which key to press after leader
 
     Plug 'morhetz/gruvbox' "Colorscheme
     Plug 'sainnhe/gruvbox-material'
-
-    Plug 'Yggdroot/indentLine' "Tabline show special character
 call plug#end()
 
 source $HOME/.config/nvim/nvim-cmp.lua

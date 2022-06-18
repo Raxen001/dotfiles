@@ -1,7 +1,6 @@
 # vim: set nowrap
 [[ -z $DISPLAY && $XDG_VTNR -eq 1 ]] && exec startx '/home/raxen/.local/configs/dotfiles/xinitrc' &> /dev/null
-[[ -z $DISPLAY && $XDG_VTNR -eq 2 ]] && exec startx '/home/raxen/.local/configs/dotfiles/xinitrc' 
-[[ -z $DISPLAY && $XDG_VTNR -eq 3 ]] && exec startx '/home/raxen/.local/configs/dotfiles/xinitrc' 
+#[[ -z $DISPLAY && $XDG_VTNR -eq 2 ]] && exec startx '/home/raxen/.local/configs/dotfiles/xinitrc' 
 #[[ $TERM != "screen" ]] && exec tmux
 # set the keyboard rate faster make the input faster
 #xset r rate 227 44 
@@ -36,6 +35,7 @@ compinit -d "/home/raxen/.local/configs/dotfiles/zsh/zcompdump-$ZSH_VERSION"
 
 #-------------------------------------------------------------------------------
 #Environmental Variables
+#export PATH="$HOME/.local/bin:$PATH"
 export EDITOR='nvim'
 export TERMINAL='alacritty'
 # set `TERM` for icons in tmux
@@ -76,7 +76,7 @@ export EDITOR='nvim'
 export TERMINAL='alacritty'
 export NNN_BMS='g:~/Documents/personal_notes/linux/ricing/;p:~/Music/Playlist;n:~/Documents/personal_notes;o:~/Code/Python/Ongoing;b:~/Documents/personal_notes/board/;d:~/.local/configs/dotfiles;u:~/.local/configs/sourcepkgs;s:~/.local/configs/scripts;'
 export NNN_FIFO=/tmp/nnn.fifo
-export NNN_PLUG='n:nmount;f:fzcd;o:fzopen;p:preview-tui;w:wall;a:fzplug'
+export NNN_PLUG='f:fzcd;p:preview-tui;w:wall;a:fzplug;c:cmusq;'
 export NNN_COLORS='23456'
 
 export NNN_FCOLORS='020304050607080910111213'
@@ -99,7 +99,7 @@ export XDG_MUSIC_DIR="$HOME/Music"
 #alias la='ls -AF --color=auto'
 alias ls='exa -F --color=auto --color-scale --icons'
 alias la='exa -BhFa --color=auto --color-scale --icons'
-alias ll='exa -alF -t modified --color=auto'
+alias ll='exa -ahHlF -t modified --color=auto'
 alias cat='bat --theme=gruvbox-dark'
 
 alias qr='qrencode -t ansi'
@@ -184,7 +184,7 @@ preexec() { echo -ne '\e[5 q' ;} # Use beam shape cursor for each new prompt.
 #---------------------------------------------------------------------
 
 
-source /home/raxen/.local/cargo/env
+source ~/.local/cargo/env
 source ~/.local/configs/sourcepkgs/nnn/misc/quitcd/quitcd.bash_zsh
 source ~/.local/configs/dotfiles/zsh/hugo_comple.zsh 
-source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh 
+source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh

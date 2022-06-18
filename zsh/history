@@ -1,1161 +1,1019 @@
-cp -r \[Pajeet\]\ Holyland holyland
-cd holyland
+sudo usermod -a -G wireshark raxen
+wireshark
+sudo wireshark
+sudo usermod -a -G wireshark root
+sudo wireshark
+wireshark
+ifconfig
+dnf search airmon
+tcpdump
+sudo tcpdump
+iw
+iw wlan4
+iw wlan4 info
+iwinfo
+iwconfig
+ifconfig
+iw wlp4s0
+iw wlp4s0 info
+exit
+pass generate namecheap/raxen001 -c
+pass -c email/raxen001@tutamail.com
+pass find namecheap
+pass rm namecheap
+pass -c raxen001@tutamail.com/namecheap
+pass generate -c raxen001@tutamail.com/paypal
+pass edit raxen001@tutamail.com/paypal
+exit
+pass -c raxen001@tutamail.com/paypal
+curl ip.me
+cd Downloads
 ls
-unzip *
-la
-unzip Holyland\ -\ Volume_*
+sudo openvpn Netherlands_freeopenvpn_udp\(1\).ovpn 
+exit
+pass generate -c raxengamer001@gmail.com/hoxxvpn
+pass -c raxengamer001@gmail.com/hoxxvpn
+nslookup
+ping 185.88.181.7
+neofetch
+pass -c animixplay/raxengamer001
+cd Music/Music-Videos/.f
 ls
-unzip Holyland\ -\ Volume_01.cbz
+youtube-dl "https://www.xvideos.com/video1711368/wife_cuckold"
+neofetch
+cd .local/share
 ls
-for i in *;\
-do\
-unzip "$i"\
+cd ../configs
+ls
+cd dotfiles
+ls
+vi bookmarks
+exit
+python
+exit
+cd /tmp
+vi a.py
+python
+vi a.py
+python3 a.py
+vi a.py
+python3 a.py
+vi a.py
+python3 a.py 
+vi a.py
+python3 a.py 
+vi a.py
+python
+python
+python
+vim
+vim
+sudo dnf update -y
+exi
+exit
+ls
+rm a.py
+cd Code/HTML-CSS/raxengamer001.github.io
+ls
+ls
+cd pages
+ls
+mv revolt-1857.html .revolt-1857.html
+cd ..
+ls
+vi index.html
+cd pages
+ls
+vi sarahaa.md
+vi /etc/dnf/dnf.conf
+sudoedit /etc/dnf/dnf.conf
+ls
+cd /etc/
+sou
+cd dwm-6.3
+ins
+ls
+dnf search x11
+sudo dnf install cmus
+ls
+cd .local
+ls
+cd configs/dotfiles
+ls
+cp -r cmus ~/.config/cmus
+cmus
+cmus
+sou
+cd dwm-6.3
+ins
+sudo dnf install libX11
+sudo dnf install libX11-devel-1.7.3.1-2.fc36.x86_64
+ins
+sudo dnf install libX11-common-1.7.3.1-2.fc36.noarch
+sudo dnf install libX11-1.7.3.1-2.fc36.x86_64
+sudo dnf install libX11-xcb-1.7.3.1-2.fc36.x86_64
+ins
+sudo dnf install libXft-devel-2.3.4-2.fc36.x86_64
+ins
+sudo dnf install imlib2-devel-1.7.4-2.fc36.x86_64
+ins
+sudo dnf install dwm dwm-user
+sudo dnf install dwm
+sudo dnf install dwm dwm-user
+cargo
+dnf search devel
+cmus
+df / -h
+df /home -h
+cd Downloads
+ls
+rm kali-linux-2022.1-installer-everything-amd64.iso.part kali-linux-2022.1-installer-everything-amd64.iso.torrent
+rm Netherlands_freeopenvpn_udp\(1\).ovpn newpipe_subscriptions_202204041327.json
+ls
+rm N
+rm Netherlands_freeopenvpn_udp.ovpn
+ls
+du -hd0 ISO
+cd ISO
+ls
+cd ..
+ls
+ls
+cd Games
+ls
+cd ..
+cd backups
+ls
+ls
+dot
+vi zsh/.zshenv
+exit
+sudo dnf update
+reboot
+sudo dnf distro-sync
+dot
+cd .zsh
+cd zsh.
+vi zsh/.zshenv
+exit
+dot
+vi zsh/.zshenv
+exit
+ls
+sudo ./VentoyGUI.x86_64
+./VentoyGUI.x86_64
+./VentoyGUI.x86_64
+./VentoyGUI.x86_64
+cd
+cd Videos
+ls
+cd Series
+ls
+vi a.sh
+vi a.sh
+ls
+cd Sillicon_Valley
+ls
+ls
+cd Silicon-Valley-S0
+ls
+cd
+cd /tmp
+ls
+mkdir test
+cd test
+ls
+mkdir folder{1..100}
+ls
+for i in {1..100};do\
+touch "folder$i"/a.txt\
 done
 ls
-n
+cat folder1
+ls folder1
+tree
+cd ..
+rm -rf test
+exit
+ls
+ffprobe VID_20220522_220302.mp4
+du output.mp4 VID_20220522_220302.mp4 -h
+du output.mp4 VID_20220522_220302.mp4 -h
+du output.mp4 VID_20220522_220302.mp4 -h
+du output.mp4 VID_20220522_220302.mp4 -h
+du output.mp4 VID_20220522_220302.mp4 -h
+du output.mp4 VID_20220522_220302.mp4 -h
+du output.mp4 VID_20220522_220302.mp4 -h
+du output.mp4 VID_20220522_220302.mp4 -h
+ffprobe VID_20220522_220302.mp4 | grep -i time
+ffprobe VID_20220522_220302.mp4 | grep -i duration
+ffprobe VID_20220522_220302.mp4 | less
+ffprobe VID_20220522_220302.mp4 | less
+ls
+ffmpeg -i VID_20220522_220302.mp4 -vcodec libx265 -crf 25 output.mp4
+ls
+rm output.mp4
+ffmpeg -i VID_20220522_220302.mp4 -vcodec libx265 output.mp4
+rm output.mp4
+ffmpeg -i VID_20220522_220302.mp4 -vcodec libx264 -crf 20 output.mp4
+du output.mp4 VID_20220522_220302.mp4 -h
+man ffmpeg
+ffmpeg -i VID_20220522_220302.mp4 -s 1920x1080 -vcodec libx264 output.mp4
+du * -h
+xdg-open output.mp4 VID_20220522_220302.mp4
+xdg-open output.mp4
 pulsemixer
+alsamixre
 alsamixer
+cmus
+neofetch
+neofetch
+exit
+df / -
+df /home -h
+sudo dnf update
+sudo dnf update
 sou
-cd dwm-6.2
-vi config.def.h
+cd dwm-6.3
 ins
-vi config.def.h
+sudo dnf install xorg-x11-devel
+sudo dnf searc evel
+sudo dnf search devel
+\
+sudo dnf install libX11-devel\
+sudo dnf install libXft-devel\
+sudo dnf install libXinerama-devel\
+\
+sudo dnf install nitrogen\
+sudo dnf install xorg-x11-xinit-session
 ins
-vi config.def.h
-ins
-vi config.def.h
-ins
-vi config.def.h
-ins
-vi config.def.h
-ins
-vi config.def.h
-ins
-vi dwm.c
-vi config.def.h
-rg numlock
+cd /etc/X11
 ls
-vi config.def.h
-ins
-vi config.def.h
-ins
-vi config.def.h
-ins
-vi config.def.h
-ins
-vi config.def.h
-ins
-vi config.def.h
-vi config.def.h
-ins
-sou
-cd dwm-6.2
-vi dwm.c
-vi dwm.c
-rg numlock
-vi config.def.h
-ins
-vi config.def.h
-ins
-xev
-xev
-sou
-cd dwm-6.2
-vi config.def.h
-ins
-vi config.def.h
-ins
-vi config.def.h
-ins
-sou
-cd dwm-6.2
-vi dwm.c
-sou
-cd dwm-6.2/w
-cd dwm-6.2
-ins
-vi config.def.h
-ins
-vi config.def.h
-ins
-\:q
-sou
-cd dwm-6.2
-vi config.def.h
-vi dwm.c
+cd Xsession.d
 ls
-rg KP
+cd ..
+cd xinit
 ls
-vi dwm.c
-cd /usr/include
-ls
-rg KP
-rg KP _4
-rg "KP_*"
-rg "KP_4"
-vi X11/keysymdef.h
-sou
-cd dwm-6.2
-ins
-cd .config/mpv
-ls
-cd script-opts
+cd xinitrc.d
 ls
 cd ..
 ls
-cd scripts
+cd xin
+cd ..
 ls
-vi sponsorblock.lua
-paru -Suy --noconfirm
-sudo protonvpn c
-sudo protonvpn d
-prime-run yuzu
-prime-run yuzu
-n
-sxiv -rb Vol.*
-paru -Ss preload
-cd /etc/
-sudoedit hosts
-sudoedit resolv.conf
-nvtop
-paru -Suy --noconfirm
-pacman -Ss iins
-pacman -Ss iinsa
-pacman -Ss iina
-paru -Ss iina
-paru -Ss iina
+cd xorg.conf.d
+ls
+cd ..
+ls
+cd ..
+ls
+ls
+cd xdg
+ls
+cd /usr/share/xsessions
+ls
+vi dwm.desktop
+sudoedit dwm.desktop
+ls
+cmus
+cd /usr/share/xsessions
+ls
+sudoedit dwm.desktop
+sudoedit dwm.desktop
+which dwm
+sudoedit dwm.desktop
+ls
+ls
 sou
-dot
-cd nvim
-vi init.vim
-cp norc.vim ~/.config/nvim/
-ls
-cd .config/nvim
-vi startify.vim
-vi telescope.vim
-vi which-keys.vim
-ls
-vi norc.vim
-dot
-cd nvim
-vi init.vim
-cd .config/nvim
-ls
-vi configs.vim
-vi init.vim
-vi
-vi init.vim
-vim
-vim configs.vim
-vi init.vim
-vi configs.vim
-vi init.vim
-novim   init.vim
-vi
-ls
-vi init.vim
-vi configs.vim
-vi init.vim
-vi configs.vim
-ls
-vi init.vim
-vi
-vi init.vim
-vi
-vi
-ls
-vi init.vim
-ls
-vi
-nvim init.vim
-vi configs.vim
-vi
-vi configs.vim
-nvim
-ls
-vi configs.vim
-vi
-exit
-vi
-iv
-vi
-vi
-vi
-i
-vi
-vi
-ls
-cd .config/nvim
-vi init.vim
-vi
-vi
-vi
-vi
-vi
-vi
-cd .config/nvim
-vi configs.vim
-vi nvim-cmp.lua
-vi init.vim
-nvim
-vi init.vim
-vi
-vi nvim-cmp.lua
-vi init.vim
-vi
-nvim init.vim
-vi nvim-cmp.lua
-vi
-vi
-vi nvim-cmp.lua
-vi
-vi
-vi nvim-cmp.lua
-vi
-cd Code/C
-ls
-cd Learning/array
-ls
-nvim main.c
-vi main.c
-cd Code/Rust
-ls
-cd Learning/guess_game
-ls
-vi src/main.rs
-n
 cd
 ls
-cd .config/nvim
-ls
-vi nvim-cmp.lua
-cd Code/C/Learning/
-cd array
-ls
-vi main.c
-n
-n
-cd .config/nvim
-ls
-vi init.vim
-rm a.py
-vi
-vi nvim-cmp.lua
-vi init.vim
-vi
-vi configs.vim
-n
-vi startup.html
-cd .config/nvim
-ls
-vi a.py
-vi nvim-cmp.lua
-vi
-ls
-cd .config/nvim
-ls
-vi  nvim-cmp.lua
-vi nvim-cmp.lua
-vi
-cd
-vi a.html
-n
-cd
-cd .config/nvim
-ls
-ls
-vi nvim-cmp.lua
-nvim nvim-cmp.lua
-cd .config/nvim
-ls
-vi init.vim
-vi init.vim
-vi
-vi
-vi
-n
-vi startup.html
-vi a.c
-vi startup.html
-vi
-vi
-exit
-vi
-ong
-ls
-cd reddit_downloader
-ls
-vi reddit.py
-vi reddit.py
-c
-cd
-cd .config/nvim
-ls
-vi nvim-cmp.lua
-vi
-n
-cd 
-n
-nvim
-n
-cd
-cd .config
-ls
-cd nvim
-ls
-ls
-vi configs.vim
-vi
-cd .config/nvim
-vi configs.vim
-vi
-nvim
-st
-cd .config/nvim
-ls
-vi configs.vim
-nvim nvim-cmp.lua
-nvim
-nvim
-cd .config/nvi
-cd .config/nvim
-ls
-vi nvim-cmp.lua
-cd .config/nvim
-ls
-vi configs.vim
-vi nvim-cmp.lua -
-vi nvim-cmp.lua 
-ong
-vi reddit_downloader
-cd .config/nvim
-vi configs.vim
-exit
-paru -Suy --noconfirm
-systemd-analyze
-la
-rm .ICEauthority .rnd .pki .wget-hsts -rf
-xprop
-killall firefox
-killall firefox
-xprop
-killall firefox
-firefox
-paru -Suy --noconfirm
-killall slstatus
-killall alacritty
-sudo protonvpn c
-sudo protonvpn d
-sudo protonvpn d
-sudo protonvpn c
-sudo protonvpn d
-mplayer
-sudo pacman -S flac
-sudo pacman -S mplayer
-mplayer
-n
-paru -Runs mplayer
-paru -Run mplayer
-paru -Qqd
-paru -Qqdt
-notify-send asdf
-dunstctl
-dunstctl --help
-dunstctl xev
-xev
 sou
-cd dwm-6.2
+ls
+cd dmenu-5.0
+ins
+cd ../nnn
+ins
+sudo make clean install
+cd ../slstatus
+ins
+slla
+sudo dnf search hack
+dnf search ttf
+sou
+cd dwm-6.3
 vi config.def.h
 ins
-notify-send asdf
-dunst
-killall dunst
-dunst
-dunst
-vainfo
-paru -Ss amd top
-htop
-pacman -Ss phantom
-pacman -Ss kvantum
-pacman -Ss kvantum
-pacman -Ss theme engine
-la
-nvim
-nvim
-sou
-cd st-0.8.4
-vi config.def.h
-ins
-ls
-nvim
-sou
-cd st-0.8.4
-vi config.def.h
-ins
-nvim
-ls
-nvim
-cd .config/nvim
-ls
-vi configs.vim
-sudo pacman -Ss look
-sudo pacman -S look
-paru -Ss look
-paru -S look
-cd .config/nvim
-ls
-vi nvim-cmp.lua
-vi
-n
-vi startup.html
+sudo dnf install dunst
+flatpak run com.discordapp.Discord
+pass -c animixplay/raxengamer001
+pass -c animixplay/raxengamer001
+pass -c raxen001@tutamail.com/github
+pass -c email/raxen001@tutamail.com
+df / -h
+df /home -h
 exit
-sudo   protonvpn 
-sudo protonvpn c
-sudo protonvpn d
-nvi
-vi
-cd .config/mpv
-vi input.conf d
-cd .config/nvim/plugged/cmp-nvim-lsp
+yum install gtk-murrine-engine gtk2-engines
+sudo yum install gtk-murrine-engine gtk2-engines
+cmus
+sudo dnf copr enable aleasto/waydroid
+sudo dnf update
+sudo dnf install waydroid
+sudo waydroid init -c https://ota.waydro.id/system -v https://ota.waydro.id/vendor\
+\
+sudo systemctl start waydroid-container
+sudo waydroid init -c https://ota.waydro.id/system -v https://ota.waydro.id/vendor\
+\
+sudo systemctl start waydroid-container
 ls
-cd lua
+rm -rf RPMLauncher
+ls Templates
+rm -rf Templates
+ls Public
+rmdir Public
 ls
-cd cmp_nvim_lsp
+sudo waydroid init
+sudo waydroid init
+sudo waydroid init
+sudo waydroid init -c https://ota.waydro.id/system -v https://ota.waydro.id/vendor\
+\
+sudo systemctl start waydroid-container
+sudo waydroid init -c https://ota.waydro.id/system -v https://ota.waydro.id/vendor\
+\
+sudo systemctl start waydroid-container
 ls
-vi source.lua
-rg keyword_length
-rg keyword
-ls
-vi source.lua
-n
-rg keyword_length\\
-
-rg keyword_length
-cd plugged/nvim-cmp/lua/cmp/config/
-vi default.lua
-sou
-cd dwm-6.2
-vi config.def.h
-ins
-nvtop
-nvidia-smi
-n
-n
+exit
+uptime
+cmus
+cd Music/Tributes
+mkdir Marvel
+cd M
+cd Marvel
 ytd
-cd .config/nnn/plugins
-ls
-vi fzopen
-vi fzopen
-man sk
-sk
-pacman -Ss sk
-sudo pacman -S sk
-sou
-cd nnn
-ls
-vi Makefile
-ins
-sudo make clean install
-vi Makefile
-sudo make clean install
-cd .config/nnn/plugins
-vi fzopen
-cd /tmp
-git clone "https://github.com/jarun/nnn/tree/master/plugins"
-git clone "https://github.com/jarun/nnn/"
-cd nnn
-ls
-vi Makefile
-sudo make clean install
-cd ../src
-ls
-cd src
-vi nnn.c.rej nnn.c -p
+cd ../Lucifer
+ytd
 cd ..
-sudo make clean install
-n
-cd /tmp
-rm -rf nnn
-sou
-cd nnn
-sudo make clean install
-sou
-cd nnn
-vi Makefile
-ins
-sudo make clean install
-nnn -f
-nnn -F
-nnn -F 1
-nnn -F 1
-cd .config/nnn/plugins
-vi nuke
-man nohup
-nn
-nnn
-cd .config/nnn/plugins
-vi nuke
-ls
-vi fzopen
-nnn
-cd .config/nnn/
-vi fzop
-cd plugins
-vi fzopen
-paru -S sk
-fd
-cd .config/nvim
-ls
-vi nvim-cmp.lua
-vi
-dot
-ls
-rm -rf nvim
-mv ~/.config/nvim .
-dot
-cd nvim
-ls
-vi nvim-cmp.lua
-nvim
-cd .config/
+mkdir Games
+cd Games
+ytd
 ls
 ls
-mkdir nvim
-âƒ½±  git clone https://github.com/Shadorain/shadovim ~/.config/nvim\
-âƒ½±  cd ~/.config/nvim/\
-âƒ½±  chmod +x ./setup\
-âƒ½±  ./setup\
-
-git clone https://github.com/Shadorain/shadovim ~/.config/nvim\
-
-cd nvim
-chmod +x ./setup
-./setup
+man ytd
+alias ytd
 ls
-nvim
 ls
-cd Code/Python/Ongoing/reddit_downloader
-nvim reddit.py reddit.py
-nvim reddit.py
-man find
-tldr find
-cd .config/nvim
-ls
-cd plugged/cmp-nvim-lsp
-ls
-n
-cd ~/.config/nvim
-ls
-find . -iname -f f cmp_calc
-find . -iname -F f cmp_calc
-find . -iname -d f cmp_calc
-find . -iname -type f cmp_calc
-find . -type f -iname cmp_calc
-find . -type f -iname cmp
-find . -type f -iname .
-find . -type f -iname *
-find . -type f -iname "*"
-find . -type f -iname "cal"
-rg cmp_calc
-nvim
-cd .config/nvim/
-vi configs.vim
-vi nvim-cmp.lua
-vi
-cd .local/share
-ls
-cd nvim
-ls
-cd site
-ls
-cd autoload
-ls
-cd ..
-ls
-cd pack
-ls
-cd ..
-cmatrix
-neofetch
-neofetch
-neofetch
-cd .config
-rm -rf nvim
-ln -s ~/.local/configs/dotfiles/nvim .
-cd nv
-cd nvim
-ls
-vi nvim-cmp.lua
-nvim
-vi
-cd .config/nvim
-vi nvim-cmp.lua
-ls
-vi nvim-cmp.lua
-cd
-cd .local
-ls
-cd share/nvim
-ls
-n
-cd .config/nvim
-vi configs.vim
-vi nvim-cmp.lua
-vi
-cd .config/nvim
-ls
-vi n
-vi nvim-cmp.lua
-nvim
-cd .config/nvim
-vi   init.vim
+cmus
+sudoedit /etc/hosts
+pass -c email/raxen001@tutamail.com
 la
-nvim
-vi
-vi
-n
-vi reddit.py
-n
-vi
-cd .config/nvim
-vi nvim-cmp.lua
-vi nvim-cmp.lua
-vi
-novim
-cd .config/nvim
-vi init.vim
-vi
-vi init.vim
-vi
-vi nvim-cmp.lua
-vnim
-nvim
-cd .local/share
-ls
-cd nvim
-l
-ls
-n
-rm -rf .vim
-cd .local/share
-ls
-rm -rf lunarvim
-cd nvim
-ls
-ls
-lvim
-ls
-cd ..
-rm -rf nvim
-nvim
-nvim
-paru -Ss vim plug
-curl -fLo ~/.vim/autoload/plug.vim --create-dirs \\
-    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim\
-
-vi
-vi
-sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \\
-       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'\
-
-vi
-vi
-vi
-vi
-vi
-vi
-vi
-cd
-cd .config/nvim
-ls
-vi nvim-cmp.lua
-vi
-vi
-ls
-vi configs.vim
-nviim
-vi
-vi nvim-cmp.lua
-ls
-vi init.vim
-vi
 exit
-vi
-cd .config/nvim
-vi nvim-cmp.lua
- vi init.vim
-vi
-vi init.vim
-vi init.vim
-novim init.vim
-vi
-vi
-cd .local/share/nvim
+pass -c animixplay/raxengamer001
+flatpak run com.github.tchx84.Flatseal
+reboot
+pass -c veloren/RaxenGamer001
+cmus
+pass -c email/zumrikushi@gmail.com
+pass -c email/zumrikushi@gmail.com
+pass -c email/raxengamer001@gmail.com
+pass -c animixplay/raxengamer001
+cmus
+python3 -m pip install --upgrade pip setuptools wheel
+python3 -m pip install -U gallery-dl
 ls
-cd site
+cd Pictures
 ls
+mkdir instagram
+mv instagram Instagram
+cd Gifs
+cd ../Instagram
+ls
+exit
+cd Pictures/Instagram
+ls
+gallery-dl
+gallery-dl --help
+gallery-dl https://reddit.com/r/pics
+ls
+cd gallery-dl
+ls
+cd reddit
+ls
+cd pics
+ls
+xdg-open *.jpg
+.
+pip3 install instaloader\
+
+cd Pictures/Instagram
+ls
+cmus
+pass find insta
+pass -c zumrikushi@gmail.com/instagram
+pass -c zumrikushi@gmail.com/instagram
+pass -c zumrikushi@gmail.com/instagram
+pass -c zumrikushi@gmail.com/instagram
+pass -c zumrikushi@gmail.com/instagram
+pass -c zumrikushi@gmail.com/instagram
+pass -c zumrikushi@gmail.com/instagram
+pass -c zumrikushi@gmail.com/instagram
+cd Pictures/Instagram
+vi a
+vi args.txt
+la
+rm -rf .audacity-data
+ls
+rm -rf .vscode-oss
+ls
+la
 n
-vi site
+ls
+python3 /tmp/a.py -c cookies.sqlite
 cd
-cd .config/nvim
-vi nvim-cmp.lua
-vi
-vi plugged
+cd Pictures/Instagram
 ls
-cd plugged
+instaloader -l raxen001 :stories anjali_23_0409\
+\
+
+instaloader -l raxen001 :stories
 ls
-rm -rf *
-cd ..
-vi 
-vi
-vi 
-paru -Suy --noconfirm
-paru -Runs neovim
-sudo pacman -S neovim
-nvim
-cd .config/nvim
+rm -rf :stories
+instaloader -l raxen001 anjali_23_0409 :stories
 ls
-vi nvim-cmp.lua
-vi
-cd .local/configs/dotfiles/nvim
+rm -rf :stories
+instaloader -l raxen001 --stories anjali_23_0409
+instaloader
+instaloader --login raxen001 
+instaloader --login raxen001 
+instaloader --login raxen001 
+man instaloader
+instaloader --login=raxen001 
 ls
-vi init.vim
-novim -u norc.vim
+cd Pictures/Instagram
+ls
+instaloader --login=raxen001 anjali_23_0409
+man instaloader
+instaloader --help
+instaloader -l raxen001 -p I_am_a_good_boy_this_is_awesome
+cd /tmp
+vi a.py
+python3 a.py
+python3 a.py
+python3 a.py
+ls
+instaloder --help
+instaloader --help
+cd ~/Pictures/Instagram
+ls
+instaloader -l raxen001 chocolove_anju
+cd Pictures/Instagram
+vi args.txt
+instaloader --help
+instaloader --help | grep -i no-meta
+cd Pictures/Instagram
+instaloader -l raxen001 dash_spamz
+ls
+mkdir args.txt
+rmdir args.txt
+touch args.txt
+vim args.txt
+instaloader +args.txt
+ls
+tree
+tar -C $HOME -xzf NoiseTorch_x64_v0.12.0.tgz
+ls
+sou
+cd slstatus
+ls
+vi config.def.h
+ins
+killall slstatus
+flatpak update
+exit
+sudo dnf update
+exit
+sou
+cd slstatus
+cd
+sou
+cd dwm-6.3
+ls
+cd
 cd .config
 ls
-rm nvim
-mkdir nvim
-cd nvim
-ls
-la
-ls
-vi init.vim
-vi
-vi
-vi
-ls
-vi init.vim
-vi
-vi 
-vi init.vim
-vi
-ls
-vi  init.vim 
-rm -rf plugged
-vi
-vi a.py
-vi init.vim
-vi a.py
-la
-cd ..
-rm -rf nvim
 cd
-lvim
-pacman -Ss neovim plug
-pacman -Ss vim plug
-pacman -Ss pyright
-sudo pacman -S pyright
-cd .local
+cd /etc/X11
 ls
-cd share
+cd Xsession.d
 ls
-rm -rf nvim
+cd /usr/share/X11
+ls
+cd xorg.conf.d
+ls
+cd ../..
+ls
+cd ..
+cd /etc/X11
+ls
+cd xinit
+ls
+n
+cd /usr/share/xsessions
+ls
+vi dwm.desktop
+vi gnome.desktop
+sudoedit dwm.desktop
+logout
+exit
+ls
+ls
+cd /usr/share/xsessions
+ls
+vi dwm.desktop
+vi gnome-xorg.desktop
+sudoedit dwm.desktop
+ls
+ls
 cd 
 cd .config
-nvim
-sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \\
-       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'\
-
-nvim
-cd nvim
-l
-mkdir nvim
-cd nvim
-vi init.vim
-vi
-dot
-cd nvim
 ls
-vi configs.vim
-cd .config/nvim
+cd alacritty
 ls
-vi init.vim
-dot
-cd nvim
-ls
-vi nvim-cmp.lua
-not
-cd pe
-cd NOTES
-ls
-cd ..
-ls
-cd Task
-ls
-cd ..
-ls
-ls
-cd linux
-ls
-cd ..
-ls
-cd UwU
-ls
-vi shows
-vi hot
-vi books
-vi crush
-la
-n
-mv WoW WoW.txt
-pass reddit/Raxengamer001 | qr
-pass raxen001@tutamail.com/discord
-pass raxen001@tutamail.com/discord | qr
-pass email/raxen001@tutamail.com | qr 
-pass email/raxen001@tutamail.com
-pass raxen001@tutamail.com/discord
-pass email/raxen001@tutamail.com
-pass email/raxen001@tutamail.com | qr
-not
-ls
-cd board
-ls
-vi project_ideas.md
-vi TO-WATCH.md
-vi ongoing
-vi life_goals
-n
-not
-ls
-cd UwU
-ls
-vi games
-vi childhood_games.md
-systemd-analyze
-paru -Si mpd
-paru -
-paru -Si lutris
-pass email/zumrikushi@gmail.com | qr
-pass email/zumrikushi@gmail.com | qrencode -t UTF8
-pass email/zumrikushi@gmail.com | qrencode -t UTF8
-pass email/raxengamer001@gmail.com | qrencode -t UTF8
-pass email/raxengamer001@gmail.com | qrencode -t UTF8
-pass email/raxengamer001@gmail.com 
-pass email/raxengamer001@gmail.com | qrencode -t UTF8
-pass email/raxen001@tutamail.com | qrencode -t UTF8
-pass email/zumrikushi@gmail.com | qr
-pass email/raxengamer001@gmail.com | qr
-pass email/raxen001@tutamail.com | qr
-pass email/raxen001@tutamail.com | qr
-newsboat -x rss.xml
-man newsboat
-newsboat -e rss.xml
-man newsboat
-newsboat --ee rss.xml
-newsboat -e rss.opml
-newsboat -e
-newsboat -e > rss.opml
-cat rss.opml
-gpg --export-secret-keys -a keyid > my_private_key.asc
-gpg --export -a keyid > my_public_key.asc
-ls
-cat my_p
-cat my_private_key.asc
-cat my_public_key.asc
-ls
-rm my_private_key.asc my_public_key.asc
-ls
-rm newpipe-subscriptions-2021-10-23.json rss.opml
-gpg --export -a zumrikushi@gmail.com > MY_PUblic_key.asc
-ls
-cat MY_PUblic_key.asc
-gpg --export-secret-keys -a zumrikushi@gmail.com > my_private_key.asc
-ls
-paru -Suy --noconfirm
-la
-vi .vim-bookmarks
-rm .vim-bookmarks
-rm .wget-hsts .pki/ .mplayer -rf
-ls
-la
-nvim
-cd .config/nvim
-ls
-vi init.vim
-cd .config
-ls
-rm -rf nvim
-ln -s ~/.local/configs/dotfiles/nvim .
-nvim
-cd
-cd .config/nvim
-ls
-vi init.vim
-vim
-vi
-cd .local/share/nvim
-ls
-la
-ping google.com
-nmtui
-nmtui
-vi feeder-export-2021-10-24T15_48_51.610
-rm feeder-export-2021-10-24T15_48_51.610
-vi feeder-export-2021-10-24T15_49_52.924
+vi alacritty.yml
 exit
-alsamixer
-scr
-ls
-./paru-database.sh
-paru -Qqm
-man newsboat
-paru -Suy --noconfirm
-paru -Suy
-paru -Runs libzim 
-paru -Suy
-paru -Suy --overwrite="*"
-paru -Suy
-sudo pacman -S libzim6
-paru -Suy
-paru -Runs kiwix-desktop kiwix-lib
-paru -Suy --noconfirm
-mpv "https://youtu.be/KqqaByFt9Cg"
-pacman -Ss edge
-paru -Ss edge browser
-paru -Ss unityx
-paru -Ss komiku
-paru -Ss komikku
-paru -Ss manga reader
-bootctl status
-man newsboat
-youtube-dl --extactors-description
-man youtube-dl
-man yt-dlp
-paru -Ss floatplane
-cd Downloads
-ls
-chmod +x float-linux
-./float-linux
 la
-rm float-linux
-n
-paru -Ss unraid
-paru -Ss raid
-vi
-cd .config/nvim
-ls
-vi nvim-cmp.lua
-vi
-vi nvim-cmp.lua
-vi
-vi nvim-cmp.lua 
-vi nvim-cmp.lua
-vi
-ls
-nvim nvim-cmp.lua
-man newsboat
-pacman -Ss manga
-paru -Ss manga
-paru -Si mangodl
-paru -S mangodl --noconfirm
-cd Downloads
-ls
-mangodl 
-mangodl -S clover
-mangodl -S Clover (Tetsuhiro Hirakawa)
-mangodl -S "Clover (Tetsuhiro Hirakawa)"
-mangodl
-mangodl -nD "Clover (Tetsuhiro Hirakawa)"
-mangodl -n -D "Clover (Tetsuhiro Hirakawa)"
-paru -Runs mangodl
-paru -Si manga 
-paru -Ss manga 
-paru -Si mangatux-git
-paru -Si tachidesk
-paru -Ss tachidesk
-paru -S tachidesk-jui --noconfirm
-tachidesk-jui
-paru -Si tachidesk
-paru -Ss manga
-paru -Runs tachidesk-jui
-paru -S tachidesk
-paru -S tachidesk --noconfirm
-tachidesk-jui
-tachidesk
-tachidesk-electron
-paru -Runs tachidesk
-paru -Si qmanga-git
-man newsboat
-paru -Ss manga reader
-paru -S qmanga-git --noconfirm
-paru -S qmanga-git --noconfirm
-qmanga
-paru -Runs qmanga-git
-paru -Ss manga online
-paru -S komikku
-paru -S komikku --noconfirm
-paru -S komikku --noconfirm --overwrite="*"
-paru -Runs komikku
-pacman -Ss bdfr
-paru -Ss bdfr
-paru -Ss clementine
+cd 
 cd .config
-n
-nvim
-paru -Ss my anime
-paru -Ss anilist
-sudo protonvpn c
-calcurse
-lad
-man
-man man
-cd .config/alacritty
+vi alacritty
+vi
+vi .
 ls
-vi example.yml
-man 
-man ctrl+s
-man s
+vi alacritty/alacritty.yml
+exit
+flatpak run com.discordapp.Discord
+sudo dnf install picom
 la
-cat config.json
-rm config.json
-vi alacritty.recording
-man alacritty
-alacritty --ref-test
-man alacritty
-alacritty --ref-test
-la
-rm alacritty.recording config.json
-rm -rf .ffbinaries-cache .java .pki .skiko
-cat size.json
-rm size.json grid.json
-la
-lasdf
-la
-alacritty --ref-test
-la
-la
-rm alacritty.recording config.json grid.json size.json
-not
-la
-cd linux
+exit
+df /
+df / -h
+df /home -h
+cd 
+cd Downloads/backups
+du
+df * -hd0
+du -hd0
+du . -hd0
+du . -hd1
+du . -hd1
+ncdu
+ncdu
 ls
-la
-alsamixer
-pulsemixer
-cd .mozilla/firefox/3nut2ra5.default-release/
 ls
-rm prefs.js
-rm prefs.js
-vi
-vi
-cd .config/nvim
 ls
-vi nvim-cmp.lua
-vi
-vi nvim-cmp.lua
-vi
-vi nvim-cmp.lua
-vi
-nvim
-cd .config/nvim
+ncdu
+diff backup-2021-10-14/Pictures ~/Pictures/
+diff backup-2021-10-14/Pictures ~/Pictures/ -qr
+diff backup-2021-10-14/Pictures ~/Pictures/ -r
+diff backup-2021-10-14/Pictures ~/Pictures/ -q
+diff backup-2021-10-14/Pictures ~/Pictures/ -r
+diff backup-2021-10-14/Pictures ~/Pictures/ -r > a.txt
+cat a.txt
+cat a.txt | grep -i only in backup
+cat a.txt | grep -i "only in backup"
 ls
-vi nvim-cmp.lua
-n
-nvim
-vi
-cd .config/nvim
+ncdu
+zcat backup-2021-10-14
+man tar
+tar -t backup-2021-10-14
+tar -tfz backup-2021-10-14
+tar -tfz backup-2021-10-14.tar
+tar -tf backup-2021-10-14.tar
+tar -tf backup-2021-10-14.tar | less
 ls
-vi nvim-cmp.lua
-vi
-vi nvim-cmp.lua
+rm -rf backup-2021-10-14.tar
+ls
+cat a.txt
+ls
+ncdu
+cd backup-2021-10-14
+rm -rf Pictures
+cd ..
+ls
+ls
+ncdu
+ls
+cd ..
+ls
+rm EmuSAK-2.1.9.AppImage
+du Games -hd0
+cd Games
+ls
+ncdu
+ls
+cd .
+cd ..
+ls
+rm 13.0keys.zip
+rm input.zip
+rm -rf NoiseTorch_x64
+cd playground
+ls
+xdg-open VID_20220522_220302.mp4 
+cd ..
+rm -rf playground
+ls
+ls testing
+tree testing
+rm -rf testing
+ls
+rm -rf ventoy-1.0.74-linux
+xdg-open phy\ unit\ 1\ notes.pdf
+rm phy\ unit\ 1\ notes.pdf
+rm ventoy-1.0.74-linux.tar.gz NoiseTorch_x64_v0.12.0.tgz
+ls
+ncdu
+cd ISO
+ls
+rm -rf antiX-21_386-full.iso kubuntu-21.10-desktop-amd64.iso linuxmint-20.2-cinnamon-64bit.iso ubuntu-21.10-desktop-amd64.iso xubuntu-20.04.3-desktop-amd64.iso virtual_box Fedora-Workstation-Live-x86_64-35
+ls
+cd ..l
+cd ..
 sl
 ls
-vi configs.vim
-vi
+cd ..
 ls
-vi configs.vim
-vi nvim-cmp.lua
-scr
-vi animation_wallpaper.sh
-vi animation_wallpaper.sh
+cd block
+ls
+cd ..
+ls
+mv block Documents
+ls
+cd Code
+ls
+cd godot
+ls
+cd ..ls
+cd ..
+ls trash
+cd ..
+ls
+cd S
+cd STUDY
+ls
+cat youtube.sub
+ls
+cd ..
+ls
+cd Sync
+ls
+cd ..
+ls
+ls
+cd Videos
+ls
+ls Random
+ls
+ls Youtube
+ls
+cd Youtube
 la
-vi
-xinput -lsit
-xinput list
-cd .config/nvim
+xdg-open Tate_McRae_-_all_my_friends_are_fake_Lyrics.webm
+cd ..
 ls
-vi nvim-cmp.lua
-vi init.vim
-vi
-vi
-scr
-vi animation_wallpaper.sh
-vi
-cd
-cd .config/nvim
-vi nvim-cmp.lua
-vi
-cd .config/nvim
+cd ..
 ls
-vi nvim-cmp.lua
-vi nvim-cmp.lua
-vi
-vi
-ran
-ytd
-paru -Suy --noconfirm
-uname -r
-paru -Siuy
-paru -Suy
-paru -Ss ungoogled
-pacman -Ss comic
-xdg-mime default org.pwmt.zathura.desktop application/pdf
-sudo pacman -Ss zathura
-pacman -Ss vaapi
-pacman -Ss vdapi
-cd /tmp
 ls
-rm -rf my_mpv_thumbnails
-nvtop
-cd /tmp
-rm -rf my_mpv_thumbnails
-nvtop
-nvidia-smi
-htop
-htop
-sudo pacman -S vdpauinfo
-vdpa
-vdpauinfo
-sudo pacman -Ss gstreamer
-cd /tmp
-rm -rf my_mpv_thumbnails
-nvidia-smi
-nvtop
-htop
-pacman -Ss nvidia
-pacman -Ss pannel
-paru -Ss latte
-paru -Ss latte pannel
-paru -Ss latte panel
-paru -Ss latte pa
-paru -Ss latte dock
-pacman -Ss dock
-paru -Ss valva
-paru -Ss apnnel
-paru -Ss pannel
-lspci | grep VGA
-cd .config/mpv
-vi mpv
-vi mpv.conf
+df /home -h
+ncdu
+cd Desktop
+ls
+cd ..
+rmdir Desktop
+ls
+cd Documents
+ls
+mcdu
+ncdu
+mv The_Girl_with_the_Dragon_Tattoo__PDFDrive_.pdf Books
+cd Books
+ls
+cd ..
+ls
+xdg-open output.pdf
+rm output.pdf
+ls
+cd ..
+ls
+cd Music
+ncdu
+cd Code
+ls
+cd Arch_post_install
+ls
+vi -p *.sh
+exit
+sudo pacman -S fira-code
+sudo pacman -Ss fira
+sudo pacman -S otf-fira-mono
+sudo pacman -S zsh-syntax-highlighting 
+pacman -Ss fira code
+sudo pacman -Ss ttf-fira-code
+sudo pacman -S ttf-fira-code
+exit
 dot
+cd zsh
+vi .zshrc
+exit
+zsh
+ls
+paru -Ss picom
+paru -Ss picom --color=auto
+cd .config
+ls
+ln -s ~/.local/configs/dotfiles/picom.conf
+vi picom.conf
+picom
+cd .config
+vi picom.conf
+exit
+killall picom
+picom
+ls
+cd .config
+vi  picom.conf
+sou
+cd dwm-6.3
+vi config.def.h
+ins
+sou
+cd zsh
+dot
+cd zsh
+vi .zshenv
+vi .zsh
+vi .zshrc
+cat .zshrc\~
+rm .zshrc\~
+vi .zshrc
+cd /etc/
+sudoedit paru.conf
+paru -Suy
+sudoedit paru.conf
+paru -Suy
+sudoedit /etc/pacman.
+sudoedit /etc/pacman.conf
+paru -Suy
+exit
+paru -S sdcv
+paru -Ss star dict
+paru -Ss star dict english
+paru -Ss star dict english --color=auto
+man paru
+sudo pacman -S man-db man-pages texinfo
+man paru
+man paru.conf
+man paru
+man paru.conf
+man paru
+exit
+pacman -Ss adwaita
+sudo pacman -S libadwaita
+sudo pacman -S adapta-gtk-theme
+sudo pacman -Rs adapta-gtk-theme
+pacman -Ss adwaita
+sudo pacman -S adwaita gtk
+sudo pacman -Ss adwaita gtk
+pacman -Ss gtk3
+pacman -Ss gtk theme
+paru -Ss adwaita gtk
+pacman -Ss gtk theme
+cd .config
+ls
+cd gtk-4.0
+ls
+vi settings.ini
+cd ../gtk-3.0
+vi settings.ini
+cd ../gtk-2.0
+vi gtkfilechooser.ini
+exit
+shutdown now
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+reboot
+sudo grub-install --efi-directory=/boot /dev/nvme0n1
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+reboot
+cd /boot
+ls
+cd EFI
+ls
+cd Microsoft
+ls
+cd Boot
+cd 
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+cd /etc/default
+ls
+vi grub
+sudoedit grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+reboot
+sudo grub-install --efi-directory=/boot /dev/nvme0n1
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+cd /boot/
+ls
+cd grub
+ls
+vi grub.cfg
+cd ../EFI
+ls
+cd Microsoft
+ls
+cd Boot
+ls
+cat BCD
+reboot
+systemd-analyze
+sudoedit /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+reboot
+touch ~/.hushlogin
+ls
+prime-run glxinfo | grep -i nvidia
+sudo pacman -S mesa
+sudo pacman -Ss glxinfo
+sudo pacman -S mesa-utils
+prime-run glxinfo | grep -i nvidia
+exit
+cd /etc/grub.d
+ls
+cd ../default
+sudoedit grub
+grub-mkconfig -o /boot/grub/grub.cfg
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+reboot
+systemd-analyze
+sudoedit /etc/modprobe.d/nobeep.conf
+exit
+sudoedit /etc/default/grub
+grub-mkconfig -o /boot/grub/grub.cfg
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+reboot
+systemd-analyze
+shutdown now
+sudoedit /etc/default/grub
+cp /etc/default/grub ~/.local/configs/dotfiles/grub
+exit
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+shutdown now
+paru -Ss spotify
+pacman -Ss spotify
+pacman -Si spotify-launcher
+sudo pacman -S spotify-launcher
+sudo pacman -S xclip
+sudo pacman -S chromium
+paru -Ss tutanato
+paru -Ss tuta
+paru -S tutanota-desktop-bin
+paru -S tutanota-desktop-bin --noconfirm
+paru -S hakuneko-desktop
+paru -Ss key
+pacman -Ss keyring
+sudo pacman -S gnome-keyring
+paru -S freetube-bin
+paru -S freetube-bin --noconfirm
+paru -
+paru -S noisetorch-bin --noconfirm
+neofetch
+mpv
+ls
+df /
+df / -h
+shutdown now
+paru -Runs sxiv
+paru -Ss sxiv
+cd /tmp
+git clone "https://github.com/catppuccin/template"
+cd template
+ls
+cat README.md
+cd ass
+cd assets
+ls
+cd ../..
+rm -rf template
+git clone "https://github.com/catppuccin/wallpapers"
+cd wallpapers
+ls
+sxiv -r .
+cd ..
+mv wallpapers/ ~/Pictures/Wallpaper/catppuccin
+ls
+exit
+scr
+./randwall
+./randwall
+./randwall
+./randwall
+sudo cp ~/.local/configs/scripts/randwall /usr/local/bin/
+randwall
+paru -Ss sdcv english
+paru -Ss star dict english dict
+paru -Rs youtube-dl
+sudo pacman -S ytdlp
+pacman -Ss ytdlp
+paru -Ss ytdlp
+paru -Ss ytdl
+paru -Ss yt-dlp
+paru -S yt-dlp yt-dlp-drop-in --noconfirm
+man paru
+sudoedit /etc/paru.conf
+pacman -Si picom
+date
+date --help
+cal
+pacman -Si  picom
+picom --blur-method dual_kawase --blur-strength 7 --experimental-backends
+picom --blur-method dual_kawase --blur-strength 7 --experimental-backends & 
+exit
+disown
+exit
+killall picom
+--blur-method dual_kawase --blur-strength 7
+picom --blur-method dual_kawase --blur-strength 7
+picom --blur-method dual_kawase --blur-strength 7 --experimental-backends
+vi .config/picom.conf
+rm .config/picom.conf
+cp /usr/share/doc/picom/picom.conf.example ~/.config/picom.conf
+vi .config/picom.conf
+picom --blur-method dual_kawase --blur-strength 7 --experimental-backends
+vi .config/picom.conf
+paru -Ss hugo
+sudo pacman -S hugo
+sudo pacman -Rs hugo
+sudo pacman -S zola
+pacman -Ss python markdown
+sudo pacman -S markdown html
+pacman -Ss markdown html
+sudo pacman -S python-html2text
+ls
+cd Code/HTML-CSS/raxengamer001.github.io
+ls
+mkdir archieve
+mv pages/.revolt-1857.html archieve/revolt-1857.html
+ls
+ls
+vi anime
+cat anime.html
+vi index.html
+git log
+git status
+git add *
+git commit -m 'idk what i am doing'
+git config --global user.email "raxen001@tutamail.com"
+git config --global user.name "RaxenGamer001"
+git commit -m 'idk what i am doing'
+git push
+ls
+cd pages
+ls
+mkdir deep-thoughts
+cd deep-thoughts
+vi introduction.html
+ls
+ls
+vi intro.md
+pacman -Ss markdown html
+markdown_py
+markdown_py --help
 ls
 n
-ncdu
-sou
-la
-cd ..
+markdown_py intro.md
+markdown_py intro.md > intro.html
 ls
-cd personal
+vi intro.html
+sudo pacman -Ss fonts
+sudo pacman -S ttf-monospace
+sudo pacman -Ss monospace
+sudo pacman -Ss fira code
+sudo pacman -Ss firefox font
+cd /usr/share/font
 ls
-cd ..
+cd /usr/share/fonts
 ls
+ls *
+ls * | less
+cd
+ls
+ls
+paru -S ytfzf-git --noconfirm
+ytfzf
+sudo pacman -S fzf
+ytfzf
+pacman -Ss fira code
+sudo pacman -Ss symbos
+pacman -Ss hack
+sudo pacman -S ttf-hack
+sudo pacman -Ss symbols nerd
+sudo pacman -Ss fonts
+cd .config
+vi alacritty
+exit

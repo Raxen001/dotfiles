@@ -31,6 +31,8 @@
     # The width can be negative.  In this case the actual width is the
     # screen width minus the width defined in within the geometry option.
     # geometry = "480x270-10+10"
+    width = 420;
+    height = 400;
 
     # Show how many messages are currently hidden (because of geometry).
     indicate_hidden = yes
@@ -87,7 +89,7 @@
 
     ### Text ###
 
-    font = Hack 14 
+    font = Fira Code 13
 
     # The spacing between lines.  If the height is smaller than the
     # font height, it will get raised to the font height.
@@ -277,8 +279,8 @@
     #icon = /path/to/icon
 
 [urgency_normal]
-    background = "#008EC07C" # Blue
-    foreground = "#EBDBB2" # black
+    background = "#0f1d2021" # Blue
+    foreground = "#458588" # black
     timeout = 10
     # Icon for notifications with normal urgency, uncomment to enable
     #icon = /path/to/icon
@@ -298,7 +300,7 @@
     highlight  = "#CC241D" # green
 [changebrightness]
     appname = "changebrightness"
-    background = "#0f1d2021" # black
+    background = "#af1d2021" # black
     foreground = "#a89984" # bg4
     highlight  = "#B16286" # yellow
 [newsboat]
@@ -308,16 +310,12 @@
     timeout = 10
 [music]
     appname = "music"
-    background = "#0f282828" # orange
-    foreground = "#d65d0e" # black
+    background = "#ffd65d0e" # black
+    foreground = "#d65d0e" # oranage
 [ytfzf]
     body ="Currently playing"
-    background = "#0f282828"
-    foreground = "#a89984"
-[gord]
-    appname = "gord"
-    background = "#1d2021"
-    foreground = "#fabd2f"
+    background = "#0f282828" # black
+    foreground = "#458588"   # blue
 
 # Every section that isn't one of the above is interpreted as a rules to
 # override settings for certain messages.

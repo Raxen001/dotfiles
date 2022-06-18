@@ -51,3 +51,6 @@ export XDG_DOCUMENTS_DIR="$HOME/Documents"
 export XDG_PICTURES_DIR="$HOME/Pictures"
 export XDG_VIDEOS_DIR="$HOME/Videos"
 export XDG_MUSIC_DIR="$HOME/Music"
+#-------------------------------------------------------------------------------
+# Yuzu
+#export __GL_THREADED_OPTIMIZATIONS=1

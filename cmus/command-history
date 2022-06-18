@@ -1,17 +1,32 @@
-add Music
-clear
+live-filter
+live-filter flac
+live-filte
+live-filter taylor swift
+live-filter taylor
+live-filter cona
 add Music/
+clear
+filter flac
+filter mp3
+filter 1
+filter nf
+help
+update-cache 
+add Music/Artists/
+add Music/Artists/Taylor_Swift/
+add Music/AR
+live-filter 
+add Music/Taylor Swift/
+cear
+add Music
 filter against
 filter eminem
 add .
 add 
 add
-add Music/Artists/
 shell 
 l
 live-filter 32
-live-filter 
-live-filter taylor
 add M
 set softvol_state=100 100
 set softvol=true
@@ -187,13 +202,11 @@ youtube sadf
 youtube
 source .config/cmus/color
 set altformat_title='Cmus'
-help
 help r
 help R
 help filter
 filter True
 filter true
-filter 1
 filter what
 filter 
 set mouse=False

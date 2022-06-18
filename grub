@@ -1,10 +1,11 @@
 # GRUB boot loader configuration
 
 GRUB_DEFAULT=0
-GRUB_TIMEOUT=0
+GRUB_TIMEOUT=5
+#GRUB_RECORDFAIL_TIMEOUT=$GRUB_TIMEOUT
 GRUB_DISTRIBUTOR="Arch"
-GRUB_CMDLINE_LINUX_DEFAULT="quiet loglevel=3 rd.systemd.show_status=auto rd.udev.log_level=3 acpi_backlight=vendor"
-GRUB_CMDLINE_LINUX="modprobe.blacklist=pcspkr"
+GRUB_CMDLINE_LINUX_DEFAULT="nvidia-drm.modeset=1 quiet loglevel=3 rd.systemd.show_status=auto rd.udev.log_level=3"
+GRUB_CMDLINE_LINUX=""
 
 # Preload both GPT and MBR modules so that they are not missed
 GRUB_PRELOAD_MODULES="part_gpt part_msdos"
@@ -55,3 +56,9 @@ GRUB_DISABLE_RECOVERY=true
 
 # Uncomment to disable submenus in boot menu
 #GRUB_DISABLE_SUBMENU=y
+
+# Probing for other operating systems is disabled for security reasons. Read
+# documentation on GRUB_DISABLE_OS_PROBER, if still want to enable this
+# functionality install os-prober and uncomment to detect and include other
+# operating systems.
+GRUB_DISABLE_OS_PROBER=false

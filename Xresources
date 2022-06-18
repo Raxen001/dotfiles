@@ -70,7 +70,7 @@
 XTerm.termName: xterm-256color
 XTerm.vt100.backarrowKey: false
 XTerm.ttyModes: erase ^?
-XTerm.vt100.faceName: Hack:size=15:antialias=true:autohint=true
+XTerm.vt100.faceName: Fira Code:size=15:antialias=true:autohint=true
 XTerm.vt100.font: 7x13
 XTerm.vt100.faceSize: 15
 !----------------------------------------------------------

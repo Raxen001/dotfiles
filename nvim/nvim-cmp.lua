@@ -25,6 +25,12 @@ mapping = {
 sources = cmp.config.sources({
   { name = 'nvim_lsp' },
   { name = 'vsnip' }, -- For vsnip users.
+    { name = 'nvim_lua' },
+    { name = 'path' },
+  { name = 'buffer' },
+  { name = 'calc' },
+  { name = 'emoji' },
+  { name = 'omni' },
   -- { name = 'luasnip' }, -- For luasnip users.
   -- { name = 'ultisnips' }, -- For ultisnips users.
   -- { name = 'snippy' }, -- For snippy users.
@@ -49,11 +55,7 @@ sources = cmp.config.sources({
 })
 })
 
-
 -- Setup lspconfig.
---require('lspconfig').pylsp.setup {
---capabilities = require('cmp_nvim_lsp').update_capabilities(vim.lsp.protocol.make_client_capabilities())
---}
 local lsp_installer = require("nvim-lsp-installer")
 lsp_installer.on_server_ready(function(server)
     local opts = {capabilities = require('cmp_nvim_lsp').update_capabilities(vim.lsp.protocol.make_client_capabilities())
@@ -79,6 +81,6 @@ cmp.setup {
 }
 
 -- lsp autopairs
- require('nvim-autopairs').setup{}
+require('nvim-autopairs').setup{}
 
 
