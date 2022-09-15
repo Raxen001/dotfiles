@@ -47,7 +47,7 @@ bind-key s toggle-show-read-feeds
 #feed-sort-order unreadarticlecount-asc
 feedlist-format " %t%>   %U "
 auto-reload yes
-reload-time 30 
+reload-time 120 
 reload-threads 8 
 download-retries 4
 download-timeout 10

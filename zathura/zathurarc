@@ -13,7 +13,7 @@ set default-bg                  "#af1d2021"
 set default-fg                  "#afa89984"
 
 set recolor-keephue true
-set recolor-reverse-video true
+set recolor-reverse-video false
 
 set recolor-lightcolor          "#1d2021"
 set recolor-darkcolor           "#a89984"

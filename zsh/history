@@ -1,1019 +1,1030 @@
-sudo usermod -a -G wireshark raxen
-wireshark
-sudo wireshark
-sudo usermod -a -G wireshark root
-sudo wireshark
-wireshark
-ifconfig
-dnf search airmon
-tcpdump
-sudo tcpdump
-iw
-iw wlan4
-iw wlan4 info
-iwinfo
-iwconfig
-ifconfig
-iw wlp4s0
-iw wlp4s0 info
+xclip -to
+xclip -t
+xclip -t -o
+man xclip
+xclip -t TARGETS -o
+xclip -t UTF8_STRING -o
+xclip -t UTF8_STRING -o > a.jpg
+sxiv a.jpg
+rm a.jpg
+xclip -t UTF8_STRING -o > a.jpg
+sxiv a.jpg
+rm a.jpg
+vi
+sou
+cd dwm-6.3
+vi config.def.h
+vi config.h
 exit
-pass generate namecheap/raxen001 -c
-pass -c email/raxen001@tutamail.com
-pass find namecheap
-pass rm namecheap
-pass -c raxen001@tutamail.com/namecheap
-pass generate -c raxen001@tutamail.com/paypal
-pass edit raxen001@tutamail.com/paypal
-exit
-pass -c raxen001@tutamail.com/paypal
-curl ip.me
-cd Downloads
+cd .config/nvim/lua/plugins
+vi init.lua
+vi
+vi
 ls
-sudo openvpn Netherlands_freeopenvpn_udp\(1\).ovpn 
-exit
-pass generate -c raxengamer001@gmail.com/hoxxvpn
-pass -c raxengamer001@gmail.com/hoxxvpn
-nslookup
-ping 185.88.181.7
-neofetch
-pass -c animixplay/raxengamer001
-cd Music/Music-Videos/.f
+cd ..
+vi ../init.lua
+vi a.py
 ls
-youtube-dl "https://www.xvideos.com/video1711368/wife_cuckold"
-neofetch
-cd .local/share
+cd
+cd .config/nvim/lua/
+vi formater
+vi
+cd
+sou
+cd dwm-6.3
+vi config.def.h
+vi config.def.h
+vi
+clang-format
+vi
+sou
+cd dwm-6.3
+vi dwm.c
+vi a.jpg
+tldr xclip
+xclip -o
+xclip -o -sel clip
+xclip -o -sel clipboard
+xclip -o -sel clip
+xclip -o 
+xclip -o  > a.jpg
+sxiv a.jpg
+rm a.jpg
+xclip -o -sel clip -t image/png input_file.png
+xclip -o -sel clip -t image/png
+xclip -sel clip -o
+xclip -sel clip -o
+xclip -h
+xlip -d
+xclip -o
+xclip -sel -h
+xclip -sel
+xclip -h -sel
+man xclip
+cd .config/nvim
 ls
-cd ../configs
+cd plugin
 ls
-cd dotfiles
+vi packer_compiled.lua
+vi
+cd 
+cd .local/share/nvim
 ls
-vi bookmarks
-exit
-python
-exit
+cd site/pack/packer/start
+ls
+n
+vi
+sou
+cd dwm-6.3
+vi dwm.c
+vi config.def.h
+vi config.def.h
+vi config.def.h
+vi config.def.h
+n
+cd
+cd .config/nvim/lua/formater
+ls
+vi init.lua
+prettier
+man prettier
 cd /tmp
-vi a.py
-python
-vi a.py
-python3 a.py
-vi a.py
-python3 a.py
-vi a.py
-python3 a.py 
-vi a.py
-python3 a.py 
-vi a.py
-python
-python
-python
-vim
-vim
-sudo dnf update -y
-exi
-exit
+git clone "https://github.com/mhartington/formatter.nvim.git"
+cd formatter.nvim
 ls
-rm a.py
-cd Code/HTML-CSS/raxengamer001.github.io
+mv lua/formatter ~/.config/nvim/lua
+cd ~/.config/nvim/lua
 ls
+rm formater
+rm formater -rf
+cd ..
+vi init.lua
+vi
+sou
+cd dwm-6.3
+vi config.h
+vi config.h
+vi config.
+vi config.h
+clang drw.c
+clangd config.def.h
+clangd= config.def.h
+clang config.def.h
+cd
 ls
-cd pages
+cd .config/nvim
 ls
-mv revolt-1857.html .revolt-1857.html
+cd lua
+ls
+cd formatter
+ls
+vi init.lua
+ls
+rm -rf *
+ls
+vi init.lua
+vi init.lua
+vi init.lua
+vi
+vi ../../init.lua
+	vi init.lua
 cd ..
 ls
-vi index.html
-cd pages
-ls
-vi sarahaa.md
-vi /etc/dnf/dnf.conf
-sudoedit /etc/dnf/dnf.conf
-ls
-cd /etc/
+mv formatter formater
+vi ../init.lua
+vi
+vi formater/init.lua
+vi formater/init.lua
+vi formater/init.lua
+vi formater/init.lua
+exit
+vi
 sou
 cd dwm-6.3
-ins
+vi config.def.h
+vi config.def.h
+vi config.def.h
+clang-format config.def.h
+cd
+n
+rg prettier
+vi css.lua
+sudo pacman -S luafmt
+cd Code/HTML-CSS/raxen001.github.io
 ls
-dnf search x11
-sudo dnf install cmus
+vi templates/base.html
 ls
-cd .local
+cd templates
+prettier base.html
+vi base.html
+cd ..
+zola serve
+vi templates/base.html
+zola serve
+vi templates/base.html
 ls
-cd configs/dotfiles
+cd static
+vi index.css
+vi ../templates/base.html
 ls
-cp -r cmus ~/.config/cmus
-cmus
-cmus
-sou
-cd dwm-6.3
-ins
-sudo dnf install libX11
-sudo dnf install libX11-devel-1.7.3.1-2.fc36.x86_64
-ins
-sudo dnf install libX11-common-1.7.3.1-2.fc36.noarch
-sudo dnf install libX11-1.7.3.1-2.fc36.x86_64
-sudo dnf install libX11-xcb-1.7.3.1-2.fc36.x86_64
-ins
-sudo dnf install libXft-devel-2.3.4-2.fc36.x86_64
-ins
-sudo dnf install imlib2-devel-1.7.4-2.fc36.x86_64
-ins
-sudo dnf install dwm dwm-user
-sudo dnf install dwm
-sudo dnf install dwm dwm-user
-cargo
-dnf search devel
-cmus
+ls
+cd ..
+sl
+vi static/index.css
+ls
+zola build
+cd public
+ls
+cd where-is-my-mind
+ls
+vi friends
+ls
+cd STUDY/Project
+ls
+cd ../REC
+ls
+cd test
+ls
+vi a.sh
+vi a.sh
+./a.sh
+cd MCT
+sxiv .
+fzf
+cd STUDY/REC/test/sql_inject
+ls
+vi recstudidcard1.csv
+cat recstudidcard1.csv | grep -i mecha
+cat recstudidcard1.csv | grep -i mecharonics
+cat recstudidcard1.csv | grep -i mecharon
+cat recstudidcard1.csv | grep -i mechar
+cat recstudidcard1.csv | grep -i mecha
+cat recstudidcard1.csv | grep -i mecha | fzf
+cat recstudidcard1.csv | grep -i mecha | awk -f"\[][]\"
+cat recstudidcard1.csv | grep -i mecha | awk -f"\[]"
+cat recstudidcard1.csv | grep -i mecha | awk -f"[][]"
+tldr awk
+cat recstudidcard1.csv | grep -i mecha | awk -F"," '{print $1}'
+cat recstudidcard1.csv | grep -i mecha | awk -F"," '{print $2}'
+cat recstudidcard1.csv | grep -i mecha | awk -F"," '{print $3}'
+cat recstudidcard1.csv | grep -i mecha | awk -F"," '{print $4}'
+cat recstudidcard1.csv | grep -i mecha | awk -F"," '{print $5}'
+cat recstudidcard1.csv | grep -i mecha | awk -F"," '{print $6}'
+cat recstudidcard1.csv | grep -i mecha | awk -F"," '{print $7}'
+cat recstudidcard1.csv | grep -i mecha | awk -F"," '{print $8}'
+cat recstudidcard1.csv | grep -i mecha | awk -F"," '{print $9}'
+cat recstudidcard1.csv | grep -i mecha | awk -F"," '{print $10}'
+cat recstudidcard1.csv | grep -i mecha | awk -F"," '{print $1}'
+cat recstudidcard1.csv | grep -i mecha | awk -F"," '{print $11}'
+vi recstudidcard.csv
+sudo pacman -S sc
+sc recstudidcard1.csv
+libreoffice recstudidcard1.csv
+cd Pictures/Instagram
+ls
+instaloader -l raxen001 zubair_fardeen251
+ls
+cd zubair_fardeen251
+ls
+sxiv 2022-05-14_04-40-33_UTC_profile_pic.jpg
+sxiv 2022-05-14_04-40-33_UTC_profile_pic.jpg
+sxiv 2022-05-14_04-40-33_UTC_profile_pic.jpg
+sudo pacman -Runs kvantum
+dto
+dot
+man od
+vi zsh/.zshrc
+rg kvantum zsh
+ls
+cd Code/HTML-CSS/raxen001.github.io
+zola serve
+pulsemixer
 df / -h
-df /home -h
-cd Downloads
+cd Pictures
 ls
-rm kali-linux-2022.1-installer-everything-amd64.iso.part kali-linux-2022.1-installer-everything-amd64.iso.torrent
-rm Netherlands_freeopenvpn_udp\(1\).ovpn newpipe_subscriptions_202204041327.json
-ls
-rm N
-rm Netherlands_freeopenvpn_udp.ovpn
-ls
-du -hd0 ISO
-cd ISO
-ls
-cd ..
+cd Instagram
 ls
 ls
-cd Games
+instaloader +args.txt
+ls
+cd _
+cd ___whimsy_
+ls
+cat *.txt
+cat id
+c d..
 ls
 cd ..
-cd backups
 ls
 ls
-dot
-vi zsh/.zshenv
+cd anjali_23_0409
+ls
+man instaloader
+instaloader --help
+pulsemixer
+pulsemixer
 exit
-sudo dnf update
-reboot
-sudo dnf distro-sync
-dot
-cd .zsh
-cd zsh.
-vi zsh/.zshenv
+pacman -Si networkmanager
+sudo pacman -S polkit dnsmasq nftables iptables iwd 
+nmtui-edit
+nm-tui
+nmtui
+nmtui-edit
+sudo systemctl restart NetworkManager
+ifconfig
+ip addr
+nm con delete Hotspot
+nmcli con delete Hotspot
+nmtui-editor
+nmtui-edit
+nmcli con up hotspot
+journalctl -xe NM_CONNECTION=4dc15ca3-88ed-40c2-be6e-1f5e1b42c2eb + NM_DEVICE=wlp4s0
+ls
+sudo systemctl restart NetworkManager
+nmcli con add type wifi ifname en01 con-name Hostspot autoconnect yes ssid Hostspot\
+nmcli con modify Hostspot 802-11-wireless.mode ap 802-11-wireless.band bg ipv4.method shared\
+nmcli con modify Hostspot wifi-sec.key-mgmt wpa-psk\
+nmcli con modify Hostspot wifi-sec.psk "veryveryhardpassword1234"\
+nmcli con up Hostspot
+nmcli con add type wifi ifname en01 con-name Hostspot autoconnect yes ssid Hostspot\
+nmcli con modify Hostspot 802-11-wireless.mode ap 802-11-wireless.band bg ipv4.method shared\
+nmcli con modify Hostspot wifi-sec.key-mgmt wpa-psk\
+nmcli con modify Hostspot wifi-sec.psk "veryveryhardpassword1234"\
+nmcli con up Hostspot
+nmcli con add type wifi ifname en01 con-name Hostspot autoconnect yes ssid Hostspot\
+nmcli con modify Hostspot 802-11-wireless.mode ap 802-11-wireless.band bg ipv4.method shared\
+nmcli con modify Hostspot wifi-sec.key-mgmt wpa-psk\
+nmcli con modify Hostspot wifi-sec.psk "veryveryhardpassword1234"\
+nmcli con up Hostspot
+n
+nn
+nnn
 exit
-dot
-vi zsh/.zshenv
+cd /etc/
+ls
+cd NetworkManager
+l;s
+ls
+n
+su
+su
+nmcli con add type wifi ifname en01 con-name Hostspot autoconnect yes ssid Hostspot\
+nmcli con modify Hostspot 802-11-wireless.mode ap 802-11-wireless.band bg ipv4.method shared\
+nmcli con modify Hostspot wifi-sec.key-mgmt wpa-psk\
+nmcli con modify Hostspot wifi-sec.psk "veryveryhardpassword1234"\
+nmcli con up Hostspot
+ls
+cd /etc/NetworkManager
+ls
+sudo su
+nmcli con add type wifi ifname en01 con-name Hostspot autoconnect yes ssid Hostspot\
+nmcli con modify Hostspot 802-11-wireless.mode ap 802-11-wireless.band bg ipv4.method shared\
+nmcli con modify Hostspot wifi-sec.key-mgmt wpa-psk\
+nmcli con modify Hostspot wifi-sec.psk "veryveryhardpassword1234"\
+nmcli con up Hostspot
+nmcli con add type wifi ifname wlan0 con-name Hostspot autoconnect yes ssid Hostspot\
+nmcli con modify Hostspot 802-11-wireless.mode ap 802-11-wireless.band bg ipv4.method shared\
+nmcli con modify Hostspot wifi-sec.key-mgmt wpa-psk\
+nmcli con modify Hostspot wifi-sec.psk "12345678"\
+nmcli con up Hostspot
+ip addr
+nmcli con delete Hotspot
+ip addr
+sudo systemctl start hostapd.service --now
+sudo systemctl enable hostapd.service --now
+nmcli con add type wifi ifname en01 con-name Test autoconnect yes ssid test
+nmcli con modify Test 802-11-wireless.mode ap 802-11-wireless.band bg ipv4.method shared
+nmcli con modify Test wifi-sec.key-mgmt wpa-psk
+nmcli con modify Test wifi-sec.psk "12345678"
+nmcli con up Test
+nmcli con add type wifi ifname wlp4s0 con-name Test autoconnect yes ssid test
+nmcli con delete Test
+nmcli con delete Hotspot
+nmcli con add type wifi ifname wlp4s0 con-name Hostspot autoconnect yes ssid Hostspot\
+nmcli con modify Hostspot 802-11-wireless.mode ap 802-11-wireless.band bg ipv4.method shared\
+nmcli con modify Hostspot wifi-sec.key-mgmt wpa-psk\
+nmcli con modify Hostspot wifi-sec.psk "veryveryhardpassword1234"\
+nmcli con up Hostspot
+nmcli con up Hostspot
+nmcli con modify hotspot wifi-sec.key-mgmt wpa-psk
+nmcli con modify hotspot wifi-sec.psk "12345678"
+nmcli con up hotspot
+sudo systemctl restart --now NetworkManager
+nmcli con add type wifi ifname wlan0 con-name Hostspot autoconnect yes ssid Hostspot\
+nmcli con modify Hostspot 802-11-wireless.mode ap 802-11-wireless.band bg ipv4.method shared\
+nmcli con modify Hostspot wifi-sec.key-mgmt wpa-psk\
+nmcli con modify Hostspot wifi-sec.psk "veryveryhardpassword1234"\
+nmcli con up Hostspot\
+
+nmcli con add type wifi ifname wlp4s0 con-name Hostspot autoconnect yes ssid Hostspot\
+nmcli con modify Hostspot 802-11-wireless.mode ap 802-11-wireless.band bg ipv4.method shared\
+nmcli con modify Hostspot wifi-sec.key-mgmt wpa-psk\
+nmcli con modify Hostspot wifi-sec.psk "veryveryhardpassword1234"\
+nmcli con up Hostspot\
+
+nmcli con down Hostpot
+nmcli con down Hostspot
+nmcli con modify Hostspot wifi-sec.psk "12345678"
+nmcli con up Hostspot
+ip addr
+cd /etc/hostapd
+ls
+vi hostapd.accept
+vi hostapd.conf
+vi hostapd.wpa_psk
+sudo systemctl restart --now NetworkManager
+paru -S linux-wifi-hotspot --noconfirm
+sudo systemctl restart --now NetworkManager
+sudo systemctl restart NetworkManager
+sudo systemctl restart NetworkManager --now
+nm-connection-editor
+nmcli con up hotspot
+journalctl -xe NM_CONNECTION=4f0dd29e-b1f4-47b9-8683-cdeb47e7e0d9 + NM_DEVICE=wlan0
+htop
+iwconfig
+ip addr
+sudo ip link set wlan0 up
+ip addr
+sudo ip link set wlan0 up
+ip addr
+nmcli con up hotspot
+pacman -Si networkmanager
+sudo pacman -S polkit dnsmasq nftables iptables 
+pacman -Si steam
+sudo pacman -S steam
+paru -Suy Steam
+sudo systemctl restart NetworkManager
+pulsemixer
+sou
+cd dwm-6.3
+vi config.def.h
+ins
+vi config.def.h
+ins
+pulsemixer
+n
+nnn
 exit
+sudo systemctl restart NetworkManager --now
+nmcli con up hotspot
+sudo systemctl restart NetworkManager --now
+cd /etc/NetworkManager/
 ls
-sudo ./VentoyGUI.x86_64
-./VentoyGUI.x86_64
-./VentoyGUI.x86_64
-./VentoyGUI.x86_64
-cd
-cd Videos
+su
+scr
+vi startup.sh
+pgrep network
+sudo systemctl stop NetworkManager.service --now
+pgrep network
+killall NetworkManager
+killall networkmanager
+killall network
+killall networkmanager
+pkill 9351
+pkill 9361
+sudo systemctl start NetworkManager --now
+journalctl -xe NM_CONNECTION=01ae9a5b-03bb-4c0e-b8d6-67627b544121 + NM_DEVICE=wlan0
 ls
-cd Series
+ip addr
+iw
+iw dev wlan0
+iwconfig
+pacman -Ss iw
+sudo pacman -S inetutils
+ifconfig
+pamcan -
+tldr ifconfig
+sudo pacman -
+pacman -Ss net tools
+sudo pacman -S net-tools
+ifconfig
+ifconfig --color=auto
+ifconfig --color
+ifconfig --help
+ifconfig -s wlan0
+ifconfig
+color=true
+ifconfig
+iwconfig
+tldr iwconfig
+sudo pacman -Ss iwconfig
+pacman -Ss iw
+sudo pacman -S wireless_tools
+iwconfig
+ip addr
+sudo ip link set wlan0 up
+ip addr
+sudo ip link set wlan0 down
+ip addr
+sudo ip link set wlan0 up
+nmtui
+nmtui
+nmcli con up hotspot
+nmcli con up hotspot
+sudo iw wlan0 set monitor none
+sudo ip link set wlan0 down
+sudo iw wlan0 set monitor none
+sudo ip link set wlan0 up
+iw list
+iw list | bat
+iw list wlan0
+iw wlan0 info
+paru -Runs linux-wifi-hotspot 
+paru -Runs hostapd
+sudo systemctl disable hostapd.service
+sudo systemctl stop hostapd.service
+sudo systemctl stop hostapd.service
+iwconfig
+nm-connection-editor
+arp -a
+arp
+sudo hostapd ./hostpad.conf
+nm-connection-editor
+sudo hostapd ./hostpad.conf
+nm-connection-editor
+sudo hostapd ./hostpad.conf
+sudo hostapd ./hostpad.conf
+sudo hostapd ./hostpad.conf
+sudo hostapd ./hostpad.conf
+sudo hostapd ./hostpad.conf
+sudo hostapd ./hostpad.conf
+sudo hostapd ./hostpad.conf
+sudo hostapd ./hostpad.conf
+cd /etc/hostapd
+su
+su
 ls
-vi a.sh
-vi a.sh
+nvim hostapd.accept 
+novim hostapd.
+vim 
+nvim hostapd.accept 
+sudo hostapd ./hostpad.conf
+sudo hostapd ./hostpad.conf
+sudo hostapd ./hostpad.conf
+sudo hostapd ./hostpad.conf
+exit
+cd /etc/hostapd
 ls
-cd Sillicon_Valley
+vi hostapd.wpa_psk
+sudoedit hostapd.wpa_psk
 ls
-ls
-cd Silicon-Valley-S0
-ls
-cd
+sudo rm hostapd.conf
+sudo mv ~/Downloads/hostapd.conf /etc/hostapd/
+sudoedit hostapd.conf
+sudo systemctl restart hostapd.service
+sudo systemctl status hostapd.service
+sudo systemctl stop hostapd.service
 cd /tmp
-ls
 mkdir test
 cd test
 ls
-mkdir folder{1..100}
+vi hostpad.conf
+sudo hostapd ./hostpad.conf
+vi hostpad.conf
 ls
-for i in {1..100};do\
-touch "folder$i"/a.txt\
-done
-ls
-cat folder1
-ls folder1
-tree
-cd ..
-rm -rf test
-exit
-ls
-ffprobe VID_20220522_220302.mp4
-du output.mp4 VID_20220522_220302.mp4 -h
-du output.mp4 VID_20220522_220302.mp4 -h
-du output.mp4 VID_20220522_220302.mp4 -h
-du output.mp4 VID_20220522_220302.mp4 -h
-du output.mp4 VID_20220522_220302.mp4 -h
-du output.mp4 VID_20220522_220302.mp4 -h
-du output.mp4 VID_20220522_220302.mp4 -h
-du output.mp4 VID_20220522_220302.mp4 -h
-ffprobe VID_20220522_220302.mp4 | grep -i time
-ffprobe VID_20220522_220302.mp4 | grep -i duration
-ffprobe VID_20220522_220302.mp4 | less
-ffprobe VID_20220522_220302.mp4 | less
-ls
-ffmpeg -i VID_20220522_220302.mp4 -vcodec libx265 -crf 25 output.mp4
-ls
-rm output.mp4
-ffmpeg -i VID_20220522_220302.mp4 -vcodec libx265 output.mp4
-rm output.mp4
-ffmpeg -i VID_20220522_220302.mp4 -vcodec libx264 -crf 20 output.mp4
-du output.mp4 VID_20220522_220302.mp4 -h
-man ffmpeg
-ffmpeg -i VID_20220522_220302.mp4 -s 1920x1080 -vcodec libx264 output.mp4
-du * -h
-xdg-open output.mp4 VID_20220522_220302.mp4
-xdg-open output.mp4
-pulsemixer
-alsamixre
-alsamixer
-cmus
-neofetch
-neofetch
-exit
-df / -
-df /home -h
-sudo dnf update
-sudo dnf update
-sou
-cd dwm-6.3
-ins
-sudo dnf install xorg-x11-devel
-sudo dnf searc evel
-sudo dnf search devel
-\
-sudo dnf install libX11-devel\
-sudo dnf install libXft-devel\
-sudo dnf install libXinerama-devel\
-\
-sudo dnf install nitrogen\
-sudo dnf install xorg-x11-xinit-session
-ins
-cd /etc/X11
-ls
-cd Xsession.d
-ls
-cd ..
-cd xinit
-ls
-cd xinitrc.d
-ls
+nvim hostpad.conf
 cd ..
 ls
-cd xin
-cd ..
+sudoedit /etc/hostapd/hostapd.accept
+sudo systemctl restart hostapd.service --now
+sudo systemctl stop hostapd.service
+cd /etc/
 ls
-cd xorg.conf.d
-ls
-cd ..
-ls
-cd ..
-ls
-ls
-cd xdg
-ls
-cd /usr/share/xsessions
-ls
-vi dwm.desktop
-sudoedit dwm.desktop
-ls
-cmus
-cd /usr/share/xsessions
-ls
-sudoedit dwm.desktop
-sudoedit dwm.desktop
-which dwm
-sudoedit dwm.desktop
-ls
-ls
-sou
-cd
-ls
-sou
-ls
-cd dmenu-5.0
-ins
-cd ../nnn
-ins
-sudo make clean install
-cd ../slstatus
-ins
-slla
-sudo dnf search hack
-dnf search ttf
-sou
-cd dwm-6.3
-vi config.def.h
-ins
-sudo dnf install dunst
-flatpak run com.discordapp.Discord
-pass -c animixplay/raxengamer001
-pass -c animixplay/raxengamer001
-pass -c raxen001@tutamail.com/github
-pass -c email/raxen001@tutamail.com
-df / -h
-df /home -h
-exit
-yum install gtk-murrine-engine gtk2-engines
-sudo yum install gtk-murrine-engine gtk2-engines
-cmus
-sudo dnf copr enable aleasto/waydroid
-sudo dnf update
-sudo dnf install waydroid
-sudo waydroid init -c https://ota.waydro.id/system -v https://ota.waydro.id/vendor\
-\
-sudo systemctl start waydroid-container
-sudo waydroid init -c https://ota.waydro.id/system -v https://ota.waydro.id/vendor\
-\
-sudo systemctl start waydroid-container
-ls
-rm -rf RPMLauncher
-ls Templates
-rm -rf Templates
-ls Public
-rmdir Public
-ls
-sudo waydroid init
-sudo waydroid init
-sudo waydroid init
-sudo waydroid init -c https://ota.waydro.id/system -v https://ota.waydro.id/vendor\
-\
-sudo systemctl start waydroid-container
-sudo waydroid init -c https://ota.waydro.id/system -v https://ota.waydro.id/vendor\
-\
-sudo systemctl start waydroid-container
-ls
-exit
-uptime
-cmus
-cd Music/Tributes
-mkdir Marvel
-cd M
-cd Marvel
-ytd
-cd ../Lucifer
-ytd
-cd ..
-mkdir Games
-cd Games
-ytd
-ls
-ls
-man ytd
-alias ytd
-ls
-ls
-cmus
-sudoedit /etc/hosts
-pass -c email/raxen001@tutamail.com
-la
-exit
-pass -c animixplay/raxengamer001
-flatpak run com.github.tchx84.Flatseal
-reboot
-pass -c veloren/RaxenGamer001
-cmus
-pass -c email/zumrikushi@gmail.com
-pass -c email/zumrikushi@gmail.com
-pass -c email/raxengamer001@gmail.com
-pass -c animixplay/raxengamer001
-cmus
-python3 -m pip install --upgrade pip setuptools wheel
-python3 -m pip install -U gallery-dl
-ls
-cd Pictures
-ls
-mkdir instagram
-mv instagram Instagram
-cd Gifs
-cd ../Instagram
-ls
-exit
-cd Pictures/Instagram
-ls
-gallery-dl
-gallery-dl --help
-gallery-dl https://reddit.com/r/pics
-ls
-cd gallery-dl
-ls
-cd reddit
-ls
-cd pics
-ls
-xdg-open *.jpg
-.
-pip3 install instaloader\
-
-cd Pictures/Instagram
-ls
-cmus
-pass find insta
-pass -c zumrikushi@gmail.com/instagram
-pass -c zumrikushi@gmail.com/instagram
-pass -c zumrikushi@gmail.com/instagram
-pass -c zumrikushi@gmail.com/instagram
-pass -c zumrikushi@gmail.com/instagram
-pass -c zumrikushi@gmail.com/instagram
-pass -c zumrikushi@gmail.com/instagram
-pass -c zumrikushi@gmail.com/instagram
-cd Pictures/Instagram
-vi a
-vi args.txt
-la
-rm -rf .audacity-data
-ls
-rm -rf .vscode-oss
-ls
-la
-n
-ls
-python3 /tmp/a.py -c cookies.sqlite
-cd
-cd Pictures/Instagram
-ls
-instaloader -l raxen001 :stories anjali_23_0409\
-\
-
-instaloader -l raxen001 :stories
-ls
-rm -rf :stories
-instaloader -l raxen001 anjali_23_0409 :stories
-ls
-rm -rf :stories
-instaloader -l raxen001 --stories anjali_23_0409
-instaloader
-instaloader --login raxen001 
-instaloader --login raxen001 
-instaloader --login raxen001 
-man instaloader
-instaloader --login=raxen001 
-ls
-cd Pictures/Instagram
-ls
-instaloader --login=raxen001 anjali_23_0409
-man instaloader
-instaloader --help
-instaloader -l raxen001 -p I_am_a_good_boy_this_is_awesome
 cd /tmp
-vi a.py
-python3 a.py
-python3 a.py
-python3 a.py
-ls
-instaloder --help
-instaloader --help
-cd ~/Pictures/Instagram
-ls
-instaloader -l raxen001 chocolove_anju
-cd Pictures/Instagram
-vi args.txt
-instaloader --help
-instaloader --help | grep -i no-meta
-cd Pictures/Instagram
-instaloader -l raxen001 dash_spamz
-ls
-mkdir args.txt
-rmdir args.txt
-touch args.txt
-vim args.txt
-instaloader +args.txt
-ls
-tree
-tar -C $HOME -xzf NoiseTorch_x64_v0.12.0.tgz
-ls
-sou
-cd slstatus
-ls
-vi config.def.h
-ins
-killall slstatus
-flatpak update
-exit
-sudo dnf update
-exit
-sou
-cd slstatus
-cd
-sou
-cd dwm-6.3
-ls
-cd
-cd .config
-ls
-cd
-cd /etc/X11
-ls
-cd Xsession.d
-ls
-cd /usr/share/X11
-ls
-cd xorg.conf.d
-ls
-cd ../..
+rm -rf test
+sudo systemctl stop hostapd.service
+sudo systemctl stop hostapd.service --now
+sudo systemctl disable hostapd.service
+sudo pacman -Runs hostapd
+sudo pacman -S hostapd
+sudo systemctl enable --now hostapd.serivce
+sudo systemctl enable --now hostapd.service
+sudoedit /etc/hostapd/hostapd.conf
+sudo systemctl restart --now hostapd.service
+sudoedit /etc/hostapd/hostapd.conf
+cp /etc/hostapd/hostapd.conf ~/Downloads
+sudo cp /etc/hostapd/hostapd.conf ~/Downloads
+cd Downloads
 ls
 cd ..
-cd /etc/X11
 ls
-cd xinit
+sudoedit /etc/hostapd/hostapd.conf
+sudo systemctl restart --now hostapd.service
+sudo systemctl stat hostapd
+sudo systemctl status hostapd.service
+iwconfig
+sudoedit /etc/hostapd/hostapd.conf
+sudo systemctl status hostapd.service
+sudo systemctl restart --now hostapd.service
+sudo systemctl status hostapd.service
+sudoedit /etc/hostapd/hostapd.conf
+cd /etc/hostapd
 ls
-n
-cd /usr/share/xsessions
-ls
-vi dwm.desktop
-vi gnome.desktop
-sudoedit dwm.desktop
-logout
-exit
-ls
-ls
-cd /usr/share/xsessions
-ls
-vi dwm.desktop
-vi gnome-xorg.desktop
-sudoedit dwm.desktop
-ls
-ls
-cd 
-cd .config
-ls
-cd alacritty
-ls
-vi alacritty.yml
-exit
-la
-cd 
-cd .config
-vi alacritty
+sudoedit hostapd.accept
+sudoedit hostapd.wpa_psk
+pulsemixer
+ping google.com
+sudo systemctl restart NetworkManager --now
+sudo nm-connection-editor
+sudo systemctl restart NetworkManager
+cd Code/HTML-CSS/raxen001.github.io
+zola serve
+vi content/where-is-my-mind/_index.md
+vi content/where-is-my-mind/Queue.md
+zola serve
+zola serve
+zola serve
 vi
-vi .
+cd STUDY/REC
 ls
-vi alacritty/alacritty.yml
+cd materials/
+mkdir dsa
+ls
+cd dsa
+ls
+vi notes4.md
+bat notes4.md
+man bat
+bat -l md notes4.md
+ln -h notes4.md ~/Code/HTML-CSS/raxen001.github.io/content/where-is-my-mind
+ln -h notes4.md ~/Code/HTML-CSS/raxen001.github.io/content/where-is-my-mind/
+ln -h notes4.md ~/Code/HTML-CSS/raxen001.github.io/content/where-is-my-mind/Queue.md
+ln notes4.md ~/Code/HTML-CSS/raxen001.github.io/content/where-is-my-mind/Queue.md
+vi notes4.md
+rm ~/Code/HTML-CSS/raxen001.github.io/content/where-is-my-mind/Queue.md
+cd /tmp
+vi a.c
+clangd a.c
+clang-format a.c
+clang-format a.c > b.c
+vi b.c
+rm a.c b.c
 exit
-flatpak run com.discordapp.Discord
-sudo dnf install picom
-la
-exit
-df /
-df / -h
-df /home -h
-cd 
-cd Downloads/backups
-du
-df * -hd0
-du -hd0
-du . -hd0
-du . -hd1
-du . -hd1
-ncdu
-ncdu
+pacman -Ss notification
+pacman =Ss notification daemon
+pacman -Ss notification daemon
+pacman -Si systembus-notify
+pacman -Si dunst
+xprop
+zsh
+clang-format "#include<stdio.h>\
+#include<ctype.h>\
+\
+int stack[20];\
+int top = -1;\
+\
+void push(int x)\
+{\
+stack[++top] = x;\
+}\
+\
+int pop()\
+{\
+return stack[top--];\
+}\
+\
+int main()\
+{\
+char e[20];\
+int i=0,n1,n2,n3,num;\
+printf("Enter the expression :: ");\
+scanf("%s",e);\
+while(e[i] != '\0')\
+{\
+if(isdigit(e[i]))\
+{\
+num = e[i]-48;\
+push(num);\
+}\
+else\
+\
+{\
+n1 = pop();\
+n2 = pop();\
+switch(e[i])\
+{\
+case '+':\
+n3 = n1 + n2;\
+break;\
+case '-':\
+n3 = n2 - n1;\
+break;\
+case '*':\
+n3 = n1 * n2;\
+break;\
+case '/':\
+n3 = n2 / n1;\
+break;\
+}\
+push(n3);\
+}\
+i++;\
+}\
+printf("\nThe result of expression %s = %d\n\n",e,pop());\
+return 0;\
+}"
+vi a.c
+clang-format a.c >a.c
+cat a.c
+rm a.c
 ls
-ls
-ls
-ncdu
-diff backup-2021-10-14/Pictures ~/Pictures/
-diff backup-2021-10-14/Pictures ~/Pictures/ -qr
-diff backup-2021-10-14/Pictures ~/Pictures/ -r
-diff backup-2021-10-14/Pictures ~/Pictures/ -q
-diff backup-2021-10-14/Pictures ~/Pictures/ -r
-diff backup-2021-10-14/Pictures ~/Pictures/ -r > a.txt
-cat a.txt
-cat a.txt | grep -i only in backup
-cat a.txt | grep -i "only in backup"
-ls
-ncdu
-zcat backup-2021-10-14
-man tar
-tar -t backup-2021-10-14
-tar -tfz backup-2021-10-14
-tar -tfz backup-2021-10-14.tar
-tar -tf backup-2021-10-14.tar
-tar -tf backup-2021-10-14.tar | less
-ls
-rm -rf backup-2021-10-14.tar
-ls
-cat a.txt
-ls
-ncdu
-cd backup-2021-10-14
-rm -rf Pictures
-cd ..
-ls
-ls
-ncdu
-ls
-cd ..
-ls
-rm EmuSAK-2.1.9.AppImage
-du Games -hd0
-cd Games
-ls
-ncdu
-ls
-cd .
-cd ..
-ls
-rm 13.0keys.zip
-rm input.zip
-rm -rf NoiseTorch_x64
-cd playground
-ls
-xdg-open VID_20220522_220302.mp4 
-cd ..
-rm -rf playground
-ls
-ls testing
-tree testing
-rm -rf testing
-ls
-rm -rf ventoy-1.0.74-linux
-xdg-open phy\ unit\ 1\ notes.pdf
-rm phy\ unit\ 1\ notes.pdf
-rm ventoy-1.0.74-linux.tar.gz NoiseTorch_x64_v0.12.0.tgz
-ls
-ncdu
-cd ISO
-ls
-rm -rf antiX-21_386-full.iso kubuntu-21.10-desktop-amd64.iso linuxmint-20.2-cinnamon-64bit.iso ubuntu-21.10-desktop-amd64.iso xubuntu-20.04.3-desktop-amd64.iso virtual_box Fedora-Workstation-Live-x86_64-35
-ls
-cd ..l
-cd ..
-sl
-ls
-cd ..
-ls
-cd block
-ls
-cd ..
-ls
-mv block Documents
-ls
-cd Code
-ls
-cd godot
-ls
-cd ..ls
-cd ..
-ls trash
-cd ..
-ls
-cd S
-cd STUDY
-ls
-cat youtube.sub
-ls
-cd ..
-ls
-cd Sync
-ls
-cd ..
-ls
-ls
-cd Videos
-ls
-ls Random
-ls
-ls Youtube
-ls
-cd Youtube
-la
-xdg-open Tate_McRae_-_all_my_friends_are_fake_Lyrics.webm
-cd ..
-ls
-cd ..
-ls
-ls
-df /home -h
-ncdu
-cd Desktop
-ls
-cd ..
-rmdir Desktop
-ls
-cd Documents
-ls
-mcdu
-ncdu
-mv The_Girl_with_the_Dragon_Tattoo__PDFDrive_.pdf Books
-cd Books
-ls
-cd ..
-ls
-xdg-open output.pdf
-rm output.pdf
-ls
-cd ..
-ls
-cd Music
-ncdu
-cd Code
-ls
-cd Arch_post_install
-ls
-vi -p *.sh
-exit
-sudo pacman -S fira-code
-sudo pacman -Ss fira
-sudo pacman -S otf-fira-mono
-sudo pacman -S zsh-syntax-highlighting 
-pacman -Ss fira code
-sudo pacman -Ss ttf-fira-code
-sudo pacman -S ttf-fira-code
-exit
-dot
-cd zsh
-vi .zshrc
+vi a.c
+clang-format a.c | xclip -sel clip
+vi a.c
 exit
 zsh
-ls
-paru -Ss picom
-paru -Ss picom --color=auto
-cd .config
-ls
-ln -s ~/.local/configs/dotfiles/picom.conf
-vi picom.conf
-picom
-cd .config
-vi picom.conf
+exig
 exit
-killall picom
-picom
+vi a.c
+dot
+vi zsh/.zshrc
+exit
+vi
+vi
+vi a.c
+exit
+vi
+cd Code/HTML-CSS/raxen001.github.io
 ls
-cd .config
-vi  picom.conf
+cd templates
+ls
+vi anime.html
+vi base.html
+vi base.html
+exit
+cd .config/nvim
+ls
+vi lua/plugins/init.lua
+vi
+vi   lua/nvim-cmp/init.lua
+cd .config/nvim
+ls
+vi  init.lua
+exit
+n
+clang
+cd .local/share/nvim/site/pack/packer/start/formatter.nvim
+ls
+cd lua/formatter
+ls
+cd filetypes
+ls
+vi c.lua
+cd .config/nvim/lua
+ls
+cd formater/l
+cd formater/
+vi init.lua
+cd /tmp/
+vi a.c
+clang-format a.c > b.c
+xclip -sel clip b.c
+n
+nvim linear.md
+n
+sls
+ls
+cd
+cd Code/HTML-CSS/raxen001.github.io
+ls
+cd content
+ls
+mkdir NOTES 
+mv NOTES notes
+cd ../templates
+vi base.html
+cd ../content/notes
+vi _index.md
+cp ~/STUDY/REC/materials/sem2/dsa/Unit-4/notes4.md ~/STUDY/REC/materials/sem2/dsa/Unit-5/*.md .
+ls
+mv notes4.md queue.md
+vi queue.md
+vi searching.md
+vi sorting.md
+cd ..
+cd ..
+zola serve
+n
+cd ../..
+zola serve
+ls
+cd content/notes
+ls
+vi queue.md
+ls
+vi searching.md
+vi sorting.md
+cd ../..
+zola serve
+cd static
+vi index.css
+ls
+cd ../templates
+ls
+vi blog-page.html
+cd ../..
+ls
+cd raxen001.github.io/static
+vi page.css
+cd ../
+ls
+vi templates/base.html
+vi static/page.css
+rm public
+vi templates/base.html
+rm static/page.css
+vi static/index.css
+n
+cd Code/HTML-CSS
+ls
+cd raxen001.github.io
+git status
+git add *
+cd content
+ls
+cd where-is-my-mind
+ls
+mv friends.md .friends.md
+cd ..
+ls
+cd ..
+git add *
+git commit -m 'dsa notes'
+git push 
+cd Code/HTML-CSS/raxen001.github.io
+zola serve
+zola serve
+pulsemixer
+mpv "https://www.youtube.com/watch?v=UnJ2bG5OPRE&list=PLSdzYocEezS1rhqfNhT-WaYwq9VP0LJBY"
+mpv "https://www.youtube.com/list=PLSdzYocEezS1rhqfNhT-WaYwq9VP0LJBY"
+mpv "https://www.youtube.com/watch?v=UnJ2bG5OPRE&list=PLSdzYocEezS1rhqfNhT-WaYwq9VP0LJBY"
+mpv "https://youtube.com/playlist?list=PLSdzYocEezS1rhqfNhT-WaYwq9VP0LJBY"
+cd Code/HTML-CSS/raxen001.github.io
+zola serve
+git status
+ls
+cd static
+ls
+git add index.css
+git status
+vi index.css
+sudo systemctl stop hostapd.service
+exit
+man ar
+dot
+vi zsh/.zshrc
+vi zsh/.zshrc
+ip ar
+ar -a
+ar
+ar
+tldr ar
+ls
+la
+rm .sc_history .wget-hsts .pvpn-cli .pki .gtkrc-2.0 .cargo -rf
+ls
+lsa
+paru -Ss xdg ninja
+paru -S xdg-nija --noconfirm
+paru -S xdg-ninja --noconfirm
+xdg-ninja
+xdg-ninja
+dot
+cd zsh
+vi .zshrc .zshenv -p
+exit
+zsh
+cd /
+sudo find . -iname 'npmrc'
+paru -Ss nvim
+paru -Ss nvm
+cd   .config
+mkdir npm
+vi npm/npmrc
+killall qittorrent
+killall qittorrent
+qbittorrent
+noisetorch -i
+paru -Ss stardict
+paru -S stardict-wikt-en-all
+paru -Ss jgmenu
+sudo pacman -S jugmenu
+sudo pacman -S jgmenu
 sou
 cd dwm-6.3
 vi config.def.h
+isn
 ins
+pulsemixer
+jgmenu
+rm .jgmenu-lockfile
+pacman -Ss gtktheme
+pacman -Ss jgmenu
+paru -Ss jgmenu gtk
+cd .cache/jgmenu/icons
+ls
+sxiv kdeconnect
+jgmenu_run init -i
+jgmenu_run 
+jgmenu -vsimple
+jgmenu --at-pointer
+jgmenu --at-pointer --simple
+jgmenu_run --at-pointer --simple
+jgmenu_run --at-pointer
+jgmenu --simple --at-pointer
+jgmenu_run
 sou
-cd zsh
-dot
-cd zsh
-vi .zshenv
-vi .zsh
-vi .zshrc
-cat .zshrc\~
-rm .zshrc\~
-vi .zshrc
-cd /etc/
-sudoedit paru.conf
-paru -Suy
-sudoedit paru.conf
-paru -Suy
-sudoedit /etc/pacman.
-sudoedit /etc/pacman.conf
-paru -Suy
+cd dwm-6.3/
+cd dwm-6.3/
+jgmenu_run
+jgmenu_run
+cd .config/jgmenu
+ls
+vi jgmenurc 
+not
+ls
+cd linux
+vi whatilearn.txt
+vi things_i_use.txt
 exit
-paru -S sdcv
-paru -Ss star dict
-paru -Ss star dict english
-paru -Ss star dict english --color=auto
-man paru
-sudo pacman -S man-db man-pages texinfo
-man paru
-man paru.conf
-man paru
-man paru.conf
-man paru
-exit
-pacman -Ss adwaita
-sudo pacman -S libadwaita
-sudo pacman -S adapta-gtk-theme
-sudo pacman -Rs adapta-gtk-theme
-pacman -Ss adwaita
-sudo pacman -S adwaita gtk
-sudo pacman -Ss adwaita gtk
-pacman -Ss gtk3
-pacman -Ss gtk theme
-paru -Ss adwaita gtk
-pacman -Ss gtk theme
+pacman -Si jgmenu
+ls
+rm .jgmenu-lockfile
+sou
+jgmenu_run
+man jgmenu
+man jgmenututorial
+jgmenu_run init --theme=greeneye
+jgmenu_run
 cd .config
 ls
-cd gtk-4.0
+cd jgmenu
 ls
-vi settings.ini
-cd ../gtk-3.0
-vi settings.ini
-cd ../gtk-2.0
-vi gtkfilechooser.ini
-exit
-shutdown now
-sudo grub-mkconfig -o /boot/grub/grub.cfg
-reboot
-sudo grub-install --efi-directory=/boot /dev/nvme0n1
-sudo grub-mkconfig -o /boot/grub/grub.cfg
-reboot
-cd /boot
 ls
-cd EFI
+cd backup
 ls
-cd Microsoft
+cd 20220629200751066697687
 ls
-cd Boot
-cd 
-sudo grub-mkconfig -o /boot/grub/grub.cfg
-cd /etc/default
-ls
-vi grub
-sudoedit grub
-sudo grub-mkconfig -o /boot/grub/grub.cfg
-reboot
-sudo grub-install --efi-directory=/boot /dev/nvme0n1
-sudo grub-mkconfig -o /boot/grub/grub.cfg
-cd /boot/
-ls
-cd grub
-ls
-vi grub.cfg
-cd ../EFI
-ls
-cd Microsoft
-ls
-cd Boot
-ls
-cat BCD
-reboot
-systemd-analyze
-sudoedit /etc/default/grub
-sudo grub-mkconfig -o /boot/grub/grub.cfg
-reboot
-touch ~/.hushlogin
-ls
-prime-run glxinfo | grep -i nvidia
-sudo pacman -S mesa
-sudo pacman -Ss glxinfo
-sudo pacman -S mesa-utils
-prime-run glxinfo | grep -i nvidia
-exit
-cd /etc/grub.d
-ls
-cd ../default
-sudoedit grub
-grub-mkconfig -o /boot/grub/grub.cfg
-sudo grub-mkconfig -o /boot/grub/grub.cfg
-reboot
-systemd-analyze
-sudoedit /etc/modprobe.d/nobeep.conf
-exit
-sudoedit /etc/default/grub
-grub-mkconfig -o /boot/grub/grub.cfg
-sudo grub-mkconfig -o /boot/grub/grub.cfg
-reboot
-systemd-analyze
-shutdown now
-sudoedit /etc/default/grub
-cp /etc/default/grub ~/.local/configs/dotfiles/grub
-exit
-sudo grub-mkconfig -o /boot/grub/grub.cfg
-shutdown now
-paru -Ss spotify
-pacman -Ss spotify
-pacman -Si spotify-launcher
-sudo pacman -S spotify-launcher
-sudo pacman -S xclip
-sudo pacman -S chromium
-paru -Ss tutanato
-paru -Ss tuta
-paru -S tutanota-desktop-bin
-paru -S tutanota-desktop-bin --noconfirm
-paru -S hakuneko-desktop
-paru -Ss key
-pacman -Ss keyring
-sudo pacman -S gnome-keyring
-paru -S freetube-bin
-paru -S freetube-bin --noconfirm
-paru -
-paru -S noisetorch-bin --noconfirm
-neofetch
-mpv
-ls
-df /
-df / -h
-shutdown now
-paru -Runs sxiv
-paru -Ss sxiv
-cd /tmp
-git clone "https://github.com/catppuccin/template"
-cd template
-ls
-cat README.md
-cd ass
-cd assets
-ls
-cd ../..
-rm -rf template
-git clone "https://github.com/catppuccin/wallpapers"
-cd wallpapers
-ls
-sxiv -r .
+cat jgmenurc
 cd ..
-mv wallpapers/ ~/Pictures/Wallpaper/catppuccin
 ls
-exit
-scr
-./randwall
-./randwall
-./randwall
-./randwall
-sudo cp ~/.local/configs/scripts/randwall /usr/local/bin/
-randwall
-paru -Ss sdcv english
-paru -Ss star dict english dict
-paru -Rs youtube-dl
-sudo pacman -S ytdlp
-pacman -Ss ytdlp
-paru -Ss ytdlp
-paru -Ss ytdl
-paru -Ss yt-dlp
-paru -S yt-dlp yt-dlp-drop-in --noconfirm
-man paru
-sudoedit /etc/paru.conf
-pacman -Si picom
-date
-date --help
-cal
-pacman -Si  picom
-picom --blur-method dual_kawase --blur-strength 7 --experimental-backends
-picom --blur-method dual_kawase --blur-strength 7 --experimental-backends & 
-exit
-disown
-exit
-killall picom
---blur-method dual_kawase --blur-strength 7
-picom --blur-method dual_kawase --blur-strength 7
-picom --blur-method dual_kawase --blur-strength 7 --experimental-backends
-vi .config/picom.conf
-rm .config/picom.conf
-cp /usr/share/doc/picom/picom.conf.example ~/.config/picom.conf
-vi .config/picom.conf
-picom --blur-method dual_kawase --blur-strength 7 --experimental-backends
-vi .config/picom.conf
-paru -Ss hugo
-sudo pacman -S hugo
-sudo pacman -Rs hugo
-sudo pacman -S zola
-pacman -Ss python markdown
-sudo pacman -S markdown html
-pacman -Ss markdown html
-sudo pacman -S python-html2text
+cd ..
 ls
-cd Code/HTML-CSS/raxengamer001.github.io
+cd ..
 ls
-mkdir archieve
-mv pages/.revolt-1857.html archieve/revolt-1857.html
-ls
-ls
-vi anime
-cat anime.html
-vi index.html
-git log
-git status
-git add *
-git commit -m 'idk what i am doing'
-git config --global user.email "raxen001@tutamail.com"
-git config --global user.name "RaxenGamer001"
-git commit -m 'idk what i am doing'
-git push
-ls
-cd pages
-ls
-mkdir deep-thoughts
-cd deep-thoughts
-vi introduction.html
-ls
-ls
-vi intro.md
-pacman -Ss markdown html
-markdown_py
-markdown_py --help
+cd jgmenu
 ls
 n
-markdown_py intro.md
-markdown_py intro.md > intro.html
-ls
-vi intro.html
-sudo pacman -Ss fonts
-sudo pacman -S ttf-monospace
-sudo pacman -Ss monospace
-sudo pacman -Ss fira code
-sudo pacman -Ss firefox font
-cd /usr/share/font
-ls
-cd /usr/share/fonts
-ls
-ls *
-ls * | less
-cd
-ls
-ls
-paru -S ytfzf-git --noconfirm
-ytfzf
-sudo pacman -S fzf
-ytfzf
-pacman -Ss fira code
-sudo pacman -Ss symbos
-pacman -Ss hack
-sudo pacman -S ttf-hack
-sudo pacman -Ss symbols nerd
-sudo pacman -Ss fonts
-cd .config
-vi alacritty
 exit
+abrt
+cni
+goa
+pacman -Ss goa
+yelp
+pacman -Ss yelp
+n
+ls
+cd ..
+cd STUDY/REC/materials
+ls
+cd sem2
+ls
+cd math-2
+ls
+vi url.tt
+vi url.txt
+vi url.txt
+paru -Si fetchcord
+systemctl --user enable --now fetchcord
+systemctl status fetchord
+systemctl status fetchcord
+systemctl --user status fetchcord
+fetchcord
+paru -Ss pypresence
+paru -S python-pypresence
+paru -S python-pypresence --noconfirm
+fetchcord
+systemctl restart --user fetchord
+systemctl restart --user fetchcord
+systemctl --user status fetchcord
+paru -Si ytfzf
+cd .config/ytfzf
+ls
+vi conf.sh
+cd .config/ytfzf
+vi conf.sh
+cd /usr/share/ytfzf
+ls
+cd addons
+ls
+cat interfaces
+cd interfaces
+ls
+vi gui
+./gui
+./sxiv
+man ytfzf
+ytfzf --interface=gui
+pacman -Ss gtkdialog
+pacman -Ss gtk dialog
+ytfzf --interface=sxiv
+ls
+man ytfzf
+man ytfzf
+pacman -Ss socat
+sudo pacman -S socat
+ytfzf what
+ytfzf what -t
+ytfzf what -T
+ytfzf -T what
+ytfzf -t what
+ytfzf -t what
+sudo pacman -Runs socat
+cd .config/ytfzf
+ls
+vi conf.sh
+vi conf.sh
+cd /usr/share/doc/ytfzf
+ls
+vi conf.sh
+paru -Suy --noconfirm
+paru -Suy --noconfirm
+paru -S paru
+dot
+vi zsh/.zshenv
+vi zsh/.zshrc
+la
+exit
+vi
+vi
+vi
+vi
+vi
+ls
+v
+vi
+vi a
+vi
+vi a
+cd .config/nvim
+ls
+vi init.lua
+echo $TERM
+set $TERM=vi
+exit
+vi
+run-help aadfak
+exit
+vi
+man zshenv
+man zsh
+vi
+dot
+cd zsh
+vi .zshrc
+cd 
+cd .config/nvim
+ls
+cd lua
+ls
+vi ntree/init.lua
