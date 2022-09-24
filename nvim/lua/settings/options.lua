@@ -51,33 +51,12 @@ opt.mouse="nvi"            -- mouse support"
 opt.scrolloff=4            --scroll offset"
 opt.wrap = false -- wrap text if  more than screen width 
 opt.spell = false                 -- spell check
-opt.autochdir = true              -- change current directory to working file direcotry
+opt.autochdir = false              -- change current directory to working file direcotry
 opt.clipboard = "unnamedplus"
 opt.timeoutlen=500
 opt.compatible=false
 
 vim.cmd[[
-highlight readonly      guifg=#cc241d guibg=#3c3836 gui=bold,italic
-highlight statusleft    guifg=#458588 guibg=#3c3836 gui=bold
-highlight statuscenter  guifg=#83a598 guibg=#282828 gui=bold
-highlight icons         guifg=#d65d0e guibg=#282828 gui=bold
-highlight statusright   guifg=#282828 guibg=#689d6a gui=bold
-set statusline=
-set statusline+=%#readonly#
-set statusline+=\ %r
-set statusline+=%#statusleft#
-set statusline+=\ %m
-set statusline+=\ %y
-set statusline+=%#statuscenter#
-set statusline+=\ %f
-set statusline+=%#icons#
-"set statusline+=\ %{WebDevIconsGetFileTypeSymbol()}
-set statusline+=%= "Right side settings
-set statusline+=%#statusright#
-set statusline+=\ %c\ \%l:%L
-set statusline+=\ %p%%
-set statusline+=\ [%n]
-"==============================================================
 augroup exe_code
     autocmd!
 " python
