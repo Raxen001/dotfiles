@@ -19,7 +19,7 @@ vim.g.maplocalleader = " "
 keymap("n", "<leader>v", ":Vex<CR>", opts)
 keymap("n", "<leader>ff", "<CMD>Telescope find_files<CR>", opts)
 keymap("n", "<leader>rg", "<CMD>Telescope live_grep<CR>", opts)
-keymap("n", "<leader>p", "<CMD>lua vim.lsp.buf.formatting_sync()<CR>", opts)
+keymap("n", "<leader>p", "<CMD>lua vim.lsp.buf.format()<CR>", opts)
 
 keymap("n", "<leader>t",  ":NvimTreeToggle <CR>", {noremap=true})
 
@@ -33,5 +33,13 @@ keymap("n", "<M-j>",  "<C-w>j", {noremap=true})
 keymap("n", "<M-k>",  "<C-w>k", {noremap=true})
 keymap("n", "<M-l>",  "<C-w>l", {noremap=true})
 
--- try these out in normal mode!
--- make sure you have fzf and ripgrep installed.
+
+keymap("t",  "<A-h>", "<C-\\><C-N><C-w>h", opts)
+keymap("t",  "<A-j>", "<C-\\><C-N><C-w>j", opts)
+keymap("t",  "<A-k>", "<C-\\><C-N><C-w>k", opts)
+keymap("t",  "<A-l>", "<C-\\><C-N><C-w>l", opts)
+
+keymap("i",  "<A-h>", "<C-\\><C-N><C-w>h", opts)
+keymap("i",  "<A-j>", "<C-\\><C-N><C-w>j", opts)
+keymap("i",  "<A-k>", "<C-\\><C-N><C-w>k", opts)
+keymap("i",  "<A-l>", "<C-\\><C-N><C-w>l", opts)

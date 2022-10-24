@@ -28,5 +28,6 @@ then
     file=$HOME/Music/$(mpc -f %file% | head -n1)
 fi
 
-ffmpegthumbnailer -m -i "$file" -q 10 -s 0 -o "$img" 
-notify-send -i "$img" -a "music" "$song"
+#ffmpegthumbnailer -i "$file" -m -q 8 -s 128 -o "$img" 
+ffmpegthumbnailer -i "$file" -m -o "$img"
+notify-send -i "$img" -a "music" "🎵" "$song"

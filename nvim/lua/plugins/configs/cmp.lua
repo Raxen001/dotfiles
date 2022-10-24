@@ -28,6 +28,7 @@ cmp.setup({
     { name = 'digraphs' },
     { name = 'cmdline' },
     { name = 'emoji' },
+    { name = 'spell' },
   }, {
     { name = 'buffer' },
   })

@@ -34,7 +34,10 @@ packer.startup(function(use)
   use 'nvim-telescope/telescope.nvim'      -- Finder, requires fzf and ripgrep
   use 'gruvbox-community/gruvbox'          -- Schmexy colors
   use 'folke/which-key.nvim'               -- which key
+
   use 'windwp/nvim-autopairs'
+  use 'windwp/nvim-ts-autotag'
+
   use {
     'goolord/alpha-nvim',
     requires = { 'kyazdani42/nvim-web-devicons' },
@@ -63,4 +66,5 @@ packer.startup(function(use)
 end)
 
 require("which-key").setup{}
+require("nvim-ts-autotag").setup{}
 require("nvim-autopairs").setup{}

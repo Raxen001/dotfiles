@@ -118,7 +118,7 @@
 
     ### Text ###
 
-    font = Monospace 8
+    font = Liberation Mono, Hack 12
 
     # The spacing between lines.  If the height is smaller than the
     # font height, it will get raised to the font height.
@@ -209,7 +209,7 @@
     min_icon_size = 32
 
     # Scale larger icons down to this size, set to 0 to disable
-    max_icon_size = 128
+    max_icon_size = 128 
 
     # Paths to default icons (only neccesary when not using recursive icon lookup)
     icon_path = /usr/share/icons/gnome/16x16/status/:/usr/share/icons/gnome/16x16/devices/
@@ -308,15 +308,15 @@
 [urgency_low]
     # IMPORTANT: colors have to be defined in quotation marks.
     # Otherwise the "#" and following would be interpreted as a comment.
-    background = "#98971A"
-    foreground = "#1d2021"
+    background = "#1d2021"
+    foreground = "#98971A"
     timeout = 10
     # Icon for notifications with low urgency, uncomment to enable
     #default_icon = /path/to/icon
 
 [urgency_normal]
-    background = "#458588"
-    foreground = "#1d2021"
+    background = "#1d2021"
+    foreground = "#928374"
     timeout = 10
     # Icon for notifications with normal urgency, uncomment to enable
     #default_icon = /path/to/icon
@@ -328,7 +328,6 @@
     timeout = 0
     # Icon for notifications with critical urgency, uncomment to enable
     #default_icon = /path/to/icon
-
 # Every section that isn't one of the above is interpreted as a rules to
 # override settings for certain messages.
 #
