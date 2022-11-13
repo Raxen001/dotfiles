@@ -18,9 +18,8 @@ vim.g.maplocalleader = " "
 
 keymap("n", "<leader>v", ":Vex<CR>", opts)
 keymap("n", "<leader>ff", "<CMD>Telescope find_files<CR>", opts)
-keymap("n", "<leader>rg", "<CMD>Telescope live_grep<CR>", opts)
+keymap("n", "<leader>g", "<CMD>Telescope live_grep<CR>", opts)
 keymap("n", "<leader>p", "<CMD>lua vim.lsp.buf.format()<CR>", opts)
-
 keymap("n", "<leader>t",  ":NvimTreeToggle <CR>", {noremap=true})
 
 keymap("n", "<M-K>", ":resize -2<CR>", {noremap=true})

@@ -1,3 +1,4 @@
+-- attaches to lsp use mason-lspconfig to attach servers
 local present, lspconfig = pcall(require, "lspconfig")
 
 if not present then
@@ -44,30 +45,31 @@ local on_attach = function(client, bufnr)
   vim.keymap.set('n', 'gr', vim.lsp.buf.references, bufopts)
 end
 
-local capabilities = vim.lsp.protocol.make_client_capabilities()
-
-lspconfig.sumneko_lua.setup {
-  on_attach = on_attach,
-  capabilities = capabilities,
-
-  settings = {
-    Lua = {
-      diagnostics = {
-        globals = { "vim" },
-      },
-    },
-  },
-}
-capabilities.textDocument.completion.completionItem.snippetSupport = true
-lspconfig.rust_analyzer.setup{}
-lspconfig.clangd.setup{}
-lspconfig.bashls.setup{}
-lspconfig.pyright.setup{}
-lspconfig.jdtls.setup{}
-lspconfig.html.setup {
-  capabilities = capabilities,
-}
-lspconfig.cssls.setup{
-  capabilities=capabilities,
-}
-lspconfig.tsserver.setup{}
+--local capabilities = vim.lsp.protocol.make_client_capabilities()
+--
+--lspconfig.sumneko_lua.setup {
+--  on_attach = on_attach,
+--  capabilities = capabilities,
+--
+--  settings = {
+--    Lua = {
+--      diagnostics = {
+--        globals = { "vim" },
+--      },
+--    },
+--  },
+--}
+--capabilities.textDocument.completion.completionItem.snippetSupport = true
+--
+--lspconfig.rust_analyzer.setup{capabilities=capabilities}
+--lspconfig.clangd.setup{capabilities=capabilities}
+--lspconfig.bashls.setup{capabilities=capabilities}
+--lspconfig.pyright.setup{capabilities=capabilities}
+--lspconfig.jdtls.setup{capabilities=capabilities}
+--lspconfig.html.setup {
+--  capabilities = capabilities,
+--}
+--lspconfig.cssls.setup{
+--  capabilities=capabilities,
+--}
+--lspconfig.tsserver.setup{capabilities=capabilities}

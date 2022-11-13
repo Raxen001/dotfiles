@@ -1,14 +1,15 @@
+-- mason used to autmatically install language servers
 local present, mason = pcall(require, "mason")
 
 if not present then
-  return
+    return
 end
 mason.setup({
-  ui = {
-    icons = {
-      package_installed = "✓",
-      package_pending = "➜",
-      package_uninstalled = "✗"
+    ui = {
+        icons = {
+            package_installed = "✓",
+            package_pending = "➜",
+            package_uninstalled = "✗"
+        }
     }
-  }
 })

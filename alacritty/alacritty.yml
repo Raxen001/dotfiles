@@ -8,6 +8,6 @@ font:
 size: 13
 draw_bold_text_with_bright_colors: false
 window:
-    opacity: 0.8
+    opacity: 1.0
 key_bindings:
   - { key: Return,   mods: Alt|Shift, action: SpawnNewInstance }

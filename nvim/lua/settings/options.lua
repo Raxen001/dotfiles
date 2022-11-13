@@ -61,7 +61,7 @@ augroup exe_code
     autocmd!
 " python
     autocmd Filetype python noremap <buffer> <leader>r
-                \ :10sp<CR> :term python3 "%"<CR> :startinsert<CR>
+                \ :10sp<CR>:term python3 "%"<CR>:startinsert<CR>
 " C
     autocmd Filetype c nnoremap <buffer> <leader>r
                 \ :10sp<CR>:term gcc "%" && ./a.out<CR>:startinsert<CR>
