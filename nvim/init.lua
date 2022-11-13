@@ -14,6 +14,7 @@ require "plugins/configs/cmp"
 require "plugins/configs/null-ls"
 require "plugins/configs/nvim-treesitter"
 require "plugins/configs/telescope"
+require "plugins/configs/mason-nvim-dap"
 -------------------------------------------
 -- mason --> mason-lspconfig --> lspconfig 
 -- must be setup in this order

@@ -1,6 +1,5 @@
 -- used for linting and formatting
 -- TODO: Actually make this fucking plugin to work
-print("what the fuck")
 local status_ok, null_ls = pcall(require, "null-ls")
 if not status_ok then
     return
@@ -15,7 +14,7 @@ null_ls.setup({
         formatting.prettier,
         formatting.black,
         diagnostics.pylint,
-        diagnostics.pydocstyle,
+        --diagnostics.pydocstyle,
         formatting.stylua,
         diagnostics.clang_check,
         diagnostics.cmake_lint,
