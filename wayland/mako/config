@@ -1,0 +1,20 @@
+#sort=-time
+layer=overlay
+width=300
+height=120
+border-size=2
+border-radius=2
+default-timeout=5000
+ignore-timeout=1
+
+background-color=#1e1e2e
+text-color=#cdd6f4
+border-color=#89b4fa
+progress-color=over #313244
+
+icons=1
+max-icon-size=128
+icon-location=left
+
+[urgency=high]
+border-color=#fab387
