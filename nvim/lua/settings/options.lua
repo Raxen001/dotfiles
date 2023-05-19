@@ -46,7 +46,7 @@ opt.softtabstop=4           --"set n spaces as tab"
 opt.shiftwidth=4            --"when shift >> it shifts by n number"
 
 
-g.completeopt="menu,menuone,noselect"
+g.completeopt="menu,noselect"
 opt.mouse="nvi"            -- mouse support"
 opt.scrolloff=4            --scroll offset"
 opt.wrap = false -- wrap text if  more than screen width 
@@ -72,10 +72,5 @@ augroup exe_code
     autocmd Filetype java nnoremap <buffer> <leader>r
                 \ :10sp<CR>:term java "%"<CR>:startinsert<CR>
 augroup END
-"
-"autocmd SourcePost * highlight Normal     ctermbg=NONE guibg=NONE
-"        \ |    highlight LineNr     ctermbg=NONE guibg=NONE
-"        \ |    highlight SignColumn ctermbg=NONE guibg=NONE
-"        \ |    highlight EndOfBuffer ctermbg=NONE guibg=NONE
 "
 ]]

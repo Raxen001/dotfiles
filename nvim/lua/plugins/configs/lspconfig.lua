@@ -45,21 +45,8 @@ local on_attach = function(client, bufnr)
   vim.keymap.set('n', 'gr', vim.lsp.buf.references, bufopts)
 end
 
---local capabilities = vim.lsp.protocol.make_client_capabilities()
---
---lspconfig.sumneko_lua.setup {
---  on_attach = on_attach,
---  capabilities = capabilities,
---
---  settings = {
---    Lua = {
---      diagnostics = {
---        globals = { "vim" },
---      },
---    },
---  },
---}
---capabilities.textDocument.completion.completionItem.snippetSupport = true
+local capabilities = vim.lsp.protocol.make_client_capabilities()
+capabilities.textDocument.completion.completionItem.snippetSupport = true
 --
 --lspconfig.rust_analyzer.setup{capabilities=capabilities}
 --lspconfig.clangd.setup{capabilities=capabilities}

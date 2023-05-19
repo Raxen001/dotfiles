@@ -9,7 +9,9 @@ export XDG_PICTURES_DIR="$HOME/Pictures"
 export XDG_VIDEOS_DIR="$HOME/Videos"
 export XDG_MUSIC_DIR="$HOME/Music"
 
-export QT_QPA_PLATFORMTHEME="qt6ct"
+export QT_QPA_PLATFORMTHEME="qt5ct"
+export QT_QPA_PLATFORM="wayland;xcb"
+export SDL_VIDEODRIVER="wayland"
 #-------------------------------------------------------------------------------
 #Environmental Variables
 export PATH="$HOME/.local/bin:$PATH"

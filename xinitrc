@@ -48,12 +48,16 @@ if [ -d /etc/X11/xinit/xinitrc.d ] ; then
  unset f
 fi
 
-if [ `tty` = "/dev/tty1" ]; then
-    XDG_SESSION_TYPE=x11 &
-    #xrandr --auto &
-    #xrandr --dpi 96 &
-    "$HOME/.local/configs/scripts/startup.sh" &
-    while :; do
-    ssh-agent dwm
-    done
+#if [ `tty` = "/dev/tty1" ]; then
+#    XDG_SESSION_TYPE=x11 &
+#    #xrandr --auto &
+#    #xrandr --dpi 96 &
+#    "$HOME/.local/configs/scripts/startup.sh" &
+#    while :; do
+#    ssh-agent dwm
+#    done
+#fi 
+
+if [ `tty` = "/dev/tty2" ]; then
+  exec dwm 
 fi 

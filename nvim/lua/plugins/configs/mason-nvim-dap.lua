@@ -11,7 +11,7 @@ end
 
 
 mason_nvim_dap.setup({
-    ensure_installed = { "stylua", "jq" },
+    ensure_installed = { "stylua", "jq", "html", "css" },
     automatic_installation = true,
     automatic_setup = true,
 })

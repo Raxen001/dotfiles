@@ -1,10 +1,12 @@
 # vim: set nowrap
 #[[ -z $DISPLAY && $XDG_VTNR -eq 1 ]] && exec startx '/home/raxen/.local/configs/dotfiles/xinitrc' &> /dev/null
-[[ $(fgconsole 2>/dev/null) == 1 ]] && exec startx '/home/raxen/.local/configs/dotfiles/xinitrc' -- vt1 &> /dev/null
+#[[ $(fgconsole 2>/dev/null) == 1 ]] && exec startx '/home/raxen/.local/configs/dotfiles/xinitrc' -- vt1 &> /dev/null
+#[[ $(fgconsole 2>/dev/null) == 2 ]] && exec Hyprland &> /dev/null
+[[ $(fgconsole 2>/dev/null) == 1 ]] && exec Hyprland &> /dev/null
 #[[ -z $DISPLAY && $XDG_VTNR -eq 2 ]] && exec startx '/home/raxen/.local/configs/dotfiles/xinitrc' 
 #[[ $TERM != "screen" ]] && exec tmux
 # set the keyboard rate faster make the input faster
-#xset r rate 227 44 
+#xset r rate 220 40 
 
 autoload colors && colors
 PS1="%{$fg_bold[blue]%} %B%{$fg_bold[yellow]%}%n%{$fg[white]%} : %{$fg[red]%}%~

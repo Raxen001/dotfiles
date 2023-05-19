@@ -13,7 +13,7 @@ null_ls.setup({
     sources = {
         formatting.prettier,
         formatting.black,
-        diagnostics.pylint,
+        --diagnostics.pylint,
         --diagnostics.pydocstyle,
         formatting.stylua,
         diagnostics.clang_check,

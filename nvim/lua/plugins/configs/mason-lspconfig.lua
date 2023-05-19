@@ -6,7 +6,6 @@ if not present then
 end
 masonLspconfig.setup({
   automatic_installation = true,
---  ensure_installed = { "sumneko_lua", "rust_analyzer", "lua", "clangd", "python", "marksman"  }
 })
 
 masonLspconfig.setup_handlers {
@@ -16,33 +15,4 @@ masonLspconfig.setup_handlers {
         function (server_name) -- default handler (optional)
             require("lspconfig")[server_name].setup {}
         end,
-        -- Next, you can provide a dedicated handler for specific servers.
-        -- For example, a handler override for the `rust_analyzer`:
-        ["sumneko_lua"] = function ()
-            require("lspconfig")["sumneko_lua"].setup{
-                settings = {
-                    Lua = {
-                        diagnostics = {
-                            globals = {"vim"},
-                        },
-                    }
-            }
-        }
-        end
-
-        --
---local capabilities = vim.lsp.protocol.make_client_capabilities()
---
---lspconfig.sumneko_lua.setup {
---  on_attach = on_attach,
---  capabilities = capabilities,
---
---  settings = {
---    Lua = {
---      diagnostics = {
---        globals = { "vim" },
---      },
---    },
---  },
---}
 }

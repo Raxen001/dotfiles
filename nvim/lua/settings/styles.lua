@@ -25,4 +25,10 @@ set statusline+=%#statusright#
 set statusline+=\ %c\ \%l:%L
 set statusline+=\ %p%%
 set statusline+=\ [%n]
+
+autocmd SourcePost * highlight Normal     ctermbg=NONE guibg=NONE
+        \ |    highlight LineNr     ctermbg=NONE guibg=NONE
+        \ |    highlight SignColumn ctermbg=NONE guibg=NONE
+        \ |    highlight EndOfBuffer ctermbg=NONE guibg=NONE
+
 ]]

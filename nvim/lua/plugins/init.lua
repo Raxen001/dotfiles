@@ -33,6 +33,7 @@ packer.startup(function(use)
     use("hrsh7th/cmp-buffer")                                                   -- Cmp source for buffer words
     use("hrsh7th/cmp-path")                                                     -- Cmp source for path words
     use("hrsh7th/cmp-nvim-lsp-document-symbol")                                 -- cmp symbols
+    use("hrsh7th/cmp-nvim-lsp-signature-help")                                  -- cmp lsp signature
     use("nvim-telescope/telescope.nvim")                                        -- Finder, requires fzf and ripgrep
     use("gruvbox-community/gruvbox")                                            -- Gruvbox colors
     use("windwp/nvim-ts-autotag")                                               -- Auto End tags
