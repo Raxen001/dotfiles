@@ -9,52 +9,45 @@ set scroll-step 50
 
 set zoom-min 10
 set guioptions ""
-set font "FiraCode 15"
-
-set default-bg                  "#af1d2021"
-set default-fg                  "#afa89984"
-
-set recolor-keephue true
-set recolor-reverse-video false
-
-set recolor-lightcolor          "#1c1c1c"
-set recolor-darkcolor           "#d0d0d0"
-
-set statusbar-h-padding 0
-set statusbar-v-padding 0
-
-set notification-error-bg       "#1c1c1c" # bg
-set notification-error-fg       "#d70000" # bright:red
-set notification-warning-bg     "#1c1c1c" # bg
-set notification-warning-fg     "#ffaf00" # bright:yellow
-set notification-bg             "#585858" # bg
-set notification-fg             "#5faf5f" # bright:green
-
-set completion-bg               "#504945" # bg2
-set completion-fg               "#ebdbb2" # fg
-set completion-group-bg         "#3c3836" # bg1
-set completion-group-fg         "#928374" # gray
-set completion-highlight-bg     "#0087af" # bright:blue
-set completion-highlight-fg     "#504945" # bg2
-
-# Define the color in index mode
-set index-bg                    "#504945" # bg2
-set index-fg                    "#ebdbb2" # fg
-set index-active-bg             "#83a598" # bright:blue
-set index-active-fg             "#504945" # bg2
-
-set inputbar-bg                 "#1c1c1c" # bg
-set inputbar-fg                 "#d0d0d0" # fg
-
-set statusbar-bg                "#504945" # bg2
-set statusbar-fg                "#ebdbb2" # fg
-
-set highlight-color             "#fabd2f" # bright:yellow
-set highlight-active-color      "#fe8019" # bright:orange
-
-set render-loading              true
-set render-loading-bg           "#1d2021" # bg
-set render-loading-fg           "#ebdbb2" # fg
-
-# Recolor book content's color
+set font "Terminus 13"
 set recolor                     true
+
+# to do add https://github.com/NLKNguyen/papercolor-theme
+
+set default-fg               "#00eeeeee"
+set default-bg 			     "#001c1c1c"
+
+set completion-bg		     "#313244"
+set completion-fg		     "#eeeeee"
+set completion-highlight-bg	 "#575268"
+set completion-highlight-fg	 "#eeeeee"
+set completion-group-bg		 "#313244"
+set completion-group-fg		 "#89B4FA"
+
+set statusbar-fg		     "#eeeeee"
+set statusbar-bg		     "#313244"
+
+set notification-bg		     "#313244"
+set notification-fg		     "#eeeeee"
+set notification-error-bg	 "#313244"
+set notification-error-fg	 "#F38BA8"
+set notification-warning-bg	 "#313244"
+set notification-warning-fg	 "#FAE3B0"
+
+set inputbar-fg			     "#eeeeee"
+set inputbar-bg 		     "#313244"
+
+set recolor-lightcolor		 "#1c1c1c"
+set recolor-darkcolor		 "#eeeeee"
+
+set index-fg			     "#eeeeee"
+set index-bg			     "#1c1c1c"
+set index-active-fg		     "#eeeeee"
+set index-active-bg		     "#313244"
+
+set render-loading-bg		 "#1c1c1c"
+set render-loading-fg		 "#eeeeee"
+
+set highlight-color		     "#575268"
+set highlight-fg             "#F5C2E7"
+set highlight-active-color	 "#F5C2E7"
