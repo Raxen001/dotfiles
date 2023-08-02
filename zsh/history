@@ -1,94 +1,3 @@
-xclip -to
-xclip -t
-xclip -t -o
-man xclip
-xclip -t TARGETS -o
-xclip -t UTF8_STRING -o
-xclip -t UTF8_STRING -o > a.jpg
-sxiv a.jpg
-rm a.jpg
-xclip -t UTF8_STRING -o > a.jpg
-sxiv a.jpg
-rm a.jpg
-vi
-sou
-cd dwm-6.3
-vi config.def.h
-vi config.h
-exit
-cd .config/nvim/lua/plugins
-vi init.lua
-vi
-vi
-ls
-cd ..
-vi ../init.lua
-vi a.py
-ls
-cd
-cd .config/nvim/lua/
-vi formater
-vi
-cd
-sou
-cd dwm-6.3
-vi config.def.h
-vi config.def.h
-vi
-clang-format
-vi
-sou
-cd dwm-6.3
-vi dwm.c
-vi a.jpg
-tldr xclip
-xclip -o
-xclip -o -sel clip
-xclip -o -sel clipboard
-xclip -o -sel clip
-xclip -o 
-xclip -o  > a.jpg
-sxiv a.jpg
-rm a.jpg
-xclip -o -sel clip -t image/png input_file.png
-xclip -o -sel clip -t image/png
-xclip -sel clip -o
-xclip -sel clip -o
-xclip -h
-xlip -d
-xclip -o
-xclip -sel -h
-xclip -sel
-xclip -h -sel
-man xclip
-cd .config/nvim
-ls
-cd plugin
-ls
-vi packer_compiled.lua
-vi
-cd 
-cd .local/share/nvim
-ls
-cd site/pack/packer/start
-ls
-n
-vi
-sou
-cd dwm-6.3
-vi dwm.c
-vi config.def.h
-vi config.def.h
-vi config.def.h
-vi config.def.h
-n
-cd
-cd .config/nvim/lua/formater
-ls
-vi init.lua
-prettier
-man prettier
-cd /tmp
 git clone "https://github.com/mhartington/formatter.nvim.git"
 cd formatter.nvim
 ls
@@ -1028,3 +937,146 @@ ls
 cd lua
 ls
 vi ntree/init.lua
+bash
+sfdx
+PATH+="/usr/bin/
+bash
+sfdx
+ls
+cd
+ls
+cd /home/raxen
+ls
+cat undefined.bak 
+sh
+bash
+ls
+cd
+ls
+sfdx
+cd /usr/bin
+ls
+./sfdx
+cd /usr/local/bin
+ls
+exit
+xit
+exit
+sfdx
+exit
+sfdx
+echo $PATH
+bash
+exit
+exit
+echo $PATH
+export PATH=/home/raxen/.local/bin /home/raxen/.local/bin /usr/lib64/ccache /home/raxen/.local/bin /home/raxen/.local/bin /usr/local/bin /usr/local/sbin /usr/bin /usr/sbin
+export PATH=/home/raxen/.local/bin:/home/raxen/.local/bin:/usr/lib64/ccache:/home/raxen/.local/bin:/home/raxen/.local/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin
+sfdx
+export PATH+=/usr/local/bin
+sfdx
+cd /usr/local/bin
+echo $PATH
+sfdx
+/usr/local/bin/sfdx
+exit
+echo $path
+echo $PATH
+cd /app/bin
+ls
+pwd
+cwd
+pwd
+pwd -a
+man pwd
+pwd
+cd /app/bin
+ls
+pwd
+cd /app
+pwd
+zsh
+echo $PATH
+sfdx
+rm -rf .config/nvim .local/share/nvim
+nvim v
+nvim -v
+LV_BRANCH='release-1.3/neovim-0.9' bash <(curl -s https://raw.githubusercontent.com/LunarVim/LunarVim/release-1.3/neovim-0.9/utils/installer/install.sh)
+dnf search cargo
+sudo sudo dnf upgrade --refresh
+sudoedit /etc/dnf/dnf.conf
+sudo dnf install rust cargo
+sudo dnf install nodejs
+LV_BRANCH='release-1.3/neovim-0.9' bash <(curl -s https://raw.githubusercontent.com/LunarVim/LunarVim/release-1.3/neovim-0.9/utils/installer/install.sh)
+cd .local
+mkdir npm
+cd ..
+LV_BRANCH='release-1.3/neovim-0.9' bash <(curl -s https://raw.githubusercontent.com/LunarVim/LunarVim/release-1.3/neovim-0.9/utils/installer/install.sh)
+lvim
+lvim
+lvim
+lvim
+cd Code
+ls
+cd HTML-CSS
+ls
+cd ..
+ls
+cd HTML-CSS
+ls
+mkdir personal_website
+mv old_site/ raxen001.github.io personal_website
+cd personal_website
+ls
+cd ..
+ls
+mkdir raxen001.github.io
+cd raxen001.github.io
+ls
+lvim
+npm install -g jshint
+source ~/.local/configs/dotfiles/zsh/.zshenv
+npm install -g jshint
+npm
+node
+LV_BRANCH='release-1.3/neovim-0.9' bash <(curl -s https://raw.githubusercontent.com/LunarVim/LunarVim/release-1.3/neovim-0.9/utils/installer/install.sh)
+cp ~/.local/share/lunarvim/lvim/utils/installer/config.example.lua ~/.config/lvim/config.lua
+dnf search monoki
+lvim
+lvim
+ls
+lvim index.html
+cp ~/.local/share/lunarvim/lvim/utils/installer/config.example.lua ~/.config/lvim/config.lua
+cd ~/.config/lvim
+ls
+vi config.lua
+cd ~/.local/share/lunarvim/lvim/utils/installer/
+ls
+cat *
+lvim
+lvim
+lvim
+lvim
+lvim
+bash ~/.local/share/lunarvim/lvim/utils/installer/uninstall.sh
+cd
+rm -rf .config/lvim ~/.local/share/nvim ~/.local/share/lunarvim.old ~/.local/share/lvim 
+rm -rf ~/.local/state/nvim ~/.local/state/lvim 
+rm -rf .cache/lvim.old .cache/nvim
+git clone --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim\
+nvim
+nvim
+cd Code/HTML-CSS/raxen001.github.io
+ls
+vi index.html
+vi index.html
+cd ~
+cd .config/nv
+cd .config/nvim
+lls
+n
+nvim
+nvim
+nvim
+nvim
+exit

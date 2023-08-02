@@ -1,5 +1,7 @@
 map i recolor
 
+set selection-notification false
+set selection-clipboard primary
 set adjust-open "best-fit"
 set pages-per-row 1
 

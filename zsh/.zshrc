@@ -34,6 +34,7 @@ setopt autocd extendedglob nomatch
 autoload -Uz compinit
 compinit -d "/home/raxen/.local/configs/dotfiles/zsh/zcompdump-$ZSH_VERSION" 
 # End of lines added by compinstall
+#
 #alias ls='ls -F --color=auto'
 #alias ll='ls -altuh --color=auto'
 #alias la='ls -AF --color=auto'
@@ -122,7 +123,7 @@ man() {
 #preexec() { echo -ne '\e[5 q' ;} # Use beam shape cursor for each new prompt.
 #
 #---------------------------------------------------------------------
-source ~/.local/cargo/env
+#source ~/.local/cargo/env
 source ~/.local/configs/sourcepkgs/nnn/misc/quitcd/quitcd.bash_zsh
-source ~/.local/configs/dotfiles/zsh/hugo_comple.zsh 
-source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source ~/.local/configs/dotfiles/zsh/hugo_comple.zsh
+#source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
