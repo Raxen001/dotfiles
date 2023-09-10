@@ -43,7 +43,8 @@ export WINEPREFIX=/home/raxen/Games/wine
 export ELINKS_CONFDIR="$HOME/.config/elinks"
 export SSB_HOME="$XDG_DATA_HOME"/zoom
 #export MPD_HOST=$HOME/.config/mpd/socket
-
+export PATH=/usr/bin:$PATH
+export DOCKER_HOST=unix:///run/user/1000/docker.sock
 #-------------------------------------------------------------------------------
 # Taskwarrior
 export TASKRC="$HOME/.config/task/taskrc"

@@ -38,7 +38,7 @@ keybinds clear-defaults=true{
         bind "c" { SwitchToMode "RenamePane"; PaneNameInput 0;}
     }
     move {
-        bind "Ctrl h" { SwitchToMode "Normal"; }
+        bind "Alt m" { SwitchToMode "Normal"; }
         bind "n" "Tab" { MovePane; }
         bind "p" { MovePaneBackwards; }
         bind "h" "Left" { MovePane "Left"; }
@@ -107,7 +107,7 @@ keybinds clear-defaults=true{
         bind "Esc" { UndoRenamePane; SwitchToMode "Pane"; }
     }
     session {
-        bind "Ctrl x" { SwitchToMode "Normal"; }
+        bind "Alt o" { SwitchToMode "Normal"; }
         bind "Ctrl s" { SwitchToMode "Scroll"; }
         bind "d" { Detach; }
     }
@@ -160,13 +160,13 @@ keybinds clear-defaults=true{
         bind "Ctrl s" { SwitchToMode "Scroll"; }
     }
     shared_except "session" "locked" {
-        bind "Ctrl x" { SwitchToMode "Session"; }
+        bind "Alt o" { SwitchToMode "Session"; }
     }
     shared_except "tab" "locked" {
         bind "Alt t" { SwitchToMode "Tab"; }
     }
     shared_except "move" "locked" {
-        bind "Ctrl h" { SwitchToMode "Move"; }
+        bind "Alt m" { SwitchToMode "Move"; }
     }
     shared_except "tmux" "locked" {
         bind "Ctrl b" { SwitchToMode "Tmux"; }
@@ -209,7 +209,7 @@ plugins {
 //   - true (default)
 //   - false
 //
-// pane_frames true
+pane_frames false
 
 // Toggle between having Zellij lay out panes according to a predefined set of layouts whenever possible
 // Options:
@@ -222,6 +222,21 @@ plugins {
 // For more examples, see: https://github.com/zellij-org/zellij/tree/main/example/themes
 // Once these themes are defined, one of them should to be selected in the "theme" section of this file
 //
+themes {
+    pencil-light {
+        fg "#005F87"
+        bg "#424242"
+        black "#424242"
+        red "#B6D6FD"
+        green "#10A778"
+        yellow "#A89C14"
+        blue "#008EC4"
+        magenta "#B6D6FD"
+        cyan "#20A5BA"
+        white "#f1f1f1"
+        orange "#D75F5F"
+    }
+}
 // themes {
 //     dracula {
 //         fg 248 248 242
@@ -241,7 +256,9 @@ plugins {
 // Choose the theme that is specified in the themes section.
 // Default: default
 //
-// theme "default"
+//theme "dracula"
+theme "pencil-light"
+//theme "catppuccin-latte" // or latte, frappe and macchiato
 
 // The name of the default layout to load on startup
 // Default: "default"

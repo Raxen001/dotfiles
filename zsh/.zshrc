@@ -1,4 +1,5 @@
 # vim: set nowrap
+
 #[[ -z $DISPLAY && $XDG_VTNR -eq 1 ]] && exec startx '/home/raxen/.local/configs/dotfiles/xinitrc' &> /dev/null
 #[[ $(fgconsole 2>/dev/null) == 1 ]] && exec startx '/home/raxen/.local/configs/dotfiles/xinitrc' -- vt1 &> /dev/null
 #[[ $(fgconsole 2>/dev/null) == 2 ]] && exec Hyprland &> /dev/null
@@ -69,8 +70,8 @@ alias ins='sudo cp config.def.h config.h && sudo make clean install'
 alias lynx='lynx -cfg=~/.config/lynxrc'
 #alias newsboat='newsboat --url-file=/home/raxen/.local/configs/dotfiles/newsboat/rss-feed --cache-file=/home/raxen/.cache/newsboat.db'
 alias newsboat='newsboat --cache-file=/home/raxen/.cache/newsboat.db'
-alias redyt='bash ~/.local/configs/scripts/redyt.sh'
-alias nnn='nnn -acd'
+# alias redyt='bash ~/.local/configs/scripts/redyt.sh'
+alias nnn='nnn -Aacd'
 
 alias ran='cd ~/Music/Playlist/Random'
 alias rax='cd /home/raxen/Music/Playlist/Raxen_Gamer001/'
@@ -127,3 +128,4 @@ man() {
 source ~/.local/configs/sourcepkgs/nnn/misc/quitcd/quitcd.bash_zsh
 source ~/.local/configs/dotfiles/zsh/hugo_comple.zsh
 #source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+eval "$(zellij setup --generate-auto-start zsh)"
