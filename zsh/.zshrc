@@ -3,24 +3,29 @@
 #[[ -z $DISPLAY && $XDG_VTNR -eq 1 ]] && exec startx '/home/raxen/.local/configs/dotfiles/xinitrc' &> /dev/null
 #[[ $(fgconsole 2>/dev/null) == 1 ]] && exec startx '/home/raxen/.local/configs/dotfiles/xinitrc' -- vt1 &> /dev/null
 #[[ $(fgconsole 2>/dev/null) == 2 ]] && exec Hyprland &> /dev/null
-[[ $(fgconsole 2>/dev/null) == 1 ]] && exec Hyprland &> /dev/null
+#[[ $(fgconsole 2>/dev/null) == 1 ]] && exec Hyprland &> /dev/null
 #[[ -z $DISPLAY && $XDG_VTNR -eq 2 ]] && exec startx '/home/raxen/.local/configs/dotfiles/xinitrc' 
 #[[ $TERM != "screen" ]] && exec tmux
 # set the keyboard rate faster make the input faster
 #xset r rate 220 40 
+#[[ $TERM != "screen" ]] && exec tmux
+#figlet -f Bloody RAXEN | lolcat -ad 1 -s 100
 
 autoload colors && colors
 PS1="%{$fg_bold[blue]%} %B%{$fg_bold[yellow]%}%n%{$fg[white]%} : %{$fg[red]%}%~
 %{$reset_color%}$ %b"
-#[[ $TERM != "screen" ]] && exec tmux
-#figlet -f Bloody RAXEN | lolcat -ad 1 -s 100
 
-# The following lines were added by compinstall
-HISTFILE="~/.local/configs/dotfiles/zsh/histfile"
+# Lines configured by zsh-newuser-install
+HISTFILE=~/.cache/zsh/histfile
 HISTSIZE=1000
 SAVEHIST=1000
-unsetopt beep
-zstyle ':completion:*' completer _expand _complete _ignored _correct _approximate 
+unsetopt autocd beep extendedglob
+bindkey -v
+# End of lines configured by zsh-newuser-install
+
+# The following lines were added by compinstall
+
+zstyle ':completion:*' completer _expand _complete _ignored _correct _approximate
 zstyle ':completion:*' group-name ''
 zstyle ':completion:*' insert-unambiguous true
 zstyle ':completion:*' list-colors ${(s.:.)LS_COLORS}
@@ -28,12 +33,12 @@ zstyle ':completion:*' list-prompt '%SAt %p: Hit TAB for more, or the character 
 zstyle ':completion:*' menu select=1
 zstyle ':completion:*' original true
 zstyle ':completion:*' select-prompt '%SScrolling active: current selection at %p%s'
+zstyle ':completion:*' use-compctl true
 zstyle ':completion:*' verbose true
 zstyle :compinstall filename '/home/raxen/.local/configs/dotfiles/zsh/.zshrc'
-setopt autocd extendedglob nomatch 
 
 autoload -Uz compinit
-compinit -d "/home/raxen/.local/configs/dotfiles/zsh/zcompdump-$ZSH_VERSION" 
+compinit
 # End of lines added by compinstall
 #
 #alias ls='ls -F --color=auto'
@@ -125,7 +130,12 @@ man() {
 #
 #---------------------------------------------------------------------
 #source ~/.local/cargo/env
+#
+#zsh syntax
+source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+#zsh auto suggest
+source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+
 source ~/.local/configs/sourcepkgs/nnn/misc/quitcd/quitcd.bash_zsh
 source ~/.local/configs/dotfiles/zsh/hugo_comple.zsh
-#source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 eval "$(zellij setup --generate-auto-start zsh)"

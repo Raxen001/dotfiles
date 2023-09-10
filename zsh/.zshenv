@@ -28,10 +28,10 @@ export PAGER='less -R'
 #    -c 'nmap K :Man <C-R>=expand(\\\"<cword>\\\")<CR><CR>' -\""
 #    
 export NPM_CONFIG_PREFIX="$HOME/.local/npm"
-export ZDOTDIR="/home/raxen/.local/configs/dotfiles/zsh"
-export HISTFILE="/home/raxen/.local/configs/dotfiles/zsh/history"
+export ZDOTDIR="$HOME/.local/configs/dotfiles/zsh"
+export HISTFILE="$HOME/.cache/zsh/histfile"
 export PYLINTHOME="$XDG_CACHE_HOME"/pylint
-export PASSWORD_STORE_DIR="/home/raxen/.local/configs/personal/password-store"
+export PASSWORD_STORE_DIR="$HOME/.local/configs/personal/password-store"
 export LESSHISTFILE='~/.cache/lessht'
 export CUDA_CACHE_PATH="$XDG_CACHE_HOME"/nv
 export XAUTHORITY="$XDG_RUNTIME_DIR"/Xauthority

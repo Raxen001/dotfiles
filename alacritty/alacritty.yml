@@ -12,3 +12,5 @@ window:
   opacity: 1.0
 key_bindings:
   - { key: Return, mods: Alt|Shift, action: SpawnNewInstance }
+  - { key: F11, action: ToggleFullscreen }
+decorations: none
