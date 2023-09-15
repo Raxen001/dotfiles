@@ -107,7 +107,16 @@ man() {
         LESS_TERMCAP_us=$'\e[01;32m' \
         command man "$@"
 }
+
 #-------------------------------------------------------------------------------
+# zellij - terminal multiplexer
+#
+function zr () { zellij run --name "$*" -- zsh -ic "$*";}
+function zrf () { zellij run --name "$*" --floating -- zsh -ic "$*";}
+function ze () { zellij edit "$*";}
+function zef () { zellij edit --floating "$*";}
+#-------------------------------------------------------------------------------
+#
 # Vi mode
 # bindkey -e
 #export KEYTIMEOUT=1
