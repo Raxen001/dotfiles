@@ -26,7 +26,7 @@ window:
 
   dynamic_padding: true
 
-  decorations: full
+  decorations: none
 
 key_bindings:
   # - { key: Return, mods: Alt|Shift, action: SpawnNewInstance }

@@ -1,0 +1,17 @@
+layout {
+    tab_template name="tabs" {
+        children
+        pane size=1 borderless=true {
+            plugin location="zellij:compact-bar"
+        }
+    }
+    tabs name="1" {  }
+    tabs name="2" {  }
+    tabs name="3" {  }
+    tabs name="4" {  }
+    tabs name="5" {  }
+    tabs name="6" {  }
+    tabs name="7" {  }
+    tabs name="8" {  }
+    tabs name="9" {  }
+}
