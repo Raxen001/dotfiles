@@ -1,5 +1,6 @@
 import:
   - ~/.config/alacritty/themes/themes/papercolor_dark.yaml
+  # - ~/.config/alacritty/themes/themes/kanagawa_dragon.yaml
 font:
   normal:
     family: Hack Nerd Font
@@ -18,7 +19,7 @@ font:
 draw_bold_text_with_bright_colors: false
 
 window:
-  opacity: 1.0
+  opacity: 0.8
 
   padding:
     x: 2
@@ -31,7 +32,6 @@ window:
 key_bindings:
   # - { key: Return, mods: Alt|Shift, action: SpawnNewInstance }
   - { key: F11, action: ToggleFullscreen }
-decorations: none
 
 mouse:
   hints:

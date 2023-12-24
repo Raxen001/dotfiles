@@ -9,9 +9,9 @@ export XDG_PICTURES_DIR="$HOME/Pictures"
 export XDG_VIDEOS_DIR="$HOME/Videos"
 export XDG_MUSIC_DIR="$HOME/Music"
 
-export QT_QPA_PLATFORMTHEME="qt5ct"
-export QT_QPA_PLATFORM="wayland;xcb"
-export SDL_VIDEODRIVER="wayland"
+# export QT_QPA_PLATFORMTHEME="qt5ct"
+# export QT_QPA_PLATFORM="wayland;xcb"
+# export SDL_VIDEODRIVER="wayland"
 #-------------------------------------------------------------------------------
 #Environmental Variables
 export PATH="$HOME/.local/bin:$PATH"
@@ -19,7 +19,7 @@ export EDITOR='nvim'
 export TERMINAL='alacritty'
 # set `TERM` for icons in tmux
 export TERM='alacritty'
-export BROWSER='firefox'
+# export BROWSER='firefox'
 export TEXTNOTE_DIR="/home/raxen/Documents/personal_notes/NOTES"
 export PAGER='less -R'
 #export PAGER="/bin/sh -c \"unset PAGER;col -b -x | \
@@ -68,5 +68,12 @@ export NNN_OPENER=$HOME/.config/nnn/plugins/nuke
 export NNN_OPENER=$HOME/.config/nnn/plugins/nuke
 export NPM_CONFIG_USERCONFIG=$XDG_CONFIG_HOME/npm/npmrc
 #-------------------------------------------------------------------------------
+#NODE
+export NODE_REPL_HISTORY="$XDG_DATA_HOME"/node_repl_history 
+export NPM_CONFIG_USERCONFIG=$XDG_CONFIG_HOME/npm/npmrc
+#-------------------------------------------------------------------------------
+##Docker
+export DOCKER_CONFIG="$XDG_CONFIG_HOME"/docker 
 # Yuzu
 #export __GL_THREADED_OPTIMIZATIONS=1
+. "/home/raxen/.local/cargo/env"

@@ -63,10 +63,19 @@ google_kickstart - https://codingcompetitions.withgoogle.com/kickstart
 ietf - https://datatracker.ietf.org/
 a2oj - https://a2oj.com/categories
 
+---deployment---
+flow - https://www.fl0.com/
+fly - https://fly.io/
+bulma_css - https://bulma.io/
+
+
 ---network---
 portchecker - https://portchecker.co/
 duckdns - https://duckdns.org/
 
+---dev tools---
+curl2 - https://curlconverter.com/
+tools - http://it-tools.tech/
 
 ---Learn---
 Wikipedia - https://wikipedia.com
@@ -80,9 +89,13 @@ learnxiny - https://learnxinyminutes.com/
 cpu - https://cpu.land/
 git - https://github.com/git-school/visualizing-git
 rust - https://fasterthanli.me/articles/a-half-hour-to-learn-rust
+competetive_programming - https://usaco.guide/general/data-types?lang=py
+competetive_programming - https://cp-algorithms.com
+gitignore - https://www.toptal.com/developers/gitignore
 
 --- learn youtube ---
 networks - https://www.youtube.com/@PowerCertAnimatedVideos
+
 
 
 --- anime --- 

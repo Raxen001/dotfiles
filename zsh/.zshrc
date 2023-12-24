@@ -1,4 +1,5 @@
 # vim: set nowrap
+#cd $HOME
 
 #[[ -z $DISPLAY && $XDG_VTNR -eq 1 ]] && exec startx '/home/raxen/.local/configs/dotfiles/xinitrc' &> /dev/null
 #[[ $(fgconsole 2>/dev/null) == 1 ]] && exec startx '/home/raxen/.local/configs/dotfiles/xinitrc' -- vt1 &> /dev/null
@@ -44,10 +45,12 @@ compinit
 #alias ls='ls -F --color=auto'
 #alias ll='ls -altuh --color=auto'
 #alias la='ls -AF --color=auto'
+## fedora speicifc
+alias up="sudo dnf update --refresh -y && sudo flatpak update -y"
 #-------------------------------------------------------------------------------
-alias ls='exa -F --color=auto --color-scale --icons'
-alias la='exa -BhFa --color=auto --color-scale --icons'
-alias ll='exa -ahHlF -t modified --color=auto'
+alias ls='eza -F --color=auto --color-scale --icons'
+alias la='eza -BhFa --color=auto --color-scale --icons'
+alias ll='eza -ahHlF -t modified --color=auto'
 alias cat='bat --theme=gruvbox-dark'
 alias qr='qrencode -t ansi'
 alias nvidia-settings="nvidia-settings --config=/home/raxen/.config/nvidia/settings"
@@ -98,16 +101,19 @@ alias -s pdf=zathura
 alias -s {mp3,mp4,mkv,webm}=mpv
 alias -s {json,c,cpp,py,txt,html,vim,md,txt}=nvim
 #-------------------------------------------------------------------------------
-man() {
-        LESS_TERMCAP_md=$'\e[01;31m' \
-        LESS_TERMCAP_me=$'\e[0m' \
-        LESS_TERMCAP_se=$'\e[0m' \
-        LESS_TERMCAP_so=$'\e[01;44;33m' \
-        LESS_TERMCAP_ue=$'\e[0m' \
-        LESS_TERMCAP_us=$'\e[01;32m' \
-        command man "$@"
-}
-
+# man() {
+#         LESS_TERMCAP_md=$'\e[01;31m' \
+#         LESS_TERMCAP_me=$'\e[0m' \
+#         LESS_TERMCAP_se=$'\e[0m' \
+#         LESS_TERMCAP_so=$'\e[01;44;33m' \
+#         LESS_TERMCAP_ue=$'\e[0m' \
+#         LESS_TERMCAP_us=$'\e[01;32m' \
+#         command man "$@"
+# }
+export MANPAGER='nvim +Man!'
+export MANWIDTH=999
+# MANPAGER="sh -c 'col -bx | bat -l man -p'"
+# export MANWIDTH=100
 #-------------------------------------------------------------------------------
 # zellij - terminal multiplexer
 #
@@ -151,5 +157,4 @@ source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 source ~/.local/configs/sourcepkgs/nnn/misc/quitcd/quitcd.bash_zsh
 source ~/.local/configs/dotfiles/zsh/hugo_comple.zsh
-eval "$(zellij setup --generate-auto-start zsh)"
-eval "$(zellij setup --generate-auto-start zsh)"
+# eval "$(zellij setup --generate-auto-start zsh)"
