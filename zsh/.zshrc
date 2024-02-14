@@ -157,4 +157,4 @@ source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 source ~/.local/configs/sourcepkgs/nnn/misc/quitcd/quitcd.bash_zsh
 source ~/.local/configs/dotfiles/zsh/hugo_comple.zsh
-# eval "$(zellij setup --generate-auto-start zsh)"
+eval "$(zellij setup --generate-auto-start zsh)"

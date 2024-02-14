@@ -1,0 +1,38 @@
+import = ["/home/raxen/.config/alacritty/themes/themes/papercolor_dark.toml"]
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+[cursor]
+style = "Block"
+unfocused_hollow = true
+
+[font]
+size = 14
+
+[font.glyph_offset]
+x = 0
+y = 0
+
+[font.normal]
+family = "Hack Nerd Font"
+
+[font.offset]
+x = 0
+y = 0
+
+[[keyboard.bindings]]
+action = "ToggleFullscreen"
+key = "F11"
+
+# [mouse.hints]
+# launcher = "xdg-open"
+
+[window]
+decorations = "none"
+dynamic_padding = true
+opacity = 0.8
+
+[window.padding]
+x = 2
+y = 2
