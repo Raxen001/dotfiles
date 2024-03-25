@@ -99,7 +99,7 @@ keybinds  clear-defaults=true{
         bind "N" { Search "up"; }
     }
     entersearch {
-        bind "Ctrl c" "Esc" { SwitchToMode "Scroll"; }
+        bind "Ctrl c" "Esc" { SwitchToMode "Normal"; }
         bind "Enter" { SwitchToMode "Search"; }
     }
     renametab {
@@ -395,3 +395,8 @@ copy_on_select true
 // Default: true
 //
 styled_underlines true
+ui {
+  pane_frames {
+    hide_session_name true
+  }
+}
