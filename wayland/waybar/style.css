@@ -1,171 +1,82 @@
-@import "mocha.css";
 * {
-  font-family: Symbols Nerd Font, Iosevka Medium, monospace;
-  font-size: 15px;
-  border: none;
-  border-radius: 0;
-  min-height: 0;
+  font-size: 14px;
+  font-family: monospace;
 }
 
 window#waybar {
-  transition-property: background-color;
-  transition-duration: 0.5s;
-  background: none;
-  padding: 0;
-  margin: 0;
+  background: rgba(0, 0, 0, 0.0);
+  color: #c8c093;
 }
 
-window#waybar.hidden {
-  opacity: 0.5;
+.horizontal {
+  margin: 0.2em 0.2em 0em 0.2em;
+  border-radius: 0 0 0.8em 0.8em;
 }
 
-#waybar.empty #window {
-  background: none;
+.horizontal .modules-left,
+.horizontal .modules-center,
+.horizontal .modules-right
+{
+  background-color: rgba(50,50,50,0.4);
+}
+
+.horizontal .modules-center{
+  padding: 0 1.3em 0 1.3em;
+}
+
+.horizontal .modules-right  {
+  margin: 0 2.3em 0 1.3em;
+
 }
 
 
-.modules-left, .modules-center, .modules-right {
-  background: @theme_base_color;
-  border: 3px solid @overlay0;
-  padding: 0px 5px;
+#workspaces {
+  color: #fff;
 }
 
-.modules-center {
-  /* border: 3px solid @lavender; */
-  margin: 0px 5px;
+#workspaces button {
+  color:#fff;
+  /* background-color: #1e1e1e; */
 }
-
-#idle_inhibitor,
-#backlight,
-#battery,
-#clock,
-#cpu,
-#disk,
-#mode,
-#memory,
-#tray,
-#pulseaudio,
-#custom-menu,
-#custom-power,
-#custom-weather,
-#custom-updater,
-#custom-vpn_check,
-#custom-uptime,
-#custom-cputemp,
-#custom-waybar-mpris,
-#window,
-#network {
-  padding: 0px 4px;
+#workspaces button.empty {
+  color: #727169;
+  /* background-color: #222; */
 }
-
-#idle_inhibitor {
-  color: @blue;
+#workspaces button.visible {
+  color: #fff;
 }
-
-#backlight {
-  color: @blue;
-}
-
-#battery {
-  color: @green;
-}
-
-@keyframes blink {
-  to {
-    color: @surface0;
-  }
-}
-
-#battery.critical:not(.charging) {
-  background-color: @red;
-  color: @theme_text_color;
-  animation-name: blink;
-  animation-duration: 0.5s;
-  animation-timing-function: linear;
-  animation-iteration-count: infinite;
-  animation-direction: alternate;
-}
-
-#clock {
-  color: @yellow;
-}
-
-#cpu {
-  color: @green;
-}
-
-#memory {
-  color: @sky;
-}
-
-#disk {
-  color: @sapphire;
-}
-
-#tray > .passive {
-  -gtk-icon-effect: dim;
-}
-#tray > .needs-attention {
-  -gtk-icon-effect: highlight;
-}
-
 #workspaces button.active {
-  color: @peach;
-  border-radius: 0px;
+  background: #222;
+  color: #76946a;
+  font-weight: bold;
 }
 
-#custom-menu {
-  color: @rosewater;
+#mpris {
+  color: #757800;
+}
+#clock {
+  margin-left: 2em;
+  font-weight: bold;
 }
 
-#custom-power {
-  color: @red;
-  margin-right: 3px;
+#wireplumber,
+#memory,
+#cpu,
+#battery,
+#tray
+{
+  margin: 0 1em 0 1em;
 }
 
-#custom-updater {
-  color: @red;
+#wireplumber {
+  color: #268bd2;
 }
-
-#custom-uptime {
-  color: @blue;
+#memory {
+  color: #2aa198;
 }
-
-#custom-weather {
-  color: @lavender;
+#cpu {
+  color: #6c71c4;
 }
-
-#custom-vpn_check {
-  color: @sky;
-}
-#custom-cputemp {
-  color: @teal;
-}
-
-#pulseaudio {
-  color: @sapphire;
-}
-
-#pulseaudio.bluetooth {
-  color: @pink;
-}
-#pulseaudio.muted {
-  color: @red;
-}
-
-#window {
-  color: @mauve;
-}
-
-#custom-waybar-mpris {
-  color:@lavender;
-}
-
-#network {
-  color: @teal;
-}
-#network.disconnected,
-#network.disabled {
-  background-color: @surface0;
-  color: @text;
+#battery {
+  color: #859900;
 }

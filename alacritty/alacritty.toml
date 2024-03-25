@@ -1,4 +1,4 @@
-import = ["/home/raxen/.config/alacritty/themes/themes/papercolor_dark.toml"]
+#import = ["/home/raxen/.config/alacritty/themes/themes/papercolor_dark.toml"]
 
 [colors]
 draw_bold_text_with_bright_colors = false
@@ -31,7 +31,7 @@ key = "F11"
 [window]
 decorations = "none"
 dynamic_padding = true
-opacity = 1.0
+opacity = 0.8
 
 [window.padding]
 x = 2

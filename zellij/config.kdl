@@ -129,9 +129,10 @@ keybinds  clear-defaults=true{
     // pane
       // create new pane
         bind "Alt n" { NewPane; }
+        bind "Alt N" { NewPane "Down"; }
       // movement keys
-        bind "Alt h" "Alt Left" { MoveFocusOrTab "Left"; }
-        bind "Alt l" "Alt Right" { MoveFocusOrTab "Right"; }
+        bind "Alt h" "Alt Left" { MoveFocus "Left"; }
+        bind "Alt l" "Alt Right" { MoveFocus "Right"; }
         bind "Alt j" "Alt Down" { MoveFocus "Down"; }
         bind "Alt k" "Alt Up" { MoveFocus "Up"; }
       // resize panes
@@ -265,13 +266,13 @@ auto_layout true
 //   - true (default)
 //   - false
 //
-session_serialization false
+session_serialization true
 
 // Whether pane viewports are serialized along with the session, default is false
 // Options:
 //   - true
 //   - false (default)
-serialize_pane_viewport false
+serialize_pane_viewport true
 
 // Scrollback lines to serialize along with the pane viewport when serializing sessions, 0
 // defaults to the scrollback size. If this number is higher than the scrollback size, it will
