@@ -46,7 +46,7 @@ compinit
 #alias ll='ls -altuh --color=auto'
 #alias la='ls -AF --color=auto'
 ## fedora speicifc
-alias up="sudo dnf update --refresh -y && sudo flatpak update -y"
+alias up="sudo dnf5 update --refresh -y && sudo flatpak update -y"
 #-------------------------------------------------------------------------------
 alias ls='eza -F --color=auto --color-scale --icons'
 alias la='eza -BhFa --color=auto --color-scale --icons'
@@ -58,9 +58,11 @@ alias nvidia-settings="nvidia-settings --config=/home/raxen/.config/nvidia/setti
 alias ip='ip -c'
 alias tree='tree -C'
 
-alias vi='nvim'
-alias vim='nvim'
-alias novim='nvim -u ~/.local/configs/dotfiles/nvim/norc.vim'
+#alias vi='nvim'
+#alias vim='nvim'
+#alias novim='nvim -u ~/.local/configs/dotfiles/nvim/norc.vim'
+alias vi='lvim'
+alias vim='lvim'
 
 alias zathura='zathura --fork'
 alias glow='glow -p'

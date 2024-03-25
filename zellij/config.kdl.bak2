@@ -1,5 +1,5 @@
 // If you'd like to override the default keybindings completely, be sure to change "keybinds" to "keybinds clear-defaults=true"
-keybinds  clear-defaults=true{
+keybinds {
     normal {
         // uncomment this and adjust key if using copy_on_select=false
         // bind "Alt c" { Copy; }
@@ -91,20 +91,19 @@ keybinds  clear-defaults=true{
         bind "Ctrl b" "PageUp" "Left" "h" { PageScrollUp; }
         bind "d" { HalfPageScrollDown; }
         bind "u" { HalfPageScrollUp; }
+        bind "n" { Search "down"; }
+        bind "p" { Search "up"; }
         bind "c" { SearchToggleOption "CaseSensitivity"; }
         bind "w" { SearchToggleOption "Wrap"; }
         bind "o" { SearchToggleOption "WholeWord"; }
-    // next and prev in search
-        bind "n" { Search "down"; }
-        bind "N" { Search "up"; }
     }
     entersearch {
         bind "Ctrl c" "Esc" { SwitchToMode "Scroll"; }
         bind "Enter" { SwitchToMode "Search"; }
     }
     renametab {
-        bind "Ctrl c" "Enter"{ SwitchToMode "Normal"; }
-        bind "Esc" { UndoRenameTab; SwitchToMode "Normal"; }
+        bind "Ctrl c" { SwitchToMode "Normal"; }
+        bind "Esc" { UndoRenameTab; SwitchToMode "Tab"; }
     }
     renamepane {
         bind "Ctrl c" { SwitchToMode "Normal"; }
@@ -122,102 +121,104 @@ keybinds  clear-defaults=true{
             SwitchToMode "Normal"
         }
     }
+    tmux {
+        bind "[" { SwitchToMode "Scroll"; }
+        bind "Ctrl b" { Write 2; SwitchToMode "Normal"; }
+        bind "\"" { NewPane "Down"; SwitchToMode "Normal"; }
+        bind "%" { NewPane "Right"; SwitchToMode "Normal"; }
+        bind "z" { ToggleFocusFullscreen; SwitchToMode "Normal"; }
+        bind "c" { NewTab; SwitchToMode "Normal"; }
+        bind "," { SwitchToMode "RenameTab"; }
+        bind "p" { GoToPreviousTab; SwitchToMode "Normal"; }
+        bind "n" { GoToNextTab; SwitchToMode "Normal"; }
+        bind "Left" { MoveFocus "Left"; SwitchToMode "Normal"; }
+        bind "Right" { MoveFocus "Right"; SwitchToMode "Normal"; }
+        bind "Down" { MoveFocus "Down"; SwitchToMode "Normal"; }
+        bind "Up" { MoveFocus "Up"; SwitchToMode "Normal"; }
+        bind "h" { MoveFocus "Left"; SwitchToMode "Normal"; }
+        bind "l" { MoveFocus "Right"; SwitchToMode "Normal"; }
+        bind "j" { MoveFocus "Down"; SwitchToMode "Normal"; }
+        bind "k" { MoveFocus "Up"; SwitchToMode "Normal"; }
+        bind "o" { FocusNextPane; }
+        bind "d" { Detach; }
+        bind "Space" { NextSwapLayout; }
+        bind "x" { CloseFocus; SwitchToMode "Normal"; }
+    }
     shared_except "locked" {
         bind "Ctrl g" { SwitchToMode "Locked"; }
         bind "Ctrl q" { Quit; }
-        bind "Alt C" { CloseFocus; SwitchToMode "Normal"; }
-    // pane
-      // create new pane
         bind "Alt n" { NewPane; }
-      // movement keys
-        bind "Alt h" "Alt Left" { MoveFocusOrTab "Left"; }
-        bind "Alt l" "Alt Right" { MoveFocusOrTab "Right"; }
+//        bind "Alt h" "Alt Left" { MoveFocusOrTab "Left"; }
+//        bind "Alt l" "Alt Right" { MoveFocusOrTab "Right"; }
+//        bind "Alt j" "Alt Down" { MoveFocus "Down"; }
+//        bind "Alt k" "Alt Up" { MoveFocus "Up"; }
+        bind "Alt h" "Alt Left" { MoveFocus "Left"; }
+        bind "Alt l" "Alt Right" { MoveFocus "Right"; }
         bind "Alt j" "Alt Down" { MoveFocus "Down"; }
         bind "Alt k" "Alt Up" { MoveFocus "Up"; }
-      // resize panes
-        bind "Alt H" { Resize "Left"; }
-        bind "Alt L" { Resize "Right"; }
-        bind "Alt J" { Resize "Down"; }
-        bind "Alt K" { Resize "Up"; }
-      // rename
-        bind "Alt r" {SwitchToMode "RenameTab"; TabNameInput 0;}
-    // search
-      // search through buffer using editor
-        bind "Alt e" {EditScrollback;}
-        bind "Alt s" {SwitchToMode "EnterSearch"; SearchInput 0;}
-      // move through buffer
-        bind "Alt d" { HalfPageScrollDown; }
-        bind "Alt u" { HalfPageScrollUp; }
-      // layout changing
-        bind "Alt ," { PreviousSwapLayout; }
-        bind "Alt ." { NextSwapLayout; }
-        bind "Alt m" { ToggleFocusFullscreen;}
-      // floating
-        bind "Alt w" { ToggleFloatingPanes; SwitchToMode "Normal"; }
-        bind "Alt f" { TogglePaneEmbedOrFloating; SwitchToMode "Normal"; }
-    //tabs
-      //new tab
-        bind "Alt t" {NewTab;}
-      // tab switching
-        bind "Alt 1" { GoToTab 1;}
-        bind "Alt 2" { GoToTab 2;}
-        bind "Alt 3" { GoToTab 3;}
-        bind "Alt 4" { GoToTab 4;}
-        bind "Alt 5" { GoToTab 5;}
-        bind "Alt 6" { GoToTab 6;}
-        bind "Alt 7" { GoToTab 7;}
-        bind "Alt 8" { GoToTab 8;}
-        bind "Alt 9" { GoToTab 9;}
-      // move pane between tabs
-        bind "Alt ]" {BreakPaneRight;}
-        bind "Alt [" {BreakPaneLeft;}
-        bind "Alt b" {BreakPane;}
-    // move panes within tab
-        bind "Alt Left"{ MovePane "Left"; }
-        bind "Alt Down"{ MovePane "Down"; }
-        bind "Alt Up"{ MovePane "Up"; }
-        bind "Alt Right"{ MovePane "Right"; }
-    // session
-        bind "Alt O" { Detach; }
-        bind "Alt o" {
-            LaunchOrFocusPlugin "zellij:session-manager" {
-                floating true
-                move_to_focused_tab true
-            };
-            SwitchToMode "Normal"
-        }
+        bind "Alt =" "Alt +" { Resize "Increase"; }
+        bind "Alt -" { Resize "Decrease"; }
+        bind "Alt [" { PreviousSwapLayout; }
+        bind "Alt ]" { NextSwapLayout; }
+
+        //my binding
+        // user keybinds
+        bind "Alt 1" { GoToTab 1; }
+        bind "Alt 2" { GoToTab 2; }
+        bind "Alt 3" { GoToTab 3; }
+        bind "Alt 4" { GoToTab 4; }
+        bind "Alt 5" { GoToTab 5; }
+        bind "Alt 6" { GoToTab 6; }
+        bind "Alt 7" { GoToTab 7; }
+        bind "Alt 8" { GoToTab 8; }
+        bind "Alt 9" { GoToTab 9; }
+
+       // bind "Alt e" { LaunchOrFocusPlugin "zellij:strider" ; }
+
+        bind "Alt n" { NewPane; }
+        bind "Alt d" { NewPane "Down"; SwitchToMode "Normal"; }
+        bind "Alt C" { CloseFocus; SwitchToMode "Normal"; }
+        bind "Alt t" { NewTab; SwitchToMode "Normal"; }
+       // resize
+        bind "Alt H" { Resize "Increase Left"; }
+        bind "Alt J" { Resize "Increase Down"; }
+        bind "Alt K" { Resize "Increase Up"; }
+        bind "Alt L" { Resize "Increase Right"; }
+
+        bind "Alt m" { ToggleFocusFullscreen; SwitchToMode "Normal"; }
+
 
     }
-//    shared_except "normal" "locked" {
-//        bind "Enter" "Esc" { SwitchToMode "Normal"; }
-//    }
-//    shared_except "pane" "locked" {
-//        bind "Alt p" { SwitchToMode "Pane"; }
-//    }
-//    shared_except "resize" "locked" {
-//        bind "Ctrl n" { SwitchToMode "Resize"; }
-//    }
-//    shared_except "scroll" "locked" {
-//        bind "Alt s" { SwitchToMode "Scroll"; }
-//    }
-//    shared_except "session" "locked" {
-//        bind "Ctrl o" { SwitchToMode "Session"; }
-//    }
-//    shared_except "tab" "locked" {
-//        bind "Ctrl t" { SwitchToMode "Tab"; }
-//    }
-//    shared_except "move" "locked" {
-//        bind "Ctrl h" { SwitchToMode "Move"; }
-//    }
-//    shared_except "tmux" "locked" {
-//        bind "Ctrl b" { SwitchToMode "Tmux"; }
-//    }
+    shared_except "normal" "locked" {
+        bind "Enter" "Esc" { SwitchToMode "Normal"; }
+    }
+    shared_except "pane" "locked" {
+        bind "Ctrl p" { SwitchToMode "Pane"; }
+    }
+    shared_except "resize" "locked" {
+        bind "Ctrl n" { SwitchToMode "Resize"; }
+    }
+    shared_except "scroll" "locked" {
+        bind "Ctrl s" { SwitchToMode "Scroll"; }
+    }
+    shared_except "session" "locked" {
+        bind "Ctrl o" { SwitchToMode "Session"; }
+    }
+    shared_except "tab" "locked" {
+        bind "Ctrl t" { SwitchToMode "Tab"; }
+    }
+    shared_except "move" "locked" {
+        bind "Ctrl h" { SwitchToMode "Move"; }
+    }
+    shared_except "tmux" "locked" {
+        bind "Ctrl b" { SwitchToMode "Tmux"; }
+    }
 }
 
 plugins {
     tab-bar { path "tab-bar"; }
     status-bar { path "status-bar"; }
-    strider { path "strider"; }
+    //strider { path "strider"; }
     compact-bar { path "compact-bar"; }
     session-manager { path "session-manager"; }
 }
@@ -240,7 +241,7 @@ simplified_ui true
 // Choose the path to the default shell that zellij will use for opening new panes
 // Default: $SHELL
 //
-default_shell "zsh"
+// default_shell "fish"
 
 // Choose the path to override cwd that zellij will use for opening new panes
 //
@@ -258,26 +259,26 @@ pane_frames false
 //   - true (default)
 //   - false
 //
-auto_layout true
+// auto_layout true
 
 // Whether sessions should be serialized to the cache folder (including their tabs/panes, cwds and running commands) so that they can later be resurrected
 // Options:
 //   - true (default)
 //   - false
 //
-session_serialization false
+// session_serialization false
 
 // Whether pane viewports are serialized along with the session, default is false
 // Options:
 //   - true
 //   - false (default)
-serialize_pane_viewport false
+// serialize_pane_viewport true
 
 // Scrollback lines to serialize along with the pane viewport when serializing sessions, 0
 // defaults to the scrollback size. If this number is higher than the scrollback size, it will
 // also default to the scrollback size. This does nothing if `serialize_pane_viewport` is not true.
 //
-scrollback_lines_to_serialize 10000
+// scrollback_lines_to_serialize 10000
 
 // Define color themes for Zellij
 // For more examples, see: https://github.com/zellij-org/zellij/tree/main/example/themes
@@ -322,7 +323,7 @@ theme "kanagawa"
 // The name of the default layout to load on startup
 // Default: "default"
 //
-default_layout "compact"
+default_layout "default"
 
 // Choose the mode that zellij uses when starting up.
 // Default: normal
@@ -336,7 +337,7 @@ default_layout "compact"
 //   - true (default)
 //   - false
 //
-mouse_mode true
+// mouse_mode false
 
 // Configure the scroll back buffer size
 // This is the number of lines zellij stores for each pane in the scroll back
@@ -363,7 +364,7 @@ copy_command "wl-copy"                    // wayland
 //   - system (default)
 //   - primary
 //
-copy_clipboard "primary"
+// copy_clipboard "primary"
 
 // Enable or disable automatic copy (and clear) of selection when releasing mouse
 // Default: true
@@ -394,4 +395,9 @@ copy_on_select true
 // May need to be disabled for certain unsupported terminals
 // Default: true
 //
-styled_underlines true
+// styled_underlines false
+ui {
+    pane_frames {
+        hide_session_name true
+    }
+} 

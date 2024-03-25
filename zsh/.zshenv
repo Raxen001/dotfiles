@@ -15,7 +15,7 @@ export XDG_MUSIC_DIR="$HOME/Music"
 #-------------------------------------------------------------------------------
 #Environmental Variables
 export PATH="$HOME/.local/bin:$PATH"
-export EDITOR='nvim'
+export EDITOR='lvim'
 export TERMINAL='alacritty'
 # set `TERM` for icons in tmux
 export TERM='alacritty'
@@ -52,8 +52,6 @@ export TASKDATA="$HOME/Documents/personal_notes/Task"
 
 #-------------------------------------------------------------------------------
 # nnn
-export EDITOR='nvim'
-export TERMINAL='alacritty'
 export NNN_BMS='g:~/Documents/personal_notes/linux/ricing/;p:~/Music/Playlist;n:~/Documents/personal_notes;o:~/Code/Python/Ongoing;b:~/Documents/personal_notes/board/;d:~/.local/configs/dotfiles;u:~/.local/configs/sourcepkgs;s:~/.local/configs/scripts;'
 export NNN_FIFO=/tmp/nnn.fifo
 export NNN_PLUG='f:fzcd;p:preview-tui;w:wall;a:fzplug;c:cmusq;'
