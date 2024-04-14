@@ -304,9 +304,9 @@ scrollback_lines_to_serialize 10000
 // Default: default
 //
 themes {
-    kanagawa {
+    kanagawa2 {
         fg "#DCD7BA"
-        bg "#1F1F28"
+        bg "#C8C093"
         red "#C34043"
         green "#76946A"
         yellow "#FF9E3B"
@@ -318,7 +318,7 @@ themes {
         white "#DCD7BA"
     }
 }
-theme "kanagawa"
+theme "kanagawa2"
 
 // The name of the default layout to load on startup
 // Default: "default"

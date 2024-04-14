@@ -46,7 +46,7 @@ compinit
 #alias ll='ls -altuh --color=auto'
 #alias la='ls -AF --color=auto'
 ## fedora speicifc
-alias up="sudo dnf5 update --refresh -y && sudo flatpak update -y"
+alias up="sudo dnf5 update --refresh -y && flatpak update -y"
 #-------------------------------------------------------------------------------
 alias ls='eza -F --color=auto --color-scale --icons'
 alias la='eza -BhFa --color=auto --color-scale --icons'
