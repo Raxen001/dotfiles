@@ -14,7 +14,10 @@ export XDG_MUSIC_DIR="$HOME/Music"
 # export SDL_VIDEODRIVER="wayland"
 #-------------------------------------------------------------------------------
 #Environmental Variables
+## PATH
 export PATH="$HOME/.local/bin:$PATH"
+export PATH="$XDG_DATA_HOME/go/bin:$PATH"
+
 export EDITOR='lvim'
 export TERMINAL='alacritty'
 # set `TERM` for icons in tmux
@@ -45,6 +48,8 @@ export SSB_HOME="$XDG_DATA_HOME"/zoom
 #export MPD_HOST=$HOME/.config/mpd/socket
 export PATH=/usr/bin:$PATH
 export DOCKER_HOST=unix:///run/user/1000/docker.sock
+export GOPATH="$XDG_DATA_HOME"/go
+export GOMODCACHE="$XDG_CACHE_HOME"/go/mod
 #-------------------------------------------------------------------------------
 # Taskwarrior
 export TASKRC="$HOME/.config/task/taskrc"
