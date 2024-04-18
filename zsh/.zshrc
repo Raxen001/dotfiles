@@ -12,6 +12,7 @@
 #[[ $TERM != "screen" ]] && exec tmux
 #figlet -f Bloody RAXEN | lolcat -ad 1 -s 100
 
+export PATH="/home/raxen/go/bin:$PATH"
 autoload colors && colors
 PS1="%{$fg_bold[blue]%} %B%{$fg_bold[yellow]%}%n%{$fg[white]%} : %{$fg[red]%}%~
 %{$reset_color%}$ %b"
