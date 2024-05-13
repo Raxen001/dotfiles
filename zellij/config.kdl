@@ -84,7 +84,7 @@ keybinds  clear-defaults=true{
     }
     search {
         bind "Ctrl s" { SwitchToMode "Normal"; }
-        bind "Ctrl c" { ScrollToBottom; SwitchToMode "Normal"; }
+        bind "Ctrl c" "Esc" { ScrollToBottom; SwitchToMode "Normal"; }
         bind "j" "Down" { ScrollDown; }
         bind "k" "Up" { ScrollUp; }
         bind "Ctrl f" "PageDown" "Right" "l" { PageScrollDown; }
@@ -172,7 +172,7 @@ keybinds  clear-defaults=true{
       // move pane between tabs
         bind "Alt ]" {BreakPaneRight;}
         bind "Alt [" {BreakPaneLeft;}
-        bind "Alt b" {BreakPane;}
+        bind "Alt \\" {BreakPane;}
     // move panes within tab
         bind "Alt Left"{ MovePane "Left"; }
         bind "Alt Down"{ MovePane "Down"; }
@@ -229,7 +229,7 @@ plugins {
 //   - detach (Default)
 //   - quit
 //
-on_force_close "quit"
+on_force_close "detach"
 
 //  Send a request for a simplified ui (without arrow fonts) to plugins
 //  Options:

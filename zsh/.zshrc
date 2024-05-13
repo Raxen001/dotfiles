@@ -17,9 +17,7 @@ PS1="%{$fg_bold[blue]%} %B%{$fg_bold[yellow]%}%n%{$fg[white]%} : %{$fg[red]%}
 %{$reset_color%}$ %b"
 
 # Lines configured by zsh-newuser-install
-HISTFILE=~/.cache/zsh/histfile
-HISTSIZE=1000
-SAVEHIST=1000
+setopt inc_append_history # append history. shared history between tabs and panes
 unsetopt autocd beep extendedglob
 bindkey -v
 # End of lines configured by zsh-newuser-install
@@ -46,7 +44,7 @@ compinit
 #alias ll='ls -altuh --color=auto'
 #alias la='ls -AF --color=auto'
 ## fedora speicifc
-alias up="sudo dnf5 update --refresh -y && flatpak update -y"
+alias up="sudo dnf update --refresh -y && flatpak update -y"
 #-------------------------------------------------------------------------------
 alias ls='eza -F --color=auto --color-scale --icons'
 alias la='eza -BhFa --color=auto --color-scale --icons'
@@ -81,7 +79,43 @@ alias lynx='lynx -cfg=~/.config/lynxrc'
 #alias newsboat='newsboat --url-file=/home/raxen/.local/configs/dotfiles/newsboat/rss-feed --cache-file=/home/raxen/.cache/newsboat.db'
 alias newsboat='newsboat --cache-file=/home/raxen/.cache/newsboat.db'
 # alias redyt='bash ~/.local/configs/scripts/redyt.sh'
+
+#-------------------------------------------------------------------------------
+#--- nnn ---
 alias nnn='nnn -Aacd'
+n ()
+{
+    # Block nesting of nnn in subshells
+    [ "${NNNLVL:-0}" -eq 0 ] || {
+        echo "nnn is already running"
+        return
+    }
+
+    # The behaviour is set to cd on quit (nnn checks if NNN_TMPFILE is set)
+    # If NNN_TMPFILE is set to a custom path, it must be exported for nnn to
+    # see. To cd on quit only on ^G, remove the "export" and make sure not to
+    # use a custom path, i.e. set NNN_TMPFILE *exactly* as follows:
+    #      NNN_TMPFILE="${XDG_CONFIG_HOME:-$HOME/.config}/nnn/.lastd"
+    export NNN_TMPFILE="${XDG_CONFIG_HOME:-$HOME/.config}/nnn/.lastd"
+
+    # Unmask ^Q (, ^V etc.) (if required, see `stty -a`) to Quit nnn
+    # stty start undef
+    # stty stop undef
+    # stty lwrap undef
+    # stty lnext undef
+
+    # The command builtin allows one to alias nnn to n, if desired, without
+    # making an infinitely recursive alias
+    command nnn -Aacd "$@"
+
+    [ ! -f "$NNN_TMPFILE" ] || {
+        . "$NNN_TMPFILE"
+        rm -f -- "$NNN_TMPFILE" > /dev/null
+    }
+}
+
+#-------------------------------------------------------------------------------
+
 
 alias ran='cd ~/Music/Playlist/Random'
 alias rax='cd /home/raxen/Music/Playlist/Raxen_Gamer001/'
@@ -157,6 +191,5 @@ source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 #zsh auto suggest
 source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
-source ~/.local/configs/sourcepkgs/nnn/misc/quitcd/quitcd.bash_zsh
 source ~/.local/configs/dotfiles/zsh/hugo_comple.zsh
 eval "$(zellij setup --generate-auto-start zsh)"

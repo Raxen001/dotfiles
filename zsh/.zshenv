@@ -17,6 +17,7 @@ export XDG_MUSIC_DIR="$HOME/Music"
 ## PATH
 export PATH="$HOME/.local/bin:$PATH"
 export PATH="$XDG_DATA_HOME/go/bin:$PATH"
+export PATH="$HOME/.local/npm/bin:$PATH"
 
 export EDITOR='lvim'
 export TERMINAL='alacritty'
@@ -33,6 +34,8 @@ export PAGER='less -R'
 export NPM_CONFIG_PREFIX="$HOME/.local/npm"
 export ZDOTDIR="$HOME/.local/configs/dotfiles/zsh"
 export HISTFILE="$HOME/.cache/zsh/histfile"
+export HISTSIZE=1000000   # the number of items for the internal history list
+export SAVEHIST=1000000   # maximum number of items for the history file
 export PYLINTHOME="$XDG_CACHE_HOME"/pylint
 export PASSWORD_STORE_DIR="$HOME/.local/configs/personal/password-store"
 export LESSHISTFILE='~/.cache/lessht'
@@ -57,7 +60,7 @@ export TASKDATA="$HOME/Documents/personal_notes/Task"
 
 #-------------------------------------------------------------------------------
 # nnn
-export NNN_BMS='g:~/Documents/personal_notes/linux/ricing/;p:~/Music/Playlist;n:~/Documents/personal_notes;o:~/Code/Python/Ongoing;b:~/Documents/personal_notes/board/;d:~/.local/configs/dotfiles;u:~/.local/configs/sourcepkgs;s:~/.local/configs/scripts;'
+#export NNN_BMS='g:~/Documents/personal_notes/linux/ricing/;p:~/Music/Playlist;n:~/Documents/personal_notes;o:~/Code/Python/Ongoing;b:~/Documents/personal_notes/board/;d:~/.local/configs/dotfiles;u:~/.local/configs/sourcepkgs;s:~/.local/configs/scripts;'
 export NNN_FIFO=/tmp/nnn.fifo
 export NNN_PLUG='f:fzcd;p:preview-tui;w:wall;a:fzplug;c:cmusq;'
 export NNN_COLORS='23456'
