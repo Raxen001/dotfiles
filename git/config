@@ -3,3 +3,7 @@
 	email = raxen001@tutamail.com
 [init]
 	defaultBranch = main
+[color]
+	ui = true
+[format]
+	pretty = oneline

@@ -56,11 +56,9 @@ alias nvidia-settings="nvidia-settings --config=/home/raxen/.config/nvidia/setti
 alias ip='ip -c'
 alias tree='tree -C'
 
-#alias vi='nvim'
-#alias vim='nvim'
+alias vi='nvim'
+alias vim='nvim'
 #alias novim='nvim -u ~/.local/configs/dotfiles/nvim/norc.vim'
-alias vi='lvim'
-alias vim='lvim'
 
 alias zathura='zathura --fork'
 alias glow='glow -p'
@@ -146,8 +144,8 @@ alias -s {json,c,cpp,py,txt,html,vim,md,txt}=nvim
 #         LESS_TERMCAP_us=$'\e[01;32m' \
 #         command man "$@"
 # }
-export MANPAGER='nvim +Man!'
-export MANWIDTH=999
+#export MANPAGER='nvim +Man!'
+#export MANWIDTH=999
 # MANPAGER="sh -c 'col -bx | bat -l man -p'"
 # export MANWIDTH=100
 #-------------------------------------------------------------------------------

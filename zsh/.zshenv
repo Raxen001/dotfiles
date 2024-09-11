@@ -19,7 +19,7 @@ export PATH="$HOME/.local/bin:$PATH"
 export PATH="$XDG_DATA_HOME/go/bin:$PATH"
 export PATH="$HOME/.local/npm/bin:$PATH"
 
-export EDITOR='lvim'
+export EDITOR='nvim'
 export TERMINAL='alacritty'
 # set `TERM` for icons in tmux
 export TERM='alacritty'
@@ -50,7 +50,6 @@ export ELINKS_CONFDIR="$HOME/.config/elinks"
 export SSB_HOME="$XDG_DATA_HOME"/zoom
 #export MPD_HOST=$HOME/.config/mpd/socket
 export PATH=/usr/bin:$PATH
-export DOCKER_HOST=unix:///run/user/1000/docker.sock
 export GOPATH="$XDG_DATA_HOME"/go
 export GOMODCACHE="$XDG_CACHE_HOME"/go/mod
 #-------------------------------------------------------------------------------
@@ -80,6 +79,8 @@ export NPM_CONFIG_USERCONFIG=$XDG_CONFIG_HOME/npm/npmrc
 #-------------------------------------------------------------------------------
 ##Docker
 export DOCKER_CONFIG="$XDG_CONFIG_HOME"/docker 
+#export DOCKER_HOST=unix:///run/user/1000/docker.sock
+#-------------------------------------------------------------------------------
 # Yuzu
 #export __GL_THREADED_OPTIMIZATIONS=1
 . "/home/raxen/.local/cargo/env"
