@@ -1,18 +1,8 @@
 # vim: set nowrap
-#cd $HOME
-
-#[[ -z $DISPLAY && $XDG_VTNR -eq 1 ]] && exec startx '/home/raxen/.local/configs/dotfiles/xinitrc' &> /dev/null
-#[[ $(fgconsole 2>/dev/null) == 1 ]] && exec startx '/home/raxen/.local/configs/dotfiles/xinitrc' -- vt1 &> /dev/null
-#[[ $(fgconsole 2>/dev/null) == 2 ]] && exec Hyprland &> /dev/null
-#[[ $(fgconsole 2>/dev/null) == 1 ]] && exec Hyprland &> /dev/null
-#[[ -z $DISPLAY && $XDG_VTNR -eq 2 ]] && exec startx '/home/raxen/.local/configs/dotfiles/xinitrc' 
-#[[ $TERM != "screen" ]] && exec tmux
-# set the keyboard rate faster make the input faster
-#xset r rate 220 40 
-#[[ $TERM != "screen" ]] && exec tmux
-#figlet -f Bloody RAXEN | lolcat -ad 1 -s 100
+# eval "$(zellij setup --generate-auto-start zsh)"
 
 autoload colors && colors
+# Prompt
 PS1="%{$fg_bold[blue]%} %B%{$fg_bold[yellow]%}%n%{$fg[white]%} : %{$fg[red]%}%~
 %{$reset_color%}$ %b"
 
@@ -185,9 +175,8 @@ preexec() { echo -ne '\e[5 q' ;} # Use beam shape cursor for each new prompt.
 #source ~/.local/cargo/env
 #
 #zsh syntax
-source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+# source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 #zsh auto suggest
-source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+# source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
-source ~/.local/configs/dotfiles/zsh/hugo_comple.zsh
-eval "$(zellij setup --generate-auto-start zsh)"
+# source ~/.local/configs/dotfiles/zsh/hugo_comple.zsh

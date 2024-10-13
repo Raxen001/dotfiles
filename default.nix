@@ -3,6 +3,10 @@ with (import <nixpkgs> {});
 mkShell {
   buildInputs = [
     zsh
+    gopass
+    go
+    yazi
+    nushell
     ripgrep
     fzf
     fd
