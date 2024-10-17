@@ -1,19 +1,20 @@
 # vim: set nowrap
+#
+# zellij terminal multiplexer
 # eval "$(zellij setup --generate-auto-start zsh)"
-
+#-------------------------------------------------------------------------------
+#
 autoload colors && colors
 # Prompt
 PS1="%{$fg_bold[blue]%} %B%{$fg_bold[yellow]%}%n%{$fg[white]%} : %{$fg[red]%}%~
 %{$reset_color%}$ %b"
 
+#-------------------------------------------------------------------------------
+
 # Lines configured by zsh-newuser-install
 setopt inc_append_history # append history. shared history between tabs and panes
 unsetopt autocd beep extendedglob
 bindkey -v
-# End of lines configured by zsh-newuser-install
-
-# The following lines were added by compinstall
-
 zstyle ':completion:*' completer _expand _complete _ignored _correct _approximate
 zstyle ':completion:*' group-name ''
 zstyle ':completion:*' insert-unambiguous true
@@ -30,6 +31,16 @@ autoload -Uz compinit
 compinit
 # End of lines added by compinstall
 #
+#-------------------------------------------------------------------------------
+# History
+HISTSIZE=5000
+HISTFILE=~/.cache/zsh_history
+SAVEHIST=$HISTSIZE
+HISTDUP=erase
+setopt appendhistory
+setopt sharehistory
+setopt hist_ignore_space
+#-------------------------------------------------------------------------------
 #alias ls='ls -F --color=auto'
 #alias ll='ls -altuh --color=auto'
 #alias la='ls -AF --color=auto'
@@ -178,5 +189,16 @@ preexec() { echo -ne '\e[5 q' ;} # Use beam shape cursor for each new prompt.
 # source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 #zsh auto suggest
 # source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+# source ~/.local/configs//dotfiles/zsh/hugo_comple.zsh
+#
+#-------------------------------------------------------------------------------
 
-# source ~/.local/configs/dotfiles/zsh/hugo_comple.zsh
+# zinit - zsh package manager
+ZINIT_HOME="${XDG_DATA_HOME:-${HOME}/.local/share}/zinit/zinit.git"
+[ ! -d $ZINIT_HOME ] && mkdir -p "$(dirname $ZINIT_HOME)"
+[ ! -d $ZINIT_HOME/.git ] && git clone https://github.com/zdharma-continuum/zinit.git "$ZINIT_HOME"
+source "${ZINIT_HOME}/zinit.zsh"
+
+zinit light zsh-users/zsh-syntax-highlighting
+zinit light zsh-users/zsh-completions
+zinit light zsh-users/zsh-autosuggestions
