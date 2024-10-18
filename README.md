@@ -20,6 +20,7 @@ install necessariy programs
 - rust
     - `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 - docker
+- mpv
 
 ## tui
 
@@ -39,6 +40,7 @@ install necessariy programs
 - tutamail
 - vesktop
 - zapzap
+- Geary (mail)
 - antares_sql
 
 - junction
