@@ -1,15 +1,84 @@
-# Raxen001's dotfiles
+# Reinstall checklist
 
-## Deprecated directory
+install necessariy programs
 
-This directory contains all the configs i am not using anymore.
+## packages
 
+- zsh
+  - `chsh` && `/bin/zsh`
+- alacritty
+- neovim
+- gopass
 
-## wayland
+- fzf
+- ripgrep
+- fd
+- jq
+- hugo
+- python3
+- tailscale
+- rust
+    - `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
+- docker
 
-wayland specific stuff
+## tui
 
-# X11
+- nnn
+- yazi
+- fx
+- atac
+- jqp
 
-movied into Deprecated
-ain't gonna go to x11 anymore
+## flatpaks
+
+- flatseal
+- warehouse
+- extension manager
+- tweaks
+- chromium
+- tutamail
+- vesktop
+- zapzap
+- antares_sql
+
+- junction
+- papers
+- TauonBox
+- delfin, jellyfin
+
+## Things to do after installing
+
+### Firefox
+
+- Sign into Firefox account
+- Sign into firefox container (why can't the sync it :cry:)
+- Sign into listenbrainz and last.fm
+  - Sign into webscrobber plugin
+  - Sign into TauonBox
+- Sign into Anilist.co
+  - Sign into MalSync plugin
+- Sign into steam
+  - Sign into protondb and steamdb
+- Sign into github
+  - Sign into Tailscale and leetcode
+
+### Chromium
+
+- Create 2 profiles one for STUDY and personal
+  - Personal
+    - Sign into 3 personal accounts
+  - STUDY
+    - Sign into Study account
+
+### GNOME
+
+- Sign into 4 accounts
+
+## CONFIGS
+
+- link `ln -s alacrity/ ~/.config/alacritty`
+- link `ln -s zellij/ ~/.config/zellij`
+- link `ln -s nvim ~/.config/nvim`
+- link `ln -s zsh/zshrc ~/.zshrc`
+- link `ln -s zsh/zshenv ~/.zshenv`
+- link `ln -s git ~/.config/git`
