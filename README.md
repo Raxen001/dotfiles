@@ -76,9 +76,10 @@ install necessariy programs
 
 ## CONFIGS
 
-- link `ln -s alacrity/ ~/.config/alacritty`
-- link `ln -s zellij/ ~/.config/zellij`
-- link `ln -s nvim ~/.config/nvim`
-- link `ln -s zsh/zshrc ~/.zshrc`
-- link `ln -s zsh/zshenv ~/.zshenv`
-- link `ln -s git ~/.config/git`
+- link alacritty `ln -s alacrity/ ~/.config/alacritty`
+- link zellij `ln -s zellij/ ~/.config/zellij`
+- link neovim `ln -s nvim ~/.config/nvim`
+- link zshrc `ln -s zsh/zshrc ~/.zshrc`
+- link zshenv `ln -s zsh/zshenv ~/.zshenv`
+- link gitconfig `ln -s git ~/.config/git`
+- link ssh `ln ssh/ ~/.ssh`
