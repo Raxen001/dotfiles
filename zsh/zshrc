@@ -10,7 +10,6 @@ PS1="%{$fg_bold[blue]%} %B%{$fg_bold[yellow]%}%n%{$fg[white]%} : %{$fg[red]%}
 #-------------------------------------------------------------------------------
 
 # Lines configured by zsh-newuser-install
-setopt inc_append_history # append history. shared history between tabs and panes
 unsetopt autocd beep extendedglob
 bindkey -v
 zstyle ':completion:*' completer _expand _complete _ignored _correct _approximate
@@ -25,9 +24,9 @@ zstyle ':completion:*' use-compctl true
 zstyle ':completion:*' verbose true
 zstyle ':completion:*' matcher-list'm:{a-z}={A-Za-z}'
 zstyle ':completion:*' use-cache on
-zstyle ':completion:*' cache-path "$XDG_CACHE_HOME/zsh/.zcompcache"
+zstyle ':completion:*' cache-path "$XDG_CACHE_HOME/zsh/zcompcache"
 # zstyle ':completion:*' menu no
-zstyle :compinstall filename '$HOME/.local/configs/dotfiles/zsh/.zshrc'
+# zstyle :compinstall filename '$HOME/.local/configs/dotfiles/zsh/.zshrc'
 
 autoload -Uz compinit
 compinit
@@ -40,6 +39,7 @@ HISTFILE=~/.cache/zsh/zsh_history
 SAVEHIST=$HISTSIZE
 HISTDUP=erase
 setopt appendhistory
+setopt inc_append_history # append history. shared history between tabs and panes
 setopt sharehistory
 setopt hist_ignore_space
 #-------------------------------------------------------------------------------
@@ -54,7 +54,9 @@ alias la='eza -BhaF --color=auto --color-scale=all --icons=auto --hyperlink'
 alias ll='eza -ahHlF -t modified --color=auto --hyperlink'
 alias cat='bat'
 alias qr='qrencode -t ansi'
-alias nvidia-settings="nvidia-settings --config=/home/raxen/.config/nvidia/settings"
+alias gpw='gopass -c '
+alias got='gopass otp -c '
+# alias nvidia-settings="nvidia-settings --config=/home/raxen/.config/nvidia/settings"
 
 alias ip='ip -c'
 alias tree='tree -C'
@@ -65,20 +67,20 @@ alias vim='nvim'
 
 alias zathura='zathura --fork'
 alias glow='glow -p'
-alias pacman='pacman --color=auto'
+# alias pacman='pacman --color=auto'
 alias ncdu='ncdu --color dark'
 alias grep='grep --color=always'
 alias rg='rg --color=always'
 alias less='less -r'
 alias python='python -q'
 #alias st='st & disown'
-alias ytd='youtube-dl -q --no-playlist `xclip -selection clipboard -o` & disown'
-alias ytdp='youtube-dl -q --yes-playlist `xclip -selection clipboard -o` & disown'
-alias ins='sudo cp config.def.h config.h && sudo make clean install'
+# alias ytd='youtube-dl -q --no-playlist `xclip -selection clipboard -o` & disown'
+# alias ytdp='youtube-dl -q --yes-playlist `xclip -selection clipboard -o` & disown'
+# alias ins='sudo cp config.def.h config.h && sudo make clean install'
 
-alias lynx='lynx -cfg=~/.config/lynxrc'
+# alias lynx='lynx -cfg=~/.config/lynxrc'
 #alias newsboat='newsboat --url-file=/home/raxen/.local/configs/dotfiles/newsboat/rss-feed --cache-file=/home/raxen/.cache/newsboat.db'
-alias newsboat='newsboat --cache-file=/home/raxen/.cache/newsboat.db'
+# alias newsboat='newsboat --cache-file=/home/raxen/.cache/newsboat.db'
 # alias redyt='bash ~/.local/configs/scripts/redyt.sh'
 
 #-------------------------------------------------------------------------------
@@ -184,6 +186,7 @@ zle-line-init() {
 zle -N zle-line-init
 echo -ne '\e[5 q' # Use beam shape cursor on startup.
 preexec() { echo -ne '\e[5 q' ;} # Use beam shape cursor for each new prompt.
+#
 #---------------------------------------------------------------------
 # Rust
 source "$HOME/.local/cargo/env"
@@ -199,6 +202,9 @@ zinit light zsh-users/zsh-syntax-highlighting
 zinit light zsh-users/zsh-completions
 zinit light zsh-users/zsh-autosuggestions
 zinit light Aloxaf/fzf-tab
+# # better vim mode
+# zinit ice depth=1
+# zinit light jeffreytse/zsh-vi-mode
 
 #-------------------------------------------------------------------------------
 # shell integration
