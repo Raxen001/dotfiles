@@ -9,6 +9,7 @@ install necessariy programs
 - alacritty
 - neovim
 - gopass
+- mpv
 
 - fzf
 - ripgrep
@@ -38,7 +39,7 @@ install necessariy programs
 - tweaks
 - chromium
 - tutamail
-- vesktop
+- vesktop (discord something)
 - zapzap
 - Geary (mail)
 - antares_sql
@@ -74,7 +75,11 @@ install necessariy programs
 
 ### GNOME
 
-- Sign into 4 accounts
+- Online accounts Sign into 4 accounts
+- Enable Variable Refresh Rate and fractional scaling (Experimental for now)
+  - `gsettings set org.gnome.mutter experimental-features "['variable-refresh-rate']"`
+  - `gsettings set org.gnome.mutter experimental-features "['scale-monitor-framebuffer']"`
+  - both `gsettings set org.gnome.mutter experimental-features "['scale-monitor-framebuffer', 'variable-refresh-rate']"`
 
 ## CONFIGS
 
@@ -85,3 +90,15 @@ install necessariy programs
 - link zshenv `ln -s zsh/zshenv ~/.zshenv`
 - link gitconfig `ln -s git ~/.config/git`
 - link ssh `ln ssh/ ~/.ssh`
+
+## GAMES
+
+- Steam
+  - Use steam authenticator
+- Vesktop(discord)
+  - Use discord and scan qr
+- HeroicGamesLauncher
+  - Ubisoft signin
+  - gog sign
+- Bottles
+- ProtonPlus
