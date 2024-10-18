@@ -24,6 +24,8 @@ zstyle ':completion:*' select-prompt '%SScrolling active: current selection at %
 zstyle ':completion:*' use-compctl true
 zstyle ':completion:*' verbose true
 zstyle ':completion:*' matcher-list'm:{a-z}={A-Za-z}'
+zstyle ':completion:*' use-cache on
+zstyle ':completion:*' cache-path "$XDG_CACHE_HOME/zsh/.zcompcache"
 # zstyle ':completion:*' menu no
 zstyle :compinstall filename '$HOME/.local/configs/dotfiles/zsh/.zshrc'
 
@@ -34,7 +36,7 @@ compinit
 #-------------------------------------------------------------------------------
 # History
 HISTSIZE=5000
-HISTFILE=~/.cache/zsh_history
+HISTFILE=~/.cache/zsh/zsh_history
 SAVEHIST=$HISTSIZE
 HISTDUP=erase
 setopt appendhistory
@@ -197,7 +199,6 @@ zinit light zsh-users/zsh-syntax-highlighting
 zinit light zsh-users/zsh-completions
 zinit light zsh-users/zsh-autosuggestions
 zinit light Aloxaf/fzf-tab
-
 
 #-------------------------------------------------------------------------------
 # shell integration
