@@ -1,7 +1,5 @@
 # vim: set nowrap
 #
-# zellij terminal multiplexer
-# eval "$(zellij setup --generate-auto-start zsh)"
 #-------------------------------------------------------------------------------
 #
 autoload colors && colors
@@ -25,7 +23,9 @@ zstyle ':completion:*' original true
 zstyle ':completion:*' select-prompt '%SScrolling active: current selection at %p%s'
 zstyle ':completion:*' use-compctl true
 zstyle ':completion:*' verbose true
-zstyle :compinstall filename '/home/raxen/.local/configs/dotfiles/zsh/.zshrc'
+zstyle ':completion:*' matcher-list'm:{a-z}={A-Za-z}'
+# zstyle ':completion:*' menu no
+zstyle :compinstall filename '$HOME/.local/configs/dotfiles/zsh/.zshrc'
 
 autoload -Uz compinit
 compinit
@@ -47,10 +47,10 @@ setopt hist_ignore_space
 ## fedora speicifc
 alias up="sudo dnf update --refresh -y && flatpak update -y"
 #-------------------------------------------------------------------------------
-alias ls='eza -F --color=auto --color-scale --icons'
-alias la='eza -BhFa --color=auto --color-scale --icons'
-alias ll='eza -ahHlF -t modified --color=auto'
-alias cat='bat --theme=gruvbox-dark'
+alias ls='eza -F --color=auto --color-scale=all --icons=auto --hyperlink'
+alias la='eza -BhaF --color=auto --color-scale=all --icons=auto --hyperlink'
+alias ll='eza -ahHlF -t modified --color=auto --hyperlink'
+alias cat='bat'
 alias qr='qrencode -t ansi'
 alias nvidia-settings="nvidia-settings --config=/home/raxen/.config/nvidia/settings"
 
@@ -183,14 +183,8 @@ zle -N zle-line-init
 echo -ne '\e[5 q' # Use beam shape cursor on startup.
 preexec() { echo -ne '\e[5 q' ;} # Use beam shape cursor for each new prompt.
 #---------------------------------------------------------------------
-#source ~/.local/cargo/env
-#
-#zsh syntax
-# source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-#zsh auto suggest
-# source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
-# source ~/.local/configs//dotfiles/zsh/hugo_comple.zsh
-#
+# Rust
+source "$HOME/.local/cargo/env"
 #-------------------------------------------------------------------------------
 
 # zinit - zsh package manager
@@ -202,3 +196,13 @@ source "${ZINIT_HOME}/zinit.zsh"
 zinit light zsh-users/zsh-syntax-highlighting
 zinit light zsh-users/zsh-completions
 zinit light zsh-users/zsh-autosuggestions
+zinit light Aloxaf/fzf-tab
+
+
+#-------------------------------------------------------------------------------
+# shell integration
+[ ! -f "${fpath[1]}/_hugo" ] && hugo completion zsh > "${fpath[1]}/_hugo"
+# fzf in zsh
+eval "$(fzf --zsh)"
+# zellij terminal multiplexer
+eval "$(zellij setup --generate-auto-start zsh)"
