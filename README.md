@@ -22,6 +22,8 @@ install necessariy programs
     - `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 - docker
 - mpv
+- tldr
+  - `tldr -u`
 
 ## tui
 
@@ -102,3 +104,32 @@ install necessariy programs
   - gog sign
 - Bottles
 - ProtonPlus
+
+## OS SPECIFIC STUFF
+
+### FEDORA
+
+- RpmFusion
+  - `sudo dnf install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm`
+  - `sudo dnf config-manager --enable fedora-cisco-openh264`
+  - `sudo dnf update @core`
+- Nvidia
+  - ```bash
+    sudo dnf update -y # and reboot if you are not on the latest kernel
+    sudo dnf install akmod-nvidia # rhel/centos users can use kmod-nvidia instead
+    sudo dnf install xorg-x11-drv-nvidia-cuda #optional for cuda/nvdec/nvenc support```
+- MultiMedia Codecs
+  - `sudo dnf swap ffmpeg-free ffmpeg --allowerasing`
+  - `sudo dnf update @multimedia --setopt="install_weak_deps=False" --exclude=PackageKit-gstreamer-plugin`
+  - `sudo dnf update @sound-and-video`
+  - ```bash
+    sudo dnf swap mesa-va-drivers mesa-va-drivers-freeworld
+    sudo dnf swap mesa-vdpau-drivers mesa-vdpau-drivers-freeworld```
+  - ```bash
+    sudo dnf swap mesa-va-drivers.i686 mesa-va-drivers-freeworld.i686
+    sudo dnf swap mesa-vdpau-drivers.i686 mesa-vdpau-drivers-freeworld.i686```
+  - ```bash
+    sudo dnf install libva-nvidia-driver.{i686,x86_64}```
+  - ```bash 
+    sudo dnf install rpmfusion-nonfree-release-tainted
+    sudo dnf --repo=rpmfusion-nonfree-tainted install "*-firmware"```
