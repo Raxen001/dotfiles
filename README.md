@@ -110,26 +110,49 @@ install necessariy programs
 ### FEDORA
 
 - RpmFusion
-  - `sudo dnf install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm`
-  - `sudo dnf config-manager --enable fedora-cisco-openh264`
-  - `sudo dnf update @core`
+
+  - ```bash
+    sudo dnf install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+    sudo dnf config-manager --enable fedora-cisco-openh264
+    sudo dnf update @core
+    ```
+
 - Nvidia
+
   - ```bash
     sudo dnf update -y # and reboot if you are not on the latest kernel
     sudo dnf install akmod-nvidia # rhel/centos users can use kmod-nvidia instead
-    sudo dnf install xorg-x11-drv-nvidia-cuda #optional for cuda/nvdec/nvenc support```
+    sudo dnf install xorg-x11-drv-nvidia-cuda #optional for cuda/nvdec/nvenc support
+    ```
+
 - MultiMedia Codecs
-  - `sudo dnf swap ffmpeg-free ffmpeg --allowerasing`
-  - `sudo dnf update @multimedia --setopt="install_weak_deps=False" --exclude=PackageKit-gstreamer-plugin`
-  - `sudo dnf update @sound-and-video`
+
   - ```bash
+    # ffmpeg
+    sudo dnf swap ffmpeg-free ffmpeg --allowerasing
+    sudo dnf update @multimedia --setopt="install_weak_deps=False" --exclude=PackageKit-gstreamer-plugin
+    sudo dnf update @sound-and-video
+    ```
+
+  - ```bash
+    # amd mesa
     sudo dnf swap mesa-va-drivers mesa-va-drivers-freeworld
-    sudo dnf swap mesa-vdpau-drivers mesa-vdpau-drivers-freeworld```
+    sudo dnf swap mesa-vdpau-drivers mesa-vdpau-drivers-freeworld
+    ```
+
   - ```bash
+    # mesa 32-bit for steam
     sudo dnf swap mesa-va-drivers.i686 mesa-va-drivers-freeworld.i686
-    sudo dnf swap mesa-vdpau-drivers.i686 mesa-vdpau-drivers-freeworld.i686```
+    sudo dnf swap mesa-vdpau-drivers.i686 mesa-vdpau-drivers-freeworld.i686
+    ```
+
   - ```bash
-    sudo dnf install libva-nvidia-driver.{i686,x86_64}```
-  - ```bash 
+    # nvidia 64 bit and 32 bit
+    sudo dnf install libva-nvidia-driver.{i686,x86_64}
+    ```
+
+  - ```bash
+    # additonal firmwares
     sudo dnf install rpmfusion-nonfree-release-tainted
-    sudo dnf --repo=rpmfusion-nonfree-tainted install "*-firmware"```
+    sudo dnf --repo=rpmfusion-nonfree-tainted install "*-firmware"
+    ```
