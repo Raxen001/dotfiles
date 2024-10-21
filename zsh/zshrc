@@ -55,7 +55,7 @@ alias ll='eza -ahHlF -t modified --color=auto --hyperlink'
 alias cat='bat'
 alias qr='qrencode -t ansi'
 alias gpw='gopass -c '
-alias got='gopass otp -c '
+alias gotp='gopass otp -c '
 # alias nvidia-settings="nvidia-settings --config=/home/raxen/.config/nvidia/settings"
 
 alias ip='ip -c'
