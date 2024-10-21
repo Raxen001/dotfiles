@@ -4,8 +4,8 @@
 #
 autoload colors && colors
 # Prompt
-PS1="%{$fg_bold[blue]%} %B%{$fg_bold[yellow]%}%n%{$fg[white]%} : %{$fg[red]%}%~
-%{$reset_color%}$ %b"
+# PS1="%{$fg_bold[blue]%} %B%{$fg_bold[yellow]%}%n%{$fg[white]%} : %{$fg[red]%}%~
+# %{$reset_color%}$ %b"
 
 #-------------------------------------------------------------------------------
 
