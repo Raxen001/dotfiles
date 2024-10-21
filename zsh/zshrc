@@ -212,4 +212,5 @@ zinit light Aloxaf/fzf-tab
 # fzf in zsh
 eval "$(fzf --zsh)"
 # zellij terminal multiplexer
+eval "$(starship init zsh)"
 eval "$(zellij setup --generate-auto-start zsh)"

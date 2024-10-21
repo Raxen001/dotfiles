@@ -6,6 +6,8 @@ install necessariy programs
 
 - zsh
   - `chsh` && `/bin/zsh`
+  - starship.rs
+    - `curl -sS https://starship.rs/install.sh | sh` && `eval "$(starship init zsh)"`
 - alacritty
 - neovim
 - gopass
