@@ -23,6 +23,7 @@ pkgs=(
 	linux-firmware
 	acpi
 	nnn
+	fd-find
 	)
 nvidia_pkgs=(
 	akmod-nvidia
@@ -32,6 +33,7 @@ copr=(
 	zellij
 	hack-nerd-fonts
 	)
+# flatpaks aren't all here
 flatpak=(
 	cafe.avery.Delfin
 	com.github.iwalton3.jellyfin-media-player
@@ -52,6 +54,11 @@ flatpak=(
 	org.freedesktop.Platform.GL.default
 	org.freedesktop.Platform.GL.default
 	)
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+for app in "${flatpak[@]}";
+do
+	flatpak install flathub "$app"
+done
 
 #TODO
 # INSTALL 

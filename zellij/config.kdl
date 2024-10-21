@@ -131,10 +131,10 @@ keybinds  clear-defaults=true{
         bind "Alt n" { NewPane; }
         bind "Alt N" { NewPane "Down"; }
       // movement keys
-        bind "Alt h" "Alt Left" { MoveFocus "Left"; }
-        bind "Alt l" "Alt Right" { MoveFocus "Right"; }
-        bind "Alt j" "Alt Down" { MoveFocus "Down"; }
-        bind "Alt k" "Alt Up" { MoveFocus "Up"; }
+        bind "Alt h" { MoveFocus "Left"; }
+        bind "Alt l" { MoveFocus "Right"; }
+        bind "Alt j" { MoveFocus "Down"; }
+        bind "Alt k" { MoveFocus "Up"; }
       // resize panes
         bind "Alt H" { Resize "Left"; }
         bind "Alt L" { Resize "Right"; }

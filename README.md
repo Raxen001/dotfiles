@@ -13,25 +13,28 @@ install necessariy programs
 
 - fzf
 - ripgrep
-- fd
+- fd-find
 - jq
 - hugo
 - python3
 - tailscale
 - rust
-    - `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
+  - `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 - docker
 - mpv
 - tldr
   - `tldr -u`
+- nvtop && powertop && bpytop
 
 ## tui
 
 - nnn
 - yazi
-- fx
+  - `cargo install --locked yazi-fm yazi-cli`
 - atac
+  - `cargo install atac`
 - jqp
+- fx
 
 ## flatpaks
 
@@ -62,6 +65,7 @@ install necessariy programs
   - Sign into TauonBox
 - Sign into Anilist.co
   - Sign into MalSync plugin
+- Sign into comic.io
 - Sign into steam
   - Sign into protondb and steamdb
 - Sign into github
