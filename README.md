@@ -27,6 +27,9 @@ install necessariy programs
 - tldr
   - `tldr -u`
 - nvtop && powertop && bpytop
+- entr
+- oxipng (compress png)
+  - `cargo install oxipng`
 
 ## tui
 

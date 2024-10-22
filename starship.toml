@@ -101,3 +101,16 @@ success_symbol = '[➜](bold red)' # The 'success_symbol' segment is being set t
 # Disable the package module, hiding it from the prompt completely
 [package]
 disabled = true
+#
+# [directory]
+# truncate_to_repo = false
+#
+# [hostname]
+# ssh_only = false
+#
+# [os]
+# disabled = false
+# style = 'bold blue'
+# format = '[$symbol]($style) '
+# [os.symbols]
+# Fedora = ""
