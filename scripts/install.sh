@@ -8,6 +8,8 @@
 echo "!IMPORTANT this script was made by Raxen when he thought"
 echo "He was only using to use Fedora based distros"
 
+# set parallel downloads
+echo "max_parallel_downloads=20" >> /etc/dnf/dnf.conf
 sudo dnf update -y # and reboot if you are not on the latest kernel
 pkgs=(
 	alacritty

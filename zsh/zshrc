@@ -1,5 +1,5 @@
 # vim: set nowrap
-#
+# dependencies: fzf starship zellij hugo git
 #-------------------------------------------------------------------------------
 #
 autoload colors && colors
