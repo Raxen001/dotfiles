@@ -75,6 +75,7 @@ install necessariy programs
   - Sign into protondb and steamdb
 - Sign into github
   - Sign into Tailscale and leetcode
+- Sign into backlogged use personal container
 
 ### Chromium
 
