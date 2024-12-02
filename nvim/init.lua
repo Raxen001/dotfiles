@@ -109,7 +109,8 @@ vim.opt.sidescroll = 5
 -- vim.opt.listchars = 'precedes:<,extends:>'
 
 -- Enable mouse mode, can be useful for resizing splits for example!
-vim.opt.mouse = 'a'
+-- vim.opt.mouse = 'a'
+vim.opt.mouse = ''
 
 -- Don't show the mode, since it's already in the status line
 vim.opt.showmode = false
@@ -581,6 +582,7 @@ require('lazy').setup({
         clangd = {},
         rust_analyzer = {},
         html = {},
+        markdownlint = {},
         -- ... etc. See `:help lspconfig-all` for a list of all the pre-configured LSPs
         --
         -- Some languages (like typescript) have entire language plugins that can be useful:

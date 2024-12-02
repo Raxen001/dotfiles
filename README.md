@@ -127,6 +127,15 @@ install necessariy programs
     sudo dnf update @core
     ```
 
+- Terra
+
+  - ```bash
+      sudo dnf install --repofrompath
+      'terra,https://repos.fyralabs.com/terra$releasever'
+      --setopt='terra.gpgkey=https://repos.fyralabs.com/terra$releasever/key.asc'
+      terra-release
+    ```
+
 - Nvidia
 
   - ```bash
