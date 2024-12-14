@@ -34,8 +34,8 @@ compinit
 #
 #-------------------------------------------------------------------------------
 # History
-HISTSIZE=5000
-HISTFILE=~/.cache/zsh/zsh_history
+HISTSIZE=1000
+HISTFILE="$XDG_CACHE_HOME"/zsh/zsh_history
 SAVEHIST=$HISTSIZE
 HISTDUP=erase
 setopt appendhistory
@@ -212,10 +212,10 @@ zinit light Aloxaf/fzf-tab
 
 # initialise completions with ZSH's compinit
 # autoload -Uz compinit && compinit
-
+#
 # nvm
-export NVM_DIR="$HOME/.config/nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+# export NVM_DIR="$HOME/.config/nvm"
+# [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 
 # fzf in zsh
 eval "$(fzf --zsh)"
@@ -225,4 +225,3 @@ eval "$(starship init zsh)"
 
 # zellij terminal multiplexer
 eval "$(zellij setup --generate-auto-start zsh)"
-

@@ -1,18 +1,18 @@
 -- Note: The order matters: require("mason") -> require("mason-lspconfig") -> require("lspconfig")
 
 require("mason").setup({
-	ui = {
-		icons = {
-			package_installed = "✓",
-			package_pending = "➜",
-			package_uninstalled = "✗",
-		},
-	},
+    ui = {
+        icons = {
+            package_installed = "✓",
+            package_pending = "➜",
+            package_uninstalled = "✗"
+        }
+    }
 })
 
 require("mason-lspconfig").setup({
 	-- A list of servers to automatically install if they're not already installed.
-	ensure_installed = { "pylsp", "lua_ls", "bashls", "rust_analyzer" },
+	ensure_installed = { "pylsp", "lua_ls", "bashls", "rust_analyzer", "bashls" },
 })
 
 -- Set different settings for different languages' LSP.
@@ -34,7 +34,7 @@ vim.keymap.set("n", "<space>q", vim.diagnostic.setloclist, opts)
 -- after the language server attaches to the current buffer.
 local on_attach = function(client, bufnr)
 	-- Enable completion triggered by <c-x><c-o>
-	vim.api.nvim_buf_set_option(bufnr, "omnifunc", "v:lua.vim.lsp.omnifunc")
+	-- vim.api.nvim_buf_set_option(bufnr, "omnifunc", "v:lua.vim.lsp.omnifunc")
 
 	if client.name == "rust_analyzer" then
 		-- WARNING: This feature requires Neovim v0.10+
