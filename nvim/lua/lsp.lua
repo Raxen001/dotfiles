@@ -12,7 +12,7 @@ require("mason").setup({
 
 require("mason-lspconfig").setup({
 	-- A list of servers to automatically install if they're not already installed.
-	ensure_installed = { "pylsp", "lua_ls", "bashls", "rust_analyzer", "bashls" },
+	ensure_installed = { "ruff", "pyright", "lua_ls", "bashls", "rust_analyzer", "bashls" },
 })
 
 -- Set different settings for different languages' LSP.
@@ -34,7 +34,7 @@ vim.keymap.set("n", "<space>q", vim.diagnostic.setloclist, opts)
 -- after the language server attaches to the current buffer.
 local on_attach = function(client, bufnr)
 	-- Enable completion triggered by <c-x><c-o>
-	-- vim.api.nvim_buf_set_option(bufnr, "omnifunc", "v:lua.vim.lsp.omnifunc")
+	vim.api.nvim_buf_set_option(bufnr, "omnifunc", "v:lua.vim.lsp.omnifunc")
 
 	if client.name == "rust_analyzer" then
 		-- WARNING: This feature requires Neovim v0.10+
@@ -75,16 +75,21 @@ end
 -- 1. Use `:Mason` to install the corresponding LSP.
 -- 2. Add the configuration below. The syntax is `lspconfig.<name>.setup(...)`
 -- Hint (find <name> here) : https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md
-lspconfig.pylsp.setup({
-	on_attach = on_attach,
-})
+local capabilities = require('cmp_nvim_lsp').default_capabilities()
+
+-- lspconfig.pylsp.setup({
+-- 	on_attach = on_attach,
+--     capabilities = capabilities
+-- })
 
 lspconfig.gopls.setup({
 	on_attach = on_attach,
+    capabilities = capabilities
 })
 
 lspconfig.lua_ls.setup({
 	on_attach = on_attach,
+    capabilities = capabilities,
 	settings = {
 		Lua = {
 			runtime = {
@@ -107,23 +112,30 @@ lspconfig.lua_ls.setup({
 	},
 })
 
-lspconfig.bashls.setup({})
+lspconfig.bashls.setup({
+
+    capabilities = capabilities,
+})
 
 lspconfig.rust_analyzer.setup({
 	-- source: https://rust-analyzer.github.io/manual.html#nvim-lsp
 	on_attach = on_attach,
+    capabilities = capabilities,
 })
 
 lspconfig.clangd.setup({
 	on_attach = on_attach,
+    capabilities = capabilities,
 })
 
 lspconfig.ocamllsp.setup({
 	on_attach = on_attach,
+    capabilities = capabilities,
 })
 
 lspconfig.ruby_lsp.setup({
 	on_attach = on_attach,
+    capabilities = capabilities,
 })
 
 -- Case 1. For CMake Users
@@ -135,9 +147,37 @@ lspconfig.ruby_lsp.setup({
 -- src: https://clangd.llvm.org/installation#compile_commandsjson
 lspconfig.clangd.setup({
 	on_attach = on_attach,
+    capabilities = capabilities,
 })
 
 lspconfig.hls.setup({
 	on_attach = on_attach,
+    capabilities = capabilities,
 })
 
+
+local on_attach = function(client, bufnr)
+  if client.name == 'ruff' then
+    -- Disable hover in favor of Pyright
+    client.server_capabilities.hoverProvider = false
+  end
+end
+
+require('lspconfig').ruff.setup {
+  on_attach = on_attach,
+}
+
+require('lspconfig').pyright.setup {
+  settings = {
+    pyright = {
+      -- Using Ruff's import organizer
+      disableOrganizeImports = true,
+    },
+    python = {
+      analysis = {
+        -- Ignore all files for analysis to exclusively use Ruff for linting
+        ignore = { '*' },
+      },
+    },
+  },
+}
