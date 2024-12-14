@@ -241,7 +241,7 @@ simplified_ui true
 // Choose the path to the default shell that zellij will use for opening new panes
 // Default: $SHELL
 //
-//default_shell "zsh"
+default_shell "zsh"
 
 // Choose the path to override cwd that zellij will use for opening new panes
 //
@@ -337,7 +337,7 @@ default_layout "compact"
 //   - true (default)
 //   - false
 //
-mouse_mode true
+mouse_mode false
 
 // Configure the scroll back buffer size
 // This is the number of lines zellij stores for each pane in the scroll back

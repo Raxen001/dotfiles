@@ -31,7 +31,7 @@ export PAGER='less -R'
 #    -c 'map <SPACE> <C-D>' -c 'map b <C-U>' \
 #    -c 'nmap K :Man <C-R>=expand(\\\"<cword>\\\")<CR><CR>' -\""
 #    
-export NPM_CONFIG_PREFIX="$HOME/.local/npm"
+# export NPM_CONFIG_PREFIX="$HOME/.local/npm"
 # export ZDOTDIR="$HOME/.local/configs/dotfiles/zsh"
 # export HISTFILE="$HOME/.cache/zsh/histfile"
 # export HISTSIZE=1000 			# the number of items for the internal history list
@@ -71,7 +71,6 @@ export NNN_OPENER=$HOME/.config/nnn/plugins/nuke
 #
 #-------------------------------------------------------------------------------
 export NNN_OPENER=$HOME/.config/nnn/plugins/nuke
-export NPM_CONFIG_USERCONFIG=$XDG_CONFIG_HOME/npm/npmrc
 #-------------------------------------------------------------------------------
 #NODE
 export NODE_REPL_HISTORY="$XDG_DATA_HOME"/node_repl_history 

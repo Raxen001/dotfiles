@@ -7,3 +7,5 @@
 	ui = true
 [format]
 	pretty = oneline
+[pull]
+	rebase = false
