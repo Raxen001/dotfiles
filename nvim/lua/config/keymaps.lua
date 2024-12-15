@@ -4,6 +4,7 @@ local opts = {
     silent = true,       -- do not show message
 }
 
+vim.g.mapleader = " "
 -----------------
 -- Normal mode --
 -----------------
@@ -29,3 +30,7 @@ vim.keymap.set('n', '<C-Right>', ':vertical resize +2<CR>', opts)
 -- Hint: start visual mode with the same area as the previous area and the same mode
 vim.keymap.set('v', '<', '<gv', opts)
 vim.keymap.set('v', '>', '>gv', opts)
+
+
+-- image paste
+vim.keymap.set("n", "<leader>p", ":PasteImage<cr>", opts)

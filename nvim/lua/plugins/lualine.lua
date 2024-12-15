@@ -1,14 +1,19 @@
-local is_ok, lualine = pcall(require, "lualine")
-if not is_ok then
-	return
-end
+return {
+  "nvim-lualine/lualine.nvim",
+  dependencies = { "nvim-tree/nvim-web-devicons" },
+  config = function()
+    local lualine = require("lualine")
+    local lazy_status = require("lazy.status") -- to configure lazy pending updates count
 
-lualine.setup({
-	options = {
+    -- configure lualine with modified theme
+    lualine.setup({
+        	options = {
 		icons_enabled = true,
-		theme = "material",
-		component_separators = { left = "", right = "" },
-		section_separators = { left = "", right = "" },
+		theme = "auto",
+		-- component_separators = { left = "", right = "" },
+		component_separators = "",
+		-- section_separators = { left = "", right = "" },
+		section_separators = "",
 		disabled_filetypes = {
 			statusline = {},
 			winbar = {},
@@ -17,7 +22,7 @@ lualine.setup({
 		always_divide_middle = true,
 		globalstatus = false,
 		refresh = {
-			statusline = 1000,
+			statusline = 200,
 			tabline = 1000,
 			winbar = 1000,
 		},
@@ -64,4 +69,8 @@ lualine.setup({
 	winbar = {},
 	inactive_winbar = {},
 	extensions = {},
-})
+
+    })
+  end,
+}
+

@@ -1,6 +1,7 @@
 vim.opt.clipboard = 'unnamedplus'   -- use system clipboard 
-vim.opt.completeopt = {'menu', 'menuone', 'noselect', 'preview'}
-vim.opt.updatetime = 100	    -- faster completion
+vim.opt.completeopt = {'menu', 'menuone', 'noselect'}
+vim.opt.pumheight = 10              -- pumheight sets the number of list in a popup menu i.e: set number of completion objects in nvim-cmp
+vim.opt.updatetime = 100	        -- faster completion
 vim.opt.mouse = 'a'                 -- allow the mouse to be used in Nvim
 
 -- Tab
