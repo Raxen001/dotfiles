@@ -7,10 +7,25 @@ return {
     },
     config = function ()
        local builtin = require('telescope.builtin')
+        -- keymaps: telescope builtins
         vim.keymap.set('n', '<leader>ff', builtin.find_files, { desc = 'Telescope find files' })
         vim.keymap.set('n', '<leader>fg', builtin.live_grep, { desc = 'Telescope live grep' })
         vim.keymap.set('n', '<leader>fb', builtin.buffers, { desc = 'Telescope buffers' })
         vim.keymap.set('n', '<leader>fh', builtin.help_tags, { desc = 'Telescope help tags' })
+
+        -- keymaps: ts
+        vim.keymap.set('n', '<leader>ft', builtin.treesitter, { desc = 'Treesitter Telescope' })
+
+        -- vim.keymap.set('n', '', ,{desc=""})
+
+        -- keymps: telescope diagnostic
+        -- vim.keymap.set('n', '<leader>df', builtin.diagnostics, { desc = 'Find Diagnostics Telescope' })
+
+        -- keymaps: references
+        -- vim.keymap.set('n', '<leader>lr', builtin.lsp_references, { desc = 'Find References' })
+        -- vim.keymap.set('n', '<leader>li', builtin.lsp_implementations, { desc = 'Find Implementation' })
+        -- vim.keymap.set('n', '<leader>ld', builtin.lsp_definitions, { desc = 'Find Definitions' })
+
 
         -- fzf telescope
        require('telescope').setup {

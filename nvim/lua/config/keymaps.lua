@@ -32,5 +32,8 @@ vim.keymap.set('v', '<', '<gv', opts)
 vim.keymap.set('v', '>', '>gv', opts)
 
 
+-----------------
+--   Plugins   --
+-----------------
 -- image paste
 vim.keymap.set("n", "<leader>p", ":PasteImage<cr>", opts)

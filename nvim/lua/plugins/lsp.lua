@@ -1,179 +1,154 @@
 return {
-    "neovim/nvim-lspconfig",
-    dependencies = {
-          "williamboman/mason.nvim",
-          "williamboman/mason-lspconfig.nvim",
-          "WhoIsSethDaniel/mason-tool-installer.nvim",
-          "nvim-lua/plenary.nvim",
+	"neovim/nvim-lspconfig",
+	event = { "BufReadPre", "BufNewFile" },
+	dependencies = {
+		"hrsh7th/cmp-nvim-lsp",
+		{ "antosha417/nvim-lsp-file-operations", config = true },
+	},
+	config = function()
+		-- import lspconfig plugin
+		local lspconfig = require("lspconfig")
 
-    },
-    config = function()
-        require("mason").setup()
+		-- import mason_lspconfig plugin
+		local mason_lspconfig = require("mason-lspconfig")
 
-        require("mason-lspconfig").setup {
-            ensure_installed = { "ruff", "pyright", "lua_ls", "bashls", "rust_analyzer", "bashls" },
-        }
+		-- import cmp-nvim-lsp plugin
+		local cmp_nvim_lsp = require("cmp_nvim_lsp")
 
-        local lspconfig = require("lspconfig")
+		local keymap = vim.keymap -- for conciseness
 
-        -- Customized on_attach function.
-        -- See `:help vim.diagnostic.*` for documentation on any of the below functions.
-        local opts = { noremap = true, silent = true, desc = "" }
-        vim.keymap.set("n", "<leader>e", vim.diagnostic.open_float, opts)
-        vim.keymap.set("n", "[d", vim.diagnostic.goto_prev, opts)
-        vim.keymap.set("n", "]d", vim.diagnostic.goto_next, opts)
-        vim.keymap.set("n", "<leader>q", vim.diagnostic.setloclist, opts)
+		vim.api.nvim_create_autocmd("LspAttach", {
+			group = vim.api.nvim_create_augroup("UserLspConfig", {}),
+			callback = function(ev)
+				-- Buffer local mappings.
+				-- See `:help vim.lsp.*` for documentation on any of the below functions
+				local opts = { buffer = ev.buf, silent = true }
 
-        -- Use an on_attach function to only map the following keys
-        -- after the language server attaches to the current buffer.
-        local on_attach = function(client, bufnr)
-            -- Enable completion triggered by <c-x><c-o>
-            -- vim.api.nvim_buf_set_option(bufnr, "omnifunc", "v:lua.vim.lsp.omnifunc")
+				-- keymaps: set keybinds
+				opts.desc = "Show LSP references"
+				keymap.set("n", "gR", "<cmd>Telescope lsp_references<CR>", opts) -- show definition, references
 
-            if client.name == "rust_analyzer" then
-                -- WARNING: This feature requires Neovim v0.10+
-                vim.lsp.inlay_hint.enable()
-            end
+				opts.desc = "Go to declaration"
+				keymap.set("n", "gD", vim.lsp.buf.declaration, opts) -- go to declaration
 
-            -- See `:help vim.lsp.*` for documentation on any of the below functions
-            local bufopts = { noremap = true, silent = true, buffer = bufnr }
-            vim.keymap.set("n", "gD", vim.lsp.buf.declaration, bufopts)
-            vim.keymap.set("n", "gd", vim.lsp.buf.definition, bufopts)
-            vim.keymap.set("n", "K", vim.lsp.buf.hover, bufopts)
-            vim.keymap.set("n", "gi", vim.lsp.buf.implementation, bufopts)
-            vim.keymap.set("n", "<C-k>", vim.lsp.buf.signature_help, bufopts)
-            vim.keymap.set("n", "<space>wa", vim.lsp.buf.add_workspace_folder, bufopts)
-            vim.keymap.set("n", "<space>wr", vim.lsp.buf.remove_workspace_folder, bufopts)
-            vim.keymap.set("n", "<space>wl", function()
-                print(vim.inspect(vim.lsp.buf.list_workspace_folders()))
-            end, bufopts)
-            vim.keymap.set("n", "<space>D", vim.lsp.buf.type_definition, bufopts)
-            vim.keymap.set("n", "<space>rn", vim.lsp.buf.rename, bufopts)
-            vim.keymap.set("n", "<space>ca", vim.lsp.buf.code_action, bufopts)
-            vim.keymap.set("n", "gr", vim.lsp.buf.references, bufopts)
-            vim.keymap.set("n", "<space>f", function()
-                vim.lsp.buf.format({
-                    async = true,
-                    -- Predicate used to filter clients. Receives a client as
-                    -- argument and must return a boolean. Clients matching the
-                    -- predicate are included.
-                    filter = function(client)
-                        -- NOTE: If an LSP contains a formatter, we don't need to use null-ls at all.
-                        return client.name == "null-ls" or client.name == "hls" or client.name == "rust_analyzer"
-                    end,
+				opts.desc = "Show LSP definitions"
+				keymap.set("n", "gd", "<cmd>Telescope lsp_definitions<CR>", opts) -- show lsp definitions
+
+				opts.desc = "Show LSP implementations"
+				keymap.set("n", "gi", "<cmd>Telescope lsp_implementations<CR>", opts) -- show lsp implementations
+
+				opts.desc = "Show LSP type definitions"
+				keymap.set("n", "gt", "<cmd>Telescope lsp_type_definitions<CR>", opts) -- show lsp type definitions
+
+				opts.desc = "See available code actions"
+				keymap.set({ "n", "v" }, "<leader>ca", vim.lsp.buf.code_action, opts) -- see available code actions, in visual mode will apply to selection
+
+				opts.desc = "Smart rename"
+				keymap.set("n", "<leader>rn", vim.lsp.buf.rename, opts) -- smart rename
+
+				opts.desc = "Show buffer diagnostics"
+				keymap.set("n", "<leader>lD", "<cmd>Telescope diagnostics bufnr=0<CR>", opts) -- show  diagnostics for file
+
+				opts.desc = "Show line diagnostics"
+				keymap.set("n", "<leader>ld", vim.diagnostic.open_float, opts) -- show diagnostics for line
+
+				opts.desc = "Go to previous diagnostic"
+				keymap.set("n", "[d", vim.diagnostic.goto_prev, opts) -- jump to previous diagnostic in buffer
+
+				opts.desc = "Go to next diagnostic"
+				keymap.set("n", "]d", vim.diagnostic.goto_next, opts) -- jump to next diagnostic in buffer
+
+				opts.desc = "Show documentation for what is under cursor"
+				keymap.set("n", "K", vim.lsp.buf.hover, opts) -- show documentation for what is under cursor
+
+				opts.desc = "Restart LSP"
+				keymap.set("n", "<leader>lrs", ":LspRestart<CR>", opts) -- mapping to restart lsp if necessary
+			end,
+		})
+
+		-- used to enable autocompletion (assign to every lsp server config)
+		local capabilities = cmp_nvim_lsp.default_capabilities()
+
+		-- Change the Diagnostic symbols in the sign column (gutter)
+		-- (not in youtube nvim video)
+		-- local signs = { Error = " ", Warn = " ", Hint = "󰠠 ", Info = " " }
+		-- for type, icon in pairs(signs) do
+		--   local hl = "DiagnosticSign" .. type
+		--   vim.fn.sign_define(hl, { text = icon, texthl = hl, numhl = "" })
+		-- end
+
+		mason_lspconfig.setup_handlers({
+			-- default handler for installed servers
+			function(server_name)
+				lspconfig[server_name].setup({
+					capabilities = capabilities,
+				})
+			end,
+			["svelte"] = function()
+				-- configure svelte server
+				lspconfig["svelte"].setup({
+					capabilities = capabilities,
+					on_attach = function(client, bufnr)
+						vim.api.nvim_create_autocmd("BufWritePost", {
+							pattern = { "*.js", "*.ts" },
+							callback = function(ctx)
+								-- Here use ctx.match instead of ctx.file
+								client.notify("$/onDidChangeTsOrJsFile", { uri = ctx.match })
+							end,
+						})
+					end,
+				})
+			end,
+			["graphql"] = function()
+				-- configure graphql language server
+				lspconfig["graphql"].setup({
+					capabilities = capabilities,
+					filetypes = { "graphql", "gql", "svelte", "typescriptreact", "javascriptreact" },
+				})
+			end,
+			["emmet_ls"] = function()
+				-- configure emmet language server
+				lspconfig["emmet_ls"].setup({
+					capabilities = capabilities,
+					filetypes = {
+						"html",
+						"typescriptreact",
+						"javascriptreact",
+						"css",
+						"sass",
+						"scss",
+						"less",
+						"svelte",
+					},
+				})
+			end,
+			["lua_ls"] = function()
+				-- configure lua server (with special settings)
+				lspconfig["lua_ls"].setup({
+					capabilities = capabilities,
+					settings = {
+						Lua = {
+							-- make the language server recognize "vim" global
+							diagnostics = {
+								globals = { "vim" },
+							},
+							completion = {
+								callSnippet = "Replace",
+							},
+						},
+					},
+				})
+			end,
+			["ruff"] = function()
+                lspconfig['ruff'].setup({
+                    capabilities = capabilities
                 })
-            end, bufopts)
-        end
-
-        -- How to add an LSP for a specific programming language?
-        -- 1. Use `:Mason` to install the corresponding LSP.
-        -- 2. Add the configuration below. The syntax is `lspconfig.<name>.setup(...)`
-        -- Hint (find <name> here) : https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md
-        local capabilities = require('cmp_nvim_lsp').default_capabilities()
-
-        -- lspconfig.pylsp.setup({
-        -- 	on_attach = on_attach,
-        --     capabilities = capabilities
-        -- })
-
-        lspconfig.gopls.setup({
-            on_attach = on_attach,
-            capabilities = capabilities
-        })
-
-        lspconfig.lua_ls.setup({
-            on_attach = on_attach,
-            capabilities = capabilities,
-            settings = {
-                Lua = {
-                    runtime = {
-                        -- Tell the language server which version of Lua you're using (most likely LuaJIT in the case of Neovim).
-                        version = "LuaJIT",
-                    },
-                    diagnostics = {
-                        -- Get the language server to recognize the `vim` global.
-                        globals = { "vim" },
-                    },
-                    workspace = {
-                        -- Make the server aware of Neovim runtime files.
-                        library = vim.api.nvim_get_runtime_file("", true),
-                    },
-                    -- Do not send telemetry data containing a randomized but unique identifier.
-                    telemetry = {
-                        enable = false,
-                    },
-                },
-            },
-        })
-
-        lspconfig.bashls.setup({
-
-            capabilities = capabilities,
-        })
-
-        lspconfig.rust_analyzer.setup({
-            -- source: https://rust-analyzer.github.io/manual.html#nvim-lsp
-            on_attach = on_attach,
-            capabilities = capabilities,
-        })
-
-        lspconfig.clangd.setup({
-            on_attach = on_attach,
-            capabilities = capabilities,
-        })
-
-        lspconfig.ocamllsp.setup({
-            on_attach = on_attach,
-            capabilities = capabilities,
-        })
-
-        lspconfig.ruby_lsp.setup({
-            on_attach = on_attach,
-            capabilities = capabilities,
-        })
-
-        -- Case 1. For CMake Users
-        --     $ cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=ON .
-        -- Case 2. For Bazel Users, use https://github.com/hedronvision/bazel-compile-commands-extractor
-        -- Case 3. If you don't use any build tool and all files in a project use the same build flags
-        --     Place your compiler flags in the compile_flags.txt file, located in the root directory
-        --     of your project. Each line in the file should contain a single compiler flag.
-        -- src: https://clangd.llvm.org/installation#compile_commandsjson
-        lspconfig.clangd.setup({
-            on_attach = on_attach,
-            capabilities = capabilities,
-        })
-
-        lspconfig.hls.setup({
-            on_attach = on_attach,
-            capabilities = capabilities,
-        })
-
-
-        local on_attach = function(client, bufnr)
-          if client.name == 'ruff' then
-            -- Disable hover in favor of Pyright
-            client.server_capabilities.hoverProvider = false
-          end
-        end
-
-        require('lspconfig').ruff.setup {
-          on_attach = on_attach,
-        }
-
-        require('lspconfig').pyright.setup {
-          settings = {
-            pyright = {
-              -- Using Ruff's import organizer
-              disableOrganizeImports = true,
-            },
-            python = {
-              analysis = {
-                -- Ignore all files for analysis to exclusively use Ruff for linting
-                ignore = { '*' },
-              },
-            },
-          },
-        }
-    end,
+            end,
+			["pyright"] = function()
+                lspconfig['pyright'].setup({
+                    capabilities = capabilities
+                })
+            end,
+		})
+	end,
 }
