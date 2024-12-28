@@ -10,8 +10,8 @@ return{
 				prompt_for_file_name = true,
 			},
 		},
-		-- keys = {
-		-- 	-- suggested keymap
-		-- 	{ "<leader>p", "<cmd>PasteImage<cr>", desc = "Paste image from system clipboard" },
-		-- },
+		keys = {
+			-- suggested keymap
+			{ "<leader>p", "<cmd>PasteImage<cr>", desc = "Paste image from system clipboard" },
+		},
 }

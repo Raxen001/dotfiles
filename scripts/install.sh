@@ -5,6 +5,8 @@
 # notes
 # https://github.com/JaKooLit/Fedora-Hyprland/blob/main/install-scripts/Global_functions.sh
 
+# TODO:
+#   INSTALL PRETTIERD
 echo "!IMPORTANT this script was made by Raxen when he thought"
 echo "He was only using to use Fedora based distros"
 

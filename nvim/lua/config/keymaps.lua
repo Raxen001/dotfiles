@@ -22,18 +22,15 @@ vim.keymap.set('n', '<C-Up>', ':resize -2<CR>', opts)
 vim.keymap.set('n', '<C-Down>', ':resize +2<CR>', opts)
 vim.keymap.set('n', '<C-Left>', ':vertical resize -2<CR>', opts)
 vim.keymap.set('n', '<C-Right>', ':vertical resize +2<CR>', opts)
+-- create vertical split
+vim.keymap.set('n', '<C-\\>', ':vs<CR>', opts)
+vim.keymap.set('n', '<C-]>', ':split<CR>', opts)
 
 -----------------
 -- Visual mode --
 -----------------
 
 -- Hint: start visual mode with the same area as the previous area and the same mode
+-- super good
 vim.keymap.set('v', '<', '<gv', opts)
 vim.keymap.set('v', '>', '>gv', opts)
-
-
------------------
---   Plugins   --
------------------
--- image paste
-vim.keymap.set("n", "<leader>p", ":PasteImage<cr>", opts)

@@ -44,7 +44,7 @@ return {
 				-- Use <C-b/f> to scroll the docs.
 				["<C-b>"] = cmp.mapping.scroll_docs(-4),
 				["<C-f>"] = cmp.mapping.scroll_docs(4),
-				-- Use <C-k/j> to switch in items.
+				-- Use <C-p/n> to switch in items.
 				["<C-p>"] = cmp.mapping.select_prev_item(),
 				["<C-n>"] = cmp.mapping.select_next_item(),
 				-- Accept ([y]es) the completion.
@@ -93,9 +93,9 @@ return {
 			sources = cmp.config.sources({
 				{ name = "nvim_lsp" }, -- For nvim-lsp
 				{ name = "luasnip" }, -- For luasnip user
-				{ name = "buffer" }, -- For buffer word completion
-				{ name = "path" }, -- For path completion
 				{ name = "nvim_lsp_signature_help" }, -- gets function paramenters
+				{ name = "path" }, -- For path completion
+				{ name = "buffer" }, -- For buffer word completion
 			}),
 		})
 

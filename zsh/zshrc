@@ -6,7 +6,7 @@ autoload colors && colors
 # Prompt
 # PS1="%{$fg_bold[blue]%} %B%{$fg_bold[yellow]%}%n%{$fg[white]%} : %{$fg[red]%}%~
 # %{$reset_color%}$ %b"
-
+#
 #-------------------------------------------------------------------------------
 
 # Lines configured by zsh-newuser-install
@@ -28,8 +28,8 @@ zstyle ':completion:*' cache-path "$XDG_CACHE_HOME/zsh/zcompcache"
 # zstyle ':completion:*' menu no
 # zstyle :compinstall filename '$HOME/.local/configs/dotfiles/zsh/.zshrc'
 
-autoload -Uz compinit
-compinit
+# autoload -Uz compinit
+# compinit
 # End of lines added by compinstall
 #
 #-------------------------------------------------------------------------------
@@ -119,6 +119,7 @@ n ()
 
 #-------------------------------------------------------------------------------
 
+alias con="cd ~/Code/web/raxen001.github.io/content/"
 
 # alias ran='cd ~/Music/Playlist/Random'
 # alias rax='cd /home/raxen/Music/Playlist/Raxen_Gamer001/'
@@ -207,21 +208,22 @@ zinit light Aloxaf/fzf-tab
 # zinit light jeffreytse/zsh-vi-mode
 
 #-------------------------------------------------------------------------------
-# shell integration
-[ ! -f "${fpath[1]}/_hugo" ] && hugo completion zsh > "${fpath[1]}/_hugo"
 
-# initialise completions with ZSH's compinit
-# autoload -Uz compinit && compinit
-#
-# nvm
-# export NVM_DIR="$HOME/.config/nvm"
-# [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+# hugo shell integration
+[ ! -f "${fpath[1]}/_hugo" ] && hugo completion zsh > "${fpath[1]}/_hugo"
 
 # fzf in zsh
 eval "$(fzf --zsh)"
 
 # starsip prompt
 eval "$(starship init zsh)"
+
+# initialise completions with ZSH's compinit
+autoload -Uz compinit && compinit
+
+# nvm
+# export NVM_DIR="$HOME/.config/nvm"
+# [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 
 # zellij terminal multiplexer
 eval "$(zellij setup --generate-auto-start zsh)"

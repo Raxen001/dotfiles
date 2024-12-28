@@ -30,6 +30,9 @@ return {
         "lua_ls",
         "pyright",
         "ruff",
+        "pylsp",
+        "clangd",
+        "rust_analyzer",
       },
     })
   end,
