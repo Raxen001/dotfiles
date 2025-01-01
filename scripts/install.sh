@@ -7,6 +7,7 @@
 
 # TODO:
 #   INSTALL PRETTIERD
+#   INSTALL oxker
 echo "!IMPORTANT this script was made by Raxen when he thought"
 echo "He was only using to use Fedora based distros"
 

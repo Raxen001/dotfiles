@@ -65,6 +65,7 @@ alias vi='nvim'
 alias vim='nvim'
 #alias novim='nvim -u ~/.local/configs/dotfiles/nvim/norc.vim'
 
+alias fastssh='fast-ssh'
 alias zathura='zathura --fork'
 alias glow='glow -p'
 # alias pacman='pacman --color=auto'
@@ -224,6 +225,7 @@ autoload -Uz compinit && compinit
 # nvm
 # export NVM_DIR="$HOME/.config/nvm"
 # [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+eval "$(tailscale completion zsh)"
 
 # zellij terminal multiplexer
 eval "$(zellij setup --generate-auto-start zsh)"

@@ -38,6 +38,10 @@ install necessariy programs
   - `cargo install --locked yazi-fm yazi-cli`
 - atac
   - `cargo install atac`
+- oxker
+    - `cargo install oxker`
+- fastssh
+    - `cargo install fast-ssh`
 - jqp
 - fx
 
