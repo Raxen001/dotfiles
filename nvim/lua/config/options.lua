@@ -39,7 +39,10 @@ vim.opt.sidescrolloff = 8
 
 -- format stuff
 vim.opt.fileencoding = "utf-8"      -- the encoding written to a file
-vim.opt.conceallevel = 0 	    -- so that `` is visible in markdown files
+vim.opt.conceallevel = 0 	        -- so that `` is visible in markdown files
+
+-- swapfile
+vim.opt.swapfile = false            -- disables swap file creation
 
 -- disable netrw at the very start of your init.lua for nvim-tree.lua
 vim.g.loaded_netrw = 1

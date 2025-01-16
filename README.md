@@ -30,6 +30,8 @@ install necessariy programs
 - entr
 - oxipng (compress png)
   - `cargo install oxipng`
+- silicon
+  - `cargo install silicon`
 
 ## tui
 
