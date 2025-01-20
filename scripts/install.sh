@@ -65,7 +65,7 @@ do
 	flatpak install flathub "$app"
 done
 
-#TODO
+# TODO:
 # INSTALL 
 # 	zsh & chsh
 #	RPMFUSION

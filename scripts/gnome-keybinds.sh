@@ -5,6 +5,7 @@
 # get keybindings for shell
 # gsettings list-recursively org.gnome.shell.keybindings | grep switch-to-
 #
+# TODO: add alacritty, 
 #
 #
 # remove alt tab for applciations 
