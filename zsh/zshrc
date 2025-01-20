@@ -121,8 +121,11 @@ n ()
 #-------------------------------------------------------------------------------
 #yazi
 function y() {
+    # forcing it fallback to Überzug++ or Chafa
 	local tmp="$(mktemp -t "yazi-cwd.XXXXXX")" cwd
-	yazi "$@" --cwd-file="$tmp"
+    export NVIM=1
+    export NVIM_LOG_FILE="/tmp/nvimlogggg"
+    yazi "$@" --cwd-file="$tmp"
 	if cwd="$(command cat -- "$tmp")" && [ -n "$cwd" ] && [ "$cwd" != "$PWD" ]; then
 		builtin cd -- "$cwd"
 	fi
