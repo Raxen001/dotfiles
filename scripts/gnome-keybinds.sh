@@ -56,3 +56,7 @@ gsettings set org.gnome.desktop.wm.keybindings toggle-fullscreen "['F11']"
 gsettings set org.gnome.desktop.wm.keybindings close "['<Super><Shift>c']"
 gsettings set org.gnome.desktop.wm.keybindings switch-windows "['<Alt>Tab']"
 gsettings set org.gnome.desktop.wm.keybindings switch-windows-backward "['<Shift><Alt>Tab']"
+
+# set home folder to Super+e
+gsettings set org.gnome.settings-daemon.plugins.media-keys home "['<Super>e']"
+

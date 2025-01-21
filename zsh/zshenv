@@ -24,7 +24,7 @@ export TERMINAL='alacritty'
 # set `TERM` for icons in tmux
 export TERM='alacritty'
 # export BROWSER='firefox'
-export TEXTNOTE_DIR="/home/raxen/Documents/personal_notes/NOTES"
+export TEXTNOTE_DIR="$HOME/Documents/personal_notes/NOTES"
 export PAGER='less -R'
 #export PAGER="/bin/sh -c \"unset PAGER;col -b -x | \
 #    nvim -R -c 'set ft=man nomod nolist' -c 'map q :q<CR>' \
@@ -82,4 +82,4 @@ export DOCKER_CONFIG="$XDG_CONFIG_HOME"/docker
 #-------------------------------------------------------------------------------
 # Yuzu
 #export __GL_THREADED_OPTIMIZATIONS=1
-. "/home/raxen/.local/cargo/env"
+. "$HOME/.local/cargo/env"
