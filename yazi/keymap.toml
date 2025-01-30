@@ -1,0 +1,14 @@
+[[manager.prepend_keymap]]
+on   = ["~"]
+run  = "cd ~"
+desc = "cd to ~"
+
+[[manager.prepend_keymap]]
+on = "<Enter>"
+run = "enter"
+desc = "Enter the child directory"
+
+[[manager.prepend_keymap]]
+on = "/"
+run = "filter --smart"
+desc = "Filter files"

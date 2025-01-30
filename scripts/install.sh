@@ -4,10 +4,12 @@
 # email: raxen001@tutamail.com
 # notes
 # https://github.com/JaKooLit/Fedora-Hyprland/blob/main/install-scripts/Global_functions.sh
+# https://github.com/smittix/fedorable/blob/main/fedorable.sh
 
 # TODO:
 #   INSTALL PRETTIERD
 #   INSTALL oxker
+#   INSTALL NVIDIA, AMD INSTALL
 echo "!IMPORTANT this script was made by Raxen when he thought"
 echo "He was only using to use Fedora based distros"
 
@@ -87,3 +89,13 @@ sudo dnf swap mesa-vdpau-drivers.i686 mesa-vdpau-drivers-freeworld.i686
 sudo dnf install libva-nvidia-driver.{i686,x86_64}
 sudo dnf install rpmfusion-nonfree-release-tainted
 sudo dnf --repo=rpmfusion-nonfree-tainted install "*-firmware"
+
+
+nvidia=$(lspci | grep "VGA" | grep "NVIDIA")
+if [[ -n $nvidia ]]; then
+    echo "Nvidia card is present $nvidia"
+fi
+amd=$(lspci | grep "VGA" | grep "AMD")
+if [[ -n $amd ]]; then
+    echo "Nvidia card is present $amd"
+fi
