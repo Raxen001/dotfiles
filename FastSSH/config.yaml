@@ -1,7 +1,0 @@
-
-# This is the default configuration for FastSSH.
-
-theme:
-    text_primary: "#a6a69c"
-    text_secondary: "#c5c9c5"
-    border_color: "#87a987"

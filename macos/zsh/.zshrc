@@ -1,0 +1,219 @@
+# vim: set nowrap
+# dependencies: fzf starship zellij hugo git
+#-------------------------------------------------------------------------------
+#
+autoload colors && colors
+# Prompt
+# PS1="%{$fg_bold[blue]%} %B%{$fg_bold[yellow]%}%n%{$fg[white]%} : %{$fg[red]%}%~
+# %{$reset_color%}$ %b"
+#
+#-------------------------------------------------------------------------------
+
+# Lines configured by zsh-newuser-install
+unsetopt autocd beep extendedglob
+bindkey -v
+zstyle ':completion:*' completer _expand _complete _ignored _correct _approximate
+zstyle ':completion:*' group-name ''
+zstyle ':completion:*' insert-unambiguous true
+zstyle ':completion:*' list-colors ${(s.:.)LS_COLORS}
+zstyle ':completion:*' list-prompt '%SAt %p: Hit TAB for more, or the character to insert%s'
+zstyle ':completion:*' menu select=1
+zstyle ':completion:*' original true
+zstyle ':completion:*' select-prompt '%SScrolling active: current selection at %p%s'
+zstyle ':completion:*' use-compctl true
+zstyle ':completion:*' verbose true
+zstyle ':completion:*' matcher-list'm:{a-z}={A-Za-z}'
+zstyle ':completion:*' use-cache on
+zstyle ':completion:*' cache-path "$XDG_CACHE_HOME/zsh/zcompcache"
+# zstyle ':completion:*' menu no
+# zstyle :compinstall filename '$HOME/.local/configs/dotfiles/zsh/.zshrc'
+
+# autoload -Uz compinit
+# compinit
+# End of lines added by compinstall
+#
+#-------------------------------------------------------------------------------
+# History
+HISTSIZE=1000
+# HISTFILE="$XDG_CACHE_HOME"/zsh/zsh_history
+SAVEHIST=$HISTSIZE
+HISTDUP=erase
+setopt appendhistory
+setopt inc_append_history # append history. shared history between tabs and panes
+setopt sharehistory
+setopt hist_ignore_space
+#-------------------------------------------------------------------------------
+#
+alias pwh='npx playwright test -g "Test case for Homepage"  ; npx playwright show-report'
+alias pwm='npx playwright test -g "Test case for Compare Movies archive Page"  ; npx playwright show-report'
+alias pwp='npx playwright test -g "Test case for Person Page"  ; npx playwright show-report'
+alias pwsm='npx playwright test -g "Test case for Avengers Endgame Page"  ; npx playwright show-report'
+alias pwsp='npx playwright test -g "Test case for Chris Evans Page"  ; npx playwright show-report'
+
+#-------------------------------------------------------------------------------
+alias ls='ls -F --color=auto'
+alias ll='ls -altuh --color=auto'
+alias la='ls -AF --color=auto'
+## fedora speicifc
+# alias up="sudo dnf update --refresh -y && flatpak update -y"
+#-------------------------------------------------------------------------------
+# alias ls='eza -F --color=auto --color-scale=all --icons=auto --hyperlink'
+# alias la='eza -BhaF --color=auto --color-scale=all --icons=auto --hyperlink'
+# alias ll='eza -ahHlF -t modified --color=auto --hyperlink'
+# alias cat='bat'
+# alias qr='qrencode -t ansi'
+# alias gpw='gopass -c '
+# alias gotp='gopass otp -c '
+# alias nvidia-settings="nvidia-settings --config=/home/raxen/.config/nvidia/settings"
+
+alias ip='ip -c'
+alias tree='tree -C'
+
+alias vi='nvim'
+alias vim='nvim'
+#alias novim='nvim -u ~/.local/configs/dotfiles/nvim/norc.vim'
+
+alias fastssh='fast-ssh'
+alias zathura='zathura --fork'
+alias glow='glow -p'
+# alias pacman='pacman --color=auto'
+alias ncdu='ncdu --color dark'
+alias grep='grep --color=always'
+alias rg='rg --color=always'
+alias less='less -r'
+alias python='python -q'
+#alias st='st & disown'
+# alias ytd='youtube-dl -q --no-playlist `xclip -selection clipboard -o` & disown'
+# alias ytdp='youtube-dl -q --yes-playlist `xclip -selection clipboard -o` & disown'
+# alias ins='sudo cp config.def.h config.h && sudo make clean install'
+
+# alias lynx='lynx -cfg=~/.config/lynxrc'
+#alias newsboat='newsboat --url-file=/home/raxen/.local/configs/dotfiles/newsboat/rss-feed --cache-file=/home/raxen/.cache/newsboat.db'
+# alias newsboat='newsboat --cache-file=/home/raxen/.cache/newsboat.db'
+# alias redyt='bash ~/.local/configs/scripts/redyt.sh'
+
+#-------------------------------------------------------------------------------
+#yazi
+function n() {
+	local tmp="$(mktemp -t "yazi-cwd.XXXXXX")" cwd
+	yazi "$@" --cwd-file="$tmp"
+	if cwd="$(command cat -- "$tmp")" && [ -n "$cwd" ] && [ "$cwd" != "$PWD" ]; then
+		builtin cd -- "$cwd"
+	fi
+	rm -f -- "$tmp"
+}
+#-------------------------------------------------------------------------------
+
+# alias con="cd ~/Code/web/raxen001.github.io/content/"
+
+# alias ran='cd ~/Music/Playlist/Random'
+# alias rax='cd /home/raxen/Music/Playlist/Raxen_Gamer001/'
+# alias uni='cd ~/Music/Playlist/Unique'
+# alias pla='cd ~/Music/Playlist'
+# alias pop='cd ~/Music/Playlist/pop'
+
+# alias scr='cd /home/raxen/.local/configs/scripts'
+# alias dot='cd /home/raxen/.local/configs/dotfiles'
+# alias sou='cd /home/raxen/.local/configs/sourcepkgs'
+# alias riv='cd /home/raxen/Music/Playlist/Riverdale'
+# alias rivtri='cd /home/raxen/Music/Tributes/Riverdale_tribute'
+# alias not='cd /home/raxen/Documents/personal_notes'
+# alias ong='cd /home/raxen/Code/Python/Ongoing'
+#
+#-------------------------------------------------------------------------------
+# alias -s {png,jpg,jpeg,webp}=sxiv
+# alias -s pdf=zathura
+# alias -s {mp3,mp4,mkv,webm}=mpv
+# alias -s {json,c,cpp,py,txt,html,vim,md,txt}=nvim
+#-------------------------------------------------------------------------------
+# man() {
+#         LESS_TERMCAP_md=$'\e[01;31m' \
+#         LESS_TERMCAP_me=$'\e[0m' \
+#         LESS_TERMCAP_se=$'\e[0m' \
+#         LESS_TERMCAP_so=$'\e[01;44;33m' \
+#         LESS_TERMCAP_ue=$'\e[0m' \
+#         LESS_TERMCAP_us=$'\e[01;32m' \
+#         command man "$@"
+# }
+#export MANPAGER='nvim +Man!'
+#export MANWIDTH=999
+# MANPAGER="sh -c 'col -bx | bat -l man -p'"
+# export MANWIDTH=100
+#-------------------------------------------------------------------------------
+# zellij - terminal multiplexer
+#
+function zr () { zellij run --name "$*" -- zsh -ic "$*";}
+function zrf () { zellij run --name "$*" --floating -- zsh -ic "$*";}
+function ze () { zellij edit "$*";}
+function zef () { zellij edit --floating "$*";}
+#-------------------------------------------------------------------------------
+#
+# Vi mode
+bindkey -v
+export KEYTIMEOUT=1
+
+# Change cursor shape for different vi modes.
+function zle-keymap-select {
+  if [[ ${KEYMAP} == vicmd ]] ||
+     [[ $1 = 'block' ]]; then
+    echo -ne '\e[1 q'
+  elif [[ ${KEYMAP} == main ]] ||
+       [[ ${KEYMAP} == viins ]] ||
+       [[ ${KEYMAP} = '' ]] ||
+       [[ $1 = 'beam' ]]; then
+    echo -ne '\e[5 q'
+  fi
+}
+zle -N zle-keymap-select
+zle-line-init() {
+    zle -K viins # initiate `vi insert` as keymap (can be removed if `bindkey -V` has been set elsewhere)
+    echo -ne "\e[5 q"
+}
+zle -N zle-line-init
+echo -ne '\e[5 q' # Use beam shape cursor on startup.
+preexec() { echo -ne '\e[5 q' ;} # Use beam shape cursor for each new prompt.
+#
+#---------------------------------------------------------------------
+# Rust
+# source "$HOME/.local/cargo/env"
+#-------------------------------------------------------------------------------
+
+# zinit - zsh package manager
+ZINIT_HOME="${XDG_DATA_HOME:-${HOME}/.local/share}/zinit/zinit.git"
+[ ! -d $ZINIT_HOME ] && mkdir -p "$(dirname $ZINIT_HOME)"
+[ ! -d $ZINIT_HOME/.git ] && git clone https://github.com/zdharma-continuum/zinit.git "$ZINIT_HOME"
+source "${ZINIT_HOME}/zinit.zsh"
+
+zinit light zsh-users/zsh-syntax-highlighting
+zinit light zsh-users/zsh-completions
+zinit light zsh-users/zsh-autosuggestions
+zinit light Aloxaf/fzf-tab
+# # better vim mode
+# zinit ice depth=1
+# zinit light jeffreytse/zsh-vi-mode
+
+#-------------------------------------------------------------------------------
+
+# hugo shell integration
+# [ ! -f "${fpath[1]}/_hugo" ] && hugo completion zsh > "${fpath[1]}/_hugo"
+
+# zellij shell integration
+[ ! -f "${fpath[1]}/_zellij" ] && zellij setup --generate-completion zsh > "${fpath[1]}/_zellij"
+
+# fzf in zsh
+eval "$(fzf --zsh)"
+
+# starsip prompt
+eval "$(starship init zsh)"
+
+# initialise completions with ZSH's compinit
+autoload -Uz compinit && compinit
+
+ export NVM_DIR="$HOME/.nvm"
+  [ -s "/opt/homebrew/opt/nvm/nvm.sh" ] && \. "/opt/homebrew/opt/nvm/nvm.sh"  # This loads nvm
+  [ -s "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm" ] && \. "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
+# eval "$(tailscale completion zsh)"
+
+export PATH=$PATH:~/.composer/vendor/bin/
+# zellij terminal multiplexer
+eval "$(zellij setup --generate-auto-start zsh)"
