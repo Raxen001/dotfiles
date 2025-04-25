@@ -43,6 +43,8 @@ setopt inc_append_history # append history. shared history between tabs and pane
 setopt sharehistory
 setopt hist_ignore_space
 #-------------------------------------------------------------------------------
+alias reaper='distrobox enter --root reaper'
+#-------------------------------------------------------------------------------
 #alias ls='ls -F --color=auto'
 #alias ll='ls -altuh --color=auto'
 #alias la='ls -AF --color=auto'

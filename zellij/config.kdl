@@ -391,6 +391,9 @@ copy_on_select true
 //
 // theme_dir "/path/to/my/theme_dir"
 
+// disable startup tips
+show_startup_tips false
+
 // Enable or disable the rendering of styled and colored underlines (undercurl).
 // May need to be disabled for certain unsupported terminals
 // Default: true
