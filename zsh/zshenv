@@ -1,3 +1,5 @@
+# vault warden
+export BW_SESSION="/bBaC2RJ1KO7OueGov/UOHrymwlfel7Qj5uqcWDYBkNj2P47+UWxQoEJX2D7BLfHFC/xZ8E2GygchT6Y1E/jOg=="
 ##-------------------------------------------------------------------------------
 export XDG_DATA_HOME="$HOME/.local/share"
 export XDG_STATE_HOME="$HOME/.local/state"

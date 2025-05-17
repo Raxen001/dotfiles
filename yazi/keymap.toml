@@ -12,3 +12,8 @@ desc = "Enter the child directory"
 on = "/"
 run = "filter --smart"
 desc = "Filter files"
+
+[[manager.prepend_keymap]]
+on   = ["g", "p"]
+run  = "cd ~/Code/projects/"
+desc = "Go to Projects"
