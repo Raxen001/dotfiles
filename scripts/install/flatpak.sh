@@ -45,8 +45,12 @@ flatpak_list=(
     io.github.nokse22.asciidraw
     io.gitlab.gregorni.Letterpress
     io.gitlab.news_flash.NewsFlash
-    io.missioncenter.MissionCenter
     nl.emphisia.icon
+    net.nokyan.Resources
+    org.gnome.gitlab.YaLTeR.Identity
+    org.gnome.Showtime
+    de.schmidhuberj.tubefeeder
+    rocks.shy.VacuumTube
     org.freedesktop.Platform.VulkanLayer.MangoHud
     org.gnome.Papers
     org.gtk.Gtk3theme.adw-gtk3-dark
@@ -55,7 +59,8 @@ flatpak_list=(
     re.sonny.Junction
 )
 
-echo $flatpak_list
-for i in ${flatpak_list[@]}; do
-    sudo flatpak install flathub "$i" -y
-done
+sudo flatpak install flathub "${flatpak_list[@]}" -y
+
+# for i in ${flatpak_list[@]}; do
+#     sudo flatpak install flathub "$i" -y
+# done

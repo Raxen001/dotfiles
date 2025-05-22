@@ -7,7 +7,7 @@ install necessariy programs
 - zsh
   - `chsh` && `/bin/zsh`
   - starship.rs
-    - `curl -sS https://starship.rs/install.sh | sh` && `eval "$(starship init zsh)"`
+    - ~`curl -sS https://starship.rs/install.sh | sh` && `eval "$(starship init zsh)"`~ (terra has this package)
 - alacritty
 - neovim
 - gopass
@@ -35,7 +35,6 @@ install necessariy programs
 
 ## tui
 
-- nnn
 - yazi
   - `cargo install --locked yazi-fm yazi-cli`
 - atac
