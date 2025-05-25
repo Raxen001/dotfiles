@@ -25,13 +25,6 @@ zstyle ':completion:*' verbose true
 zstyle ':completion:*' matcher-list'm:{a-z}={A-Za-z}'
 zstyle ':completion:*' use-cache on
 zstyle ':completion:*' cache-path "$XDG_CACHE_HOME/zsh/zcompcache"
-# zstyle ':completion:*' menu no
-# zstyle :compinstall filename '$HOME/.local/configs/dotfiles/zsh/.zshrc'
-
-# autoload -Uz compinit
-# compinit
-# End of lines added by compinstall
-#
 #-------------------------------------------------------------------------------
 # History
 HISTSIZE=1000
@@ -58,16 +51,12 @@ alias cat='bat'
 alias qr='qrencode -t ansi'
 alias gpw='gopass -c '
 alias gotp='gopass otp -c '
-# alias nvidia-settings="nvidia-settings --config=/home/raxen/.config/nvidia/settings"
-
 alias ip='ip -c'
 alias tree='tree -C'
 
 alias vi='nvim'
 alias vim='nvim'
-#alias novim='nvim -u ~/.local/configs/dotfiles/nvim/norc.vim'
 
-alias fastssh='fast-ssh'
 alias zathura='zathura --fork'
 alias glow='glow -p'
 # alias pacman='pacman --color=auto'
@@ -76,50 +65,7 @@ alias grep='grep --color=always'
 alias rg='rg --color=always'
 alias less='less -r'
 alias python='python -q'
-#alias st='st & disown'
-# alias ytd='youtube-dl -q --no-playlist `xclip -selection clipboard -o` & disown'
-# alias ytdp='youtube-dl -q --yes-playlist `xclip -selection clipboard -o` & disown'
-# alias ins='sudo cp config.def.h config.h && sudo make clean install'
 
-# alias lynx='lynx -cfg=~/.config/lynxrc'
-#alias newsboat='newsboat --url-file=/home/raxen/.local/configs/dotfiles/newsboat/rss-feed --cache-file=/home/raxen/.cache/newsboat.db'
-# alias newsboat='newsboat --cache-file=/home/raxen/.cache/newsboat.db'
-# alias redyt='bash ~/.local/configs/scripts/redyt.sh'
-
-#-------------------------------------------------------------------------------
-#--- nnn ---
-# alias nnn='nnn -Aacd'
-# n ()
-# {
-#     # Block nesting of nnn in subshells
-#     [ "${NNNLVL:-0}" -eq 0 ] || {
-#         echo "nnn is already running"
-#         return
-#     }
-#
-#     # The behaviour is set to cd on quit (nnn checks if NNN_TMPFILE is set)
-#     # If NNN_TMPFILE is set to a custom path, it must be exported for nnn to
-#     # see. To cd on quit only on ^G, remove the "export" and make sure not to
-#     # use a custom path, i.e. set NNN_TMPFILE *exactly* as follows:
-#     #      NNN_TMPFILE="${XDG_CONFIG_HOME:-$HOME/.config}/nnn/.lastd"
-#     export NNN_TMPFILE="${XDG_CONFIG_HOME:-$HOME/.config}/nnn/.lastd"
-#
-#     # Unmask ^Q (, ^V etc.) (if required, see `stty -a`) to Quit nnn
-#     # stty start undef
-#     # stty stop undef
-#     # stty lwrap undef
-#     # stty lnext undef
-#
-#     # The command builtin allows one to alias nnn to n, if desired, without
-#     # making an infinitely recursive alias
-#     command nnn -Aacd "$@"
-#
-#     [ ! -f "$NNN_TMPFILE" ] || {
-#         . "$NNN_TMPFILE"
-#         rm -f -- "$NNN_TMPFILE" > /dev/null
-#     }
-# }
-#
 #-------------------------------------------------------------------------------
 #yazi - alias to n
 
@@ -133,22 +79,11 @@ function n() {
 }
 #-------------------------------------------------------------------------------
 
-alias con="cd ~/Code/web/raxen001.github.io/content/"
+# jump to
 
-# alias ran='cd ~/Music/Playlist/Random'
-# alias rax='cd /home/raxen/Music/Playlist/Raxen_Gamer001/'
-# alias uni='cd ~/Music/Playlist/Unique'
-# alias pla='cd ~/Music/Playlist'
-# alias pop='cd ~/Music/Playlist/pop'
-
-# alias scr='cd /home/raxen/.local/configs/scripts'
 alias dot='cd /home/raxen/.local/configs/dotfiles'
-# alias sou='cd /home/raxen/.local/configs/sourcepkgs'
-# alias riv='cd /home/raxen/Music/Playlist/Riverdale'
-# alias rivtri='cd /home/raxen/Music/Tributes/Riverdale_tribute'
 alias not='cd /home/raxen/Documents/personal_notes'
-# alias ong='cd /home/raxen/Code/Python/Ongoing'
-#
+
 #-------------------------------------------------------------------------------
 alias -s {png,jpg,jpeg,webp}=sxiv
 alias -s pdf=zathura
@@ -217,10 +152,6 @@ zinit light zsh-users/zsh-syntax-highlighting
 zinit light zsh-users/zsh-completions
 zinit light zsh-users/zsh-autosuggestions
 zinit light Aloxaf/fzf-tab
-# # better vim mode
-# zinit ice depth=1
-# zinit light jeffreytse/zsh-vi-mode
-
 #-------------------------------------------------------------------------------
 
 # hugo shell integration
