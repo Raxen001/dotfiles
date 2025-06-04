@@ -19,7 +19,5 @@ return {
             -- java = false, -- don't check tree-sitter on java
         },
     },
-    -- use opts = {} for passing setup options
-    -- this is equivalent to setup({}) function
 }
 
