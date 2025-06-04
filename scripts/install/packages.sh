@@ -26,6 +26,7 @@ pkgs=(
     acpi
     fd-find
     gnome-tweaks
+    python3-neovim
 )
 
 sudo dnf install -y $pkgs[@]
