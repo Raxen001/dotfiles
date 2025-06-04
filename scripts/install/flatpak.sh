@@ -57,10 +57,9 @@ flatpak_list=(
     org.signal.Signal
     page.tesk.Refine
     re.sonny.Junction
+    dev.geopjr.Turntable
+    be.alexandervanhee.gradia
+    io.github.nozwock.Packet
 )
 
 sudo flatpak install flathub "${flatpak_list[@]}" -y
-
-# for i in ${flatpak_list[@]}; do
-#     sudo flatpak install flathub "$i" -y
-# done
