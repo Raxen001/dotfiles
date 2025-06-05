@@ -60,6 +60,7 @@ flatpak_list=(
     dev.geopjr.Turntable
     be.alexandervanhee.gradia
     io.github.nozwock.Packet
+    com.dec05eba.gpu_screen_recorder
 )
 
 sudo flatpak install flathub "${flatpak_list[@]}" -y
