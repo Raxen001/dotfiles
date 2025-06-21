@@ -337,7 +337,7 @@ default_layout "compact"
 //   - true (default)
 //   - false
 //
-mouse_mode false
+mouse_mode true
 
 // Configure the scroll back buffer size
 // This is the number of lines zellij stores for each pane in the scroll back
@@ -354,8 +354,8 @@ mouse_mode false
 // Examples:
 //
 //copy_command "xclip -selection clipboard" // x11
-copy_command "wl-copy"                    // wayland
-//copy_command "pbcopy"                     // osx
+//copy_command "wl-copy"                    // wayland
+copy_command "pbcopy"                     // osx
 
 // Choose the destination for copied text
 // Allows using the primary selection buffer (on x11/wayland) instead of the system clipboard.
@@ -390,9 +390,6 @@ copy_on_select true
 // The folder in which Zellij will look for themes
 //
 // theme_dir "/path/to/my/theme_dir"
-
-// disable startup tips
-show_startup_tips false
 
 // Enable or disable the rendering of styled and colored underlines (undercurl).
 // May need to be disabled for certain unsupported terminals

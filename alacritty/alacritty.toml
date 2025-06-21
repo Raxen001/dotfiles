@@ -6,7 +6,7 @@ style = "Block"
 unfocused_hollow = true
 
 [font]
-size = 16
+size = 18
 
 [font.glyph_offset]
 x = 0
@@ -23,6 +23,11 @@ y = 0
 action = "ToggleFullscreen"
 key = "F11"
 
+[[keyboard.bindings]]
+key = "H"
+mods =  "Command"
+action = "None"
+
 # [mouse.hints]
 # launcher = "xdg-open"
 
@@ -30,7 +35,7 @@ key = "F11"
 #decorations = "none"
 dynamic_padding=true
 opacity=1.0
-# startup_mode="Maximized"
+option_as_alt = 'Both'
 
 [window.padding]
 x = 2
