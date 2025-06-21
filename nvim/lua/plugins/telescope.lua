@@ -1,6 +1,7 @@
 return {
 	-- keymaps in keymaps.lua
-	"nvim-telescope/telescope.nvim", -- tag = '0.1.8',
+	"nvim-telescope/telescope.nvim",
+	tag = "0.1.x",
 	dependencies = {
 		"nvim-lua/plenary.nvim",
 		{ "nvim-telescope/telescope-fzf-native.nvim", build = "make" },
@@ -19,6 +20,8 @@ return {
 			builtin.current_buffer_fuzzy_find,
 			{ desc = "Telescope Search Current buffer" }
 		)
+
+		vim.keymap.set("n", "<leader>fr", builtin.resume, {})
 
 		-- keymaps: ts
 		vim.keymap.set("n", "<leader>ft", builtin.treesitter, { desc = "Treesitter Telescope" })
