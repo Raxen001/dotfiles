@@ -59,3 +59,5 @@ echo $flatpak_list
 for i in ${flatpak_list[@]}; do
     sudo flatpak install flathub "$i" -y
 done
+
+flatpak install flathub --system com.dec05eba.gpu_screen_recorder
