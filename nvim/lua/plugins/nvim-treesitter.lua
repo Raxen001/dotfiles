@@ -42,6 +42,7 @@ return {
 			"vimdoc",
 			"xml",
 			"yaml",
+            "php",
 		},
 		incremental_selection = {
 			enable = true,

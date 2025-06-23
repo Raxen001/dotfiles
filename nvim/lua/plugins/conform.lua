@@ -22,6 +22,7 @@ return {
 			python = { "isort", "black" },
 			rust = { "rustfmt" },
 			javascript = { "prettierd", "prettier", stop_after_first = true },
+            php = {"phpcbf"},
 		},
 
 		-- Set default options
