@@ -1,5 +1,4 @@
 # vim: set nowrap
-# dependencies: fzf starship zellij hugo git
 #-------------------------------------------------------------------------------
 #
 autoload colors && colors
@@ -103,43 +102,6 @@ function n() {
 	rm -f -- "$tmp"
 }
 #-------------------------------------------------------------------------------
-
-# alias con="cd ~/Code/web/raxen001.github.io/content/"
-
-# alias ran='cd ~/Music/Playlist/Random'
-# alias rax='cd /home/raxen/Music/Playlist/Raxen_Gamer001/'
-# alias uni='cd ~/Music/Playlist/Unique'
-# alias pla='cd ~/Music/Playlist'
-# alias pop='cd ~/Music/Playlist/pop'
-
-# alias scr='cd /home/raxen/.local/configs/scripts'
-# alias dot='cd /home/raxen/.local/configs/dotfiles'
-# alias sou='cd /home/raxen/.local/configs/sourcepkgs'
-# alias riv='cd /home/raxen/Music/Playlist/Riverdale'
-# alias rivtri='cd /home/raxen/Music/Tributes/Riverdale_tribute'
-# alias not='cd /home/raxen/Documents/personal_notes'
-# alias ong='cd /home/raxen/Code/Python/Ongoing'
-#
-#-------------------------------------------------------------------------------
-# alias -s {png,jpg,jpeg,webp}=sxiv
-# alias -s pdf=zathura
-# alias -s {mp3,mp4,mkv,webm}=mpv
-# alias -s {json,c,cpp,py,txt,html,vim,md,txt}=nvim
-#-------------------------------------------------------------------------------
-# man() {
-#         LESS_TERMCAP_md=$'\e[01;31m' \
-#         LESS_TERMCAP_me=$'\e[0m' \
-#         LESS_TERMCAP_se=$'\e[0m' \
-#         LESS_TERMCAP_so=$'\e[01;44;33m' \
-#         LESS_TERMCAP_ue=$'\e[0m' \
-#         LESS_TERMCAP_us=$'\e[01;32m' \
-#         command man "$@"
-# }
-#export MANPAGER='nvim +Man!'
-#export MANWIDTH=999
-# MANPAGER="sh -c 'col -bx | bat -l man -p'"
-# export MANWIDTH=100
-#-------------------------------------------------------------------------------
 # zellij - terminal multiplexer
 #
 function zr () { zellij run --name "$*" -- zsh -ic "$*";}
@@ -206,11 +168,7 @@ eval "$(starship init zsh)"
 # initialise completions with ZSH's compinit
 autoload -Uz compinit && compinit
 
- export NVM_DIR="$HOME/.nvm"
-  [ -s "/opt/homebrew/opt/nvm/nvm.sh" ] && \. "/opt/homebrew/opt/nvm/nvm.sh"  # This loads nvm
-  [ -s "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm" ] && \. "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
-# eval "$(tailscale completion zsh)"
-
 export PATH=$PATH:~/.composer/vendor/bin/
+
 # zellij terminal multiplexer
 eval "$(zellij setup --generate-auto-start zsh)"
