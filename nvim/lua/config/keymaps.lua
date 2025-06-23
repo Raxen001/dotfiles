@@ -1,33 +1,38 @@
 -- define common options
 local opts = {
-    noremap = true,      -- non-recursive
-    silent = true,       -- do not show message
+	noremap = true, -- non-recursive
+	silent = true, -- do not show message
 }
 
 vim.g.mapleader = " "
+set = vim.keymap.set
 -----------------
 -- Normal mode --
 -----------------
 
 -- Hint: see `:h vim.map.set()`
 -- Better window navigation
-vim.keymap.set('n', '<C-h>', '<C-w>h', opts)
-vim.keymap.set('n', '<C-j>', '<C-w>j', opts)
-vim.keymap.set('n', '<C-k>', '<C-w>k', opts)
-vim.keymap.set('n', '<C-l>', '<C-w>l', opts)
+set("n", "<C-h>", "<C-w>h", opts)
+set("n", "<C-j>", "<C-w>j", opts)
+set("n", "<C-k>", "<C-w>k", opts)
+set("n", "<C-l>", "<C-w>l", opts)
 
 -- Resize with arrows
 -- delta: 2 lines
-vim.keymap.set('n', '<C-Up>', ':resize -2<CR>', opts)
-vim.keymap.set('n', '<C-Down>', ':resize +2<CR>', opts)
-vim.keymap.set('n', '<C-Left>', ':vertical resize -2<CR>', opts)
-vim.keymap.set('n', '<C-Right>', ':vertical resize +2<CR>', opts)
--- create vertical split
-vim.keymap.set('n', '<C-\\>', ':vs<CR>', opts)
-vim.keymap.set('n', '<C-]>', ':split<CR>', opts)
+set("n", "<C-Up>", ":resize -2<CR>", opts)
+set("n", "<C-Down>", ":resize +2<CR>", opts)
+set("n", "<C-Left>", ":vertical resize -2<CR>", opts)
+set("n", "<C-Right>", ":vertical resize +2<CR>", opts)
 
--- format
-vim.keymap.set('n', '<leader>lf', ':Format<CR>', opts)
+-- create vertical split
+set("n", "<C-\\>", ":vs<CR>", opts)
+set("n", "<C-]>", ":split<CR>", opts)
+
+-- quickfixlist
+set("n", "<leader>co", "<cmd>copen<CR>", opts)
+set("n", "<leader>cc", "<cmd>cclose<CR>", opts)
+set("n", "<leader>cn", "<cmd>cnext<CR>", opts)
+set("n", "<leader>cp", "<cmd>cprevious<CR>", opts)
 
 -----------------
 -- Visual mode --
@@ -35,6 +40,15 @@ vim.keymap.set('n', '<leader>lf', ':Format<CR>', opts)
 
 -- Hint: start visual mode with the same area as the previous area and the same mode
 -- super good
-vim.keymap.set('v', '<', '<gv', opts)
-vim.keymap.set('v', '>', '>gv', opts)
+set("v", "<", "<gv", opts)
+set("v", ">", ">gv", opts)
 
+-----------------
+--     LSP     --
+-----------------
+set("n", "<leader>lr", vim.lsp.buf.rename, { noremap = true, silent = true, desc = "Rename Variables" })
+set("n", "<leader>la", vim.lsp.buf.code_action, { noremap = true, silent = true, desc = "Code Action (error|warning)" })
+set("n", "<leader>lc", vim.lsp.buf.references, { noremap = true, silent = true, desc = "References qflist" })
+set("n", "<leader>li", vim.lsp.buf.implementation, { noremap = true, silent = true, desc = "Implementation qflist" })
+set("n", "<leader>ls", vim.lsp.buf.document_symbol, { noremap = true, silent = true, desc = "All symbols qflist" })
+-- CTRL-S is mapped in Insert mode to vim.lsp.buf.signature_help()

@@ -194,9 +194,6 @@ zinit light Aloxaf/fzf-tab
 
 #-------------------------------------------------------------------------------
 
-# hugo shell integration
-# [ ! -f "${fpath[1]}/_hugo" ] && hugo completion zsh > "${fpath[1]}/_hugo"
-
 # zellij shell integration
 [ ! -f "${fpath[1]}/_zellij" ] && zellij setup --generate-completion zsh > "${fpath[1]}/_zellij"
 
