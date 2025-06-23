@@ -1,4 +1,5 @@
 vim.lsp.enable("lua_ls")
+vim.lsp.enable('emmylua_ls')
 vim.lsp.enable("ruff")
 vim.lsp.enable("pylsp")
 vim.lsp.enable("gopls")

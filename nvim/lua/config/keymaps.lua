@@ -5,7 +5,7 @@ local opts = {
 }
 
 vim.g.mapleader = " "
-set = vim.keymap.set
+local set = vim.keymap.set
 -----------------
 -- Normal mode --
 -----------------
@@ -31,8 +31,8 @@ set("n", "<C-]>", ":split<CR>", opts)
 -- quickfixlist
 set("n", "<leader>co", "<cmd>copen<CR>", opts)
 set("n", "<leader>cc", "<cmd>cclose<CR>", opts)
-set("n", "<leader>cn", "<cmd>cnext<CR>", opts)
-set("n", "<leader>cp", "<cmd>cprevious<CR>", opts)
+set("n", "<CS-n>", "<cmd>cnext<CR>", opts)
+set("n", "<CS-p>", "<cmd>cprevious<CR>", opts)
 
 -----------------
 -- Visual mode --

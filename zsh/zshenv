@@ -14,6 +14,7 @@ export XDG_MUSIC_DIR="$HOME/Music"
 export PATH="$HOME/.local/bin:$PATH"
 export PATH="$XDG_DATA_HOME/go/bin:$PATH"
 export PATH="$HOME/.local/npm/bin:$PATH"
+export PATH="$HOME/.local/share/nvim/mason/bin/:$PATH"
 
 ## common
 export EDITOR='nvim'
