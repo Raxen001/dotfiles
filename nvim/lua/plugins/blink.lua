@@ -17,19 +17,23 @@ return {
 		-- See :h blink-cmp-config-keymap for defining your own keymap
 		keymap = { preset = "default" },
 
+		signature = {
+			enabled = true,
+		},
+
 		appearance = {
 			-- 'mono' (default) for 'Nerd Font Mono' or 'normal' for 'Nerd Font'
 			-- Adjusts spacing to ensure icons are aligned
 			nerd_font_variant = "Nerd Font mono",
 		},
 
-		-- (Default) Only show the documentation popup when manually triggered
-		completion = { documentation = { auto_show = false } },
+		-- (Default) show the documentation popup
+		completion = { documentation = { auto_show = true } },
 
 		-- Default list of enabled providers defined so that you can extend it
 		-- elsewhere in your config, without redefining it, due to `opts_extend`
 		sources = {
-			default = { "lsp", "path", "snippets", "buffer" },
+			default = { "path", "lsp", "snippets", "buffer" },
 		},
 
 		-- (Default) Rust fuzzy matcher for typo resistance and significantly better performance

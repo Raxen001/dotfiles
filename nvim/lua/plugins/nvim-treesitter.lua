@@ -1,5 +1,8 @@
 return {
 	"nvim-treesitter/nvim-treesitter",
+	dependencies = {
+		"nvim-treesitter/nvim-treesitter-textobjects",
+	},
 	build = ":TSUpdate",
 	cmd = { "TSUpdateSync", "TSUpdate", "TSInstall" },
 	keys = {
@@ -7,7 +10,6 @@ return {
 		{ "<bs>", desc = "Decrement Selection", mode = "x" },
 	},
 
-	---@type TSConfig
 	---@diagnostic disable-next-line: missing-fields
 	opts = {
 		highlight = { enable = true },
@@ -50,25 +52,8 @@ return {
 				node_decremental = "<bs>",
 			},
 		},
-		textobjects = {
-			move = {
-				enable = true,
-				goto_next_start = { ["]f"] = "@function.outer", ["]c"] = "@class.outer", ["]a"] = "@parameter.inner" },
-				goto_next_end = { ["]F"] = "@function.outer", ["]C"] = "@class.outer", ["]A"] = "@parameter.inner" },
-				goto_previous_start = {
-					["[f"] = "@function.outer",
-					["[c"] = "@class.outer",
-					["[a"] = "@parameter.inner",
-				},
-				goto_previous_end = { ["[F"] = "@function.outer", ["[C"] = "@class.outer", ["[A"] = "@parameter.inner" },
-			},
-		},
 	},
-	---@param opts TSConfig
 	config = function(_, opts)
-		-- if type(opts.ensure_installed) == "table" then
-		--   opts.ensure_installed = LazyVim.dedup(opts.ensure_installed)
-		-- end
 		require("nvim-treesitter.configs").setup(opts)
 	end,
 }
