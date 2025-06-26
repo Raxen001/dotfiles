@@ -19,10 +19,14 @@ return {
 		-- Define your formatters
 		formatters_by_ft = {
 			lua = { "stylua" },
-			python = { "isort", "black" },
-			rust = { "rustfmt" },
 			javascript = { "prettierd", "prettier", stop_after_first = true },
-            php = {"phpcbf"},
+			php = { "phpcbf" },
+		},
+		formatters = {
+			phpcbf = {
+                command = "/Users/raxen/.composer/vendor/bin//phpcbf",
+				args = { "--standard=WordPress", "$FILENAME" },
+			},
 		},
 
 		-- Set default options
