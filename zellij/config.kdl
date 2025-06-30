@@ -173,6 +173,9 @@ keybinds  clear-defaults=true{
         bind "Alt ]" {BreakPaneRight;}
         bind "Alt [" {BreakPaneLeft;}
         bind "Alt \\" {BreakPane;}
+    // move tabs
+        bind "Alt Shift ]" { MoveTab "Right"; }
+        bind "Alt Shift [" { MoveTab "Left"; }
     // move panes within tab
         bind "Alt Left"{ MovePane "Left"; }
         bind "Alt Down"{ MovePane "Down"; }
