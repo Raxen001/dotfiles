@@ -7,7 +7,13 @@ vim.lsp.enable("rust_analyzer")
 vim.lsp.enable("eslint")
 vim.lsp.enable("ts_ls")
 vim.lsp.enable("bashls")
+
 vim.lsp.enable("phpactor")
+vim.lsp.config("phpactor", {
+	root_dir = nil,
+	root_markers = { ".phpactor.json", ".phpactor.yml" },
+	workspace_required = true,
+})
 
 vim.diagnostic.config({
 	-- virtual_text = true, -- in same line
