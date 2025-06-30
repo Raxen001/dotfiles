@@ -22,7 +22,15 @@ return {
 			python = { "isort", "black" },
 			rust = { "rustfmt" },
 			javascript = { "prettierd", "prettier", stop_after_first = true },
+            php = { "phpcbf" },
 		},
+
+        formatter = {
+            phpcbf = {
+                command = "~/.composer/vendor/bin/phpcbf",
+                args = "--standard=~/snapbox/oew/phpcs.xml",
+            },
+        },
 
 		-- Set default options
 		default_format_opts = {
