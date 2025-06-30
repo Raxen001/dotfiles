@@ -25,7 +25,7 @@ return {
 		formatters = {
 			phpcbf = {
                 command = "/Users/raxen/.composer/vendor/bin//phpcbf",
-				args = { "--standard=WordPress", "$FILENAME" },
+				args = { "--standard=/Users/raxen/snapbox/oew/app/wp-content/phpcs.xml", "$FILENAME" },
 			},
 		},
 
