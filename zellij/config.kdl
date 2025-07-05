@@ -142,7 +142,7 @@ keybinds  clear-defaults=true{
         bind "Alt K" { Resize "Up"; }
       // rename
         bind "Alt r" {SwitchToMode "RenameTab"; TabNameInput 0;}
-    // search
+        // search
       // search through buffer using editor
         bind "Alt e" {EditScrollback;}
         bind "Alt s" {SwitchToMode "EnterSearch"; SearchInput 0;}
@@ -340,7 +340,7 @@ default_layout "compact"
 //   - true (default)
 //   - false
 //
-mouse_mode false
+mouse_mode true
 
 // Configure the scroll back buffer size
 // This is the number of lines zellij stores for each pane in the scroll back

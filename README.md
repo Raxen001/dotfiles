@@ -180,3 +180,10 @@ install necessariy programs
     sudo dnf install rpmfusion-nonfree-release-tainted
     sudo dnf --repo=rpmfusion-nonfree-tainted install "*-firmware"
     ```
+
+## zen browser
+
+### about:config
+
+`zen.urlbar.replace-newtab` = false
+`browser.tabs.closeWindowWithLastTab` = false

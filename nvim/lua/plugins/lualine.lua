@@ -49,7 +49,7 @@ return {
 						-- 2: Absolute path
 						-- 3: Absolute path, with tilde as the home directory
 						-- 4: Filename and parent dir, with tilde as the home directory
-						path = 3,
+						path = 4,
 						shorting_target = 40, -- Shortens path to leave 40 spaces in the window
 					},
 				},
