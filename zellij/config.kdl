@@ -1,4 +1,5 @@
 // If you'd like to override the default keybindings completely, be sure to change "keybinds" to "keybinds clear-defaults=true"
+
 keybinds  clear-defaults=true{
     normal {
         // uncomment this and adjust key if using copy_on_select=false
@@ -340,7 +341,7 @@ default_layout "compact"
 //   - true (default)
 //   - false
 //
-mouse_mode false
+mouse_mode true
 
 // Configure the scroll back buffer size
 // This is the number of lines zellij stores for each pane in the scroll back

@@ -25,10 +25,9 @@ return {
             php = { "phpcbf" },
 		},
 
-        formatter = {
+        formatters = {
             phpcbf = {
-                command = "~/.composer/vendor/bin/phpcbf",
-                args = "--standard=~/snapbox/oew/phpcs.xml",
+                args = {"--standard=WordPress", "$FILENAME"},
             },
         },
 
