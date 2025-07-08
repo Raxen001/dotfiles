@@ -16,6 +16,13 @@ return {
 			desc = "Debugger Breakpoint",
 		},
 		{
+			"<F4>",
+			function()
+				require("dap").terminate()
+			end,
+			desc = "Debugger Terminate",
+		},
+		{
 			"<Up>",
 			function()
 				require("dap").continue()
