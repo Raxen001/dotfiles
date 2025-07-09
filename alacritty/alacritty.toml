@@ -27,10 +27,11 @@ key = "F11"
 # launcher = "xdg-open"
 
 [window]
-#decorations = "none"
+# decorations = "none"
 dynamic_padding=true
 opacity=1.0
 # startup_mode="Maximized"
+# startup_mode="Fullscreen"
 
 [window.padding]
 x = 2
