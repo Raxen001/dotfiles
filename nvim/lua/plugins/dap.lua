@@ -65,13 +65,20 @@ return {
 			end,
 			desc = "Debugger UI",
 		},
+        {
+            "<leader>de",
+            function ()
+                require("dapui").eval()
+            end,
+            desc = "Eval"
+        }
 	},
 	config = function()
 		require("dapui").setup()
 		require("mason-nvim-dap").setup()
 		require("nvim-dap-virtual-text").setup()
 		require("mason-nvim-dap").setup({
-			ensure_installed = { "python", "php" },
+			ensure_installed = { "python", "php", "javascript", "typescript", "rust" },
 			handlers = {},
 		})
 
