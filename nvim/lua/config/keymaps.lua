@@ -51,6 +51,7 @@ set("n", "<leader>la", vim.lsp.buf.code_action, { noremap = true, silent = true,
 set("n", "<leader>lc", vim.lsp.buf.references, { noremap = true, silent = true, desc = "References qflist" })
 set("n", "<leader>li", vim.lsp.buf.implementation, { noremap = true, silent = true, desc = "Implementation qflist" })
 set("n", "<leader>ls", vim.lsp.buf.document_symbol, { noremap = true, silent = true, desc = "All symbols qflist" })
+set("n", "<leader>ld", vim.diagnostic.setqflist, { noremap = true, silent = true, desc = "All Disagnostic qflist" })
 set("n", "gD", vim.lsp.buf.declaration, opts)
 set("n", "gd", vim.lsp.buf.definition, opts)
 -- CTRL-S is mapped in Insert mode to vim.lsp.buf.signature_help()
