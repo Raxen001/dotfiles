@@ -1,1 +1,2 @@
-./mpv/scripts/sponsorblock_share/*
+mpv/scripts/sponsorblock_share/*
+nvim/lazy-lock.json
