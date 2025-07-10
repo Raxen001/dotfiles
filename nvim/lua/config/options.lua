@@ -15,6 +15,7 @@ vim.opt.number = true               -- show absolute number
 vim.opt.relativenumber = true       -- add numbers to each line on the left side
 vim.opt.cursorline = true           -- highlight cursor line underneath the cursor horizontally
 vim.opt.textwidth = 80
+vim.opt.laststatus = 3              -- global status line instead of individual windows
 -- vim.api.nvim_set_hl(0, "ColorColumn", { ctermbg=0, bg=LightGrey })
 -- split
 vim.opt.splitbelow = true           -- open new vertical split bottom

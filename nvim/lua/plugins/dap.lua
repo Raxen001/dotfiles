@@ -3,9 +3,10 @@ return {
 	lazy = true,
 	dependencies = {
 		"rcarriga/nvim-dap-ui",
-		"jay-babu/mason-nvim-dap.nvim",
 		"nvim-neotest/nvim-nio",
 		"theHamsta/nvim-dap-virtual-text",
+		"williamboman/mason.nvim",
+		"jay-babu/mason-nvim-dap.nvim",
 	},
 	keys = {
 		{
@@ -65,13 +66,20 @@ return {
 			end,
 			desc = "Debugger UI",
 		},
+		{
+			"<leader>de",
+			function()
+				require("dapui").eval()
+			end,
+			desc = "Eval",
+		},
 	},
 	config = function()
 		require("dapui").setup()
-		require("mason-nvim-dap").setup()
 		require("nvim-dap-virtual-text").setup()
+		require("mason").setup()
 		require("mason-nvim-dap").setup({
-			ensure_installed = { "python", "php" },
+			ensure_installed = { "python", "php", "node2", "js", "bash", "delve", "cppdbg" },
 			handlers = {},
 		})
 
