@@ -13,11 +13,11 @@ return {
 		-- ------------------------------------
 		map_cr = true,
 		check_ts = true, -- check if tree-sitter is installed
-		ts_config = {
-			lua = { "string" }, -- it will not add a pair on that tree-sitter node
-			javascript = { "template_string", "string" },
-			php = { "string" },
+		-- ts_config = {
+			-- lua = { "string" }, -- it will not add a pair on that tree-sitter node
+			-- javascript = { "template_string", "string" },
+			-- php = { "string" },
 			-- java = false, -- don't check tree-sitter on java
-		},
+		-- },
 	},
 }
