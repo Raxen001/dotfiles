@@ -81,8 +81,8 @@ function n() {
 
 # jump to
 
-alias dot='cd /home/raxen/.local/configs/dotfiles'
-alias not='cd /home/raxen/Documents/personal_notes'
+alias dot='cd $HOME/.local/configs/dotfiles'
+alias not='cd $HOME/Documents/personal_notes'
 
 #-------------------------------------------------------------------------------
 alias -s {png,jpg,jpeg,webp}=sxiv
