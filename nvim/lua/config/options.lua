@@ -48,3 +48,13 @@ vim.opt.swapfile = false            -- disables swap file creation
 -- disable netrw at the very start of your init.lua for nvim-tree.lua
 vim.g.loaded_netrw = 1
 vim.g.loaded_netrwPlugin = 1
+
+-- enable yanked text highlighting
+vim.api.nvim_create_autocmd('TextYankPost', {
+  group = vim.api.nvim_create_augroup('highlight_yank', {}),
+  desc = 'Hightlight selection on yank',
+  pattern = '*',
+  callback = function()
+    vim.highlight.on_yank { higroup = 'TermCursor', timeout = 150 }
+  end,
+})

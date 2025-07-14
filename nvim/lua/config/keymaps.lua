@@ -55,3 +55,6 @@ set("n", "<leader>ld", vim.diagnostic.setqflist, { noremap = true, silent = true
 set("n", "gD", vim.lsp.buf.declaration, opts)
 set("n", "gd", vim.lsp.buf.definition, opts)
 -- CTRL-S is mapped in Insert mode to vim.lsp.buf.signature_help()
+--
+-- search within selection
+vim.keymap.set('x', '/', '<Esc>/\\%V')
