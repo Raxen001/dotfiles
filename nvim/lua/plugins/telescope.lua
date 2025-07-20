@@ -5,12 +5,24 @@ return {
 	dependencies = {
 		"nvim-lua/plenary.nvim",
 		{ "nvim-telescope/telescope-fzf-native.nvim", build = "make" },
+		{
+			"nvim-telescope/telescope-live-grep-args.nvim",
+			version = "^1.0.0", -- For major updates, this must be adjusted manually.
+		},
 	},
 	config = function()
 		local builtin = require("telescope.builtin")
+		local telescope = require("telescope")
+		local lga_actions = require("telescope-live-grep-args.actions")
+
 		-- keymaps: telescope builtins
 		vim.keymap.set("n", "<leader>ff", builtin.find_files, { desc = "Telescope find files" })
-		vim.keymap.set("n", "<leader>fg", builtin.live_grep, { desc = "Telescope live grep" })
+		vim.keymap.set(
+			"n",
+			"<leader>fg",
+			telescope.extensions.live_grep_args.live_grep_args,
+			{ desc = "Telescope live grep" }
+		)
 		vim.keymap.set("n", "<leader>fb", builtin.buffers, { desc = "Telescope buffers" })
 		vim.keymap.set("n", "<leader>fh", builtin.help_tags, { desc = "Telescope help tags" })
 		vim.keymap.set("n", "<leader>fd", builtin.lsp_document_symbols, { desc = "Telescope document symbols" })
@@ -26,7 +38,7 @@ return {
 		-- keymaps: ts
 		vim.keymap.set("n", "<leader>ft", builtin.treesitter, { desc = "Treesitter Telescope" })
 
-		require("telescope").setup({
+		telescope.setup({
 			-- set ivy theme as default theme. WORK AROUND.
 			-- https://github.com/nvim-telescope/telescope.nvim/issues/938#issuecomment-877539724
 			defaults = require("telescope.themes").get_ivy({
@@ -41,10 +53,23 @@ return {
 					case_mode = "smart_case", -- or "ignore_case" or "respect_case"
 					-- the default case_mode is "smart_case"
 				},
+				live_grep_args = {
+					auto_quoting = true, -- enable/disable auto-quoting
+					-- define mappings, e.g.
+					mappings = { -- extend mappings
+						i = {
+							["<C-k>"] = lga_actions.quote_prompt(),
+							["<C-i>"] = lga_actions.quote_prompt({ postfix = " --iglob " }),
+							-- freeze the current list and start a fuzzy search in the frozen list
+							["<C-space>"] = lga_actions.to_fuzzy_refine,
+						},
+					},
+				},
 			},
 		})
 		-- To get fzf loaded and working with telescope, you need to call
 		-- load_extension, somewhere after setup function:
-		require("telescope").load_extension("fzf")
+		telescope.load_extension("fzf")
+		telescope.load_extension("live_grep_args")
 	end,
 }
