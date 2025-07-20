@@ -42,7 +42,7 @@ alias reaper='distrobox enter --root reaper'
 #alias ll='ls -altuh --color=auto'
 #alias la='ls -AF --color=auto'
 ## fedora speicifc
-alias up="sudo dnf update --refresh -y && flatpak update -y"
+alias up="sudo dnf update --refresh -y && flatpak update -y && tldr -u && sudo fwupdmgr get-updates && sudo fwupdmgr upgrade"
 #-------------------------------------------------------------------------------
 alias ls='eza -F --color=auto --color-scale=all --icons=auto --hyperlink'
 alias la='eza -BhaF --color=auto --color-scale=all --icons=auto --hyperlink'
