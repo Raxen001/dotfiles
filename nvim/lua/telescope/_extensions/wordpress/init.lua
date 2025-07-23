@@ -64,6 +64,7 @@ local search_data = function(opts, filter_hooks)
 			prompt_title = filter_hooks,
 			finder = finders.new_job(cmd_generator, opts.entry_maker, opts.max_results, opts.cwd),
 			sorter = conf.generic_sorter(opts),
+			previewer = conf.grep_previewer(opts),
 		})
 		:find()
 end
