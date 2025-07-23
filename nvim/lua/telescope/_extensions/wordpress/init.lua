@@ -23,8 +23,12 @@ end
 
 local wordpress_functions = {
 	update_post_meta = "update_post_meta.*(.*['\"]%s.*?['\"].*)",
+	get_post_meta = "get_post_meta.*(.*['\"]%s.*?['\"].*)",
+	add_action = "add_action.*(.*['\"]%s.*?['\"].*)",
+	do_action = "do_action.*(.*['\"]%s.*?['\"].*)",
 	apply_filter = "apply_filter.*(.*['\"]%s.*?['\"].*)",
 	add_filter = "add_filter.*(.*['\"]%s.*?['\"].*)",
+	do_filter = "do_filter.*(.*['\"]%s.*?['\"].*)",
 }
 
 local generate_opts = function(opts)
