@@ -38,6 +38,13 @@ return {
 		-- keymaps: ts
 		vim.keymap.set("n", "<leader>ft", builtin.treesitter, { desc = "Treesitter Telescope" })
 
+		vim.keymap.set(
+			"n",
+			"<leader>fw",
+			telescope.extensions.wordpress.wordpress,
+			{ desc = "Telescope wordpress" }
+		)
+
 		telescope.setup({
 			-- set ivy theme as default theme. WORK AROUND.
 			-- https://github.com/nvim-telescope/telescope.nvim/issues/938#issuecomment-877539724
@@ -71,5 +78,6 @@ return {
 		-- load_extension, somewhere after setup function:
 		telescope.load_extension("fzf")
 		telescope.load_extension("live_grep_args")
+        telescope.load_extension("wordpress")
 	end,
 }
