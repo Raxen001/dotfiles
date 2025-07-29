@@ -85,6 +85,30 @@ return {
 
 		local dap, dapui = require("dap"), require("dapui")
 
+        -- local function get_wordpress_root_dir()
+        --     return vim.lsp.buf.list_workspace_folders() .. '/app'
+        -- end
+
+		dap.configurations.php = {
+			{
+				name = "Listen for Xdebug 3.0 (Local)",
+				type = "php",
+				request = "launch",
+				port = 9003,
+				xdebugSettings = {
+					max_children = 128,
+					max_data = 1024,
+					max_depth = 3,
+					show_hidden = 1,
+				},
+                pathMappings = {
+                    ['/var/www/html'] = "/home/work/snapbox/oew/app/"
+                }
+				-- serverSourceRoot = "/var/www/html",
+				-- localSourceRoot = "/home/work/snapbox/oew/app/",
+			},
+		}
+
 		dap.listeners.before.attach.dapui_config = function()
 			dapui.open()
 		end

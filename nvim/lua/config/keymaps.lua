@@ -46,10 +46,10 @@ set("v", ">", ">gv", opts)
 -----------------
 --     LSP     --
 -----------------
-set("n", "<leader>lr", vim.lsp.buf.rename, { noremap = true, silent = true, desc = "Rename Variables" })
-set("n", "<leader>la", vim.lsp.buf.code_action, { noremap = true, silent = true, desc = "Code Action (error|warning)" })
-set("n", "<leader>lc", vim.lsp.buf.references, { noremap = true, silent = true, desc = "References qflist" })
-set("n", "<leader>li", vim.lsp.buf.implementation, { noremap = true, silent = true, desc = "Implementation qflist" })
+-- set("n", "<leader>lr", vim.lsp.buf.rename, { noremap = true, silent = true, desc = "Rename Variables" })
+-- set("n", "<leader>la", vim.lsp.buf.code_action, { noremap = true, silent = true, desc = "Code Action (error|warning)" })
+-- set("n", "<leader>lc", vim.lsp.buf.references, { noremap = true, silent = true, desc = "References qflist" })
+-- set("n", "<leader>li", vim.lsp.buf.implementation, { noremap = true, silent = true, desc = "Implementation qflist" })
 set("n", "<leader>ls", vim.lsp.buf.document_symbol, { noremap = true, silent = true, desc = "All symbols qflist" })
 set("n", "<leader>ld", vim.diagnostic.setqflist, { noremap = true, silent = true, desc = "All Disagnostic qflist" })
 set("n", "gD", vim.lsp.buf.declaration, opts)
