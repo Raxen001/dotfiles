@@ -30,11 +30,12 @@ zstyle ':completion:*' cache-path "$XDG_CACHE_HOME/zsh/zcompcache"
 HISTSIZE=1000
 HISTFILE="$XDG_CACHE_HOME"/zsh/zsh_history
 SAVEHIST=$HISTSIZE
-HISTDUP=erase
-setopt appendhistory
-setopt inc_append_history # append history. shared history between tabs and panes
-setopt sharehistory
-setopt hist_ignore_space
+# HISTDUP=erase
+# setopt APPEND_HISTORY
+setopt INC_APPEND_HISTORY # append history. shared history between tabs and panes
+setopt HIST_IGNORE_SPACE
+setopt HIST_SAVE_NO_DUPS
+setopt SHARE_HISTORY
 #-------------------------------------------------------------------------------
 alias reaper='distrobox enter --root reaper'
 #-------------------------------------------------------------------------------
