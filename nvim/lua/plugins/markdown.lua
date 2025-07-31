@@ -19,5 +19,6 @@ return {
 			enabled = true,
 			sign = true,
 		},
+		completions = { blink = { enabled = true } },
 	},
 }

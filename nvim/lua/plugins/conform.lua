@@ -22,8 +22,15 @@ return {
 			python = { "isort", "black" },
 			rust = { "rustfmt" },
 			javascript = { "prettierd", "prettier", stop_after_first = true },
+            php = { "phpcbf" },
 			json = { "prettierd" },
 		},
+
+        formatters = {
+            phpcbf = {
+                args = {"--standard=WordPress", "$FILENAME"},
+            },
+        },
 
 		-- Set default options
 		default_format_opts = {

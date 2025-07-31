@@ -1,0 +1,6 @@
+{
+  "loging": {
+    "prefix": "pri",
+    "body": ["print_r($1);"]
+  }
+}
