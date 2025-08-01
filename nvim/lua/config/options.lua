@@ -11,15 +11,16 @@ vim.opt.shiftwidth = 4 -- insert 4 spaces on a tab
 vim.opt.expandtab = true -- tabs are spaces, mainly because of python
 
 -- indent
-vim.opt.smartindent = true
+-- vim.opt.smartindent = true
+-- vim.opt.autoindent = true
 
 -- UI config
 vim.opt.number = true -- show absolute number
 vim.opt.relativenumber = true -- add numbers to each line on the left side
 vim.opt.cursorline = true -- highlight cursor line underneath the cursor horizontally
 vim.opt.textwidth = 80
-vim.opt.laststatus = 3              -- global status line instead of individual windows
-vim.opt.signcolumn = 'yes'        -- status column
+vim.opt.laststatus = 3 -- global status line instead of individual windows
+vim.opt.signcolumn = "yes" -- status column
 -- vim.api.nvim_set_hl(0, "ColorColumn", { ctermbg=0, bg=LightGrey })
 -- split
 vim.opt.splitbelow = true -- open new vertical split bottom
