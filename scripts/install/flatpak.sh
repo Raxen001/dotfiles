@@ -61,6 +61,7 @@ flatpak_list=(
     be.alexandervanhee.gradia
     io.github.nozwock.Packet
     com.dec05eba.gpu_screen_recorder
+    io.github.Faugus.faugus-launcher
 )
 
 sudo flatpak install flathub "${flatpak_list[@]}" -y

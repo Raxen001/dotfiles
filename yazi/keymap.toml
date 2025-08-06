@@ -15,10 +15,15 @@ desc = "Filter files"
 
 [[mgr.prepend_keymap]]
 on   = ["g", "p"]
-run  = "cd ~/snapbox/oew/app/wp-content/"
+run  = "cd ~/Code/projects/ai-story-teller/"
 desc = "Go to Projects"
 
 [[mgr.prepend_keymap]]
 on   = ["g", "c"]
 run  = "cd ~/.local/configs/dotfiles/"
 desc = "Go to dotfiles"
+
+[[mgr.prepend_keymap]]
+on   = ["g", "l"]
+run  = "cd ~/Code/cp/leetcode/"
+desc = "Go to Projects"
