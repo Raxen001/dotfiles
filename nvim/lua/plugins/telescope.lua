@@ -41,8 +41,8 @@ return {
 		vim.keymap.set(
 			"n",
 			"<leader>fw",
-			telescope.extensions.wordpress.wordpress,
-			{ desc = "Telescope wordpress" }
+			telescope.extensions.remember_regex.saved_regex,
+			{ desc = "Telescope Saved Regex" }
 		)
 
 		telescope.setup({
@@ -72,12 +72,17 @@ return {
 						},
 					},
 				},
+                saved_regex = {
+                    saved_regex_table = {
+                        testing = "%s",
+                    }
+                }
 			},
 		})
 		-- To get fzf loaded and working with telescope, you need to call
 		-- load_extension, somewhere after setup function:
 		telescope.load_extension("fzf")
 		telescope.load_extension("live_grep_args")
-        telescope.load_extension("wordpress")
+		telescope.load_extension("remember_regex")
 	end,
 }
