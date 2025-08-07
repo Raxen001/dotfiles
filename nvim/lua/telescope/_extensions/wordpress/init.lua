@@ -28,7 +28,6 @@ local wordpress_functions = {
 	do_action = "do_action.*(.*['\"]%s.*?['\"].*)",
 	apply_filter = "apply_filter.*(.*['\"]%s.*?['\"].*)",
 	add_filter = "add_filter.*(.*['\"]%s.*?['\"].*)",
-	do_filter = "do_filter.*(.*['\"]%s.*?['\"].*)",
 }
 
 local generate_opts = function(opts)

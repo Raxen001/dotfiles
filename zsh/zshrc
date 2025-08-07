@@ -38,6 +38,7 @@ setopt HIST_SAVE_NO_DUPS
 setopt SHARE_HISTORY
 #-------------------------------------------------------------------------------
 alias reaper='distrobox enter --root reaper'
+alias wpcli="docker compose exec -it wp-cli bash"
 #-------------------------------------------------------------------------------
 #alias ls='ls -F --color=auto'
 #alias ll='ls -altuh --color=auto'
