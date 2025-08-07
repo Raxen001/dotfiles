@@ -25,8 +25,8 @@ set("n", "<C-Left>", ":vertical resize -2<CR>", opts)
 set("n", "<C-Right>", ":vertical resize +2<CR>", opts)
 
 -- create vertical split
-set("n", "<C-\\>", ":vs<CR>", opts)
-set("n", "<C-]>", ":split<CR>", opts)
+-- set("n", "<C-\\>", ":vs<CR>", opts)
+-- set("n", "<C-]>", ":split<CR>", opts)
 
 -- quickfixlist
 set("n", "<leader>co", "<cmd>copen<CR>", opts)
@@ -58,3 +58,4 @@ set("n", "gd", vim.lsp.buf.definition, opts)
 --
 -- search within selection
 vim.keymap.set('x', '/', '<Esc>/\\%V')
+vim.keymap.set('x', '?', '<Esc>/\\%V')
