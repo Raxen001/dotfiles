@@ -10,11 +10,25 @@ return {
 	},
 	keys = {
 		{
-			"<F3>",
+			"<F2>",
 			function()
 				require("dap").toggle_breakpoint()
 			end,
 			desc = "Debugger Breakpoint",
+		},
+		{
+			"<F14>",
+			function()
+				require("dap").toggle_breakpoint(nil, nil, vim.fn.input("LOG point message: "))
+			end,
+			desc = "Debugger Breakpoint",
+		},
+		{
+			"<F3>",
+			function()
+				require("dap").restart()
+			end,
+			desc = "Debugger Terminate",
 		},
 		{
 			"<F4>",
@@ -24,28 +38,28 @@ return {
 			desc = "Debugger Terminate",
 		},
 		{
-			"<Up>",
+			"<F5>",
 			function()
 				require("dap").continue()
 			end,
 			desc = "Debugger Continue",
 		},
 		{
-			"<Left>",
+			"<F6>",
 			function()
 				require("dap").step_out()
 			end,
 			desc = "Debugger Step Out",
 		},
 		{
-			"<Right>",
+			"<F7>",
 			function()
 				require("dap").step_into()
 			end,
 			desc = "Debugger Step Into",
 		},
 		{
-			"<Down>",
+			"<F8>",
 			function()
 				require("dap").step_over()
 			end,
@@ -73,6 +87,22 @@ return {
 			end,
 			desc = "Eval",
 		},
+		{
+			"<Leader>dh",
+			mode = { "n", "v" },
+			function()
+				require("dap.ui.widgets").hover()
+			end,
+			desc = "DAP Widgets hover",
+		},
+		{
+			"<Leader>dp",
+			mode = { "n", "v" },
+			function()
+				require("dap.ui.widgets").preview()
+			end,
+			desc = "DAP widget preview",
+		},
 	},
 	config = function()
 		require("dapui").setup()
@@ -85,9 +115,9 @@ return {
 
 		local dap, dapui = require("dap"), require("dapui")
 
-        -- local function get_wordpress_root_dir()
-        --     return vim.lsp.buf.list_workspace_folders() .. '/app'
-        -- end
+		-- local function get_wordpress_root_dir()
+		--     return vim.lsp.buf.list_workspace_folders() .. '/app'
+		-- end
 
 		dap.configurations.php = {
 			{
@@ -101,9 +131,9 @@ return {
 					max_depth = 3,
 					show_hidden = 1,
 				},
-                pathMappings = {
-                    ['/var/www/html'] = "/home/work/snapbox/oew/app/"
-                }
+				pathMappings = {
+					["/var/www/html"] = "/home/work/snapbox/oew/app/",
+				},
 				-- serverSourceRoot = "/var/www/html",
 				-- localSourceRoot = "/home/work/snapbox/oew/app/",
 			},
