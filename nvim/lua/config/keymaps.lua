@@ -57,5 +57,19 @@ set("n", "gd", vim.lsp.buf.definition, opts)
 -- CTRL-S is mapped in Insert mode to vim.lsp.buf.signature_help()
 --
 -- search within selection
-vim.keymap.set('x', '/', '<Esc>/\\%V')
-vim.keymap.set('x', '?', '<Esc>/\\%V')
+set("x", "/", "<Esc>/\\%V")
+set("x", "?", "<Esc>/\\%V")
+
+-- Open zellij pane on CWD
+set("n", "<leader>n", function()
+	local action = "new-pane"
+    -- local cwd = vim.fn.getcwd()
+    local cwd = vim.fn.expand('%:h')
+	local direction = "--cwd " .. cwd .. " -- $SHELL"
+
+	vim.fn.system("zellij action " .. action .. " " .. direction)
+	if vim.v.shell_error ~= 0 then
+		error("zellij executable not found in path")
+	end
+
+end, opts)
