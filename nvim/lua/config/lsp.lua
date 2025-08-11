@@ -19,6 +19,7 @@ local enabled_lsp = {
 	"ruff",
 	"emmylua_ls",
     "phpactor",
+    "markdown_oxide",
 }
 vim.lsp.enable(enabled_lsp)
 
@@ -28,19 +29,3 @@ vim.lsp.config("phpactor", {
 	root_markers = { ".phpactor.json", ".phpactor.yml" },
 	workspace_required = true,
 })
-
-local enabled_lsp = {
-	"cssls",
-	"vtsls",
-	"bashls",
-	"ts_ls",
-	"eslint",
-	"rust_analyzer",
-	"gopls",
-	"pylsp",
-	"lua_ls",
-	"ruff",
-	"emmylua_ls",
-	"phpactor",
-}
-vim.lsp.enable(enabled_lsp)
