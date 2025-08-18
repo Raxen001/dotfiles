@@ -25,6 +25,7 @@ zstyle ':completion:*' verbose true
 zstyle ':completion:*' matcher-list'm:{a-z}={A-Za-z}'
 zstyle ':completion:*' use-cache on
 zstyle ':completion:*' cache-path "$XDG_CACHE_HOME/zsh/zcompcache"
+bindkey '^y' autosuggest-accept
 #-------------------------------------------------------------------------------
 # History
 HISTSIZE=1000
