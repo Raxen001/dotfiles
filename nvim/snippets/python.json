@@ -4,8 +4,8 @@
     "body": [
       "if __name__ == \"__main__\":",
       "    sol = Solution()",
-      "    $1",
-      "    ans = sol.generateParenthesis()",
+      "    $2",
+      "    ans = sol.$2",
       "    print(ans)"
     ]
   }

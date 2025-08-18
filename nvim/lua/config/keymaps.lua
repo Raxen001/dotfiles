@@ -63,13 +63,12 @@ set("x", "?", "<Esc>/\\%V")
 -- Open zellij pane on CWD
 set("n", "<leader>n", function()
 	local action = "new-pane"
-    -- local cwd = vim.fn.getcwd()
-    local cwd = vim.fn.expand('%:h')
+	-- local cwd = vim.fn.getcwd()
+	local cwd = vim.fn.expand("%:h")
 	local direction = "--cwd " .. cwd .. " -- $SHELL"
 
 	vim.fn.system("zellij action " .. action .. " " .. direction)
 	if vim.v.shell_error ~= 0 then
 		error("zellij executable not found in path")
 	end
-
-end, opts)
+end, { noremap = true, silent = true, desc = "Zellij open pane in current directory" })
