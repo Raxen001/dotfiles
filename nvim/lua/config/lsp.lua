@@ -17,9 +17,8 @@ local enabled_lsp = {
 	"pylsp",
 	"lua_ls",
 	"ruff",
-	"emmylua_ls",
-    "phpactor",
-    "markdown_oxide",
+	"phpactor",
+	"markdown_oxide",
 }
 vim.lsp.enable(enabled_lsp)
 
