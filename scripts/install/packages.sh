@@ -27,6 +27,7 @@ pkgs=(
     fd-find
     gnome-tweaks
     python3-neovim
+    uv
 )
 
 sudo dnf install -y $pkgs[@]
