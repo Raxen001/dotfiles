@@ -22,3 +22,8 @@ desc = "Go to Projects"
 on   = ["g", "c"]
 run  = "cd ~/.local/configs/dotfiles/"
 desc = "Go to dotfiles"
+
+[[mgr.prepend_keymap]]
+on   = ["g", "n"]
+run  = "cd ~/snapbox/notes/"
+desc = "Go to Noters"
