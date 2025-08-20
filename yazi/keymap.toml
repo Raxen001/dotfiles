@@ -15,7 +15,7 @@ desc = "Filter files"
 
 [[mgr.prepend_keymap]]
 on   = ["g", "p"]
-run  = "cd ~/Code/projects/ai-story-teller/"
+run  = "cd ~/snapbox/oew/app/wp-content/"
 desc = "Go to Projects"
 
 [[mgr.prepend_keymap]]
