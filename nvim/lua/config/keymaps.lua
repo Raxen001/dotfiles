@@ -71,5 +71,4 @@ set("n", "<leader>n", function()
 	if vim.v.shell_error ~= 0 then
 		error("zellij executable not found in path")
 	end
-
-end, opts)
+end, { noremap = true, silent = true, desc = "Zellij open pane in current directory" })

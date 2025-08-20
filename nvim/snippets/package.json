@@ -2,7 +2,8 @@
     "name": "personal_snippets",
     "contributes": {
         "snippets": [
-            {"language": "php", "path": "./php.json"}
+            {"language": "php", "path": "./php.json"},
+            {"language": "python", "path": "./python.json"}
         ]
     }
 }
