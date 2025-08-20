@@ -27,3 +27,8 @@ desc = "Go to dotfiles"
 on   = ["g", "n"]
 run  = "cd ~/snapbox/notes/"
 desc = "Go to Noters"
+
+[[mgr.prepend_keymap]]
+on   = ["g", "r"]
+run  = "cd ~/snapbox/oew/app/wp-content/plugins/otew-features/fwpages/react/"
+desc = "Go to Noters"
