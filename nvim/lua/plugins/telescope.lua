@@ -72,11 +72,11 @@ return {
 						},
 					},
 				},
-                saved_regex = {
-                    saved_regex_table = {
-                        testing = "%s",
-                    }
-                }
+				saved_regex = {
+					saved_regex_table = {
+						testing = "%s",
+					},
+				},
 			},
 		})
 		-- To get fzf loaded and working with telescope, you need to call

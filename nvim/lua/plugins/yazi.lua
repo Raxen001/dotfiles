@@ -20,6 +20,7 @@ return {
 	opts = {
 		-- if you want to open yazi instead of netrw, see below for more info
 		open_for_directories = true,
+        change_neovim_cwd_on_close = false, -- change directory when not opening files. use ctrl+\ to change directory better
 		keymaps = {
 			show_help = "<f1>",
 		},
