@@ -61,6 +61,8 @@ flatpak_list=(
     be.alexandervanhee.gradia
     io.github.nozwock.Packet
     com.dec05eba.gpu_screen_recorder
+    io.github.alainm23.planify   # todo list
+    io.github.wartybix.Constrict # Compress videos and images
 )
 
 sudo flatpak install flathub "${flatpak_list[@]}" -y

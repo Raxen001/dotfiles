@@ -1,0 +1,12 @@
+{
+  "leetcode": {
+    "prefix": "leet",
+    "body": [
+      "if __name__ == \"__main__\":",
+      "    sol = Solution()",
+      "    $2",
+      "    ans = sol.$2",
+      "    print(ans)"
+    ]
+  }
+}

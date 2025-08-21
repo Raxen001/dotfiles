@@ -5,7 +5,6 @@ return {
 		local lualine = require("lualine")
 		local lazy_status = require("lazy.status") -- to configure lazy pending updates count
 
-		-- configure lualine with modified theme
 		lualine.setup({
 			options = {
 				icons_enabled = true,
@@ -53,7 +52,16 @@ return {
 						shorting_target = 40, -- Shortens path to leave 40 spaces in the window
 					},
 				},
-				lualine_x = { "encoding", "filesize", "lsp_status", "filetype" },
+				lualine_x = {
+					"encoding",
+					"filesize",
+					"lsp_status",
+					"filetype",
+					{
+						lazy_status.updates,
+						cond = lazy_status.has_updates,
+					},
+				},
 				lualine_y = { "progress" },
 				lualine_z = { "location" },
 			},
