@@ -21,7 +21,7 @@ vim.opt.cursorline = true -- highlight cursor line underneath the cursor horizon
 vim.opt.textwidth = 80
 vim.opt.laststatus = 3 -- global status line instead of individual windows
 vim.opt.signcolumn = "yes" -- status column
-vim.opt.winborder = "single"  -- hover border
+vim.opt.winborder = ""  -- hover border
 -- vim.api.nvim_set_hl(0, "ColorColumn", { ctermbg=0, bg=LightGrey })
 -- split
 vim.opt.splitbelow = true -- open new vertical split bottom
