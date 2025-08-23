@@ -4,7 +4,7 @@
     "body": [
       "if __name__ == \"__main__\":",
       "    sol = Solution()",
-      "    $2",
+      "    $1",
       "    ans = sol.$2",
       "    print(ans)"
     ]
