@@ -28,10 +28,9 @@ zstyle ':completion:*' cache-path "$XDG_CACHE_HOME/zsh/zcompcache"
 bindkey '^y' autosuggest-accept
 #-------------------------------------------------------------------------------
 # History
-HISTSIZE=1000
-HISTFILE="$XDG_CACHE_HOME"/zsh/zsh_history
-SAVEHIST=$HISTSIZE
-# HISTDUP=erase
+export HISTSIZE=100000
+export HISTFILE="$XDG_CACHE_HOME"/zsh/zsh_history
+export SAVEHIST=$HISTSIZE
 # setopt APPEND_HISTORY
 setopt INC_APPEND_HISTORY # append history. shared history between tabs and panes
 setopt HIST_IGNORE_SPACE
@@ -56,19 +55,18 @@ alias gpw='gopass -c '
 alias gotp='gopass otp -c '
 alias ip='ip -c'
 alias tree='tree -C'
+alias grep='grep --color=always'
+alias less='less -r'
+alias rg='rg --color=always'
+alias python='python -q'
 
 alias vi='nvim'
 alias vim='nvim'
 
 alias zathura='zathura --fork'
-alias glow='glow -p'
+# alias glow='glow -p'
 # alias pacman='pacman --color=auto'
 alias ncdu='ncdu --color dark'
-alias grep='grep --color=always'
-alias rg='rg --color=always'
-alias less='less -r'
-alias python='python -q'
-
 #-------------------------------------------------------------------------------
 #yazi - alias to n
 
@@ -81,17 +79,16 @@ function n() {
 	rm -f -- "$tmp"
 }
 #-------------------------------------------------------------------------------
-
 # jump to
 
 alias dot='cd $HOME/.local/configs/dotfiles'
 alias not='cd $HOME/Documents/personal_notes'
-
 #-------------------------------------------------------------------------------
-alias -s {png,jpg,jpeg,webp}=sxiv
-alias -s pdf=zathura
-alias -s {mp3,mp4,mkv,webm}=mpv
-alias -s {json,c,cpp,py,txt,html,vim,md,txt}=nvim
+# open files with specific programs
+# alias -s {png,jpg,jpeg,webp}=sxiv
+# alias -s pdf=zathura
+# alias -s {mp3,mp4,mkv,webm}=mpv
+# alias -s {json,c,cpp,py,txt,html,vim,md,txt}=nvim
 #-------------------------------------------------------------------------------
 # man() {
 #         LESS_TERMCAP_md=$'\e[01;31m' \
@@ -139,12 +136,7 @@ zle-line-init() {
 zle -N zle-line-init
 echo -ne '\e[5 q' # Use beam shape cursor on startup.
 preexec() { echo -ne '\e[5 q' ;} # Use beam shape cursor for each new prompt.
-#
-#---------------------------------------------------------------------
-# Rust
-source "$HOME/.local/cargo/env"
 #-------------------------------------------------------------------------------
-
 # zinit - zsh package manager
 ZINIT_HOME="${XDG_DATA_HOME:-${HOME}/.local/share}/zinit/zinit.git"
 [ ! -d $ZINIT_HOME ] && mkdir -p "$(dirname $ZINIT_HOME)"
@@ -156,7 +148,9 @@ zinit light zsh-users/zsh-completions
 zinit light zsh-users/zsh-autosuggestions
 zinit light Aloxaf/fzf-tab
 #-------------------------------------------------------------------------------
-
+# Rust
+source "$HOME/.local/cargo/env"
+#-------------------------------------------------------------------------------
 # hugo shell integration
 [ ! -f "${fpath[1]}/_hugo" ] && hugo completion zsh > "${fpath[1]}/_hugo"
 
@@ -169,13 +163,14 @@ eval "$(fzf --zsh)"
 # starsip prompt
 eval "$(starship init zsh)"
 
-# initialise completions with ZSH's compinit
-autoload -Uz compinit && compinit
-
 # nvm
 # export NVM_DIR="$HOME/.config/nvm"
 # [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+
 eval "$(tailscale completion zsh)"
+
+# initialise completions with ZSH's compinit
+autoload -Uz compinit && compinit
 
 # zellij terminal multiplexer
 eval "$(zellij setup --generate-auto-start zsh)"
