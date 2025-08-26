@@ -23,9 +23,6 @@ y = 0
 action = "ToggleFullscreen"
 key = "F11"
 
-# [mouse.hints]
-# launcher = "xdg-open"
-
 [window]
 # decorations = "none"
 dynamic_padding=true

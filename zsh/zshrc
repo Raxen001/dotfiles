@@ -150,6 +150,9 @@ zinit light Aloxaf/fzf-tab
 # Rust
 source "$HOME/.local/cargo/env"
 #-------------------------------------------------------------------------------
+# initialise completions with ZSH's compinit
+autoload -Uz compinit && compinit
+
 # hugo shell integration
 [ ! -f "${fpath[1]}/_hugo" ] && hugo completion zsh > "${fpath[1]}/_hugo"
 
@@ -167,9 +170,6 @@ eval "$(starship init zsh)"
 # [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 
 eval "$(tailscale completion zsh)"
-
-# initialise completions with ZSH's compinit
-autoload -Uz compinit && compinit
 
 # zellij terminal multiplexer
 eval "$(zellij setup --generate-auto-start zsh)"
