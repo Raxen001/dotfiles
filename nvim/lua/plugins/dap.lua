@@ -109,7 +109,7 @@ return {
 		require("nvim-dap-virtual-text").setup()
 		require("mason").setup()
 		require("mason-nvim-dap").setup({
-			ensure_installed = { "python", "php", "node2", "js", "bash", "delve", "cppdbg" },
+			ensure_installed = { "python", "php", "js", "bash", "delve", "cppdbg" },
 			handlers = {},
 		})
 
