@@ -27,3 +27,8 @@ desc = "Go to dotfiles"
 on   = ["g", "n"]
 run  = "cd ~/Documents/personal_notes"
 desc = "Go to Noters"
+
+[[mgr.prepend_keymap]]
+on   = ["g", "l"]
+run  = "cd ~/Code/cp/leetcode/"
+desc = "Go to Leetcode"
