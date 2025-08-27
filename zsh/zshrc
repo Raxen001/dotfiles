@@ -172,8 +172,5 @@ eval "$(starship init zsh)"
 
 eval "$(tailscale completion zsh)"
 
-# initialise completions with ZSH's compinit
-autoload -Uz compinit && compinit
-
 # zellij terminal multiplexer
 eval "$(zellij setup --generate-auto-start zsh)"
