@@ -157,9 +157,6 @@ autoload -Uz compinit && compinit
 # hugo shell integration
 [ ! -f "${fpath[1]}/_hugo" ] && hugo completion zsh > "${fpath[1]}/_hugo"
 
-# zellij shell integration
-[ ! -f "${fpath[1]}/_zellij" ] && zellij setup --generate-completion zsh > "${fpath[1]}/_zellij"
-
 # fzf in zsh
 eval "$(fzf --zsh)"
 
@@ -172,5 +169,8 @@ eval "$(starship init zsh)"
 
 eval "$(tailscale completion zsh)"
 
+# zellij shell integration
+[ ! -f "${fpath[1]}/_zellij" ] && zellij setup --generate-completion zsh > "${fpath[1]}/_zellij"
+export ZELLIJ_AUTO_EXIT=true
 # zellij terminal multiplexer
 eval "$(zellij setup --generate-auto-start zsh)"
