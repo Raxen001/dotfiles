@@ -290,23 +290,25 @@ scrollback_lines_to_serialize 20000
 
 // Choose the theme that is specified in the themes section.
 // Default: default
-//
-themes {
-    kanagawa2 {
-        fg "#DCD7BA"
-        bg "#C8C093"
-        red "#C34043"
-        green "#76946A"
-        yellow "#FF9E3B"
-        blue "#7E9CD8"
-        magenta "#957FB8"
-        orange "#FFA066"
-        cyan "#7FB4CA"
-        black "#16161D"
-        white "#DCD7BA"
-    }
-}
-theme "kanagawa"
+
+// themes {
+//     kanagawa2 {
+//         fg "#DCD7BA"
+//         bg "#C8C093"
+//         red "#C34043"
+//         green "#76946A"
+//         yellow "#FF9E3B"
+//         blue "#7E9CD8"
+//         magenta "#957FB8"
+//         orange "#FFA066"
+//         cyan "#7FB4CA"
+//         black "#16161D"
+//         white "#DCD7BA"
+//     }
+// }
+
+// theme "kanagawa-dragon"
+theme "kanagawa-dragon"
 
 // The name of the default layout to load on startup
 // Default: "default"
