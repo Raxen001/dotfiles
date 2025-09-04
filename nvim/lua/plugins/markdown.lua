@@ -9,15 +9,16 @@ return {
 	---
 	---
 	opts = {
-		-- render_modes = true,
+		render_modes = true,
 		heading = {
 			enabled = true,
-			sign = true,
 			icons = {},
+			sign = true,
 		},
 		code = {
 			enabled = true,
 			sign = true,
+			render_modes = true,
 		},
 		completions = { blink = { enabled = true } },
 	},
