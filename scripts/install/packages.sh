@@ -28,6 +28,7 @@ pkgs=(
     gnome-tweaks
     python3-neovim
     uv
+    libva-utils
 )
 
 sudo dnf install -y $pkgs[@]
