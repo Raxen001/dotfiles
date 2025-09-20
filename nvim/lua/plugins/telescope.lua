@@ -73,8 +73,8 @@ return {
 						},
 					},
 				},
-				saved_regex = {
-					saved_regex_table = {
+				remember_regex = {
+					regex_mapping = {
 						testing = "%s",
 					},
 				},

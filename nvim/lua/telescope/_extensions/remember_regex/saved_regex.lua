@@ -22,7 +22,7 @@ local function get_keys(t)
 end
 
 -- example regex table.
-local sample_regex_table = {
+local regex_mappings = {
 	update_post_meta = "update_post_meta.*(.*['\"]%s.*?['\"].*)",
 	get_post_meta = "get_post_meta.*(.*['\"]%s.*?['\"].*)",
 	add_action = "add_action.*(.*['\"]%s.*?['\"].*)",
@@ -36,7 +36,7 @@ local generate_opts = function(opts)
 	opts.vimgrep_arguments = opts.vimgrep_arguments or conf.vimgrep_arguments
 	opts.entry_maker = opts.entry_maker or make_entry.gen_from_vimgrep(opts)
 	opts.cwd = opts.cwd and vim.fn.expand(opts.cwd)
-    opts.saved_regex_table = opts.saved_regex_table or sample_regex_table
+    opts.regex_mappings = opts.regex_mappings or regex_mappings
 
 	return opts
 end
@@ -55,7 +55,7 @@ local search_data = function(opts, filter_hooks)
 		end
 
 		local args = vim.tbl_flatten({ table_clone(opts.vimgrep_arguments) })
-		local generated_prompt = string.format(opts.saved_regex_table[filter_hooks], prompt)
+		local generated_prompt = string.format(opts.regex_mappings[filter_hooks], prompt)
 		local cmd = vim.tbl_flatten({ args, generated_prompt })
 
 		return cmd
@@ -73,13 +73,14 @@ end
 
 -- Function responsible for searching using the regex.
 local saved_regex = function(opts)
+    print(opts)
 	opts = generate_opts(opts)
 	pickers
 		.new(opts, {
 			prompt_title = "Saved Regexs",
 			sorter = conf.generic_sorter(opts),
 			finder = finders.new_table({
-				results = get_keys(opts.saved_regex_table),
+				results = get_keys(opts.regex_mappings),
 			}),
 			attach_mappings = function(prompt_bufnr, map)
 				actions.select_default:replace(function()
