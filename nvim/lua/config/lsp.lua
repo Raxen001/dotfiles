@@ -21,6 +21,7 @@ local enabled_lsp = {
     "eslint_lsp",
     "ts_ls",
 	"markdown_oxide",
+    "buf_ls",
 }
 vim.lsp.enable(enabled_lsp)
 
