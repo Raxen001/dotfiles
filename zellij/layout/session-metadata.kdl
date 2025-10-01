@@ -1,0 +1,271 @@
+name "voxabook-project"
+tabs {
+    tab {
+        position 0
+        name "serve"
+        active false
+        panes_to_hide 0
+        is_fullscreen_active false
+        is_sync_panes_active false
+        are_floating_panes_visible false
+        active_swap_layout_name "vertical"
+        viewport_rows 47
+        viewport_columns 182
+        display_area_columns 182
+        display_area_rows 48
+        is_swap_layout_dirty false
+        selectable_tiled_panes_count 3
+        selectable_floating_panes_count 0
+    }
+    tab {
+        position 1
+        name "Tab #2"
+        active false
+        panes_to_hide 0
+        is_fullscreen_active false
+        is_sync_panes_active false
+        are_floating_panes_visible false
+        viewport_rows 47
+        viewport_columns 182
+        display_area_columns 182
+        display_area_rows 48
+        is_swap_layout_dirty false
+        selectable_tiled_panes_count 1
+        selectable_floating_panes_count 0
+    }
+    tab {
+        position 2
+        name "Tab #3"
+        active true
+        panes_to_hide 0
+        is_fullscreen_active false
+        is_sync_panes_active false
+        are_floating_panes_visible false
+        other_focused_clients 1
+        viewport_rows 47
+        viewport_columns 182
+        display_area_columns 182
+        display_area_rows 48
+        is_swap_layout_dirty false
+        selectable_tiled_panes_count 1
+        selectable_floating_panes_count 0
+    }
+}
+panes {
+    pane {
+        id 0
+        is_plugin false
+        is_focused false
+        is_fullscreen false
+        is_floating false
+        is_suppressed false
+        title ""
+        exited false
+        is_held false
+        pane_x 0
+        pane_content_x 0
+        pane_y 0
+        pane_content_y 0
+        pane_rows 47
+        pane_content_rows 47
+        pane_columns 91
+        pane_content_columns 90
+        cursor_coordinates_in_pane 0 44
+        is_selectable true
+        tab_position 0
+    }
+    pane {
+        id 1
+        is_plugin false
+        is_focused false
+        is_fullscreen false
+        is_floating false
+        is_suppressed false
+        title "backend"
+        exited false
+        is_held false
+        pane_x 91
+        pane_content_x 91
+        pane_y 0
+        pane_content_y 0
+        pane_rows 24
+        pane_content_rows 23
+        pane_columns 91
+        pane_content_columns 91
+        cursor_coordinates_in_pane 0 6
+        terminal_command "zsh -ic pnpm run dev"
+        is_selectable true
+        tab_position 0
+    }
+    pane {
+        id 2
+        is_plugin false
+        is_focused true
+        is_fullscreen false
+        is_floating false
+        is_suppressed false
+        title "frontend"
+        exited false
+        is_held false
+        pane_x 91
+        pane_content_x 91
+        pane_y 24
+        pane_content_y 24
+        pane_rows 23
+        pane_content_rows 23
+        pane_columns 91
+        pane_content_columns 91
+        cursor_coordinates_in_pane 2 6
+        terminal_command "zsh -ic pnpm run dev"
+        is_selectable true
+        tab_position 0
+    }
+    pane {
+        id 0
+        is_plugin true
+        is_focused false
+        is_fullscreen false
+        is_floating false
+        is_suppressed false
+        title "compact-bar"
+        exited false
+        is_held false
+        pane_x 0
+        pane_content_x 0
+        pane_y 47
+        pane_content_y 47
+        pane_rows 1
+        pane_content_rows 1
+        pane_columns 182
+        pane_content_columns 182
+        plugin_url "compact-bar"
+        is_selectable false
+        tab_position 0
+    }
+    pane {
+        id 2
+        is_plugin true
+        is_focused false
+        is_fullscreen false
+        is_floating false
+        is_suppressed true
+        title "(/home/raxen/Code/projects/voxabook/frontend) - zellij:session-manager"
+        exited false
+        is_held false
+        pane_x 46
+        pane_content_x 47
+        pane_y 12
+        pane_content_y 13
+        pane_rows 23
+        pane_content_rows 21
+        pane_columns 91
+        pane_content_columns 89
+        plugin_url "zellij:session-manager"
+        is_selectable true
+        tab_position 0
+    }
+    pane {
+        id 4
+        is_plugin false
+        is_focused true
+        is_fullscreen false
+        is_floating false
+        is_suppressed false
+        title "Pane #1"
+        exited false
+        is_held false
+        pane_x 0
+        pane_content_x 0
+        pane_y 0
+        pane_content_y 0
+        pane_rows 47
+        pane_content_rows 47
+        pane_columns 182
+        pane_content_columns 182
+        cursor_coordinates_in_pane 0 0
+        is_selectable true
+        tab_position 2
+    }
+    pane {
+        id 3
+        is_plugin true
+        is_focused false
+        is_fullscreen false
+        is_floating false
+        is_suppressed false
+        title "compact-bar"
+        exited false
+        is_held false
+        pane_x 0
+        pane_content_x 0
+        pane_y 47
+        pane_content_y 47
+        pane_rows 1
+        pane_content_rows 1
+        pane_columns 182
+        pane_content_columns 182
+        plugin_url "compact-bar"
+        is_selectable false
+        tab_position 2
+    }
+    pane {
+        id 3
+        is_plugin false
+        is_focused true
+        is_fullscreen false
+        is_floating false
+        is_suppressed false
+        title ""
+        exited false
+        is_held false
+        pane_x 0
+        pane_content_x 0
+        pane_y 0
+        pane_content_y 0
+        pane_rows 47
+        pane_content_rows 47
+        pane_columns 182
+        pane_content_columns 182
+        cursor_coordinates_in_pane 3 13
+        is_selectable true
+        tab_position 1
+    }
+    pane {
+        id 1
+        is_plugin true
+        is_focused false
+        is_fullscreen false
+        is_floating false
+        is_suppressed false
+        title "compact-bar"
+        exited false
+        is_held false
+        pane_x 0
+        pane_content_x 0
+        pane_y 47
+        pane_content_y 47
+        pane_rows 1
+        pane_content_rows 1
+        pane_columns 182
+        pane_content_columns 182
+        plugin_url "compact-bar"
+        is_selectable false
+        tab_position 1
+    }
+}
+connected_clients 1
+web_clients_allowed false
+web_client_count 0
+available_layouts {
+    compact source="built-in"
+    classic source="built-in"
+    default source="built-in"
+    disable-status-bar source="built-in"
+    strider source="built-in"
+}
+tab_history {
+    client {
+        id 1
+        history 0
+    }
+}
