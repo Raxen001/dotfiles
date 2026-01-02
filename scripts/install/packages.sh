@@ -29,6 +29,7 @@ pkgs=(
     python3-neovim
     uv
     libva-utils
+    qrencode
 )
 
 sudo dnf install -y $pkgs[@]

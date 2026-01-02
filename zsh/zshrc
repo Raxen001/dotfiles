@@ -152,6 +152,11 @@ zinit wait lucid for MichaelAquilina/zsh-autoswitch-virtualenv # autoswitch to v
 # Rust
 source "$HOME/.local/cargo/env"
 #-------------------------------------------------------------------------------
+# Open buffer line in editor. ( copied from dreamsofcode )
+autoload -Uz edit-command-line
+zle -N edit-command-line
+bindkey '^x^e' edit-command-line
+#-------------------------------------------------------------------------------
 # initialise completions with ZSH's compinit
 autoload -Uz compinit && compinit
 

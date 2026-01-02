@@ -64,6 +64,8 @@ flatpak_list=(
     io.github.alainm23.planify   # todo list
     io.github.wartybix.Constrict # Compress videos and images
     org.nicotine_plus.Nicotine   # soulseek
+    io.github.Faugus.faugus-launcher # faugus-launcher
+    org.darktable.Darktable # darktable image manipulation
 )
 
 sudo flatpak install flathub "${flatpak_list[@]}" -y
