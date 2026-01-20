@@ -23,9 +23,8 @@ flatpak_list=(
     com.github.wwmm.easyeffects
     org.pipewire.Helvum
     org.musicbrainz.Picard
-    cafe.avery.Delfin
     com.github.huluti.Curtail
-    com.github.iwalton3.jellyfin-media-player
+    org.jellyfin.JellyfinDesktop
     com.github.jeromerobert.pdfarranger
     com.github.taiko2k.tauonmb
     com.github.tchx84.Flatseal
@@ -38,7 +37,6 @@ flatpak_list=(
     de.haeckerfelix.Fragments
     dev.geopjr.Calligraphy
     dev.vencord.Vesktop
-    io.freetubeapp.FreeTube
     io.github.flattool.Warehouse
     io.github.getnf.embellish
     io.github.giantpinkrobots.varia
