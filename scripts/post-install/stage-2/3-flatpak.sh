@@ -64,6 +64,8 @@ flatpak_list=(
     org.nicotine_plus.Nicotine   # soulseek
     io.github.Faugus.faugus-launcher # faugus-launcher
     org.darktable.Darktable # darktable image manipulation
+    com.bitwarden.desktop # bitwarden
+    studio.planetpeanut.Bobby # sql viewer
 )
 
 sudo flatpak install flathub "${flatpak_list[@]}" -y

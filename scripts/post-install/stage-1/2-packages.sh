@@ -7,31 +7,37 @@
 # https://github.com/JaKooLit/Fedora-Hyprland/blob/main/install-scripts/Global_functions.sh
 # https://github.com/smittix/fedorable/blob/main/fedorable.sh
 
-# # yazi
-sudo dnf copr enable lihaohong/yazi -y
-sudo dnf install yazi --setopt=install_weak_deps=False -y
-
 pkgs=(
+    # font
+    hack-fonts
+    # dev
     alacritty
     zsh
-    neovim
     gopass
-    mpv
     fzf
     ripgrep
     jq
     hugo
-    tldr
-    linux-firmware
-    acpi
-    fd-find
-    gnome-tweaks
-    python3-neovim
-    uv
-    libva-utils
     qrencode
+    eza
+    bat
+    starship
+    tldr
+    fd-find
+    uv
+    neovim
+    python3-neovim # neovim dependency
+    zellij
+    tailscale
+    yazi
+    # tools
+    acpi
+    linux-firmware
+    libva-utils
+    # application
+    gnome-tweaks
+    mpv
     feishin
 )
 
 sudo dnf install -y $pkgs[@]
-

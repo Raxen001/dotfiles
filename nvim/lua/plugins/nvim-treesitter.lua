@@ -1,5 +1,7 @@
 return {
 	"nvim-treesitter/nvim-treesitter",
+    branch = "main",
+    lazy = false,
 	dependencies = {
 		"nvim-treesitter/nvim-treesitter-textobjects",
 	},
@@ -55,7 +57,8 @@ return {
 		},
 	},
 	config = function(_, opts)
-		require("nvim-treesitter.configs").setup(opts)
+        -- read doc later
+		-- require("nvim-treesitter.configs").setup(opts)
         vim.opt.foldenable = false                          -- disable folding on startup
         vim.wo.foldmethod = 'expr'                          -- set folding to expression
         vim.wo.foldexpr = 'v:lua.vim.treesitter.foldexpr()' -- set TreeSitter for folding
