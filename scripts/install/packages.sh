@@ -30,6 +30,7 @@ pkgs=(
     uv
     libva-utils
     qrencode
+    feishin
 )
 
 sudo dnf install -y $pkgs[@]
