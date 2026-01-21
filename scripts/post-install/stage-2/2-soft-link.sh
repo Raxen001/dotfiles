@@ -10,6 +10,9 @@ ln -s "$CONFIG_DIR"/zsh/zshrc ~/.zshrc
 ln -s "$CONFIG_DIR"/zsh/zshenv ~/.zshenv
 ln -s "$CONFIG_DIR"/zsh/zprofile ~/.zprofile
 
+mv ~/.ssh ~/.ssh.bak
+ln -s "$CONFIG_DIR/../personal/ssh" ~/.ssh
+
 WHITE_LIST=(alacritty git lazygit nvim zellij mpv yazi starship.toml)
 
 for item in ${WHITE_LIST};
