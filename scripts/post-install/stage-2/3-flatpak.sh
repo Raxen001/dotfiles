@@ -41,7 +41,6 @@ flatpak_list=(
     io.github.getnf.embellish
     io.github.giantpinkrobots.varia
     io.github.nokse22.asciidraw
-    io.gitlab.gregorni.Letterpress
     io.gitlab.news_flash.NewsFlash
     nl.emphisia.icon
     net.nokyan.Resources
