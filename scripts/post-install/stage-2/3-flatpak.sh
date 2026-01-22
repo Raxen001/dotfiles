@@ -23,9 +23,8 @@ flatpak_list=(
     com.github.wwmm.easyeffects
     org.pipewire.Helvum
     org.musicbrainz.Picard
-    cafe.avery.Delfin
     com.github.huluti.Curtail
-    com.github.iwalton3.jellyfin-media-player
+    org.jellyfin.JellyfinDesktop
     com.github.jeromerobert.pdfarranger
     com.github.taiko2k.tauonmb
     com.github.tchx84.Flatseal
@@ -38,12 +37,10 @@ flatpak_list=(
     de.haeckerfelix.Fragments
     dev.geopjr.Calligraphy
     dev.vencord.Vesktop
-    io.freetubeapp.FreeTube
     io.github.flattool.Warehouse
     io.github.getnf.embellish
     io.github.giantpinkrobots.varia
     io.github.nokse22.asciidraw
-    io.gitlab.gregorni.Letterpress
     io.gitlab.news_flash.NewsFlash
     nl.emphisia.icon
     net.nokyan.Resources
@@ -63,6 +60,11 @@ flatpak_list=(
     com.dec05eba.gpu_screen_recorder
     io.github.alainm23.planify   # todo list
     io.github.wartybix.Constrict # Compress videos and images
+    org.nicotine_plus.Nicotine   # soulseek
+    io.github.Faugus.faugus-launcher # faugus-launcher
+    org.darktable.Darktable # darktable image manipulation
+    com.bitwarden.desktop # bitwarden
+    studio.planetpeanut.Bobby # sql viewer
 )
 
 sudo flatpak install flathub "${flatpak_list[@]}" -y

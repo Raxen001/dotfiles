@@ -1,7 +1,7 @@
 return {
 	-- keymaps in keymaps.lua
 	"nvim-telescope/telescope.nvim",
-	tag = "0.1.8",
+	branch = "master",
 	dependencies = {
 		"nvim-lua/plenary.nvim",
 		{ "nvim-telescope/telescope-fzf-native.nvim", build = "make" },
@@ -9,6 +9,14 @@ return {
 			"nvim-telescope/telescope-live-grep-args.nvim",
 			version = "^1.0.0", -- For major updates, this must be adjusted manually.
 		},
+        {
+            "Raxen001/nvim-telescope-remember-regex",
+            name = "nvim-telescope-remember-regex",
+            dir = "~/Code/nvim-extension/nvim-telescope-remember-regex/",
+            dev = {
+                path = "~/Code/nvim-extension/",
+            }
+        },
 	},
 	config = function()
 		local builtin = require("telescope.builtin")
@@ -73,9 +81,14 @@ return {
 						},
 					},
 				},
-				saved_regex = {
-					saved_regex_table = {
-						testing = "%s",
+				remember_regex = {
+					regex_mapping = {
+						update_post_meta = "update_post_meta.*(.*['\"]%s.*?['\"].*)",
+						get_post_meta = "get_post_meta.*(.*['\"]%s.*?['\"].*)",
+						add_action = "add_action.*(.*['\"]%s.*?['\"].*)",
+						do_action = "do_action.*(.*['\"]%s.*?['\"].*)",
+						apply_filter = "apply_filter.*(.*['\"]%s.*?['\"].*)",
+						add_filter = "add_filter.*(.*['\"]%s.*?['\"].*)",
 					},
 				},
 			},

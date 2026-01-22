@@ -44,6 +44,11 @@ set("v", "<", "<gv", opts)
 set("v", ">", ">gv", opts)
 
 -----------------
+--     RUN     --
+-----------------
+set("n", "<leader>r", "<cmd>make<CR>", opts)
+
+-----------------
 --     LSP     --
 -----------------
 -- set("n", "<leader>lr", vim.lsp.buf.rename, { noremap = true, silent = true, desc = "Rename Variables" })

@@ -1,4 +1,5 @@
 return {
+    enabled = false, -- disabled the startup page
 	"goolord/alpha-nvim",
 	event = "VimEnter",
 	config = function()

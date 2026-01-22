@@ -24,7 +24,9 @@ return {
 			javascript = { "prettierd", "prettier", stop_after_first = true },
 			php = { "phpcbf" },
 			json = { "prettierd" },
+			jsonl = { "jq" },
 			xml = { "xmlformatter" },
+			toml = { "tombi" },
 		},
 
 		formatters = {
