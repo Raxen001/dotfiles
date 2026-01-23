@@ -65,6 +65,7 @@ flatpak_list=(
     org.darktable.Darktable # darktable image manipulation
     com.bitwarden.desktop # bitwarden
     studio.planetpeanut.Bobby # sql viewer
+    io.github.swordpuffin.rewaita # add colors to adwaita
 )
 
 sudo flatpak install flathub "${flatpak_list[@]}" -y
