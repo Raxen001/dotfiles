@@ -27,6 +27,7 @@ pkgs=(
     uv
     neovim
     python3-neovim # neovim dependency
+    gopls # go language server
     zellij
     tailscale
     yazi
