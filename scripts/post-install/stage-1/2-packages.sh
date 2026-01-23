@@ -9,7 +9,7 @@
 
 pkgs=(
     # font
-    hack-fonts
+    hack-nerd-fonts
     # dev
     alacritty
     zsh
@@ -30,11 +30,13 @@ pkgs=(
     zellij
     tailscale
     yazi
-    # tools
+    # driver and firmware
     acpi
     linux-firmware
     libva-utils
+    xpadneo
     # application
+    steam
     gnome-tweaks
     mpv
     feishin
