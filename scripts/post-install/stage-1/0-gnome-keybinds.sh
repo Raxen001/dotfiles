@@ -67,3 +67,22 @@ gsettings set org.gnome.shell.keybindings show-screenshot-ui "['Print', '<Super>
 
 # set gnome settings always on top
 gsettings set org.gnome.desktop.wm.keybindings always-on-top "['<Shift><Super>T']"
+
+# import custom keybindings
+{
+cat << EOF
+[/]
+custom-keybindings=['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom1/']
+home=['<Super>e']
+
+[custom-keybindings/custom0]
+binding='<Shift><Super>Return'
+command='/bin/alacritty'
+name='alacritty'
+
+[custom-keybindings/custom1]
+binding='<Super>w'
+command='flatpak run app.zen_browser.zen'
+name='browser'
+EOF
+} | dconf load /org/gnome/settings-daemon/plugins/media-keys/
