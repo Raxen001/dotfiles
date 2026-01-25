@@ -1,5 +1,9 @@
 # Gamescope 
 
+gamescope has issue where it starts to stutter after 24 minutes.
+[arch-wiki](https://wiki.archlinux.org/title/Gamescope)
+[GitHub issue](https://github.com/ValveSoftware/gamescope/issues/163)
+
 ## steam
 
 ```bash
@@ -41,4 +45,17 @@ PROTON_ENABLE_WAYLAND=1
 MANGOHUD=1
 gamemoderun
 %command%
+```
+
+## with dlss and gamescope
+
+```bash
+__NV_PRIME_RENDER_OFFLOAD=1
+__GLX_VENDOR_LIBRARY_NAME=nvidia
+__VK_LAYER_NV_optimus=NVIDIA_only
+VK_ICD_FILENAMES=/usr/share/vulkan/icd.d/nvidia_icd.x86_64.json
+PROTON_ENABLE_NVAPI=1
+PROTON_DLSS_UPGRADE=1
+LD_PRELOAD=""
+gamemoderun gamescope -W 2560 -H 1440 -f --mangoapp -- %command%
 ```
