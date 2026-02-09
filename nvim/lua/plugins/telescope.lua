@@ -12,10 +12,6 @@ return {
         {
             "Raxen001/nvim-telescope-remember-regex",
             name = "nvim-telescope-remember-regex",
-            dir = "~/Code/nvim-extension/nvim-telescope-remember-regex/",
-            dev = {
-                path = "~/Code/nvim-extension/",
-            }
         },
 	},
 	config = function()

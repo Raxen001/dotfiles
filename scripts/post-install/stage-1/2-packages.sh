@@ -31,16 +31,23 @@ pkgs=(
     zellij
     tailscale
     yazi
+    ncdu
     # driver and firmware
     acpi
     linux-firmware
     libva-utils
     xpadneo
     # application
-    steam
     gnome-tweaks
     mpv
     feishin
+    # games
+    steam
+    mangohud
+    gamemode
+    gamescope
+    vulkan
+    vulkan-tools
 )
 
 sudo dnf install -y $pkgs[@]

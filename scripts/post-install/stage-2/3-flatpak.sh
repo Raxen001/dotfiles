@@ -66,6 +66,7 @@ flatpak_list=(
     com.bitwarden.desktop # bitwarden
     studio.planetpeanut.Bobby # sql viewer
     io.github.swordpuffin.rewaita # add colors to adwaita
+    io.github.benjamimgois.goverlay # goverylay for mangohud
 )
 
 sudo flatpak install flathub "${flatpak_list[@]}" -y
