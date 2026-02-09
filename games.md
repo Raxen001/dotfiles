@@ -74,10 +74,11 @@ gamemoderun gamescope -W 2560 -H 1440 -f -r 180 --adaptive-sync --mangoapp -- %c
 ## just wayland
 
 ```bash
-LD_PRELOAD="" 
 PROTON_ENABLE_NVAPI=1
 PROTON_DLSS_UPGRADE=1
 PROTON_ENABLE_WAYLAND=1
 MANGOHUD=1
 %command%
 ```
+
+`WAYLANDDRV_PRIMARY_MONITOR=DP-1`
