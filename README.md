@@ -185,6 +185,6 @@ install necessariy programs
 
 ### about:config
 
-`zen.urlbar.replace-newtab` = `false`
-`browser.tabs.closeWindowWithLastTab` = `false`
-`zen.window-sync.enabled` = `false`
+`zen.urlbar.replace-newtab`             = `false`
+`browser.tabs.closeWindowWithLastTab`   = `false`
+`zen.window-sync.enabled`               = `false`
