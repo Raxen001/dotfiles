@@ -82,3 +82,46 @@ MANGOHUD=1
 ```
 
 `WAYLANDDRV_PRIMARY_MONITOR=DP-1`
+
+## DXVK_HUD for compiling percentage
+```bash
+DXVK_HUD=compiler  
+
+```
+## ntsync
+```bash
+PROTON_USE_NTSYNC=1
+```
+
+## GAMES WITH GAMESCOPE AND NTSYNC AND DXVK
+```bash
+LD_PRELOAD=""
+PROTON_ENABLE_NVAPI=1
+PROTON_DLSS_UPGRADE=1
+PROTON_USE_NTSYNC=1
+DXVK_HUD=compiler  
+gamemoderun gamescope -W 2560 -H 1440 -w 2560 -h 1440 -f -r 180 --adaptive-sync --mangoapp -- %command%
+```
+
+# SCB
+
+```bash
+DXVK_HUD=compiler
+PROTON_ENABLE_OPENXR=0
+PROTON_ENABLE_NVAPI=1
+PROTON_USE_NTSYNC=1
+gamemoderun scopebuddy -- %command%
+```
+
+## 
+
+```bash
+STAGING_SHARED_MEMORY=1
+__GL_SHADER_DISK_CACHE=1
+__GL_SHADER_DISK_CACHE_SKIP_CLEANUP=1
+DXVK_HUD=full
+PROTON_ENABLE_OPENXR=0
+PROTON_ENABLE_NVAPI=1
+PROTON_USE_NTSYNC=1
+gamemoderun scopebuddy -- %command%
+```
