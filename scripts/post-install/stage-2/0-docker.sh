@@ -4,12 +4,12 @@ sudo dnf-3 config-manager --add-repo https://download.docker.com/linux/fedora/do
 sudo dnf install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin -y
 sudo systemctl enable --now docker
 
-sudo groupadd docker
-sudo usermod -aG docker $USER
-newgrp docker
+# sudo groupadd docker
+# sudo usermod -aG docker $USER
+# newgrp docker
 
 # test
-docker run hello-world
+# docker run -rm hello-world
 
 # container toolkit
 curl -s -L https://nvidia.github.io/libnvidia-container/stable/rpm/nvidia-container-toolkit.repo | \

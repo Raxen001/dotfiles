@@ -1,7 +1,7 @@
 return {
 	-- keymaps in keymaps.lua
 	"nvim-telescope/telescope.nvim",
-	tag = "0.1.8",
+	branch = "master",
 	dependencies = {
 		"nvim-lua/plenary.nvim",
 		{ "nvim-telescope/telescope-fzf-native.nvim", build = "make" },
@@ -11,11 +11,7 @@ return {
 		},
         {
             "Raxen001/nvim-telescope-remember-regex",
-            -- name = "nvim-telescope-remember-regex",
-            -- dir = "~/Code/nvim-extension/nvim-telescope-remember-regex/",
-            -- dev = {
-            --     path = "~/Code/nvim-extension/",
-            -- }
+            name = "nvim-telescope-remember-regex",
         },
 	},
 	config = function()

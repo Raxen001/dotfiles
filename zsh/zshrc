@@ -67,6 +67,11 @@ alias zathura='zathura --fork'
 # alias glow='glow -p'
 # alias pacman='pacman --color=auto'
 alias ncdu='ncdu --color dark'
+
+if [[ $(hostname) = 'ragnarok' ]];
+then
+    alias raven='ssh raven -t "/home/raven/.local/bin/raven "'
+fi
 #-------------------------------------------------------------------------------
 #yazi - alias to n
 
