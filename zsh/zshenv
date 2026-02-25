@@ -29,18 +29,26 @@ export DOCKER_CONFIG="$XDG_CONFIG_HOME"/docker
 #export DOCKER_HOST=unix:///run/user/1000/docker.sock
 #-------------------------------------------------------------------------------
 # GAMES
+##
 # export MANGOHUD=1
 
-# export PROTON_DLSS_UPGRADE=1
-# export PROTON_FSR_UPGRADE=1
+export WAYLANDDRV_PRIMARY_MONITOR=DP-9
+
+export PROTON_DLSS_UPGRADE=1
+export PROTON_FSR_UPGRADE=1
 # export PROTON_ENABLE_WAYLAND=1
 export PROTON_ENABLE_NVAPI=1
-export PROTON_USE_NTSYNC=1
 
 export __GL_THREADED_OPTIMIZATION=1
 export __GL_SHADER_DISK_CACHE=1
 export __GL_SHADER_DISK_CACHE_SKIP_CLEANUP=1
+export __GL_SHADER_DISK_CACHE_SIZE=10737418240
 export __GL_SHADER_DISK_CACHE_PATH="$XDG_CACHE_HOME/games_shader/"
-export STAGING_SHARED_MEMORY=1 
+# export __GL_SYNC_TO_VBLANK=1
+
+export DXVK_STATE_CACHE=1
 export DXVK_HUD=compiler 
+
+export STAGING_SHARED_MEMORY=1 
+export NVIDIA_DRIVER_CAPABILITIES=all
 #-------------------------------------------------------------------------------

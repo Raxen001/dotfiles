@@ -105,6 +105,12 @@ gamemoderun gamescope -W 2560 -H 1440 -w 2560 -h 1440 -f -r 180 --adaptive-sync 
 
 # SCB
 
+Most of the `PROTON` config are set in `.zshenv`
+
+```bash
+gamemoderun scb -- %command%
+```
+
 ```bash
 DXVK_HUD=compiler
 PROTON_ENABLE_OPENXR=0

@@ -7,7 +7,7 @@ return {
 	opts = {
 		ensure_installed = {
 			"cssls",
-			"vtsls",
+			-- "vtsls",
 			"bashls",
 			"ts_ls",
 			"eslint",

@@ -13,7 +13,7 @@ ln -s "$CONFIG_DIR"/zsh/zprofile ~/.zprofile
 mv ~/.ssh ~/.ssh.bak
 ln -s "$CONFIG_DIR/../personal/ssh" ~/.ssh
 
-WHITE_LIST=(alacritty git lazygit nvim zellij mpv yazi starship.toml)
+WHITE_LIST=(alacritty git lazygit nvim zellij mpv yazi starship.toml MangoHud scopebuddy)
 
 for item in ${WHITE_LIST};
 do

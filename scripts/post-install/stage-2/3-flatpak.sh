@@ -67,6 +67,7 @@ flatpak_list=(
     studio.planetpeanut.Bobby # sql viewer
     io.github.swordpuffin.rewaita # add colors to adwaita
     io.github.benjamimgois.goverlay # goverylay for mangohud
+    com.geeks3d.furmark # furmark benchmark gpu
 )
 
 sudo flatpak install flathub "${flatpak_list[@]}" -y
