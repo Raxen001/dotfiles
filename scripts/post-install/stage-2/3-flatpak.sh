@@ -40,7 +40,6 @@ flatpak_list=(
     io.github.flattool.Warehouse
     io.github.getnf.embellish
     io.github.giantpinkrobots.varia
-    io.github.nokse22.asciidraw
     io.gitlab.news_flash.NewsFlash
     nl.emphisia.icon
     net.nokyan.Resources
