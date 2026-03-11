@@ -8,8 +8,7 @@ export PAGER='less -R'
 ## change home dotfiles
 export PYLINTHOME="$XDG_CACHE_HOME"/pylint
 export PASSWORD_STORE_DIR="$HOME/.local/configs/personal/password-store"
-export LESSHISTFILE='$XDG_CACHE_HOME/lessht'
-export CUDA_CACHE_PATH="$XDG_CACHE_HOME"/nv
+export LESSHISTFILE="$XDG_CACHE_HOME/lessht"
 export GNUPGHOME="$HOME/.local/configs/personal/gnupg"
 export GTK2_RC_FILES="$XDG_CONFIG_HOME"/gtk-2.0/gtkrc
 export CARGO_HOME="$HOME/.local/cargo"
@@ -39,12 +38,13 @@ export PROTON_FSR_UPGRADE=1
 export PROTON_ENABLE_WAYLAND=1
 export PROTON_ENABLE_NVAPI=1
 
-# export __GL_THREADED_OPTIMIZATION=1
-# export __GL_SHADER_DISK_CACHE=1
-# export __GL_SHADER_DISK_CACHE_SKIP_CLEANUP=1
-# export __GL_SHADER_DISK_CACHE_SIZE=10737418240
+export __GL_THREADED_OPTIMIZATION=1
+export __GL_SHADER_DISK_CACHE=1
+export __GL_SHADER_DISK_CACHE_SKIP_CLEANUP=1
+export __GL_SHADER_DISK_CACHE_SIZE=12000000000
 # export __GL_SHADER_DISK_CACHE_PATH="$XDG_CACHE_HOME/games_shader/"
 # export __GL_SYNC_TO_VBLANK=1
+# export CUDA_CACHE_PATH="$XDG_CACHE_HOME"/nv
 # export vblank_mode=1
 
 export DXVK_HUD=compiler 

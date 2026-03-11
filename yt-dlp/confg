@@ -1,0 +1,4 @@
+# set ft=config
+--cookies-from-browser firefox:~/.var/app/app.zen_browser.zen/.zen 
+--remote-components ejs:npm 
+--js-runtimes deno

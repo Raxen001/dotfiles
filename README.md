@@ -185,6 +185,9 @@ install necessariy programs
 
 ### about:config
 
-`zen.urlbar.replace-newtab`             = `false`
-`browser.tabs.closeWindowWithLastTab`   = `false`
-`zen.window-sync.enabled`               = `false`
+`zen.urlbar.replace-newtab`                     = `false`
+`browser.tabs.closeWindowWithLastTab`           = `false`
+`zen.window-sync.enabled`                       = `false`
+`video-decoding.force-enabled`                  = `true`
+`gfx.webrender.all`                             = `true`
+`media.hardware-video-encoding.force-enabled`   = `true`

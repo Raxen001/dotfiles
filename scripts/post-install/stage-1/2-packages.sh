@@ -28,6 +28,9 @@ pkgs=(
     neovim
     python3-neovim # neovim dependency
     gopls # go language server
+    cargo
+    clippy
+    rustfmt
     zellij
     tailscale
     yazi
