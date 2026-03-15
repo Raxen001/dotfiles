@@ -6,6 +6,6 @@ return {
 	config = function()
 		local treesitter = require("nvim-treesitter")
 		treesitter.setup({})
-		treesitter.install({ "all" })
+		-- treesitter.install({ "all" })
 	end,
 }
