@@ -183,11 +183,24 @@ install necessariy programs
 
 ## zen browser
 
+### env 
+
+For hardware accel
+
+```bash
+LIBVA_DRIVER_NAME=nvidia
+MOZ_DISABLE_RDD_SANDBOX=1
+NVD_BACKEND=direct
+```
+
 ### about:config
 
 `zen.urlbar.replace-newtab`                     = `false`
 `browser.tabs.closeWindowWithLastTab`           = `false`
 `zen.window-sync.enabled`                       = `false`
-`video-decoding.force-enabled`                  = `true`
-`gfx.webrender.all`                             = `true`
+
 `media.hardware-video-encoding.force-enabled`   = `true`
+`media.hardware-video-decoding.enabled`         = `true`
+`gfx.webrender.all`                             = `true`
+`widget.dmabuf.force-enabled`                   = `true`
+<!-- `gfx.webrender.layer-compositor`                = `true` -->

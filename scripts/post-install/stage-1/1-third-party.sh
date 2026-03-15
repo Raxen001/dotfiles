@@ -6,3 +6,5 @@ sudo dnf install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-releas
 sudo dnf config-manager setopt fedora-cisco-openh264.enabled=1 -y
 sudo dnf update @core -y
 sudo dnf install rpmfusion-\*-appstream-data -y
+
+sudo dnf copr enable lizardbyte/stable

@@ -10,7 +10,6 @@ flatpak_list=(
     com.vysp3r.ProtonPlus
     org.prismlauncher.PrismLauncher
     com.tutanota.Tutanota
-    org.gnome.Geary
     dev.zed.Zed
     me.iepure.devtoolbox
     it.fabiodistasio.AntaresSQL
@@ -54,6 +53,7 @@ flatpak_list=(
     page.tesk.Refine
     re.sonny.Junction
     dev.geopjr.Turntable
+    io.github.totoshko88.RustConn
     be.alexandervanhee.gradia
     io.github.nozwock.Packet
     com.dec05eba.gpu_screen_recorder
@@ -68,6 +68,7 @@ flatpak_list=(
     io.github.benjamimgois.goverlay # goverylay for mangohud
     com.geeks3d.furmark # furmark benchmark gpu
     org.freedesktop.Platform.VdpauInfo # vdpau
+    org.freedesktop.Platform.ffmpeg-full  # ffmpeg for HW
 )
 
 sudo flatpak install flathub "${flatpak_list[@]}" -y

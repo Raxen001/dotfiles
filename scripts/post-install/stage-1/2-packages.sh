@@ -38,7 +38,6 @@ pkgs=(
     # driver and firmware
     acpi
     linux-firmware
-    libva-utils
     xpadneo
     # application
     gnome-tweaks
@@ -51,6 +50,8 @@ pkgs=(
     gamescope
     vulkan
     vulkan-tools
+    libva-utils
+    Sunshine
 )
 
 sudo dnf install -y $pkgs[@]

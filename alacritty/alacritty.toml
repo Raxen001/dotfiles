@@ -11,7 +11,7 @@ style = "Block"
 unfocused_hollow = true
 
 [font]
-size = 14
+size = 12
 
 [font.glyph_offset]
 x = 0
