@@ -45,6 +45,7 @@ pkgs=(
     feishin
     # games
     steam
+    protontricks
     mangohud
     gamemode
     gamescope
