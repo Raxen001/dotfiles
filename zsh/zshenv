@@ -32,6 +32,7 @@ export WINEPREFIX="$HOME/Games/wine"
 # export MANGOHUD=1
 
 export WAYLANDDRV_PRIMARY_MONITOR=DP-9
+export PROTON_WAYLAND_MONITOR=DP-9 # same as WAYLANDDRV_PRIMARY_MONITOR https://github.com/GloriousEggroll/proton-ge-custom/commit/d59cc0ef7a4d0e5ff1acf94bd1de2c1f4b8ea12b
 
 export PROTON_DLSS_UPGRADE=1
 export PROTON_FSR_UPGRADE=1

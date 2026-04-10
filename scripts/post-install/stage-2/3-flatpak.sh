@@ -16,6 +16,7 @@ flatpak_list=(
     com.mongodb.Compass
     com.usebruno.Bruno
     com.rafaelmardojai.SharePreview
+    org.gnome.gitlab.YaLTeR.VideoTrimmer
     com.belmoussaoui.Decoder
     dev.deedles.Trayscale
     page.kramo.Sly
@@ -33,7 +34,6 @@ flatpak_list=(
     com.obsproject.Studio.Plugin.InputOverlay
     com.rtosta.zapzap
     com.rustdesk.RustDesk
-    de.haeckerfelix.Fragments
     dev.geopjr.Calligraphy
     dev.vencord.Vesktop
     io.github.flattool.Warehouse

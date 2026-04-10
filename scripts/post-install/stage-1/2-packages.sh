@@ -27,6 +27,7 @@ pkgs=(
     uv
     neovim
     python3-neovim # neovim dependency
+    python3-devel # development package
     gopls # go language server
     cargo
     clippy

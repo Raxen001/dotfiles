@@ -13,7 +13,8 @@ return {
 			"eslint",
 			"rust_analyzer",
 			-- "gopls", -- installed as system
-			"pylsp",
+			-- "pylsp",
+            "basedpyright",
 			"lua_ls",
 			"ruff",
 			"phpactor",
