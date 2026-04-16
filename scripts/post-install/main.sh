@@ -1,13 +1,17 @@
 #!/usr/bin/env zsh
+#
+# author: raxen001
+# email: raxen001@tutamail.com
 
 STAGE_1="./stage-1/"
 STAGE_2="./stage-2/"
 
 echo "STAGE 1"
 
+sudo dnf update -y --refresh
+
 # modify gnome keybinds
 source "$STAGE_1/0-gnome-keybinds.sh"
-echo "Add keybind for Web browser and alacritty;"
 
 # install third party repos terra
 source "$STAGE_1/1-third-party.sh"
@@ -20,7 +24,6 @@ source "$STAGE_1/3-nvidia.sh"
 
 echo "Reboot Now!"
 sleep 5
-
 echo "STAGE 2"
 
 # install docker

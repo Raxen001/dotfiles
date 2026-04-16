@@ -1,5 +1,4 @@
-#!/bin/bash
-# author: Raxen001
+#!/usr/bin/env bash
 
 flatpak_list=(
     app.zen_browser.zen
@@ -8,6 +7,7 @@ flatpak_list=(
     page.kramo.Cartridges
     com.usebottles.bottles
     com.vysp3r.ProtonPlus
+    com.valvesoftware.SteamLink
     org.prismlauncher.PrismLauncher
     com.tutanota.Tutanota
     dev.zed.Zed

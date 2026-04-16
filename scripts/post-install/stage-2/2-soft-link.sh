@@ -1,4 +1,5 @@
 #!/usr/bin/env zsh
+
 CONFIG_DIR=~/.local/configs/dotfiles
 
 # remove zsh if present already
@@ -9,6 +10,8 @@ rm ~/.zprofile
 ln -s "$CONFIG_DIR"/zsh/zshrc ~/.zshrc
 ln -s "$CONFIG_DIR"/zsh/zshenv ~/.zshenv
 ln -s "$CONFIG_DIR"/zsh/zprofile ~/.zprofile
+
+source ~/.zprofile
 
 mv ~/.ssh ~/.ssh.bak
 ln -s "$CONFIG_DIR/../personal/ssh" ~/.ssh

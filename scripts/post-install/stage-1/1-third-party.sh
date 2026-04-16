@@ -1,3 +1,4 @@
+#!/usr/bin/env zsh
 # terra
 sudo dnf install --nogpgcheck --repofrompath 'terra,https://repos.fyralabs.com/terra$releasever' terra-release -y
 
@@ -7,4 +8,9 @@ sudo dnf config-manager setopt fedora-cisco-openh264.enabled=1 -y
 sudo dnf update @core -y
 sudo dnf install rpmfusion-\*-appstream-data -y
 
-sudo dnf copr enable lizardbyte/stable
+# flathub
+flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+flatpak --user remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+
+# Sunshine
+# sudo dnf copr enable lizardbyte/stable

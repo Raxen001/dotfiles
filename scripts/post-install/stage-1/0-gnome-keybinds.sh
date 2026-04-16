@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env zsh
 
 # get keybinds
 # gsettings list-recursively org.gnome.desktop.wm.keybindings | grep switch-to-workspace
@@ -86,3 +86,5 @@ command='flatpak run app.zen_browser.zen'
 name='browser'
 EOF
 } | dconf load /org/gnome/settings-daemon/plugins/media-keys/
+
+echo "[INFO]: Keybindings Added"

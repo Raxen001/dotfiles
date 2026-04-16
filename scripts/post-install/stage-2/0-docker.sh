@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 sudo dnf -y install dnf-plugins-core
 sudo dnf-3 config-manager --add-repo https://download.docker.com/linux/fedora/docker-ce.repo -y
 
@@ -5,8 +7,8 @@ sudo dnf install docker-ce docker-ce-cli containerd.io docker-buildx-plugin dock
 sudo systemctl enable --now docker
 
 # sudo groupadd docker
-# sudo usermod -aG docker $USER
-# newgrp docker
+sudo usermod --append --groups=docker $USER
+newgrp docker
 
 # test
 # docker run -rm hello-world
@@ -22,5 +24,4 @@ sudo nvidia-ctk runtime configure --runtime=docker
 sudo systemctl restart docker
 
 # test
-docker run --rm --runtime=nvidia --gpus all ubuntu nvidia-smi
-
+# docker run --rm --runtime=nvidia --gpus all ubuntu nvidia-smi

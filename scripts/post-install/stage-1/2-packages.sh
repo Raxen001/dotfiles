@@ -30,12 +30,15 @@ pkgs=(
     python3-devel # development package
     gopls # go language server
     cargo
+    bun
+    npm
     clippy
     rustfmt
     zellij
     tailscale
     yazi
     ncdu
+    lazygit
     # driver and firmware
     acpi
     linux-firmware
@@ -53,7 +56,6 @@ pkgs=(
     vulkan
     vulkan-tools
     libva-utils
-    Sunshine
 )
 
-sudo dnf install -y $pkgs[@]
+sudo dnf install -y --skip-unavailable --skip-broken $pkgs[@]

@@ -1,5 +1,4 @@
-#!/usr/bin/env bash
-sudo dnf update -y
+#!/bin/env zsh
 
 # download nvidia drivers
 sudo dnf install akmod-nvidia -y
