@@ -24,6 +24,7 @@ source "$STAGE_1/3-nvidia.sh"
 
 echo "Reboot Now!"
 sleep 5
+
 echo "STAGE 2"
 
 # install docker

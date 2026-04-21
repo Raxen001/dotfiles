@@ -13,8 +13,9 @@ flatpak_list=(
     dev.zed.Zed
     me.iepure.devtoolbox
     it.fabiodistasio.AntaresSQL
+    io.dbeaver.DBeaverCommunity
     com.mongodb.Compass
-    com.usebruno.Bruno
+    rest.insomnia.Insomnia
     com.rafaelmardojai.SharePreview
     org.gnome.gitlab.YaLTeR.VideoTrimmer
     com.belmoussaoui.Decoder
@@ -40,7 +41,6 @@ flatpak_list=(
     io.github.getnf.embellish
     io.github.giantpinkrobots.varia
     io.gitlab.news_flash.NewsFlash
-    nl.emphisia.icon
     net.nokyan.Resources
     org.gnome.gitlab.YaLTeR.Identity
     org.gnome.Showtime
@@ -64,11 +64,10 @@ flatpak_list=(
     org.darktable.Darktable # darktable image manipulation
     com.bitwarden.desktop # bitwarden
     studio.planetpeanut.Bobby # sql viewer
-    io.github.swordpuffin.rewaita # add colors to adwaita
     io.github.benjamimgois.goverlay # goverylay for mangohud
     com.geeks3d.furmark # furmark benchmark gpu
     org.freedesktop.Platform.VdpauInfo # vdpau
     org.freedesktop.Platform.ffmpeg-full  # ffmpeg for HW
 )
 
-sudo flatpak install flathub "${flatpak_list[@]}" -y
+sudo flatpak install flathub -y --noninteractive "${flatpak_list[@]}" 

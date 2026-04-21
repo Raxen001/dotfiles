@@ -11,6 +11,8 @@ pkgs=(
     # font
     hack-nerd-fonts
     # dev
+    dnf-utils
+    uuid
     alacritty
     zsh
     gopass
@@ -31,6 +33,7 @@ pkgs=(
     gopls # go language server
     cargo
     bun
+    deno
     npm
     clippy
     rustfmt
@@ -53,9 +56,12 @@ pkgs=(
     mangohud
     gamemode
     gamescope
+    scopebuddy
     vulkan
     vulkan-tools
     libva-utils
+    podman
+    podman-compose
 )
 
 sudo dnf install -y --skip-unavailable --skip-broken $pkgs[@]

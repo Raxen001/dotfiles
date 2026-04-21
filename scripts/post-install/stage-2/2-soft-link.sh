@@ -11,6 +11,7 @@ ln -s "$CONFIG_DIR"/zsh/zshrc ~/.zshrc
 ln -s "$CONFIG_DIR"/zsh/zshenv ~/.zshenv
 ln -s "$CONFIG_DIR"/zsh/zprofile ~/.zprofile
 
+# source $XDG directories before linking
 source ~/.zprofile
 
 mv ~/.ssh ~/.ssh.bak

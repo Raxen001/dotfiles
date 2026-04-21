@@ -14,6 +14,6 @@ sudo dnf install libva-nvidia-driver -y
 sudo dnf install libva-nvidia-driver.{i686,x86_64} -y
 
 sudo dnf install rpmfusion-nonfree-release-tainted -y
-sudo dnf --repo=rpmfusion-nonfree-tainted install "*-firmware" -h
+sudo dnf --repo=rpmfusion-nonfree-tainted install "*-firmware" -y
 
 sudo dnf update @sound-and-video -y
