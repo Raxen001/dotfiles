@@ -19,37 +19,6 @@ return {
 		local telescope = require("telescope")
 		local lga_actions = require("telescope-live-grep-args.actions")
 
-		-- keymaps: telescope builtins
-		vim.keymap.set("n", "<leader>ff", builtin.find_files, { desc = "Telescope find files" })
-		vim.keymap.set(
-			"n",
-			"<leader>fg",
-			telescope.extensions.live_grep_args.live_grep_args,
-			{ desc = "Telescope live grep" }
-		)
-		vim.keymap.set("n", "<leader>fb", builtin.buffers, { desc = "Telescope buffers" })
-		vim.keymap.set("n", "<leader>fq", builtin.quickfix, { desc = "Telescope QuickFix lists" })
-		vim.keymap.set("n", "<leader>fh", builtin.help_tags, { desc = "Telescope help tags" })
-		vim.keymap.set("n", "<leader>fd", builtin.lsp_document_symbols, { desc = "Telescope document symbols" })
-		vim.keymap.set(
-			"n",
-			"<leader>fs",
-			builtin.current_buffer_fuzzy_find,
-			{ desc = "Telescope Search Current buffer" }
-		)
-
-		vim.keymap.set("n", "<leader>fr", builtin.resume, {})
-
-		-- keymaps: ts
-		vim.keymap.set("n", "<leader>ft", builtin.treesitter, { desc = "Treesitter Telescope" })
-
-		vim.keymap.set(
-			"n",
-			"<leader>fw",
-			telescope.extensions.remember_regex.saved_regex,
-			{ desc = "Telescope Saved Regex" }
-		)
-
 		telescope.setup({
 			-- set ivy theme as default theme. WORK AROUND.
 			-- https://github.com/nvim-telescope/telescope.nvim/issues/938#issuecomment-877539724
@@ -94,5 +63,36 @@ return {
 		telescope.load_extension("fzf")
 		telescope.load_extension("live_grep_args")
 		telescope.load_extension("remember_regex")
+
+		-- keymaps: telescope builtins
+		vim.keymap.set("n", "<leader>ff", builtin.find_files, { desc = "Telescope find files" })
+		vim.keymap.set(
+			"n",
+			"<leader>fg",
+			telescope.extensions.live_grep_args.live_grep_args,
+			{ desc = "Telescope live grep" }
+		)
+		vim.keymap.set("n", "<leader>fb", builtin.buffers, { desc = "Telescope buffers" })
+		vim.keymap.set("n", "<leader>fq", builtin.quickfix, { desc = "Telescope QuickFix lists" })
+		vim.keymap.set("n", "<leader>fh", builtin.help_tags, { desc = "Telescope help tags" })
+		vim.keymap.set("n", "<leader>fd", builtin.lsp_document_symbols, { desc = "Telescope document symbols" })
+		vim.keymap.set(
+			"n",
+			"<leader>fs",
+			builtin.current_buffer_fuzzy_find,
+			{ desc = "Telescope Search Current buffer" }
+		)
+
+		vim.keymap.set("n", "<leader>fr", builtin.resume, {})
+
+		-- keymaps: ts
+		vim.keymap.set("n", "<leader>ft", builtin.treesitter, { desc = "Treesitter Telescope" })
+
+		vim.keymap.set(
+			"n",
+			"<leader>fw",
+			telescope.extensions.remember_regex.saved_regex,
+			{ desc = "Telescope Saved Regex" }
+		)
 	end,
 }

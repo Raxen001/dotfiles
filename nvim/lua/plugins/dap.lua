@@ -106,15 +106,15 @@ return {
 	},
 	config = function()
 		require("dapui").setup()
-		require("nvim-dap-virtual-text").setup()
+		require("nvim-dap-virtual-text").setup({})
 		require("mason").setup()
 		require("mason-nvim-dap").setup({
+			automatic_installation = true,
 			ensure_installed = { "python", "php", "js", "bash", "delve", "cppdbg" },
 			handlers = {},
 		})
 
 		local dap, dapui = require("dap"), require("dapui")
-
 		-- local function get_wordpress_root_dir()
 		--     return vim.lsp.buf.list_workspace_folders() .. '/app'
 		-- end

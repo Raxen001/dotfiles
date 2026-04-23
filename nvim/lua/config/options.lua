@@ -22,7 +22,7 @@ vim.opt.cursorline = true -- highlight cursor line underneath the cursor horizon
 vim.opt.textwidth = 80
 vim.opt.laststatus = 3 -- global status line instead of individual windows
 vim.opt.signcolumn = "yes" -- status column
-vim.opt.winborder = ""  -- hover border
+vim.opt.winborder = "" -- hover border
 -- vim.api.nvim_set_hl(0, "ColorColumn", { ctermbg=0, bg=LightGrey })
 -- split
 vim.opt.splitbelow = true -- open new vertical split bottom
@@ -33,10 +33,10 @@ vim.opt.termguicolors = true -- enabl 24-bit RGB color in the TUI
 vim.opt.showmode = false -- we are experienced, wo don't need the "-- INSERT --" mode hint
 
 -- Searching
-vim.opt.incsearch = true            -- search as characters are entered
-vim.opt.hlsearch = true             -- do not highlight matches
-vim.opt.ignorecase = true           -- ignore case in searches by default
-vim.opt.smartcase = true            -- but make it case sensitive if an uppercase is entered
+vim.opt.incsearch = true -- search as characters are entered
+vim.opt.hlsearch = true -- do not highlight matches
+vim.opt.ignorecase = true -- ignore case in searches by default
+vim.opt.smartcase = true -- but make it case sensitive if an uppercase is entered
 
 -- wrap
 vim.opt.wrap = false -- remove line wrapping
@@ -65,3 +65,8 @@ vim.api.nvim_create_autocmd("TextYankPost", {
 		vim.highlight.on_yank({ higroup = "TermCursor", timeout = 150 })
 	end,
 })
+
+-- enable inbuilt plugins
+vim.cmd("packadd nvim.undotree")
+vim.keymap.set("n", "<leader>u", require("undotree").open)
+require('vim._core.ui2').enable()

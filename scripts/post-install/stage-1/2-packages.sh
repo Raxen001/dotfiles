@@ -62,6 +62,10 @@ pkgs=(
     libva-utils
     podman
     podman-compose
+    nix
 )
 
 sudo dnf install -y --skip-unavailable --skip-broken $pkgs[@]
+
+# enable nix
+sudo systemctl enable --now nix-daemon podman tailscaled

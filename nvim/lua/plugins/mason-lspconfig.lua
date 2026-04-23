@@ -7,13 +7,11 @@ return {
 	opts = {
 		ensure_installed = {
 			"cssls",
-			-- "vtsls",
 			"bashls",
 			"ts_ls",
 			"eslint",
 			"rust_analyzer",
 			-- "gopls", -- installed as system
-			-- "pylsp",
             "basedpyright",
 			"lua_ls",
 			"ruff",

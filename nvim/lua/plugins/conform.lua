@@ -27,6 +27,7 @@ return {
 			jsonl = { "jq" },
 			xml = { "xmlformatter" },
 			toml = { "tombi" },
+			nix = { "nixfmt", "nixpkgs-fmt" },
 		},
 
 		formatters = {
