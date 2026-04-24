@@ -3,38 +3,32 @@
 # author: raxen001
 # email: raxen001@tutamail.com
 
-STAGE_1="./stage-1/"
-STAGE_2="./stage-2/"
+STAGES="./stages"
 
-echo "STAGE 1"
-
+echo ":[starting]:"
 sudo dnf update -y --refresh
 
 # modify gnome keybinds
-source "$STAGE_1/0-gnome-keybinds.sh"
-
-# install third party repos terra
-source "$STAGE_1/1-third-party.sh"
-
-# install packages
-source "$STAGE_1/2-packages.sh"
-
-# install nvidia
-source "$STAGE_1/3-nvidia.sh"
-
-echo "Reboot Now!"
-sleep 5
-
-echo "STAGE 2"
-
-# install docker
-source "$STAGE_2/0-docker.sh"
-
-# install multimedia
-source "$STAGE_2/1-multimedia.sh"
+source "$STAGES/0-gnome-keybinds.sh"
 
 # soft link config files
-source "$STAGE_2/2-soft-link.sh"
+source "$STAGES/1-soft-link.sh"
+
+# install third party repos terra
+source "$STAGES/2-third-party.sh"
+
+# install packages
+source "$STAGES/3-packages.sh"
+
+# install multimedia
+source "$STAGES/4-multimedia.sh"
 
 # install flatpaks
-source "$STAGE_2/3-flatpak.sh"
+source "$STAGES/5-flatpak.sh"
+
+# install nvidia
+source "$STAGES/6-nvidia.sh"
+
+# install docker
+source "$STAGES/7-docker.sh"
+
