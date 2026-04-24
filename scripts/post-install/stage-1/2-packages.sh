@@ -68,4 +68,5 @@ pkgs=(
 sudo dnf install -y --skip-unavailable --skip-broken $pkgs[@]
 
 # enable nix
-sudo systemctl enable --now nix-daemon podman tailscaled
+sudo systemctl enable --now nix-daemon podman.service podman.socket tailscaled
+systemctl enable --user --now podman.socket podman.service

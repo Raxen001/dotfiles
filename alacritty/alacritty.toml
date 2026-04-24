@@ -21,9 +21,14 @@ y = 0
 # family = "Hack Nerd Font"
 family = "Adwaita Mono"
 
-[font.offset]
-x = 0
-y = 0
+[font.bold]
+family = "Adwaita Mono"
+
+[font.italic]
+family = "Adwaita Mono"
+
+[font.bold_italic]
+family = "Adwaita Mono"
 
 [[keyboard.bindings]]
 action = "ToggleFullscreen"
