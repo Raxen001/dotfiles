@@ -14,3 +14,9 @@ flatpak --user remote-add --if-not-exists flathub https://dl.flathub.org/repo/fl
 
 # Sunshine
 # sudo dnf copr enable lizardbyte/stable
+
+# starship
+sudo dnf copr enable atim/starship -y
+
+# nvidia container toolkit
+sudo dnf copr enable @ai-ml/nvidia-container-toolkit -y

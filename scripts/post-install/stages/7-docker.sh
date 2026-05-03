@@ -14,11 +14,7 @@ newgrp docker
 # docker run -rm hello-world
 
 # container toolkit
-curl -s -L https://nvidia.github.io/libnvidia-container/stable/rpm/nvidia-container-toolkit.repo | \
-  sudo tee /etc/yum.repos.d/nvidia-container-toolkit.repo
-
-sudo dnf3 config-manager --enable nvidia-container-toolkit-experimental -y
-sudo dnf install -y nvidia-container-toolkit
+sudo dnf install nvidia-container-toolkit nvidia-container-toolkit-selinux
 
 sudo nvidia-ctk runtime configure --runtime=docker
 sudo systemctl restart docker

@@ -6,6 +6,7 @@ flatpak_list=(
     com.heroicgameslauncher.hgl
     page.kramo.Cartridges
     com.usebottles.bottles
+    it.mijorus.gearlever
     com.vysp3r.ProtonPlus
     com.valvesoftware.SteamLink
     org.prismlauncher.PrismLauncher
