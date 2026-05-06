@@ -13,7 +13,7 @@
 ## 🎨 Installation
 
 ```bash
-ya pack -a marcosvnmelo/kanagawa-dragon
+ya pkg add Raxen001/kanagawa-dragon
 ```
 
 ## ⚙️ Usage
@@ -30,3 +30,8 @@ dark = "kanagawa-dragon"
 The flavor is MIT-licensed, and the included tmTheme is also MIT-licensed.
 
 Check the [LICENSE](LICENSE) and [LICENSE-tmtheme](LICENSE-tmtheme) file for more details.
+
+## CREDITS
+
+- [marcosvnmelo/kanagawa-dragon.yazi](https://github.com/marcosvnmelo/kanagawa-dragon.yazi)
+- [dangooddd/kanagawa.yazi](https://github.com/dangooddd/kanagawa.yazi)

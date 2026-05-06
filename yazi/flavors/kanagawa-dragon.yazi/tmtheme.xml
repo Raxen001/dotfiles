@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>name</key>
-    <string>Kanagawa Dragon</string>
+    <string>Kanagawa</string>
     <key>settings</key>
     <array>
       <dict>
@@ -14,7 +14,7 @@
           <key>caret</key>
           <string>#C8C093</string>
           <key>foreground</key>
-          <string>#c5c9c5</string>
+          <string>#DCD7BA</string>
           <key>invisibles</key>
           <string>#54546D</string>
           <key>lineHighlight</key>
@@ -36,8 +36,10 @@
         <string>comment</string>
         <key>settings</key>
         <dict>
+          <key>fontStyle</key>
+          <string>italic</string>
           <key>foreground</key>
-          <string>#a6a69c</string>
+          <string>#727169</string>
         </dict>
       </dict>
       <dict>
@@ -48,7 +50,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#87a987</string>
+          <string>#98BB6C</string>
         </dict>
       </dict>
       <dict>
@@ -70,7 +72,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#b6927b</string>
+          <string>#FFA066</string>
         </dict>
       </dict>
       <dict>
@@ -118,7 +120,7 @@
           <key>fontStyle</key>
           <string/>
           <key>foreground</key>
-          <string>#c4b28a</string>
+          <string>#C0A36E</string>
         </dict>
       </dict>
       <dict>
@@ -142,7 +144,7 @@
           <key>fontStyle</key>
           <string/>
           <key>foreground</key>
-          <string>#a292a3</string>
+          <string>#957FB8</string>
         </dict>
       </dict>
       <dict>
@@ -153,7 +155,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#a292a3</string>
+          <string>#957FB8</string>
         </dict>
       </dict>
       <dict>
@@ -188,7 +190,7 @@
           <key>fontStyle</key>
           <string/>
           <key>foreground</key>
-          <string>#8ba4b0</string>
+          <string>#7E9CD8</string>
         </dict>
       </dict>
       <dict>
@@ -273,7 +275,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#b6927b</string>
+          <string>#FFA066</string>
         </dict>
       </dict>
       <dict>
@@ -286,7 +288,7 @@
           <key>fontStyle</key>
           <string/>
           <key>foreground</key>
-          <string>#b98d7b</string>
+          <string>#FF5D62</string>
         </dict>
       </dict>
       <dict>
@@ -308,7 +310,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#a292a3</string>
+          <string>#957FB8</string>
         </dict>
       </dict>
       <dict>
@@ -319,7 +321,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#8ba4b0</string>
+          <string>#7E9CD8</string>
         </dict>
       </dict>
       <dict>
@@ -379,7 +381,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#E46876</string>
+          <string>#E82424</string>
         </dict>
       </dict>
       <dict>
@@ -401,7 +403,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#a292a3</string>
+          <string>#957FB8</string>
         </dict>
       </dict>
       <dict>
@@ -423,7 +425,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#b98d7b</string>
+          <string>#FF5D62</string>
         </dict>
       </dict>
       <dict>
@@ -443,6 +445,6 @@
     <key>colorSpaceName</key>
     <string>sRGB</string>
     <key>semanticClass</key>
-    <string>theme.dark.kanagawa-dragon</string>
+    <string>theme.dark.kanagawa</string>
   </dict>
 </plist>
