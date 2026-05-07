@@ -47,7 +47,7 @@ preview = { reversed = true }
 padding = { open = "▐", close = "▌" }
 
 [tabs]
-active = { fg = "#181616", bg = "#8ba4b0", reversed = false }
+active = { fg = "#2B3328", bg = "#76946A", reversed = true }
 inactive = { fg = "#a6a69c", bg = "#0d0c0c" }
 
 
