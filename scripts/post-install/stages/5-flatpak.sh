@@ -27,6 +27,7 @@ flatpak_list=(
     org.musicbrainz.Picard
     com.github.huluti.Curtail
     org.jellyfin.JellyfinDesktop
+    org.jeffvli.feishin
     com.github.jeromerobert.pdfarranger
     com.github.taiko2k.tauonmb
     com.github.tchx84.Flatseal

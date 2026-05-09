@@ -9,7 +9,7 @@
 
 pkgs=(
     # font
-    hack-nerd-fonts
+    nerd-fonts
     # dev
     dnf-utils
     uuid
@@ -49,7 +49,6 @@ pkgs=(
     # application
     gnome-tweaks
     mpv
-    feishin
     # games
     steam
     protontricks
