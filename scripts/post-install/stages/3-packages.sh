@@ -51,6 +51,7 @@ pkgs=(
     mpv
     # games
     steam
+    wine
     protontricks
     mangohud
     gamemode

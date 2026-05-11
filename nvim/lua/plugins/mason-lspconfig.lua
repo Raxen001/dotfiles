@@ -11,16 +11,13 @@ return {
 			"ts_ls",
 			"eslint",
 			"rust_analyzer",
-			-- "gopls", -- installed as system
+			"gopls",
             "basedpyright",
 			"lua_ls",
 			"ruff",
 			"phpactor",
-			"ts_ls",
 			"markdown_oxide",
 			"buf_ls",
-			-- formatters
-			"stylua",
 		},
 	},
 }
