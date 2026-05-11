@@ -18,6 +18,7 @@ flatpak_list=(
     com.mongodb.Compass
     rest.insomnia.Insomnia
     com.rafaelmardojai.SharePreview
+    com.github.johnfactotum.Foliate
     org.gnome.gitlab.YaLTeR.VideoTrimmer
     com.belmoussaoui.Decoder
     dev.deedles.Trayscale
