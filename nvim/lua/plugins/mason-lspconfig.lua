@@ -6,18 +6,24 @@ return {
 	},
 	opts = {
 		ensure_installed = {
-			"cssls",
-			"bashls",
-			"ts_ls",
-			"eslint",
-			"rust_analyzer",
-			"gopls",
-            "basedpyright",
-			"lua_ls",
-			"ruff",
-			"phpactor",
-			"markdown_oxide",
-			"buf_ls",
+            -- web dev
+			"cssls", -- css
+            "html", -- html
+			"ts_ls", -- typescript
+			"eslint", -- typescript
+            -- system language
+			"rust_analyzer", -- rust
+			"gopls", -- go
+            "clangd", -- c, c++
+            -- shell
+			"bashls", -- bash, zsh
+            -- scripting
+            "basedpyright", -- python
+			"ruff", -- python lint
+			"lua_ls", -- lua
+			"phpactor", -- php
+			"markdown_oxide", -- markdown
+			"buf_ls", -- protobuf
 		},
 	},
 }
