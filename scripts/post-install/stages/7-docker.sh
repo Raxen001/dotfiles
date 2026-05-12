@@ -14,7 +14,7 @@ newgrp docker
 # docker run -rm hello-world
 
 # container toolkit
-sudo dnf install nvidia-container-toolkit nvidia-container-toolkit-selinux
+sudo dnf install -y nvidia-container-toolkit nvidia-container-toolkit-selinux
 
 sudo nvidia-ctk runtime configure --runtime=docker
 sudo systemctl restart docker
