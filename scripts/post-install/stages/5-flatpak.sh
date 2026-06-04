@@ -11,7 +11,6 @@ flatpak_list=(
     com.valvesoftware.SteamLink
     org.prismlauncher.PrismLauncher
     com.tutanota.Tutanota
-    dev.zed.Zed
     me.iepure.devtoolbox
     it.fabiodistasio.AntaresSQL
     io.dbeaver.DBeaverCommunity
@@ -36,6 +35,7 @@ flatpak_list=(
     com.obsproject.Studio
     com.obsproject.Studio.Plugin.BackgroundRemoval
     com.obsproject.Studio.Plugin.InputOverlay
+    org.audacityteam.Audacity
     com.rtosta.zapzap
     com.rustdesk.RustDesk
     dev.geopjr.Calligraphy

@@ -5,7 +5,7 @@ prepend_keymap = [
   { on = "/", run = "filter --smart", desc = "Filter files" },
 
   { on = ["~"], run = "cd ~", desc = "cd to ~" },
-  { on = ["g", "p"], run = "cd ~/Code/projects/meenambikai-software/src/", desc = "Go to Projects" },
+  { on = ["g", "p"], run = "cd ~/Code/projects/", desc = "Go to Projects" },
   { on = ["g", "c"], run = "cd ~/.local/configs/dotfiles/", desc = "Go to dotfiles" },
   { on = ["g", "n"], run = "cd ~/Documents/personal_notes", desc = "Go to Noters" },
   { on = ["g", "l"], run = "cd ~/Code/cp/leetcode/", desc = "Go to Leetcode" },

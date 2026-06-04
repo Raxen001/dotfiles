@@ -27,6 +27,8 @@ pkgs=(
     tldr
     fd-find
     uv
+    zed
+    zed-cli
     neovim
     python3-neovim # neovim dependency
     python3-devel # development package
