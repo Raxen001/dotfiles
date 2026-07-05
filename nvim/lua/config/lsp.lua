@@ -1,9 +1,9 @@
 vim.diagnostic.config({
-	virtual_text = true, -- in same line
-	-- virtual_lines = true, -- in seperate line
-	virtual_lines = {
-		current_line = false,
-	}, -- in seperate line
+	virtual_text = false, -- in same line
+	virtual_lines = false, -- in seperate line
+	-- virtual_lines = {
+	-- 	current_line = false,
+	-- }, -- in seperate line
 })
 
 -- override config
