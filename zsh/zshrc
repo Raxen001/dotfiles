@@ -87,12 +87,16 @@ function n() {
 		builtin cd -- "$cwd"
 	fi
 	rm -f -- "$tmp"
+
+    # temp fix https://github.com/zellij-org/zellij/issues/5060
+    zellij action rename-tab "$cwd"
 }
 #-------------------------------------------------------------------------------
 # jump to
 
 alias dot='cd $HOME/.local/configs/dotfiles'
 alias not='cd $HOME/Documents/personal_notes'
+alias proj='cd $HOME/Code/projects/'
 #-------------------------------------------------------------------------------
 # open files with specific programs
 # alias -s {png,jpg,jpeg,webp}=sxiv

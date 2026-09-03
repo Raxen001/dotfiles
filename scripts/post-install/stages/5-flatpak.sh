@@ -35,7 +35,6 @@ flatpak_list=(
     com.obsproject.Studio
     com.obsproject.Studio.Plugin.BackgroundRemoval
     com.obsproject.Studio.Plugin.InputOverlay
-    org.audacityteam.Audacity
     com.rtosta.zapzap
     com.rustdesk.RustDesk
     dev.geopjr.Calligraphy
@@ -71,6 +70,8 @@ flatpak_list=(
     com.geeks3d.furmark # furmark benchmark gpu
     org.freedesktop.Platform.VdpauInfo # vdpau
     org.freedesktop.Platform.ffmpeg-full  # ffmpeg for HW
+    io.lmms.LMMS # audio production
+    org.audacityteam.Audacity # audio
 )
 
 sudo flatpak install flathub -y --noninteractive "${flatpak_list[@]}" 
