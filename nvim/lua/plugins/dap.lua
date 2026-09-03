@@ -131,9 +131,9 @@ return {
 					max_depth = 3,
 					show_hidden = 1,
 				},
-				pathMappings = {
-					["/var/www/html"] = "/home/work/snapbox/oew/app/",
-				},
+				-- pathMappings = {
+					-- ["/var/www/html"] = "/home/work/Code/snapbox/snapbox/oew/app",
+				-- },
 				-- serverSourceRoot = "/var/www/html",
 				-- localSourceRoot = "/home/work/snapbox/oew/app/",
 			},
