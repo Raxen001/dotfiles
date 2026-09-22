@@ -21,3 +21,10 @@ sudo systemctl restart docker
 
 # test
 # docker run --rm --runtime=nvidia --gpus all ubuntu nvidia-smi
+#
+## podman
+sudo nvidia-ctk cdi generate --output=/etc/cdi/nvidia.yaml
+sudo setsebool -P container_use_devices true
+
+# test
+#podman run --rm --device nvidia.com/gpu=all fedora:latest nvidia-smi

@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
 flatpak_list=(
+    io.github.kolunmi.Bazaar # store
     app.zen_browser.zen
     org.chromium.Chromium
     com.heroicgameslauncher.hgl
-    page.kramo.Cartridges
     com.usebottles.bottles
     it.mijorus.gearlever
     com.vysp3r.ProtonPlus
@@ -72,6 +72,7 @@ flatpak_list=(
     org.freedesktop.Platform.ffmpeg-full  # ffmpeg for HW
     io.lmms.LMMS # audio production
     org.audacityteam.Audacity # audio
+    dev.eden_emu.eden # emulator switch
 )
 
 sudo flatpak install flathub -y --noninteractive "${flatpak_list[@]}" 
