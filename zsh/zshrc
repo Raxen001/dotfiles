@@ -89,7 +89,7 @@ function n() {
 	rm -f -- "$tmp"
 
     # temp fix https://github.com/zellij-org/zellij/issues/5060
-    zellij action rename-tab "$cwd"
+    # zellij action rename-tab "$cwd"
 }
 #-------------------------------------------------------------------------------
 # jump to

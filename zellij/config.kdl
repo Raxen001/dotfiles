@@ -390,6 +390,9 @@ show_startup_tips false
 //
 styled_underlines true
 
+// enable osc52 from remote session
+dangerously_enable_paste_buffer_read true
+
 ui {
   pane_frames {
     hide_session_name true
