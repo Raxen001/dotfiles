@@ -9,10 +9,10 @@ return {
 			"nvim-telescope/telescope-live-grep-args.nvim",
 			version = "^1.0.0", -- For major updates, this must be adjusted manually.
 		},
-        {
-            "Raxen001/nvim-telescope-remember-regex",
-            name = "nvim-telescope-remember-regex",
-        },
+		{
+			"Raxen001/nvim-telescope-remember-regex",
+			name = "nvim-telescope-remember-regex",
+		},
 	},
 	config = function()
 		local builtin = require("telescope.builtin")
@@ -25,6 +25,11 @@ return {
 			defaults = require("telescope.themes").get_ivy({
 				layout_config = { height = 0.45 },
 			}),
+			pickers = {
+				find_files = {
+					follow = true,
+				},
+			},
 			-- fzf telescope
 			extensions = {
 				fzf = {
