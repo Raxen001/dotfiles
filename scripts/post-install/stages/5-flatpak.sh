@@ -20,7 +20,7 @@ flatpak_list=(
     com.github.johnfactotum.Foliate
     org.gnome.gitlab.YaLTeR.VideoTrimmer
     com.belmoussaoui.Decoder
-    dev.deedles.Trayscale
+    # dev.deedles.Trayscale
     page.kramo.Sly
     com.github.wwmm.easyeffects
     org.pipewire.Helvum
