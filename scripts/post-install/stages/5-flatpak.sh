@@ -12,7 +12,6 @@ flatpak_list=(
     org.prismlauncher.PrismLauncher
     com.tutanota.Tutanota
     me.iepure.devtoolbox
-    it.fabiodistasio.AntaresSQL
     io.dbeaver.DBeaverCommunity
     com.mongodb.Compass
     rest.insomnia.Insomnia
