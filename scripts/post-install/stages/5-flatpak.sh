@@ -12,7 +12,6 @@ flatpak_list=(
     org.prismlauncher.PrismLauncher
     com.tutanota.Tutanota
     me.iepure.devtoolbox
-    it.fabiodistasio.AntaresSQL
     io.dbeaver.DBeaverCommunity
     com.mongodb.Compass
     rest.insomnia.Insomnia
@@ -20,7 +19,7 @@ flatpak_list=(
     com.github.johnfactotum.Foliate
     org.gnome.gitlab.YaLTeR.VideoTrimmer
     com.belmoussaoui.Decoder
-    dev.deedles.Trayscale
+    # dev.deedles.Trayscale
     page.kramo.Sly
     com.github.wwmm.easyeffects
     org.pipewire.Helvum
