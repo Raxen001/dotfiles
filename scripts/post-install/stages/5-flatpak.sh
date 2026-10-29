@@ -45,7 +45,6 @@ flatpak_list=(
     net.nokyan.Resources
     org.gnome.gitlab.YaLTeR.Identity
     org.gnome.Showtime
-    de.schmidhuberj.tubefeeder
     rocks.shy.VacuumTube
     org.freedesktop.Platform.VulkanLayer.MangoHud
     org.gnome.Papers

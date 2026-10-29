@@ -82,14 +82,12 @@ fi
 
 function n() {
 	local tmp="$(mktemp -t "yazi-cwd.XXXXXX")" cwd
+    local prev_title="$(zellij action current-tab-info --json | jq -r '.name')"
     yazi "$@" --cwd-file="$tmp"
 	if cwd="$(command cat -- "$tmp")" && [ -n "$cwd" ] && [ "$cwd" != "$PWD" ]; then
 		builtin cd -- "$cwd"
 	fi
 	rm -f -- "$tmp"
-
-    # temp fix https://github.com/zellij-org/zellij/issues/5060
-    # zellij action rename-tab "$cwd"
 }
 #-------------------------------------------------------------------------------
 # jump to
