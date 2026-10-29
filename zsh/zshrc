@@ -51,7 +51,7 @@ alias up="sudo dnf update --refresh -y;\
     sudo fwupdmgr get-updates ;\
     sudo fwupdmgr upgrade"
 #-------------------------------------------------------------------------------
-alias ls='eza -F --color=auto --color-scale=all --icons=auto --hyperlink'
+alias ls='eza -F --color=auto --color-scale=all --icons=auto --hyperlink=auto'
 alias la='eza -BhaF --color=auto --color-scale=all --icons=auto --hyperlink'
 alias ll='eza -ahHlF -t modified --color=auto --hyperlink'
 alias cat='bat'
