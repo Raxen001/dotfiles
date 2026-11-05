@@ -123,8 +123,8 @@ keybinds  clear-defaults=true{
             };
             SwitchToMode "Normal"
         }
-        bind "]" { FocusHostSession; }
-        bind "[" { FocusGuestSession; }
+        bind "[" { FocusHostSession; }
+        bind "]" { FocusGuestSession; }
         bind "f" { ToggleHostFullscreen; }
     }
     shared_except "locked" {
