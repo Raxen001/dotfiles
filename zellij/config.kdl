@@ -113,7 +113,7 @@ keybinds  clear-defaults=true{
         bind "Esc" { UndoRenamePane; SwitchToMode "Pane"; }
     }
     session {
-        bind "Ctrl o" { SwitchToMode "Normal"; }
+        bind "Alt p" { SwitchToMode "Normal"; }
         bind "Ctrl s" { SwitchToMode "Scroll"; }
         bind "d" { Detach; }
         bind "w" {
@@ -188,13 +188,14 @@ keybinds  clear-defaults=true{
         bind "Alt Right"{ MovePane "Right"; }
     // session
         bind "Alt O" { Detach; }
-        bind "Alt o" {
-            LaunchOrFocusPlugin "zellij:session-manager" {
-                floating true
-                move_to_focused_tab true
-            };
-            SwitchToMode "Normal"
-        }
+        // bind "Alt o" {
+        //     LaunchOrFocusPlugin "zellij:session-manager" {
+        //         floating true
+        //         move_to_focused_tab true
+        //     };
+        //     SwitchToMode "Normal"
+        // }
+        bind "Alt p" { SwitchToMode "Session"; }
 
     }
 //    shared_except "normal" "locked" {
