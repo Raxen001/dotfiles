@@ -123,6 +123,9 @@ keybinds  clear-defaults=true{
             };
             SwitchToMode "Normal"
         }
+        bind "]" { FocusHostSession; }
+        bind "[" { FocusGuestSession; }
+        bind "f" { ToggleHostFullscreen; }
     }
     shared_except "locked" {
         bind "Ctrl g" { SwitchToMode "Locked"; }
@@ -393,6 +396,13 @@ styled_underlines true
 
 // enable osc52 from remote session
 dangerously_enable_paste_buffer_read true
+
+// nested session zellij for ssh and other.
+// ask (default)	A prompt is displayed when focusing the pane, offering either to zoom into the nested session or to take control of it
+// fullscreen	The pane containing the nested session is always zoomed into on focus
+// descend	Input is always routed to the nested session on focus
+// never	Nothing happens automatically
+nested_session_handling "fullscreen"
 
 ui {
   pane_frames {
