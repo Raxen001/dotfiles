@@ -183,16 +183,13 @@ eval "$(fzf --zsh)"
 # starsip prompt
 eval "$(starship init zsh)"
 
-# nvm
-# export NVM_DIR="$HOME/.config/nvm"
-# [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
-
 eval "$(tailscale completion zsh)"
 
 # zellij shell integration
 [ ! -f "${fpath[1]}/_zellij" ] && zellij setup --generate-completion zsh > "${fpath[1]}/_zellij"
 export ZELLIJ_AUTO_EXIT=true
 
+# nvm
 export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
 
