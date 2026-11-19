@@ -47,6 +47,7 @@ setopt SHARE_HISTORY
 alias up="sudo dnf update --refresh -y;\
     nix profile upgrade --all ;\
     flatpak update -y ;\
+    flatpak run com.vysp3r.ProtonPlus update all ;\
     tldr -u ;\
     sudo fwupdmgr get-updates ;\
     sudo fwupdmgr upgrade"
@@ -94,7 +95,8 @@ function n() {
 
 alias dot='cd $HOME/.local/configs/dotfiles'
 alias not='cd $HOME/Documents/personal_notes'
-alias proj='cd $HOME/Code/projects/'
+alias rav='cd $HOME/Code/projects/raven/'
+alias pro='cd $HOME/Code/projects/'
 #-------------------------------------------------------------------------------
 # open files with specific programs
 # alias -s {png,jpg,jpeg,webp}=sxiv
